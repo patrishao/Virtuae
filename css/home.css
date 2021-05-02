@@ -1,0 +1,400 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* removing all margins */
+body{
+    margin: 0;
+}
+
+
+/* --- top page part --- */
+
+.nav{
+
+    background-image: url("../images/marina.jpg");
+    position: relative;
+    width: auto;
+    height: 120vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+/* since there's only one h1 inside the nav class,  decided not to put a class and just
+edit h1 inside the class*/
+.nav h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100px;
+    font-weight: 900;
+    color: white;
+    text-shadow: 3px 3px #0000004D;
+    display: flex;
+    margin-top: -300px;
+    margin-left: 14%;
+
+}
+
+/* class container for svg, locations, and explore button */
+.nav-contents{
+    display: flex;
+    margin-left: 14%;
+
+}
+
+/* editing all p tag inside the nav-contents class */
+.nav-contents p{
+    color: white;
+    font-family: 'Karla', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-shadow: 1px 1px #2C2C2C;
+
+}
+
+/* editing all a tag inside the nav-contents class */
+.nav-contents a{
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    color: #512D13;
+    background-color: white;
+    box-sizing: border-box;
+    padding: 5px 25px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 45px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+/* editing the hover of the a tag*/
+.nav-contents a:hover{
+    background-color: #252525;
+    color: white;
+
+}
+
+
+/* pages link  */
+
+/* container that holds all the tags inside the div, 
+I created a container so that I can easily position them at one place at once 
+and not put their positions each class**/
+.pages{
+    top: 180px;
+    float: left;
+    position: relative;
+    margin-left: 50px;
+}
+
+
+/*designing all the a tags inside the pages class  */
+.pages a{
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    
+}
+
+/* changed the color of a tag when hovered*/
+.pages a:hover{
+    color: #848383;
+
+}
+
+
+/* designed the hr tag (horizontal tag) */
+hr{
+
+    margin: 15px 5px; /*margin for top and bot is 5, and left and right 0*/
+    border: none;
+    background-color: white;
+}
+
+
+/* --- top-destinations part --- */
+
+/* container for the top-destination part, this will hold all the contents */
+.top-destinations{
+    background-color: #252525;
+    height: 80vh; /*height is adjustable based on its content*/
+    font-family: 'Karla', sans-serif;
+    color: white;
+
+}
+
+/* designed the heading inside the class (Top Destinations) */
+.header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    text-shadow: 3px 3px #0000004D;
+    display: flex;
+    margin-left: 10%; /*aligned it to the headings at the top*/
+    margin-top: 40px;
+    margin-bottom: 50px;
+
+}
+
+.wrapper{
+    /* justify-content:flex-start;  */
+    /* margin-left: 9%;
+    width: 8000px; */
+	position: relative;
+	max-width: 250%;
+    height: 400px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+    margin-left: 7%;
+    margin-right: 12%;
+}
+  
+
+
+.container{
+    height: 420px;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+
+
+.destinations img{
+    width: 100%;
+    height: 80%;
+  
+}
+
+.destinations h1{
+    margin-top: 3%;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.destinations h2{
+    margin-top: 5px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+
+  .container .destinations{
+        width: 350px;
+        padding: 0 20px;
+        display:inline-block;
+        
+    }
+
+    .container .destinations:nth-child(1){
+        width: 350px;
+        padding: 0 20px;
+        display:inline-block;
+        
+    }
+
+
+
+/* paddles */
+
+
+
+.left-paddle {
+    left: 0;
+    margin-left: 40px;
+
+}
+
+.right-paddle {
+    right: 0;
+ 
+    margin-right: 80px;
+    position: relative;
+}
+
+.paddle{
+  
+    position: absolute;
+    top: 160%;
+    margin-bottom: 100px;
+	bottom: 0;
+	width: 3em;
+
+
+    background-color: transparent;
+
+}
+
+button{
+    border: none;
+}
+
+
+
+.hidden{
+    display: none;
+}
+
+.left-paddle:hover path, .right-paddle:hover path{
+    fill:  #848383;
+
+}
+
+
+
+/* --- adventures ---  */
+
+.adventures{
+    background-color: white;
+    height: 100vh;
+    margin-left: 10%; /*aligned it to the headings at the top*/
+    position: relative;
+}
+
+.adventures .title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    display: flex;
+
+    margin-top: 100px;
+    color: #252525;
+    position: absolute;
+
+}
+
+
+
+
+ .adv-container .adventure-places{
+    display: inline-block;
+    width: 100%;
+
+}
+
+
+.adv-wrapper{
+
+    position: relative;
+	max-width: 1000%;
+    height: 100vh;
+	/* overflow-x: hidden;
+	overflow-y: hidden; */
+
+}
+
+.adv-container{
+
+    height: 120vh;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    
+}
+
+.adventure-places img{
+    float: right;
+   position: absolute;
+   right: 0;
+   height: 100vh;
+
+}
+
+
+.adventure-places h1{
+    color: #D07B3B;
+    font-family: 'Karla', sans-serif;
+    size: 35px;
+    font-weight: 700;
+    margin: 0;
+    position: absolute;
+
+}
+
+.adventure-places h2{
+    color: #252525;
+    font-family: 'Karla', sans-serif;
+    size: 29px;
+    font-weight: 700;
+    position: absolute;
+    margin-top: 40px;
+
+}
+
+.adventure-places p{
+    color: #252525;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    size: 30px;
+    margin-top: 100px;
+    position: absolute;
+
+}
+
+
+.adventure-places a{
+    background-color: #90893E;
+    color: white;
+    font-family: 'Karla', sans-serif;
+    size: 25px;
+    border-radius: 30px;
+    padding: 5px 15px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 230px;
+}
+
+
+
+
+.p-wrap{
+
+    box-sizing: border-box;
+    max-width: 30%;
+}
+
+
+/* paddles  */
+
+
+.adventure-places .components{
+
+    position: relative;
+    top: 340px;
+}
+
+/* .advententure-paddles{
+    background-color: #FFFFFF;
+    top: 80%;
+} */
+
+
+.adv-left-paddle {
+    position: relative;
+
+}
+
+.adv-right-paddle {
+    position: relative;
+}
+
+.adv-paddle{
+	width: 3em;
+    float: right;
+}
+
+
+.adv-left-paddle:hover path, .adv-right-paddle:hover path{
+    fill:  #848383;
+
+}
+
+
