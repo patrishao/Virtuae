@@ -15,7 +15,7 @@
 
 <div id = "navbar">
 
-<a href="#"> 
+<a href="profile.php"> 
    <div id="profile"> 
    <svg width="26" height="29" viewBox="0 0 26 29" fill="none" xmlns="http://www.w3.org/2000/svg">
        <g filter="url(#filter0_d)">
@@ -54,8 +54,8 @@
         </svg> </li></a>
 
 
- <a href="#"><li>Home</li></a>
- <a href="#"><li>Emirates</li></a>
+ <a href="index.php"><li>Home</li></a>
+ <a href="emirates.php"><li>Emirates</li></a>
  <a href="#"><li>Bookmarks</li></a>
 
 </ul>
