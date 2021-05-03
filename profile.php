@@ -48,7 +48,7 @@
                     Exercitation veniam consequat sunt nostrud amet. </p>
             </div>
             <div class="review-box">
-                <img src=images/PLACEHOLDER.png" class="review-img">
+                <img src="images/PLACEHOLDER.png" class="review-img">
                 <h2>AREA PLACE</h2>
                 <p class="review-content"> 
                     Amet minim mollit non deserunt ullamco est sit aliqua dolor 
@@ -57,7 +57,7 @@
             </div>
 
             <div class="review-box">
-                <img src=images/PLACEHOLDER.png" class="review-img">
+                <img src="images/PLACEHOLDER.png" class="review-img">
                 <h2>AREA PLACE</h2>
                 <p class="review-content"> 
                     Amet minim mollit non deserunt ullamco est sit aliqua dolor 
