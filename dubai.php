@@ -19,12 +19,12 @@
             </div>
             
             <div class="categories">
-                <div class="box"><a href="#">EVENTS</a></div>
-                <div class="box"><a href="#">DINE</a></div>
-                <div class="box"><a href="#">ACTIVITIES</a></div>
-                <div class="box"><a href="#">SIGHTS TO SEE</a></div>
-                <div class="box"><a href="#">DISCOVER</a></div>
-                <div class="box"><a href="#">MOSQUES</a></div>
+                <a href="#" class="box">EVENTS</a>
+                <a href="#" class="box">DINE</a>
+                <a href="#" class="box">ACTIVITIES</a>
+                <a href="#" class="box">SIGHTS TO SEE</a>
+                <a href="#" class="box">DISCOVER</a>
+                <a href="emirates.php" class="box">MOSQUES</a>
             </div>
 
         </div>
