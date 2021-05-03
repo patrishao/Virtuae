@@ -24,7 +24,7 @@
                 <a href="#" class="box">ACTIVITIES</a>
                 <a href="#" class="box">SIGHTS TO SEE</a>
                 <a href="#" class="box">DISCOVER</a>
-                <a href="emirates.php" class="box">MOSQUES</a>
+                <a href="#" class="box">MOSQUES</a>
             </div>
 
         </div>
