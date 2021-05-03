@@ -22,8 +22,8 @@
     <div class="wrapper">
 
         <div class="post-slider">
-            <h1 class="slider-title">DUBAI</h1>
-            <a href="#">
+            <h1>DUBAI</h1>
+            <a href="dubai.php">
            <button>EXPLORE</button>
             </a>
 
