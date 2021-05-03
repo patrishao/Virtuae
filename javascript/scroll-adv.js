@@ -1,10 +1,10 @@
 
         //define time duraration for scroll by millisecond
-        var scrollDuration = 300;
+        var scrollDurationAdv = 0;
         
         // define the button to go right or left
-        var leftPaddle = document.getElementsByClassName('adv-left-paddle');
-        var rightPaddle = document.getElementsByClassName('adv-right-paddle');
+        var advLeftPaddle = document.getElementsByClassName('adv-left-paddle');
+        var advRightPaddle = document.getElementsByClassName('adv-right-paddle');
 
 
         // define how many li item
@@ -70,25 +70,25 @@
             // if the pos of scroll is 0, the left button is hidden
           
             if (menuPosition <= paddleMargin) {
-                $(leftPaddle).addClass('hidden');
-                $(rightPaddle).removeClass('hidden');
+                $(advLeftPaddle).removeClass('hidden');
+                $(advRightPaddle).removeClass('hidden');
 
                 // if the position is between 0 and 400, the left and right button will appear
         
-                $(leftPaddle).removeClass('hidden');
-                $(rightPaddle).removeClass('hidden');
+                $(advLeftPaddle).removeClass('hidden');
+                $(advRightPaddle).removeClass('hidden');
 
             // if the pos is at 400px the left button will appear and right button is hidden
       
             } else if (menuPosition >= menuEndOffset) {
-                $(leftPaddle).removeClass('hidden');
-                $(rightPaddle).addClass('hidden');
+                $(advLeftPaddle).removeClass('hidden');
+                $(advRightPaddle).removeClass('hidden');
             }
         });
 
 
         // if left button is pressed, this will run 
-        $(rightPaddle).on('click', function() {
+        $(advRightPaddle).on('click', function() {
           // every click, the scroll position increases by 120px
             var add = itemSize;
       
@@ -96,7 +96,7 @@
             var increment = Number(document.getElementById("adv-initial").value)+Number(add); 
          
             // the class menu will scroll until the position of increment w durarion of the scroll duration
-            $('.adv-container').animate( { scrollLeft: increment}, scrollDuration);
+            $('.adv-container').animate( { scrollLeft: increment}, scrollDurationAdv);
             if(increment>=menuInvisibleSize){
                 // define the maximum position of scroll until menuinvisiblezise
 
@@ -111,11 +111,11 @@
 
         // if right button is pressed, this will run, same like function above but the scroll pos is decreasing
 
-        $(leftPaddle).on('click', function() {
+        $(advLeftPaddle).on('click', function() {
             var minus = itemSize;
             var decrement = Number(document.getElementById("adv-initial").value)-Number(minus);
    
-            $('.adv-container').animate( { scrollLeft: decrement }, scrollDuration);
+            $('.adv-container').animate( { scrollLeft: decrement }, scrollDurationAdv);
             if(decrement<=0){
                 document.getElementById("adv-initial").value = 0;
             }else{

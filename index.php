@@ -67,12 +67,12 @@
     <br>
 
 
-<!-- Destinations List -->
-<!-- added an initial value to be able to scroll in js -->
+    <!-- Destinations List -->
+    <!-- added an initial value to be able to scroll in js -->
     <input type="hidden" id="initial" value="0">
 
     <!-- wrapper that wraps the whole content -->
-  <div class="wrapper">
+   <div class="wrapper">
   
     <!-- container that holds all the locations only -->
     <ul class="container"> 
@@ -123,59 +123,65 @@
     </ul>
   </div>
 
-  <!-- the left and right button to scroll, the both have a class paddle to 
- have the same format-->
- <!-- holds all the buttons/paddles -->
- <div class="paddles"> 
+   <!-- the left and right button to scroll, they both have a class paddle to 
+   have the same format-->
+   <!-- holds all the buttons/paddles -->
+   <div class="paddles"> 
 
-    <!-- right button -->
-     <button class="right-paddle paddle"> 
-        <svg width="22" height="35" viewBox="0 0 22 35" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M1.64405 29.2275L13.6074 17.2642L1.64405 5.30087C1.35859 5.0154 1.13215 4.67651 0.97766 4.30354C0.82317 3.93057 0.743652 3.53082 0.743652 3.12712C0.743652 2.72342 0.82317 2.32366 0.97766 1.95069C1.13215 1.57772 1.35859 1.23883 1.64405 0.953369C1.92951 0.667908 2.2684 0.441467 2.64137 0.286976C3.01435 0.132484 3.4141 0.0529709 3.8178 0.0529709C4.2215 0.0529709 4.62125 0.132484 4.99422 0.286976C5.3672 0.441467 5.70609 0.667908 5.99155 0.953369L20.144 15.1059C20.4299 15.3911 20.6567 15.7299 20.8114 16.1029C20.9661 16.4759 21.0457 16.8758 21.0457 17.2796C21.0457 17.6834 20.9661 18.0833 20.8114 18.4563C20.6567 18.8293 20.4299 19.1681 20.144 19.4534L5.99155 33.6059C5.7063 33.8917 5.36747 34.1185 4.99447 34.2732C4.62147 34.4279 4.22162 34.5076 3.8178 34.5076C3.41398 34.5076 3.01413 34.4279 2.64112 34.2732C2.26812 34.1185 1.9293 33.8917 1.64405 33.6059C0.472383 32.4034 0.44155 30.43 1.64405 29.2275Z" fill="white"/>
-        </svg>
-    </button>
+     <!-- right button -->
+      <button class="right-paddle paddle"> 
+          <svg width="22" height="35" viewBox="0 0 22 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+           <path d="M1.64405 29.2275L13.6074 17.2642L1.64405 5.30087C1.35859 5.0154 1.13215 4.67651 0.97766 4.30354C0.82317 3.93057 0.743652 3.53082 0.743652 3.12712C0.743652 2.72342 0.82317 2.32366 0.97766 1.95069C1.13215 1.57772 1.35859 1.23883 1.64405 0.953369C1.92951 0.667908 2.2684 0.441467 2.64137 0.286976C3.01435 0.132484 3.4141 0.0529709 3.8178 0.0529709C4.2215 0.0529709 4.62125 0.132484 4.99422 0.286976C5.3672 0.441467 5.70609 0.667908 5.99155 0.953369L20.144 15.1059C20.4299 15.3911 20.6567 15.7299 20.8114 16.1029C20.9661 16.4759 21.0457 16.8758 21.0457 17.2796C21.0457 17.6834 20.9661 18.0833 20.8114 18.4563C20.6567 18.8293 20.4299 19.1681 20.144 19.4534L5.99155 33.6059C5.7063 33.8917 5.36747 34.1185 4.99447 34.2732C4.62147 34.4279 4.22162 34.5076 3.8178 34.5076C3.41398 34.5076 3.01413 34.4279 2.64112 34.2732C2.26812 34.1185 1.9293 33.8917 1.64405 33.6059C0.472383 32.4034 0.44155 30.43 1.64405 29.2275Z" fill="white"/>
+          </svg>
+      </button>
 
-    <!-- left button  -->
-    <button class="left-paddle paddle hidden">
-       <svg width="22" height="35" viewBox="0 0 17 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M15.8291 4.46175L6.64314 13.7464L15.8291 23.0747C16.0483 23.2973 16.2222 23.5613 16.3408 23.8518C16.4595 24.1422 16.5205 24.4533 16.5205 24.7674C16.5205 25.0814 16.4595 25.3922 16.3408 25.6821C16.2222 25.972 16.0483 26.2352 15.8291 26.4567C15.61 26.6783 15.3497 26.8538 15.0633 26.9733C14.777 27.0928 14.47 27.1539 14.16 27.1532C13.8501 27.1524 13.5431 27.0899 13.2567 26.969C12.9703 26.8481 12.7101 26.6714 12.4909 26.4488L1.62398 15.4135C1.4045 15.1911 1.23038 14.9271 1.11157 14.6367C0.992765 14.3462 0.931611 14.035 0.931611 13.7209C0.931611 13.4067 0.992765 13.0958 1.11157 12.806C1.23038 12.5161 1.4045 12.2529 1.62398 12.0315L12.4909 1.04784C12.71 0.826006 12.9701 0.650214 13.2565 0.53053C13.5429 0.410846 13.85 0.349619 14.16 0.350354C14.4701 0.35109 14.7771 0.413775 15.0635 0.534819C15.3499 0.655863 15.6101 0.83289 15.8291 1.05577C16.7288 1.99335 16.7525 3.52849 15.8291 4.46175Z" fill="white"/>
-      </svg>
-    </button>
- </div>
+     <!-- left button  -->
+     <button class="left-paddle paddle hidden">
+        <svg width="22" height="35" viewBox="0 0 17 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <path d="M15.8291 4.46175L6.64314 13.7464L15.8291 23.0747C16.0483 23.2973 16.2222 23.5613 16.3408 23.8518C16.4595 24.1422 16.5205 24.4533 16.5205 24.7674C16.5205 25.0814 16.4595 25.3922 16.3408 25.6821C16.2222 25.972 16.0483 26.2352 15.8291 26.4567C15.61 26.6783 15.3497 26.8538 15.0633 26.9733C14.777 27.0928 14.47 27.1539 14.16 27.1532C13.8501 27.1524 13.5431 27.0899 13.2567 26.969C12.9703 26.8481 12.7101 26.6714 12.4909 26.4488L1.62398 15.4135C1.4045 15.1911 1.23038 14.9271 1.11157 14.6367C0.992765 14.3462 0.931611 14.035 0.931611 13.7209C0.931611 13.4067 0.992765 13.0958 1.11157 12.806C1.23038 12.5161 1.4045 12.2529 1.62398 12.0315L12.4909 1.04784C12.71 0.826006 12.9701 0.650214 13.2565 0.53053C13.5429 0.410846 13.85 0.349619 14.16 0.350354C14.4701 0.35109 14.7771 0.413775 15.0635 0.534819C15.3499 0.655863 15.6101 0.83289 15.8291 1.05577C16.7288 1.99335 16.7525 3.52849 15.8291 4.46175Z" fill="white"/>
+       </svg>
+     </button>
+    </div>
 
 
- <!-- linking the javascripts and jquery -->
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
-<script src="scroll.js"> </script>
- </section> 
+   <!-- linking the javascripts and jquery -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+    <script src="javascript/scroll.js"> </script>
+  </section> 
  <!-- end of Top Destinations Part -->
 
 
 
- <!--  Start of Adventure Part-->
-<section class="adventures"> 
-  
-<input type="hidden" id="adv-initial" value="0"> 
 
-  <!-- heading -->
+ <!--  Start of Adventure Part-->
+ <section class="adventures"> 
+  
+   <!-- same as the previous class, setting an initial value for scrolling -->
+   <input type="hidden" id="adv-initial" value="0"> 
+
+   <!-- heading -->
    <h1 class="title"> FIND YOUR <br> ADVENTURE <br> IN THE UAE</h1> 
 
 
-
+    <!-- wrapper that wraps thhe whole adventure content -->
    <div class="adv-wrapper">  
 
+     <!-- container that consists of the adventure place list -->
      <ul class="adv-container"> 
 
+       <!-- list of the places with all of them having same class to have same format -->
       <li class="adventure-places">
 
+      <!-- image link -->
        <img src="images/adventures-images/ski-dubai.jpg" width="50%">
 
+       <!-- the headings and p components in class to set position easier -->
          <div class="components"> 
            <h1>Ski Dubai</h1>
            <h2>Mall of the Emirates, Dubai</h2>
 
-           <p class="p-wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-           Velit officia consequat duis enim velit mollit. </p>
+           <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
+           <br>Velit officia consequat duis enim velit mollit. </p>
   
           <a href="#">EXPLORE</a>
 
@@ -184,6 +190,7 @@
       </li>
 
 
+      <!-- rest of the list with having the same classes -->
       <li class="adventure-places">
 
        <img src="images/adventures-images/ski-dubai.jpg" width="50%">
@@ -192,8 +199,8 @@
           <h1>Sky Dive Dubai</h1>
           <h2>Dubai Marina, Dubai</h2>
 
-          <p class="p-wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          Velit officia consequat duis enim velit mollit. </p>
+          <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
+          <br>Velit officia consequat duis enim velit mollit. </p>
 
           <a href="#">EXPLORE</a>
 
@@ -209,54 +216,284 @@
          <h1>Ski Dubai</h1>
          <h2>Mall of the Emirates, Dubai</h2>
 
-         <p class="p-wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          Velit officia consequat duis enim velit mollit. </p>
+         <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
+          <br>Velit officia consequat duis enim velit mollit. </p>
 
           <a href="#">EXPLORE</a>
 
-       </div>
+        </div>
    
       </li>
+
+      </ul>
+
+    </div>
+
+
+
+   <!-- next and back button, codes are similar to the previous section -->
+   <div class="adventure-paddles"> 
+
+      <!-- right button -->
+      <button class="adv-right-paddle adv-paddle"> 
+       <svg width="22" height="30" viewBox="0 0 22 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <path d="M1.64405 29.2275L13.6074 17.2642L1.64405 5.30087C1.35859 5.0154 1.13215 4.67651 0.97766 4.30354C0.82317 3.93057 0.743652 3.53082 0.743652 3.12712C0.743652 2.72342 0.82317 2.32366 0.97766 1.95069C1.13215 1.57772 1.35859 1.23883 1.64405 0.953369C1.92951 0.667908 2.2684 0.441467 2.64137 0.286976C3.01435 0.132484 3.4141 0.0529709 3.8178 0.0529709C4.2215 0.0529709 4.62125 0.132484 4.99422 0.286976C5.3672 0.441467 5.70609 0.667908 5.99155 0.953369L20.144 15.1059C20.4299 15.3911 20.6567 15.7299 20.8114 16.1029C20.9661 16.4759 21.0457 16.8758 21.0457 17.2796C21.0457 17.6834 20.9661 18.0833 20.8114 18.4563C20.6567 18.8293 20.4299 19.1681 20.144 19.4534L5.99155 33.6059C5.7063 33.8917 5.36747 34.1185 4.99447 34.2732C4.62147 34.4279 4.22162 34.5076 3.8178 34.5076C3.41398 34.5076 3.01413 34.4279 2.64112 34.2732C2.26812 34.1185 1.9293 33.8917 1.64405 33.6059C0.472383 32.4034 0.44155 30.43 1.64405 29.2275Z" fill="#2C2C2C"/>
+       </svg>
+      </button>
+
+       <!-- left button  -->
+      <button class="adv-left-paddle adv-paddle">
+       <svg width="22" height="30" viewBox="0 0 17 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+         <path d="M15.8291 4.46175L6.64314 13.7464L15.8291 23.0747C16.0483 23.2973 16.2222 23.5613 16.3408 23.8518C16.4595 24.1422 16.5205 24.4533 16.5205 24.7674C16.5205 25.0814 16.4595 25.3922 16.3408 25.6821C16.2222 25.972 16.0483 26.2352 15.8291 26.4567C15.61 26.6783 15.3497 26.8538 15.0633 26.9733C14.777 27.0928 14.47 27.1539 14.16 27.1532C13.8501 27.1524 13.5431 27.0899 13.2567 26.969C12.9703 26.8481 12.7101 26.6714 12.4909 26.4488L1.62398 15.4135C1.4045 15.1911 1.23038 14.9271 1.11157 14.6367C0.992765 14.3462 0.931611 14.035 0.931611 13.7209C0.931611 13.4067 0.992765 13.0958 1.11157 12.806C1.23038 12.5161 1.4045 12.2529 1.62398 12.0315L12.4909 1.04784C12.71 0.826006 12.9701 0.650214 13.2565 0.53053C13.5429 0.410846 13.85 0.349619 14.16 0.350354C14.4701 0.35109 14.7771 0.413775 15.0635 0.534819C15.3499 0.655863 15.6101 0.83289 15.8291 1.05577C16.7288 1.99335 16.7525 3.52849 15.8291 4.46175Z" fill="#2C2C2C"/>
+        </svg>
+      </button>
+   </div>
+
+   <!-- linking the javascripts and jquery -->
+
+   <script src="javascript/scroll-adv.js"></script>
+
+   
+ </section>
+ <!-- End of adventure section -->
+
+<!-- Start of Events  part -->
+ <section class="events">
+
+ <!-- title of the section -->
+    <h1 class="events-h1">EVENTS IN <br> THE UAE</h1>
+
+
+<!-- similar to the previous sections, this wrapper wraps the whole content  -->
+    <div class="events-wrapper">
+
+    <!-- container that holds all the images, they all have ids to be 
+  used in the script -->
+      <div class="events-container"> 
+
+        <div class = "buttons" id="event1">
+          <img src="images/events-images/event1.png">
+        </div>
+
+        <div class = "buttons" id="event2">
+          <img src="images/events-images/event1.png">
+        </div>
+
+        <div class = "buttons" id="event3">
+          <img src="images/events-images/event1.png">
+        </div>
+
+        <div class = "buttons" id="event4">
+          <img src="images/events-images/event1.png">
+        </div>
+
+        <div class = "buttons" id="event5">
+         <img src="images/events-images/event1.png">
+        </div>
+
+
+      </div> 
+
+    </div>
+
+
+  <!-- contains the whole events -->
+  <div class="events-list">
+ 
+    <!-- description for each events -->
+    <div class="event1-desc"> 
+      <h1>Emirati Farmers Souq</h1>
+
+      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+      Velit officia consequat duis enim velit mollit. </p>
+
+      <a href="#">EXPLORE</a>
+   </div>
+
+   <!-- the following classes are hidden so only one is shown time by time
+  and will be displayed -->
+   <div class="event2-desc hidden"> 
+      <h1>Emirati Farmers Souq 2</h1>
+
+      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+      Velit officia consequat duis enim velit mollit. </p>
+
+      <a href="#">EXPLORE</a>
+   </div>
+
+   <div class="event3-desc hidden"> 
+      <h1>Emirati Farmers Souq 3</h1>
+
+      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+      Velit officia consequat duis enim velit mollit. </p>
+
+      <a href="#">EXPLORE</a>
+   </div>
+
+   <div class="event4-desc hidden"> 
+      <h1>Emirati Farmers Souq 4</h1>
+
+      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+      Velit officia consequat duis enim velit mollit. </p>
+
+      <a href="#">EXPLORE</a>
+   </div>
+
+   <div class="event5-desc hidden"> 
+      <h1>Emirati Farmers Souq 5</h1>
+
+      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
+      Velit officia consequat duis enim velit mollit. </p>
+
+      <a href="#">EXPLORE</a>
+   </div>
+ </div>
+
+<script src="javascript/events.js"> </script>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+ </section>
+ <!-- end of events section -->
+
+
+ <!-- start of dine -->
+ <section class="dine">
+   <br>
+
+   <!-- title of the section -->
+   <h1 class="dine-heading">BEST PLACES TO DINE</h1>
+
+    <!-- wraps the whole dine -->
+    <div class="dine-wrapper">
+
+      <!-- holds all the list of restaurants -->
+      <div class="dine-container">
        
+      <!-- all restaurants -->
+         <a class="restaurants">  
+             <!-- added a container so the images can be slighlty dimmed -->
+              <div class="img-holder"> 
+                <img src="images/dine-images/kite-beach.png">
+              </div>
 
-    </ul>
+              <div class="resto-desc">
+                <h1>Kite Beach Center Restaurant & Café</h1>
+                <h2>Umm al Quwain</h2>
+              </div>
+          </a>
 
+
+
+          <a class="restaurants" href="#">
+
+              <div class="img-holder"> 
+                <img src="images/dine-images/das-brahaus.png">
+              </div>
+
+             <div class="resto-desc">
+                <h1>Das Brauhaus</h1>
+                <h2>Umm al Quwain</h2>
+             </div>
+          </a>
+
+
+
+          <a class="restaurants" href="#">
+              <div class="img-holder"> 
+                <img src="images/dine-images/das-brahaus.png">
+              </div>
+
+              <div class="resto-desc">
+                <h1>Das Brauhaus</h1>
+                <h2>Umm al Quwain</h2>
+             </div>
+         </a>
+
+
+          
+
+          <a class="restaurants" href="#">
+
+              <div class="img-holder"> 
+               <img src="images/dine-images/das-brahaus.png">
+              </div>
+
+             <div class="resto-desc">
+               <h1>Das Brauhaus</h1>
+               <h2>Umm al Quwain</h2>
+             </div>
+         </a>
+
+          
+
+          <a class="restaurants" href="#">
+
+              <div class="img-holder"> 
+                <img src="images/dine-images/das-brahaus.png">
+              </div>
+
+             <div class="resto-desc">
+               <h1>Das Brauhaus</h1>
+               <h2>Umm al Quwain</h2>
+             </div>
+           </a>
+
+
+    </div>
+
+   </div>
+
+   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+   <script src="javascript/dine.js"> </script>
+
+ </section>
+ <!-- end of dining section -->
+ 
+ 
+<section class="creators">
+     <br>
+     <h1>CREATORS</h1>
+
+     <div class="creator-container">
+
+       <div class="member">
+        <h2>Patrisha Ortigas</h2>
+        <h3>Developer</h3>
+      </div>
+
+      <div class="member">
+        <h2>Carter Catis</h2>
+        <h3>Developer</h3>
+      </div>
+
+      <div class="member">
+        <h2>Bianca Dalangin</h2>
+        <h3>Designer</h3>
+      </div>
+
+      <div class="break"></div>
+
+      <div class="member">
+        <h2>Sarai Carreon</h2>
+        <h3>Designer</h3>
+      </div>
+
+      <div class="member">
+        <h2>Alysxandra Reyes</h2>
+        <h3>Researcher</h3>
+      </div>
+
+      <div class="member">
+        <h2>Ruth Amurao</h2>
+        <h3>Designer</h3>
+      </div>
 
   </div>
+  
 
 
-  <div class="adventure-paddles"> 
+</section>
 
-
-<!-- right button -->
- <button class="adv-right-paddle adv-paddle"> 
-    <svg width="22" height="30" viewBox="0 0 22 35" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M1.64405 29.2275L13.6074 17.2642L1.64405 5.30087C1.35859 5.0154 1.13215 4.67651 0.97766 4.30354C0.82317 3.93057 0.743652 3.53082 0.743652 3.12712C0.743652 2.72342 0.82317 2.32366 0.97766 1.95069C1.13215 1.57772 1.35859 1.23883 1.64405 0.953369C1.92951 0.667908 2.2684 0.441467 2.64137 0.286976C3.01435 0.132484 3.4141 0.0529709 3.8178 0.0529709C4.2215 0.0529709 4.62125 0.132484 4.99422 0.286976C5.3672 0.441467 5.70609 0.667908 5.99155 0.953369L20.144 15.1059C20.4299 15.3911 20.6567 15.7299 20.8114 16.1029C20.9661 16.4759 21.0457 16.8758 21.0457 17.2796C21.0457 17.6834 20.9661 18.0833 20.8114 18.4563C20.6567 18.8293 20.4299 19.1681 20.144 19.4534L5.99155 33.6059C5.7063 33.8917 5.36747 34.1185 4.99447 34.2732C4.62147 34.4279 4.22162 34.5076 3.8178 34.5076C3.41398 34.5076 3.01413 34.4279 2.64112 34.2732C2.26812 34.1185 1.9293 33.8917 1.64405 33.6059C0.472383 32.4034 0.44155 30.43 1.64405 29.2275Z" fill="#2C2C2C"/>
-    </svg>
-</button>
-
-  <!-- left button  -->
-  <button class="adv-left-paddle adv-paddle">
-   <svg width="22" height="30" viewBox="0 0 17 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M15.8291 4.46175L6.64314 13.7464L15.8291 23.0747C16.0483 23.2973 16.2222 23.5613 16.3408 23.8518C16.4595 24.1422 16.5205 24.4533 16.5205 24.7674C16.5205 25.0814 16.4595 25.3922 16.3408 25.6821C16.2222 25.972 16.0483 26.2352 15.8291 26.4567C15.61 26.6783 15.3497 26.8538 15.0633 26.9733C14.777 27.0928 14.47 27.1539 14.16 27.1532C13.8501 27.1524 13.5431 27.0899 13.2567 26.969C12.9703 26.8481 12.7101 26.6714 12.4909 26.4488L1.62398 15.4135C1.4045 15.1911 1.23038 14.9271 1.11157 14.6367C0.992765 14.3462 0.931611 14.035 0.931611 13.7209C0.931611 13.4067 0.992765 13.0958 1.11157 12.806C1.23038 12.5161 1.4045 12.2529 1.62398 12.0315L12.4909 1.04784C12.71 0.826006 12.9701 0.650214 13.2565 0.53053C13.5429 0.410846 13.85 0.349619 14.16 0.350354C14.4701 0.35109 14.7771 0.413775 15.0635 0.534819C15.3499 0.655863 15.6101 0.83289 15.8291 1.05577C16.7288 1.99335 16.7525 3.52849 15.8291 4.46175Z" fill="#2C2C2C"/>
-  </svg>
-
-
-</button>
-</div>
-
- <!-- linking the javascripts and jquery -->
- <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
-<script src="scroll-adv.js"></script>
-
- </section>
-
-
- <section>
-
- <h1></h1> 
-
- </section>
 
 </body>
 </html>

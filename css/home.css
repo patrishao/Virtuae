@@ -238,7 +238,7 @@ button{
 
 
 
-.hidden{
+.hidden, .hidden2{
     display: none;
 }
 
@@ -253,7 +253,7 @@ button{
 
 .adventures{
     background-color: white;
-    height: 100vh;
+    height: 90vh;
     margin-left: 10%; /*aligned it to the headings at the top*/
     position: relative;
 }
@@ -276,15 +276,23 @@ button{
  .adv-container .adventure-places{
     display: inline-block;
     width: 100%;
+    padding-right: 50px;
+
+    /* TODO: FIX PADDING LEFT */
+}
+
+.adv-container .adventure-places:last-child{
+    padding-right: 0;
 
 }
+
 
 
 .adv-wrapper{
 
     position: relative;
 	max-width: 1000%;
-    height: 100vh;
+    height: 90vh;
 	/* overflow-x: hidden;
 	overflow-y: hidden; */
 
@@ -292,19 +300,20 @@ button{
 
 .adv-container{
 
-    height: 120vh;
+    height: 130vh;
     white-space: nowrap;
-    overflow-x: auto;
+    overflow-x: hidden;
     overflow-y: hidden;
     -webkit-overflow-scrolling: touch;
     
 }
 
+
+
+
 .adventure-places img{
     float: right;
-   position: absolute;
-   right: 0;
-   height: 100vh;
+       height: 100vh;
 
 }
 
@@ -314,8 +323,6 @@ button{
     font-family: 'Karla', sans-serif;
     size: 35px;
     font-weight: 700;
-    margin: 0;
-    position: absolute;
 
 }
 
@@ -324,8 +331,7 @@ button{
     font-family: 'Karla', sans-serif;
     size: 29px;
     font-weight: 700;
-    position: absolute;
-    margin-top: 40px;
+    margin-top: 10px;
 
 }
 
@@ -334,8 +340,9 @@ button{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     size: 30px;
-    margin-top: 100px;
-    position: absolute;
+    margin-top: 50px;
+    position: relative;
+    word-wrap: break-word;
 
 }
 
@@ -349,16 +356,17 @@ button{
     padding: 5px 15px;
     text-decoration: none;
     position: absolute;
-    margin-top: 230px;
+    margin-top: 80px;
+
 }
 
 
 
 
-.p-wrap{
+.wrap{
 
     box-sizing: border-box;
-    max-width: 30%;
+
 }
 
 
@@ -369,6 +377,7 @@ button{
 
     position: relative;
     top: 340px;
+    margin-left: -40px;
 }
 
 /* .advententure-paddles{
@@ -384,11 +393,15 @@ button{
 
 .adv-right-paddle {
     position: relative;
+    border-left: 2px solid #DCD5CB;
 }
 
 .adv-paddle{
-	width: 3em;
+	width: 4em;
+    height: 4em;
     float: right;
+   
+    background-color: white;
 }
 
 
@@ -398,3 +411,269 @@ button{
 }
 
 
+
+/* --- events --- */
+
+.events{
+    background-color: #163A36;
+    height: 100vh;
+    overflow-x: hidden;
+    width: 100%;
+    display: flex;
+    position: relative;
+
+}
+
+.events > * {
+    margin-left: 9%;
+    color: white;
+}
+
+
+.events-h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    display: flex;
+    margin-top: 100px;
+    position: absolute;
+    
+
+}
+
+.events-list{
+    position: absolute;
+}
+
+.events-list > *{
+    margin-top: 35%;
+}
+
+
+.events-list h1{
+    font-family: 'Karla', sans-serif;
+    size: 35px;
+    position: relative;
+
+}
+
+.events-list p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    size: 25px;
+    margin-top: 55px;
+    margin-bottom: 20px;
+    position: relative;
+    word-wrap: break-word;
+    width: 50%;
+
+}
+
+
+.events-list a{
+        background-color: white;
+        color: #252525;
+        font-weight: 700;
+        font-family: 'Karla', sans-serif;
+        size: 25px;
+        border-radius: 30px;
+        padding: 5px 15px;
+        text-decoration: none;
+        position: absolute;
+        margin-top: 20px;
+}
+
+
+.events-wrapper{
+
+        position: relative;
+        width: 70%;
+        margin-left: 43%;
+        margin-top: 120px;
+
+}
+
+.events-wrapper.active{
+    cursor: grabbing;
+    transform: scale(1);
+    /* background-color:black; */
+    cursor: -webkit-grabbing;
+}
+
+.events-container{
+
+
+    position: relative;
+    cursor: pointer;
+    /* height: 80vh; */
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    user-select: none;
+    transition: all 0.2s;
+    transform: scale(0.98);
+    width: 80%;
+
+} 
+
+
+
+.events-wrapper .buttons{
+    display: inline-block;
+    background: none;
+    padding-left: 30px;
+    
+}
+
+/* TODO: FIX IN IE AND MARGIN LEFT OF THE IMAGES */
+
+
+.dine{
+    background-color: white;
+    height: 100vh;
+
+}
+
+.dine > *{
+    margin-left: 9%;
+}
+
+
+
+.dine-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    display: flex;
+    margin-top: 100px;
+    color: #252525;
+
+}
+
+.dine-wrapper{
+    /* margin-top: 50px;
+    position: relative;
+    width: 90%; */
+
+    /* position: relative;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    transition: all 0.2s;
+    transform: scale(0.98);
+    width: 80%; */
+
+    margin-top: 50px;
+
+}
+
+.dine-container{
+    position: relative;
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+    transition: all 0.2s;
+    transform: scale(0.98);
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+.dine-wrapper .active{
+    cursor: grabbing;
+    transform: scale(1);
+    cursor: -webkit-grabbing;
+}
+
+
+.dine-container .restaurants{
+    position: relative;
+    display:inline-block;
+    margin-left: 20px;
+    height: 100%;
+    text-decoration: none;
+
+}
+
+
+
+.img-holder img{
+    opacity: 0.6;
+    width: 100%;
+    height: 100%;
+    background: none;
+    margin-bottom: -5px;
+
+}
+
+.img-holder{
+    background-color: black;
+    width: fit-content;
+    height: 90%;
+    
+}
+
+
+/* TODO: FIX HEIGHT IN IMAGES */
+
+
+.restaurants .resto-desc{
+
+    font-family: 'Karla', sans-serif;
+    color: white;
+    margin-left: 20px;
+    margin-top: -80px;
+    position: absolute;
+
+}
+
+.resto-desc h1{
+    font-size: 23px;
+
+}
+
+.resto-desc h2{
+    font-size: 17px;
+    font-weight: 400;
+}
+
+
+/* --- creators --- */
+
+.creators{
+    background-color: #DCD5CB;
+    height: 150vh;
+}
+
+.creators > * {
+    margin-left: 9%;
+}
+
+
+.creator-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.creators-container .member{
+    padding: 5px 40px;
+}
+
+.break{
+    flex-basis: 100%;
+}
+
+
+.creators h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-weight: 800;
+    margin-top: 100px;
+
+}
+
+.creator-container .member{
+    font-family: 'Karla', sans-serif;
+    color: #252525;
+}
