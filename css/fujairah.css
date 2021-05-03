@@ -9,7 +9,7 @@ a{
 }
 
 .navbar{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/fuj_bg.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/fuj_bg.jpg");
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;

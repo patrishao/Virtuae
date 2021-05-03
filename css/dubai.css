@@ -4,7 +4,7 @@ body{
     font-family: 'Karla', sans-serif;
 }
 .navbar{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/dubai_bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/dubai_bg.jpg");
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,6 +60,7 @@ body{
     background-color: #D07B3B;
     color: white;
 }
+
 
 
 

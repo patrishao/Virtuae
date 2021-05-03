@@ -37,7 +37,7 @@
 
             <!-- container for images -->
             <div class="box">
-                    <img src="images/dubai_bg.jpg" alt="" class="sliderImg">
+                    <img src="images/emirates/dubai_bg.jpg" alt="" class="sliderImg">
 
                     <!-- button -->
                     <div class="hoverButton">
@@ -45,35 +45,35 @@
                     </div>
             </div>
             <div class="box">
-                <img src="images/ajm_bg.jpg" alt="" class="sliderImg">
+                <img src="images/emirates/ajm_bg.jpg" alt="" class="sliderImg">
 
                     <div class="hoverButton">
                     <a href="#" class="text">Ajman</a>
                     </div>
             </div>
             <div class="box">
-                <img src="images/shj_bg.jpeg" alt="" class="sliderImg">
+                <img src="images/emirates/shj_bg.jpeg" alt="" class="sliderImg">
 
                     <div class="hoverButton">
                     <a href="#" class="text">Sharjah</a>
                     </div>
             </div>
             <div class="box">
-                <img src="images/uaq_bg.jpg" alt="" class="sliderImg">
+                <img src="images/emirates/uaq_bg.jpg" alt="" class="sliderImg">
 
                     <div class="hoverButton">
                     <a href="#" class="text">Umm Al Quwain</a>
                     </div>
             </div>
             <div class="box">
-                <img src="images/rak_bg (2).jpg" alt="" class="sliderImg">
+                <img src="images/emirates/rak_bg (2).jpg" alt="" class="sliderImg">
 
                     <div class="hoverButton">
                     <a href="#" class="text">Ras Al Khaima</a>
                     </div>
             </div>
             <div class="box">
-                <img src="images/ad_bg.jpg" alt="" class="sliderImg">
+                <img src="images/emirates/ad_bg.jpg" alt="" class="sliderImg">
 
                     <div class="hoverButton">
                     <a href="#" class="text">Abu Dhabi</a>
