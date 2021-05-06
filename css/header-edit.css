@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+
+#navbar{
+ width: 100%;
+ position: absolute;
+}
+
+        
+*{
+  margin: 0;
+}
+
+      
+.container{
+  overflow: hidden;
+  color: white;     
+} 
+
+
+#navbar ul{
+    float: right;
+    font-family: 'Karla', sans-serif;
+    font-size: 23px;
+    margin-top: 30px;
+    margin-right: 35px;
+}
+
+#navbar li{
+    display: inline-block;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 400;
+    color: black;
+    transition: all ease 0.2s;
+}
+
+#navbar li:hover{
+    color: rgba(133, 133, 133, 0.503);
+    text-decoration: underline;
+}
+
+
+#profile{
+    margin-top: 20px;
+    left:  30px;
+    position: absolute; /* so the profile and the lists will be in same line*/
+            
+}
+
+#search-bar{
+    color: black;
+}
+
+#search-bar:hover path{
+    fill: rgba(0, 0, 0, 0.503);
+}
+
+
+#profile:hover path{
+    stroke: rgba(0, 0, 0, 0.503);
+}
+
+
+
+/* 
+        svg path {
+            transition: all ease 0.2s;
+          } */
