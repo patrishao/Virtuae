@@ -25,11 +25,15 @@
     
 
         <!-- PROFILE -->
-        <img src="images/circle.png" width="31px" height="31px" left="652px" top="302px">
+        
 
         <div class="profile-container">
             <div class="profile-pic"></div>
         </div>
+
+        <div class="circle"></div>
+        <img src="svg/edit.svg" class="edit">
+        
 
         <h1>Edit Profile</h1>
 

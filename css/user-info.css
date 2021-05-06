@@ -44,8 +44,16 @@ body{
     position: absolute;
     width: 31px;
     height: 31px;
-    left: 652px;
+    left: 615px;
     top: 301px;
+    background: #252525;
+    border-radius: 50%;
+}
+
+.edit{
+    position: absolute;
+    left: 622px;
+    top: 308px;
 }
 
 h1{
