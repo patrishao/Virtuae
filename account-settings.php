@@ -23,10 +23,17 @@
         <!-- BACKGROUND -->
         <div class="background-container"></div>
     
-
         <!-- PROFILE -->
         <div class="profile-container">
             <div class="profile-pic"></div>
+        </div>
+        <div class="circle"></div>
+        <img src="svg/edit.svg" class="edit">
+        <div class="user-details">
+            <h1 class="name">PLACEHOLDER</h1>
+            <p class="email">placeholder@gmail.com</p>
+            <img src="images/Vector.png" class="location-img">
+            <p class="location">Placeholder, Location</p>
         </div>
 
         <h1>Edit Profile</h1>

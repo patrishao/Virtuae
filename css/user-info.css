@@ -40,6 +40,59 @@ body{
     border-radius: 150px;
 }
 
+.name{
+    position: absolute;
+    left: 705px;
+    top: 216px;
+
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 133.69%;
+    /* identical to box height, or 47px */
+
+    color: #252525;
+}
+
+.email{
+    position: absolute;
+    height: 29px;
+    left: 705px;
+    top: 263px;
+
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 133.69%;
+    /* or 29px */
+
+    color: #252525;
+}
+
+.location-img{
+    position: absolute;
+    width: 6.66px;
+    height: 13.33px;
+    left: 705px;
+    top: 322px;
+}
+
+.location{
+    position: absolute;
+    height: 29px;
+    left: 720px;
+    top: 317.5px;
+
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 133.69%;
+    color: #252525;
+}
+
 .circle{
     position: absolute;
     width: 31px;
