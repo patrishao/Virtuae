@@ -40,6 +40,14 @@ body{
     border-radius: 150px;
 }
 
+.circle{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    left: 652px;
+    top: 301px;
+}
+
 h1{
     position: absolute;
     width: 206px;

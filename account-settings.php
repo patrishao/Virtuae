@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Profile</title>
-    <link rel="stylesheet" type="text/css" href="css/user-info.css">
+    <link rel="stylesheet" type="text/css" href="css/account-settings.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
     
@@ -31,7 +31,7 @@
 
         <h1>Edit Profile</h1>
 
-        <a class="acc-s" href="account-settings.php">User info</a>
+        <a class="u-info" href="user-info.php">User info</a>
         <h2>Account settings</h2>
 
         <p>Email</p>

@@ -25,6 +25,8 @@
     
 
         <!-- PROFILE -->
+        <img src="images/circle.png" width="31px" height="31px" left="652px" top="302px">
+
         <div class="profile-container">
             <div class="profile-pic"></div>
         </div>
@@ -32,7 +34,6 @@
         <h1>Edit Profile</h1>
 
         <h2>User info</h2>
-
         <a class="acc-s" href="account-settings.php">Account settings</a>
 
         <p>First Nameㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ Last Name</p>
