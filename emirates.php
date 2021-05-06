@@ -23,7 +23,7 @@
 
         <div class="post-slider">
             <h1>DUBAI</h1>
-            <a href="dubai.php">
+            <a href="dubai-emirates.php">
            <button>EXPLORE</button>
             </a>
 
