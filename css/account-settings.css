@@ -77,17 +77,16 @@ h2{
     position: absolute;
     height: 35px;
     left: 103px;
-    top: 374px;
+    top: 431px;
 
-    text-decoration: none;
     cursor: pointer;
+    text-decoration: none;
     font-family: 'Karla', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 25px;
     line-height: 35px;
     /* identical to box height */
-
     color: #252525;
 }
 

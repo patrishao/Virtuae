@@ -31,7 +31,7 @@
 
         <h1>Edit Profile</h1>
 
-        <a class="u-info" href="user-info.php">User info</a>
+        <a class="acc-s" href="account-settings.php">User info</a>
         <h2>Account settings</h2>
 
         <p>Email</p>
