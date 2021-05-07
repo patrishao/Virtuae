@@ -10,23 +10,28 @@ body{
 
 /* --- top page part --- */
 
-.nav{
+#nav{
 
-    background-image: url("../images/marina.jpg");
+
     position: relative;
     width: auto;
     height: 120vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+ 
+
 
 
 }
 
 
+
+
+
 /* since there's only one h1 inside the nav class,  decided not to put a class and just
 edit h1 inside the class*/
-.nav h1{
+#nav h1{
     font-family: 'Montserrat', sans-serif;
     font-size: 100px;
     font-weight: 900;
@@ -93,7 +98,7 @@ and not put their positions each class**/
 
 
 /*designing all the a tags inside the pages class  */
-.pages a{
+.page a{
     position: absolute;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
@@ -103,20 +108,38 @@ and not put their positions each class**/
     
 }
 
+.page{
+
+    margin: 15px 0;
+}
+
+
+
 /* changed the color of a tag when hovered*/
-.pages a:hover{
-    color: #848383;
+
+.page a:hover{
+
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 4px;
+    margin-left: -5px;
+
+
 
 }
 
+
+.page a:focus{
+
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 4px;
+    margin-left: -5px;
+
+
+}
 
 /* designed the hr tag (horizontal tag) */
-hr{
-
-    margin: 15px 5px; /*margin for top and bot is 5, and left and right 0*/
-    border: none;
-    background-color: white;
-}
 
 
 /* --- top-destinations part --- */
@@ -124,7 +147,7 @@ hr{
 /* container for the top-destination part, this will hold all the contents */
 .top-destinations{
     background-color: #252525;
-    height: 80vh; /*height is adjustable based on its content*/
+    height: 90vh; /*height is adjustable based on its content*/
     font-family: 'Karla', sans-serif;
     color: white;
 
@@ -530,7 +553,7 @@ button{
 
 .dine{
     background-color: white;
-    height: 100vh;
+    height: 130vh;
 
 }
 
@@ -564,18 +587,21 @@ button{
     width: 80%; */
 
     margin-top: 50px;
+    
 
 }
 
 .dine-container{
     position: relative;
     cursor: pointer;
-    white-space: nowrap;
-    user-select: none;
+    white-space: nowrap; 
     transition: all 0.2s;
     transform: scale(0.98);
     overflow-x: hidden;
     overflow-y: hidden;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
 }
 
 
@@ -590,7 +616,7 @@ button{
     position: relative;
     display:inline-block;
     margin-left: 20px;
-    height: 100%;
+    height: 70%;
     text-decoration: none;
 
 }
@@ -608,13 +634,11 @@ button{
 
 .img-holder{
     background-color: black;
-    width: fit-content;
+    width: 100%;
     height: 90%;
     
 }
 
-
-/* TODO: FIX HEIGHT IN IMAGES */
 
 
 .restaurants .resto-desc{

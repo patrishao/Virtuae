@@ -1,3 +1,7 @@
+
+<?php include 'signupdata.php' ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,9 +32,9 @@
 <h1 class="log-in"> SIGN IN</h1>
 <br>
 
-<form class="form">
+<form class="form" action="signindata.php"   method="POST">
     <br>
-    <input type="text" name="name" placeholder="Email"> 
+    <input type="text" name="email" placeholder="Email"> 
     <br>
     <br>
     <input type="password" name="password" placeholder="Password"> 
@@ -39,7 +43,7 @@
     <br>
 
     <div class="button"> 
-       <input type="submit" name="submit" value="Sign in" >
+       <input type="submit" name="login" value="Sign in" >
     </div>
 
 </form>
@@ -67,7 +71,7 @@
 
 
 <div class="sign-up"> 
-<p>Dont have an account?</p> <a href="#" class ="signup-link"> Sign up here.</p>
+<p>Dont have an account?</p> <a href="signup.php" class ="signup-link"> Sign up here.</p>
 </div> 
 
 

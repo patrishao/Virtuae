@@ -1,6 +1,12 @@
+
+<!-- starting a session to access the other data  -->
+<?php session_start() ?> 
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,8 +30,14 @@
         <div class="profile-container">
         <div class="profile-pic"></div>
             <div class="profile-details">
-                <h1> ANOTHER PLACEHOLDER </h1>
-                <p class="profile-email">placeholder@gmail.com</p>
+
+            <!-- displaying the name of the user -->
+                <h1>      <?php echo $_SESSION['firstName'] . " " . $_SESSION['lastName'] ?> </h1>
+
+             <!-- displaying the email from the databsase -->
+                <p class="profile-email"> <?php echo $_SESSION['email'] ?>  </p>
+
+
                     <img src="images/Vector.png" class="location-img">
                 <p class="profile-location">Placeholder, Location</p>
             </div>

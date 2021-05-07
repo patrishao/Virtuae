@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,12 +35,12 @@
 <h1 class="log-in"> SIGN UP</h1>
 <br>
 
-<form class="form">
+<form class="form" action="login.php" method="POST">
 
-    <input type="text" name="name" placeholder="First Name" class="fl-name"> 
-    <input type="text" name="name" placeholder="Last Name" class="fl-name"> 
+    <input type="text" name="firstName" placeholder="First Name" class="fl-name"> 
+    <input type="text" name="lastName" placeholder="Last Name" class="fl-name"> 
     <br>
-    <input type="text" name="name" placeholder="Email"  class="email"> 
+    <input type="text" name="email" placeholder="Email"  class="email"> 
     <br>
     <input type="password" name="password" placeholder="Password"> 
     
@@ -71,7 +75,7 @@
 
 
 <div class="sign-up"> 
-<p>Already have an account?</p> <a href="#" class ="signup-link"> Log in here.</p>
+<p>Already have an account?</p> <a href="login.php" class ="signup-link"> Log in here.</p>
 </div> 
 
 
