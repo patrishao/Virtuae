@@ -40,12 +40,26 @@
 
         <h2>User info</h2>
         <a class="acc-s" href="account-settings.php">Account settings</a>
-
+        
+        <div>
         <p>First Nameㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ Last Name</p>
         <p class="two">Location</p>
         <p class="three">Phone Number</p>
 
     </div>
+
+    <!-- <div class="login-form">
+        <h3>First Name</h3>
+        <form action="#" method="post">    
+            
+        <input type="search" placeholder="Full Name"/>
+        <input type="text" name="user" placeholder="Last Name">
+    </div> -->
+        
+    <form action="#" method="post">
+        <input class="full-name" type="text" placeholder="Full Name" /> 
+        <input class="last-name" type="text" placeholder="Last Name" /> 
+    </form>
 
 </body>
 </html>
