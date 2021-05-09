@@ -24,6 +24,7 @@
         <div class="background-container"></div>
     
         <!-- PROFILE -->
+        
         <div class="profile-container">
             <div class="profile-pic"></div>
         </div>
@@ -43,6 +44,10 @@
 
         <p>Email</p>
         <p class="two">Password</p>
+
+        <form action="#" method="post">
+        <input class="email-in" type="text" placeholder="placeholder@gmail.com" /> 
+        <input class="pw" type="text" placeholder="" /> 
 
     </div>
 

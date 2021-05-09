@@ -46,20 +46,17 @@
         <p class="two">Location</p>
         <p class="three">Phone Number</p>
 
-    </div>
-
-    <!-- <div class="login-form">
-        <h3>First Name</h3>
-        <form action="#" method="post">    
-            
-        <input type="search" placeholder="Full Name"/>
-        <input type="text" name="user" placeholder="Last Name">
-    </div> -->
-        
-    <form action="#" method="post">
+        <form action="#" method="post">
         <input class="full-name" type="text" placeholder="Full Name" /> 
         <input class="last-name" type="text" placeholder="Last Name" /> 
-    </form>
+        <input class="loc" type="text" placeholder="Location" /> 
+        <input class="phone-no" type="text" placeholder="e.g. + 971 12 345 6789" /> 
+
+        <button class="btn save-changes">Save Changes</button>
+        <button class="btn delete-acc">Delete Account</button>
+        </form>
+
+    </div>
 
 </body>
 </html>
