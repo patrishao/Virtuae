@@ -49,7 +49,14 @@
         <input class="email-in" type="text" placeholder="placeholder@gmail.com" /> 
         <input class="pw" type="text" placeholder="" /> 
 
+        <button class="btn change-pw">Change</button>
+
+        <button class="btn save-changes">Save Changes</button>
+        <button class="btn delete-acc">Delete Account</button>
+
     </div>
+
+    <footer>ㅤ</footer>
 
 </body>
 </html>

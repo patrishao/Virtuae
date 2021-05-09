@@ -259,8 +259,10 @@ p{
     font-family: 'Karla', sans-serif;
 }
 
-.btn{
-    top: 800px;
+.save-changes{
+    position: absolute;
+    left: 615px;
+    top: 770px;
     border: 2px solid #90893E;
     border-radius: 30px;
     color: white;
@@ -274,4 +276,27 @@ p{
     font-size: 16px;
     font-family: 'Karla', sans-serif;
     cursor: pointer;
+}
+
+.delete-acc{
+    position: absolute;
+    left: 815px;
+    top: 770px;
+    border: 2px solid #90893E;
+    border-radius: 30px;
+    color: white;
+    background-color: #90893E;
+    width: 150px;
+    height: 40px;
+    padding: 4px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+    cursor: pointer;
+}
+
+footer{
+    margin-bottom: 850px;
 }
