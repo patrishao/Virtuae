@@ -6,15 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PLACE HOLDER FOR PLACES</title>
         
-
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-
-
-
-    
-
 
 </head>
 <body>
@@ -32,13 +26,13 @@
         </div>
     <!-- CATEGORIES -->
         <div class="categories">
-                <div class="box"><a href="#">HISTORY</a></div>
-                <div class="box"><a href="#">WHAT TO DO</a></div>
-                <div class="box"><a href="#">TIMINGS</a></div>
-                <div class="box"><a href="#">EVENTS</a></div>
-                <div class="box"><a href="#">VIRTUAL TOUR</a></div>
-                <div class="box"><a href="#">REVIEWS</a></div>
-                <div class="box"><a href="#">MEDIA</a></div>
+                <div class="box" onClick="history()"><a>HISTORY</a></div>
+                <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
+                <div class="box" onClick="timings()"><a>TIMINGS</a></div>
+                <div class="box" onClick="events()"><a>EVENTS</a></div>
+                <div class="box" onClick="vt()"><a>VIRTUAL TOUR</a></div>
+                <div class="box" onClick="reviews()"><a>REVIEWS</a></div>
+                <div class="box" onClick="media()"><a>MEDIA</a></div>
         </div>
 
 
@@ -48,7 +42,7 @@
 
     <!-- INFORMATION -->
         <div class="layer1">
-        <div class="info-hist-box">
+        <div class="info-hist-box" id="history">
         <div class="info-container">
             <h2 class="info-title"> Information </h2>
             <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
@@ -92,7 +86,7 @@
 
 
         <!-- WHAT TO DO -->
-        <div class="wtd-container">
+        <div class="wtd-container" id="wtd-container">
             <div class="scroller-area">
             
             <div class="contents-box">
@@ -140,25 +134,26 @@
         <div class="timing-container">
             <h2 class="timing-title">TIMINGS</h2>
             <div class="timing-week">
-                <div class="days"><a href="#">SUNDAY</a></div>
-                <div class="days"><a href="#">MONDAY</a></div>
-                <div class="days"><a href="#">TUESDAY</a></div>
-                <div class="days"><a href="#">WEDNESDAY</a></div>
-                <div class="days"><a href="#">THURSDAY</a></div>
-                <div class="days"><a href="#">FRIDAY</a></div>
-                <div class="days"><a href="#">SATURDAY</a></div>
+                <div class="days" onClick="sun()"><a>SUNDAY</a></div>
+                <div class="days" onClick="mon()"><a>MONDAY</a></div>
+                <div class="days" onClick="tues()"><a>TUESDAY</a></div>
+                <div class="days" onClick="wed()"><a>WEDNESDAY</a></div>
+                <div class="days" onClick="thurs()"><a>THURSDAY</a></div>
+                <div class="days" onClick="fri()"><a>FRIDAY</a></div>
+                <div class="days" onClick="sat()"><a>SATURDAY</a></div>
             </div>
 
-            <div class="t-container">
-            <div class="timing-info">
-                <div class="time">
-                   <p id="t-text"> PLACE-HOLD </p>
-                </div>
-                <div class="t-info">
-                    <p id="t-text"> PLACEHOLDER PLACEHOLDER UHUH PLACING THE HOLDER </div>
-                </div>
-            </div>
-            </div>
+                <div class="t-container"> <!-- to edit this part go to the javascript below vvv -->
+                    <div class="timing-info" id="timing-info">
+                        <div class="time">
+                        <p id="t-time"></p> 
+                        </div>
+                        <div class="t-info">
+                            <p id="t-info"></div>
+                        </div>
+                    </div>
+                </div> 
+
         </div>
         <!-- -->
 
@@ -248,6 +243,140 @@
         <div class="right-wrapper">
         <div class="header"><span></span></div><span class="day"></span><span class="month"></span>
         </div>
+        </div>
+
+        </div>
+
+    <!-- events -->
+        <div class="event-listing">
+
+         <div class="e-row">
+
+            <div class="event-content">
+            <div class="extra-wrapper1" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper1" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper1" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper1" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper1" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper1" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+        </div>
+
+        <div class="e-row">
+
+            <div class="event-content">
+            <div class="extra-wrapper2" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper2" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">  
+            <div class="extra-wrapper2" >              
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper2" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper2" >
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+
+            <div class="event-content">  
+            <div class="extra-wrapper2" >              
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+            </div>
+            
+            
         </div>
 
         </div>
@@ -372,8 +501,47 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
             
 
-    <script  src="javascript/function.js"></script> <!-- calendar -->
+    <script src="javascript/function.js"></script> <!-- calendar -->
+
     <script>
+        //timing content
+        $('#timing-info').hide();
+        function sun(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is sun');
+            $('#t-info').html('placeholder for sunday information');
+        }
+        function mon(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is mon');
+            $('#t-info').html('placeholder for monday information');
+        }
+        function tues(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is tues');
+            $('#t-info').html('awooga');
+        }
+        function wed(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is wed');
+            $('#t-info').html('placeholder for wednesady information');
+        }
+        function thurs(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is thurs');
+            $('#t-info').html('placeholder for thursdsa information');
+        }
+        function fri(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is fri');
+            $('#t-info').html('placeholder for friday information');
+        }
+        function sat(){
+            $('#timing-info').hide().fadeIn();
+            $('#t-time').html('this is sat');
+            $('#t-info').html('placeholder for saturday information');
+        }
+
         //reply function
         function reply(){
         document.getElementById("reply-function").style.display = "inline-block";
@@ -395,8 +563,10 @@
             slidesToScroll: 1,
             autoplay: true,
             autoplaySpeed: 2000,
+            infinite: true,
 
          });
+
          $('.scroller-area').slick({
             prevArrow: false,
             nextArrow: false,
@@ -407,15 +577,41 @@
             slidesToScroll: 1,
             autoplay: false,
             autoplaySpeed: 2000,
+            infinite: true,
 
          });
-         
-        
+         $('.e-row').slick({
+             prevArrow: false,
+             nextArrow: false,
+             draggable: true,
+             slidesToShow: 3,
+             autoplay: true,
+            autoplaySpeed: 3000,
+            infinite: true,
 
-        
-    
-
-
+         });
+         //scroll to
+        function history(){
+            window.scrollTo(0, 1000);
+        }
+        function whttodo(){
+            window.scrollTo(0, 2200);
+        }
+        function timings(){
+            window.scrollTo(0, 2800);
+        }
+        function events(){
+            window.scrollTo(0, 3500);
+        }
+        function vt(){
+            window.scrollTo(0, 4600);
+        }
+        function reviews(){
+            window.scrollTo(0, 5600);
+        }
+        function media(){
+            window.scrollTo(0, 6700);
+        }
     </script> 
  
     
