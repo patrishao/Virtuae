@@ -1,4 +1,4 @@
-let span = document.getElementsByTagName('i');
+	let span = document.getElementsByTagName('i');
 	let product = document.getElementsByClassName('slider')
 	let product_page = Math.ceil(product.length/3);
 	let l = 0;

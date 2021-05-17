@@ -21,20 +21,19 @@
             </div>
 
             <div class="categories">
-                <a href="#" class="box">EVENTS</a>
-                <a href="#" class="box">DINE</a>
-                <a href="#" class="box">ACTIVITIES</a>
-                <a href="#" class="box">SIGHTS TO SEE</a>
-                <a href="#" class="box">DISCOVER</a>
-                <a type="button" onclick="document.getElementById('showMosq').style.display='block'" class="box">MOSQUES</a>
+                <button>EVENTS</button>
+                <button>DINE</button>
+                <button>ACTIVTIES</button>
+                <button>SIGHTS TO SEE</button>
+                <button>DISCOVER</button>
+                <button>MOSQUES</button>
             </div>
 
         </div>
     </div>
     </div> 
 
-    
-    <div class="categ" id="showMosq" style="display: none;">
+   <div class="categ">
         <div class="post-categ">
         <h1>MOSQUES IN DUBAI</h1>
 
@@ -64,16 +63,6 @@
                 </div></a>
 			</div>
             <div class="slider">
-                <a href="">
-				<picture>
-					<img src="images/marina.jpg" alt="">
-				</picture>
-				<div class="detail">
-                    <h3>Dubai Marina</h3>
-                    <h4>Dubai Marina</h4>
-                </div></a>
-			</div>
-            <div class="slider">
                 <a href="#">
 				<picture>
 					<img src="images/marina.jpg" alt="">
@@ -87,6 +76,16 @@
                 <a href="#">
 				<picture>
 					<img src="images/marina.jpg" alt="">
+				</picture>
+				<div class="detail">
+                    <h3>Dubai Marina</h3>
+                    <h4>Dubai Marina</h4>
+                </div></a>
+			</div>
+            <div class="slider">
+                <a href="#">
+				<picture>
+					<img src="images/emirates/ad_bg.jpg" alt="">
 				</picture>
 				<div class="detail">
                     <h3>Dubai Marina</h3>
@@ -95,7 +94,8 @@
 			</div>
 		</section>
        
-    </div>
+    </div> 
+
 
 
 

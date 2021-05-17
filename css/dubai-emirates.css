@@ -34,35 +34,35 @@ body{
     width: 100%;
     height: 100%;
 }
-.categories a{
-    text-decoration: none;
+.categories button{
+    border: none;
+    outline: none;
     color: white;
     font-size: 20px;
 }
-.categories .box{
+.categories button{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 255.5px;
     height: 135px;
+    width: 255.5px;
     flex-basis: auto;
     background-color: #252525;
     text-align: center;
 }
-.box:not(:last-child){
+button:not(:last-child){
     border-right: 1px solid rgb(70, 70, 70);
 }
-
-.box:hover{
+button:hover{
     background-color: white;
     color: #D07B3B;
 }
-.box:active{
+button:active{
     background-color: #D07B3B;
     color: white;
 }
 
-
+/*  */
 
 .categ{
     padding: 50px 85px;
