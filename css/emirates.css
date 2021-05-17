@@ -3,29 +3,24 @@
 body{
 	margin: 0;
 	padding: 0;
+	height: 100vh;
+}
+.navbar{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/dubai_bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
 }
 a{
 	text-decoration: none;
 }
 
-.navbar{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/dubai_bg.jpg");
-    position: relative;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-
-/* title */
-.wrapper{
-	padding: 6%;
-}
 .post-slider{
 	position: relative;
 	text-align: center;
-	margin: 30px auto;
+	margin: 50px auto;
 }
-h1{
+.post-slider h1{
 	font-family: 'Monserrat', sans-serif;
 	color: white;
 	font-size: 125px;
@@ -44,7 +39,6 @@ button:hover{
 	color:#FFFFFF;
 	background-color: black;
 }
-
 
 /* images */
 .post-wrapper{
@@ -108,7 +102,7 @@ button:hover{
 .next{
 	position: absolute;
 	top: 70%;
-	right: 5px;
+	right: 20px;
 	font-size: 2em;
 	color: white;
 	cursor: pointer;
@@ -116,7 +110,7 @@ button:hover{
 .prev{
 	position: absolute;
 	top: 70%;
-	left: 5px;
+	left: 20px;
 	font-size: 2em;
 	color: white;
 	cursor: pointer;

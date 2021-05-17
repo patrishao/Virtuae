@@ -17,9 +17,7 @@
     <!-- navigation bar -->
     <div class="navbar">
         <?php include 'includes/headers.php';?>         
-
-    <!-- wraps whole page -->
-    <div class="wrapper">
+<!-- wraps whole page -->
 
         <div class="post-slider">
             <h1>DUBAI</h1>
@@ -81,12 +79,10 @@
             </div>
             </div>
         </div>
-    </div>
+    
 
     
     
-    </div>
-
 
     </div>
 
