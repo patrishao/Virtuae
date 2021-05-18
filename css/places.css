@@ -16,18 +16,46 @@ body{
 
 /*----------------------------------*/
 /* TITLE */
-.picture{
-    background: url(../images/PLACEHOLDER.png);
+
+.title-slider{
+    position: relative;
+    top: 100px;
+    left: 100px;
+
+    height: 800px;
+    max-width: 800px;
+}
+
+.arrow-l{
+    display: flex;
+    background-color:white;
+    height: 70px;
+    width: 70px;
+    justify-content: center;
+    
+    position: absolute;
+    top: 650px;
+    left: 760px;
+}
+.arrow-r{
+    display: flex;
+    border-left: 1px solid #163A36;
+    background-color:white;
+    height: 70px;
+    width: 70px;
+    justify-content: center;
+
 
     position: absolute;
-    float: left;
-
-    width: 800px;
-    height: 619px;
-
-    left: 100px;
-    top: 146px;
+    top: 650px;
+    left:830px;
 }
+
+.picture{
+    height: 620px;
+    width: 800px;
+}
+
 h1{
     font-family: Montserrat;
     font-style: normal;
@@ -65,14 +93,26 @@ h1{
 }
 
 .line1{
-    border: 7px solid #824F29;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 23px;
 
-    width: 46px;
-    height: 0px;
+    border: 1px hidden;
+    border-radius: 50px;
+
+    background-color: #90893E;
+    color: white;
+
+    text-align: center;
+    
+    height: 40px;
+    width: 70px;
     
     position: absolute;
     left: 970px;
-    top: 529px;
+    top: 520px;
 
 
 }
@@ -88,8 +128,6 @@ h1{
 
     width: 100%;
     height: 100%;
-
-    margin-top: 850px;
 }
 .categories a{
     text-decoration: none;

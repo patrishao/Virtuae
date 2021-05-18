@@ -16,13 +16,20 @@
     <?php include 'includes/headers.php'; ?> 
     </div>
 
-    <div class="content-wrapper">
     <!-- TITLE -->
-        <div class="title-container">
-            <div class="picture"></div>
+    
+        <div class="title-container" id="title">
+        <div class="title-slider">
+            <div class="picture"><img src="images/PLACEHOLDER.png" class="picture" /></div>
+            <div class="picture"><img src="images/PLACEHOLDER.png" class="picture" /></div>
+            <div class="picture"><img src="images/PLACEHOLDER.png" class="picture"/></div>
+            </div>
+        <div class="arrow-l"><i class="fas fa-angle-left fa-3x"></i></div> 
+        <div class="arrow-r"><i class="fas fa-angle-right fa-3x"></i></div>
+
             <h1> PLACEHOLDER </h1>
             <p class="location-title"> PLACEHOLDER </p>
-            <button class="line1"></div>
+            <button href="#" class="line1"> TOUR </button>
         </div>
     <!-- CATEGORIES -->
         <div class="categories">
@@ -34,7 +41,6 @@
                 <div class="box" onClick="reviews()"><a>REVIEWS</a></div>
                 <div class="box" onClick="media()"><a>MEDIA</a></div>
         </div>
-
 
     <!-- BACKGROUND 1 -->
 
@@ -488,12 +494,6 @@
 
     </section>
         
-
-
-
-
-        
-    </div>
     <!-- scripts -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/eab9b1f412.js" crossorigin="anonymous"></script>
@@ -590,6 +590,14 @@
             infinite: true,
 
          });
+         $('#title .title-slider').slick({
+             prevArrow: '.arrow-l',
+             nextArrow: '.arrow-r',
+             slidesToShow: 1,
+         });
+         
+
+    
          //scroll to
         function history(){
             window.scrollTo(0, 1000);
