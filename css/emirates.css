@@ -53,8 +53,8 @@ button:hover{
 
 /* slider */
 .post-wrapper{
-	width: 90%;
-	height: 305px;
+	width: 85%;
+	height: 280px;
 	padding-top: 10px;
 	margin: 0 auto;
 	overflow: hidden;
@@ -112,7 +112,7 @@ button:hover{
 .next{
 	position: absolute;
 	top: 65%;
-	right: 20px;
+	right: 50px;
 	font-size: 30px;
 	color: white;
 	cursor: pointer;
@@ -120,7 +120,7 @@ button:hover{
 .prev{
 	position: absolute;
 	top: 65%;
-	left: 20px;
+	left: 50px;
 	font-size: 30px;
 	color: white;
 	cursor: pointer;
@@ -130,31 +130,55 @@ button:hover{
 /* phone */
 @media screen and (max-width: 480px) {
 	.post-slider h1{
-		font-size: 90px;
-	}  
+		font-size: 80px;
+	}
 	.post-wrapper{
-		width: 70%;
+		width: 60%;
 		height: 200px;
-		
 	}
 	.box{
 		height: 200px;
 	}
-	i{
-		font-size: 1px;
+	.next{
+		top: 58%;
+		font-size: 30px;
 	}
+	.prev{
+		top: 58%;
+		font-size: 30px;
+	}
+	
 }
 /* tablet */
 @media screen and (min-width: 481px) and (max-width: 768px) {
 	.post-slider h1{
 		font-size: 100px;
 	}
+	.next{
+		top: 60%;
+		right: 40px;
+		font-size: 30px;
+	}
+	.prev{
+		top: 60%;
+		left: 40px;
+		font-size: 30px;
+	}
 }
 /* small screen */
 @media screen and (min-width: 769px) and (max-width: 1024px) {
 	.post-slider h1{
-		font-size: 140px;
+		font-size: 130px;
 	}
+	.next{
+		top: 63%;
+		font-size: 30px;
+	}
+	.prev{
+		top: 63%;
+		font-size: 30px;
+	}
+	
 }
 /* large screen */
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
