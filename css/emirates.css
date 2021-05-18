@@ -25,13 +25,12 @@ a{
 
 /* title and button */
 .post-slider{
-	position: relative;
 	text-align: center;
 }
 .post-slider h1{
 	font-family: 'Monserrat', sans-serif;
 	color: white;
-	font-size: 6em;
+	font-size: 130px;
 	font-weight: 900;
 	text-align: center;
 }
@@ -48,6 +47,7 @@ button:hover{
 	color:#FFFFFF;
 	background-color: black;
 }
+
 
 
 
@@ -113,7 +113,7 @@ button:hover{
 	position: absolute;
 	top: 65%;
 	right: 20px;
-	font-size: 2em;
+	font-size: 30px;
 	color: white;
 	cursor: pointer;
 }
@@ -121,13 +121,62 @@ button:hover{
 	position: absolute;
 	top: 65%;
 	left: 20px;
-	font-size: 2em;
+	font-size: 30px;
 	color: white;
 	cursor: pointer;
 }
-/* media queries */
+
+
+/* phone */
 @media screen and (max-width: 480px) {
+	.post-slider h1{
+		font-size: 90px;
+	}  
 	.post-wrapper{
-		width: 80%;
+		width: 70%;
+		height: 200px;
+		
+	}
+	.box{
+		height: 200px;
+	}
+	i{
+		font-size: 1px;
+	}
+}
+/* tablet */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+	.post-slider h1{
+		font-size: 100px;
+	}
+}
+/* small screen */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+	.post-slider h1{
+		font-size: 140px;
+	}
+}
+/* large screen */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+	.post-slider h1{
+		font-size: 150px;
+	}
+	.post-slider button{
+		font-size: 23px;
+		font-weight: 800;
+		padding: 10px 20px;
+		border-radius: 30px;
+	}
+}
+/* extra large screen */
+@media screen and (min-width: 1201px){
+	.post-slider h1{
+		font-size: 150px;
+	}
+	.post-slider button{
+		font-size: 23px;
+		font-weight: 800;
+		padding: 10px 20px;
+		border-radius: 30px;
 	}
 }
