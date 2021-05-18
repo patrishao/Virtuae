@@ -22,7 +22,7 @@
             <div class="picture"></div>
             <h1> PLACEHOLDER </h1>
             <p class="location-title"> PLACEHOLDER </p>
-            <div class="line1"></div>
+            <button class="line1"></div>
         </div>
     <!-- CATEGORIES -->
         <div class="categories">
@@ -70,7 +70,7 @@
                 At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. <br><br>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                 incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
+                sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat  
                 lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
                 At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. <br><br>
                 </p>
