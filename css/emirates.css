@@ -130,22 +130,17 @@ button:hover{
 /* phone */
 @media screen and (max-width: 480px) {
 	.post-slider h1{
-		font-size: 80px;
+		font-size: 70px;
 	}
 	.post-wrapper{
-		width: 60%;
-		height: 200px;
+		width: 75%;
+		height: 205px;
 	}
 	.box{
-		height: 200px;
+		height: 205px;
 	}
-	.next{
-		top: 58%;
-		font-size: 30px;
-	}
-	.prev{
-		top: 58%;
-		font-size: 30px;
+	.next, .prev{
+		visibility: hidden;
 	}
 	
 }
@@ -154,15 +149,8 @@ button:hover{
 	.post-slider h1{
 		font-size: 100px;
 	}
-	.next{
-		top: 60%;
-		right: 40px;
-		font-size: 30px;
-	}
-	.prev{
-		top: 60%;
-		left: 40px;
-		font-size: 30px;
+	.next, .prev{
+		visibility: hidden;
 	}
 }
 /* small screen */
@@ -203,4 +191,5 @@ button:hover{
 		padding: 10px 20px;
 		border-radius: 30px;
 	}
+
 }
