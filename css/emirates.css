@@ -53,7 +53,7 @@ button:hover{
 
 /* slider */
 .post-wrapper{
-	width: 85%;
+	width: 80%;
 	height: 280px;
 	padding-top: 10px;
 	margin: 0 auto;
@@ -112,7 +112,7 @@ button:hover{
 .next{
 	position: absolute;
 	top: 63%;
-	right: 50px;
+	right: 60px;
 	font-size: 30px;
 	color: white;
 	cursor: pointer;
@@ -120,7 +120,7 @@ button:hover{
 .prev{
 	position: absolute;
 	top: 63%;
-	left: 50px;
+	left: 60px;
 	font-size: 30px;
 	color: white;
 	cursor: pointer;
@@ -157,23 +157,24 @@ button:hover{
 @media screen and (min-width: 769px) and (max-width: 1024px) {
 	.post-slider h1{
 		font-size: 130px;
+		color: aquamarine;
 	}
 	.next{
-		top: 63%;
+		top: 62%;
 		right: 43px;
 		font-size: 30px;
 	}
 	.prev{
-		top: 63%;
+		top: 62%;
 		left: 43px;
 		font-size: 30px;
 	}
-	
 }
 /* large screen */
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
 	.post-slider h1{
 		font-size: 150px;
+		color: #252525;
 	}
 	.post-slider button{
 		font-size: 23px;
@@ -181,11 +182,7 @@ button:hover{
 		padding: 10px 20px;
 		border-radius: 30px;
 	}
-	.next{
-		top: 65%;
-		font-size: 30px;
-	}
-	.prev{
+	.next, .prev{
 		top: 65%;
 		font-size: 30px;
 	}
@@ -194,6 +191,7 @@ button:hover{
 @media screen and (min-width: 1201px){
 	.post-slider h1{
 		font-size: 150px;
+		color: #D07B3B;
 	}
 	.post-slider button{
 		font-size: 23px;
@@ -201,13 +199,7 @@ button:hover{
 		padding: 10px 20px;
 		border-radius: 30px;
 	}
-	.next{
+	.next, .prev{
 		top: 65%;
 		font-size: 30px;
-	}
-	.prev{
-		top: 65%;
-		font-size: 30px;
-	}
-
-}
+	}}
