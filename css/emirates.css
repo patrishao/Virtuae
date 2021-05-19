@@ -25,13 +25,12 @@ a{
 
 /* title and button */
 .post-slider{
-	position: relative;
 	text-align: center;
 }
 .post-slider h1{
 	font-family: 'Monserrat', sans-serif;
 	color: white;
-	font-size: 6em;
+	font-size: 130px;
 	font-weight: 900;
 	text-align: center;
 }
@@ -51,10 +50,11 @@ button:hover{
 
 
 
+
 /* slider */
 .post-wrapper{
-	width: 90%;
-	height: 305px;
+	width: 85%;
+	height: 280px;
 	padding-top: 10px;
 	margin: 0 auto;
 	overflow: hidden;
@@ -111,23 +111,103 @@ button:hover{
  /*left and right arrow */
 .next{
 	position: absolute;
-	top: 65%;
-	right: 20px;
-	font-size: 2em;
+	top: 63%;
+	right: 50px;
+	font-size: 30px;
 	color: white;
 	cursor: pointer;
 }
 .prev{
 	position: absolute;
-	top: 65%;
-	left: 20px;
-	font-size: 2em;
+	top: 63%;
+	left: 50px;
+	font-size: 30px;
 	color: white;
 	cursor: pointer;
 }
-/* media queries */
+
+
+/* phone */
 @media screen and (max-width: 480px) {
-	.post-wrapper{
-		width: 80%;
+	.post-slider h1{
+		font-size: 70px;
 	}
+	.post-wrapper{
+		width: 75%;
+		height: 205px;
+	}
+	.box{
+		height: 205px;
+	}
+	.next, .prev{
+		visibility: hidden;
+	}
+	
+}
+/* tablet */
+@media screen and (min-width: 481px) and (max-width: 768px) {
+	.post-slider h1{
+		font-size: 100px;
+	}
+	.next, .prev{
+		visibility: hidden;
+	}
+}
+/* small screen */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+	.post-slider h1{
+		font-size: 130px;
+	}
+	.next{
+		top: 63%;
+		right: 43px;
+		font-size: 30px;
+	}
+	.prev{
+		top: 63%;
+		left: 43px;
+		font-size: 30px;
+	}
+	
+}
+/* large screen */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+	.post-slider h1{
+		font-size: 150px;
+	}
+	.post-slider button{
+		font-size: 23px;
+		font-weight: 800;
+		padding: 10px 20px;
+		border-radius: 30px;
+	}
+	.next{
+		top: 65%;
+		font-size: 30px;
+	}
+	.prev{
+		top: 65%;
+		font-size: 30px;
+	}
+}
+/* extra large screen */
+@media screen and (min-width: 1201px){
+	.post-slider h1{
+		font-size: 150px;
+	}
+	.post-slider button{
+		font-size: 23px;
+		font-weight: 800;
+		padding: 10px 20px;
+		border-radius: 30px;
+	}
+	.next{
+		top: 65%;
+		font-size: 30px;
+	}
+	.prev{
+		top: 65%;
+		font-size: 30px;
+	}
+
 }
