@@ -17,68 +17,36 @@
 </head>
 <body>
     <div class="navbg"> 
-    <?php include 'includes/headers.php'; ?> 
+    <?php include 'includes/headers-edit.php'; ?> 
     </div>
+
     <div class="container-1">
 
-        <!-- BACKGROUND -->
-        <div class="background-container">
-            <div class="rectangle"></div>
-        </div>
-
-        <!-- PROFILE -->
-        <div class="profile-container">
-        <div class="profile-pic"></div>
-            <div class="profile-details">
-
-            <!-- displaying the name of the user -->
-                <h1>      <?php echo $_SESSION['firstName'] . " " . $_SESSION['lastName'] ?> </h1>
-
-             <!-- displaying the email from the databsase -->
-                <p class="profile-email"> <?php echo $_SESSION['email'] ?>  </p>
+           <!-- BACKGROUND -->
+           <div class="background-container">
+             <div class="rectangle"></div>
+           </div>
 
 
-                    <img src="images/Vector.png" class="location-img">
-                <p class="profile-location">Placeholder, Location</p>
-            </div>
-        </div>
+<div class="display" >
 
-        <div class="line"></div>
-    </div>
+<!-- if there is an active session display the profile-loggedin -->
+     <?php if ($_SESSION){
+         include 'profile-loggedin.php'; 
+     } 
+
+     
+     else { ?>
+     <!-- else display nothing -->
+          <p class="not-logged"> You are not logged in. Please login </p>  <a href="login.php" class="here"> here. </a>
+   <?php   }
+
+    ?>
+ </div>
 
 
-    <div class="container-2">
-
-        <!-- REVIEWS -->
-        <div class="reviews-container">
-            <div class="review-box">
-                <img src="images/PLACEHOLDER.png" class="review-img">
-                <h2>AREA PLACE</h2>
-                <p class="review-content"> 
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor 
-                    do amet sint. Velit officia consequat duis enim velit mollit. 
-                    Exercitation veniam consequat sunt nostrud amet. </p>
-            </div>
-            <div class="review-box">
-                <img src="images/PLACEHOLDER.png" class="review-img">
-                <h2>AREA PLACE</h2>
-                <p class="review-content"> 
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor 
-                    do amet sint. Velit officia consequat duis enim velit mollit. 
-                    Exercitation veniam consequat sunt nostrud amet. </p>
-            </div>
-
-            <div class="review-box">
-                <img src="images/PLACEHOLDER.png" class="review-img">
-                <h2>AREA PLACE</h2>
-                <p class="review-content"> 
-                    Amet minim mollit non deserunt ullamco est sit aliqua dolor 
-                    do amet sint. Velit officia consequat duis enim velit mollit. 
-                    Exercitation veniam consequat sunt nostrud amet. </p>
-            </div>
-        
-        </div>
-
-    </div>
+    
+    
+   
 </body>
 </html>

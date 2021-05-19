@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
 
+
 #navbar{
  width: 100%;
  position: absolute;
@@ -26,6 +27,9 @@
     margin-right: 35px;
 }
 
+
+
+
 #navbar li{
     display: inline-block;
     text-transform: uppercase;
@@ -47,11 +51,6 @@
     left:  30px;
     position: absolute; /* so the profile and the lists will be in same line*/
             
-}
-
-
-#search-bar:hover path{
-    fill: rgba(0, 0, 0, 0.503);
 }
 
 

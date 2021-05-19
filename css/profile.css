@@ -12,6 +12,8 @@ body{
 
 .background-container{
     display:flex;
+    /* filter: blur(5px);
+    -webkit-filter: blur(5px); */
 }
 
 .rectangle{
@@ -20,7 +22,7 @@ body{
     height: 250px;
     
 
-    background: #163A36;
+    background: #E5E5E5;;
 }
 /*-----------------------------------*/
 
@@ -138,6 +140,35 @@ h2{
     float: left;
     width: 293px;
     height: 284px;
-
     border: 2px solid black;
+}
+
+
+.display{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+
+
+.not-logged{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    display: inline-block;
+
+}
+
+.here{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: black;
+
+    display: inline-block;
+    margin-left: 5px;
+
 }

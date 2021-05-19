@@ -9,13 +9,14 @@
     <title>Home page</title>
     <link rel="stylesheet" type="text/css" href="css/home.css">
 
-
 </head>
 <body>
 
 
 <!-- Nav and First Part -->
 <div id="nav"> 
+
+  
  <?php include 'includes/headers.php'; ?> 
 
 
@@ -121,9 +122,6 @@
 
 
 <script src="javascript/bgs.js"> </script>
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script> -->
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> -->
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
     
    <div class="pages"> 
@@ -207,69 +205,68 @@
 
 
 <!-- Top Destinations Part / 2nd Part -->
-<section class="top-destinations"> 
+<section class="top-destinations fade-in"> 
 
     <!-- br so there black bg will fill everything -->
     <br> 
    <!-- linked the 1 in here -->
-   <a name= "destinations-link" class="header">TOP DESTINATIONS</a >
+   <a name= "destinations-link" class="header fade-in">TOP DESTINATIONS</a >
     <br>
 
 
     <!-- Destinations List -->
-    <!-- added an initial value to be able to scroll in js -->
-    <input type="hidden" id="initial" value="0">
+
 
     <!-- wrapper that wraps the whole content -->
-   <div class="wrapper">
+   <div class="wrapper fade-in">
   
     <!-- container that holds all the locations only -->
-    <ul class="container"> 
+    <div class="container"> 
 
     <!-- lists of destinations with all of them having same classes for same designs
      and contents -->
-      <li class="destinations">
+      <div class="destinations">
         <img src="images//top-des-images/jebel-jais.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
-      </li>
+      </div>
 
-       <li class="destinations">
+       <div class="destinations">
         <img src="images//top-des-images/jebel-jais.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
-      </li>
+      </div>
 
-      <li class="destinations">
+      <div class="destinations">
         <img src="images//top-des-images/jebel-jais.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
-      </li>
+      </div>
 
-      <li class="destinations">
+      <div class="destinations">
         <img src="images//top-des-images/jebel-jais.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
-     </li>
+     </div>
 
-      <li class="destinations">
+      <div class="destinations">
         <img src="images//top-des-images/jebel-jais.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
-     </li>
+     </div>
 
-      <li class="destinations">
+      <div class="destinations">
         <img src="images//top-des-images/jebel-jais.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
-      </li>
+      </div>
 
-     <li class="destinations">
+     <div class="destinations">
        <img src="images//top-des-images/jebel-jais.jpg">
        <h1>Jebel Jais</h1>
        <h2>Ras Al Khaimah</h2>
-     </li>
-    </ul>
+     </div>
+    </div>
   </div>
 
    <!-- the left and right button to scroll, they both have a class paddle to 
@@ -285,7 +282,7 @@
       </button>
 
      <!-- left button  -->
-     <button class="left-paddle paddle hidden">
+     <button class="left-paddle paddle">
         <svg width="22" height="35" viewBox="0 0 17 28" fill="none" xmlns="http://www.w3.org/2000/svg">
          <path d="M15.8291 4.46175L6.64314 13.7464L15.8291 23.0747C16.0483 23.2973 16.2222 23.5613 16.3408 23.8518C16.4595 24.1422 16.5205 24.4533 16.5205 24.7674C16.5205 25.0814 16.4595 25.3922 16.3408 25.6821C16.2222 25.972 16.0483 26.2352 15.8291 26.4567C15.61 26.6783 15.3497 26.8538 15.0633 26.9733C14.777 27.0928 14.47 27.1539 14.16 27.1532C13.8501 27.1524 13.5431 27.0899 13.2567 26.969C12.9703 26.8481 12.7101 26.6714 12.4909 26.4488L1.62398 15.4135C1.4045 15.1911 1.23038 14.9271 1.11157 14.6367C0.992765 14.3462 0.931611 14.035 0.931611 13.7209C0.931611 13.4067 0.992765 13.0958 1.11157 12.806C1.23038 12.5161 1.4045 12.2529 1.62398 12.0315L12.4909 1.04784C12.71 0.826006 12.9701 0.650214 13.2565 0.53053C13.5429 0.410846 13.85 0.349619 14.16 0.350354C14.4701 0.35109 14.7771 0.413775 15.0635 0.534819C15.3499 0.655863 15.6101 0.83289 15.8291 1.05577C16.7288 1.99335 16.7525 3.52849 15.8291 4.46175Z" fill="white"/>
        </svg>
@@ -294,7 +291,8 @@
 
 
    <!-- linking the javascripts and jquery -->
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script src="javascript/scroll.js"> </script>
   </section> 
  <!-- end of Top Destinations Part -->
@@ -317,65 +315,66 @@
    <div class="adv-wrapper">  
 
      <!-- container that consists of the adventure place list -->
-     <ul class="adv-container"> 
+     <div class="adv-container"> 
 
        <!-- list of the places with all of them having same class to have same format -->
-      <li class="adventure-places">
+      <div class="adventure-places">
 
-      <!-- image link -->
-       <img src="images/adventures-images/ski-dubai.jpg" width="50%">
+       <!-- image link -->
+       <img src="images/adventures-images/ski-dubai.jpg">
 
        <!-- the headings and p components in class to set position easier -->
          <div class="components"> 
            <h1>Ski Dubai</h1>
            <h2>Mall of the Emirates, Dubai</h2>
 
-           <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-           <br>Velit officia consequat duis enim velit mollit. </p>
-  
+           <p> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
+           Velit officia consequat duis enim velit mollit. </p>
+
+
           <a href="#">EXPLORE</a>
 
         </div>
    
-      </li>
+      </div>
 
 
       <!-- rest of the list with having the same classes -->
-      <li class="adventure-places">
+      <div class="adventure-places">
 
-       <img src="images/adventures-images/ski-dubai.jpg" width="50%">
+       <img src="images/adventures-images/ski-dubai.jpg" >
 
           <div class="components"> 
           <h1>Sky Dive Dubai</h1>
           <h2>Dubai Marina, Dubai</h2>
 
           <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          <br>Velit officia consequat duis enim velit mollit. </p>
+          Velit officia consequat duis enim velit mollit. </p>
 
           <a href="#">EXPLORE</a>
 
         </div>
    
-      </li>
+      </div>
 
-       <li class="adventure-places">
+       <div class="adventure-places">
 
-       <img src="images/adventures-images/ski-dubai.jpg" width="50%">
+       <img src="images/adventures-images/ski-dubai.jpg">
 
        <div class="components"> 
          <h1>Ski Dubai</h1>
          <h2>Mall of the Emirates, Dubai</h2>
 
          <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          <br>Velit officia consequat duis enim velit mollit. </p>
+          Velit officia consequat duis enim velit mollit. </p>
 
           <a href="#">EXPLORE</a>
 
         </div>
    
-      </li>
+       </div>
 
-      </ul>
+    </div>
 
     </div>
 
@@ -454,6 +453,7 @@
     <!-- description for each events -->
     <div class="event1-desc"> 
       <h1>Emirati Farmers Souq</h1>
+      <h2>The Pointe, Dubai</h2>
 
       <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
       Velit officia consequat duis enim velit mollit. </p>
@@ -465,6 +465,7 @@
   and will be displayed -->
    <div class="event2-desc hidden"> 
       <h1>Emirati Farmers Souq 2</h1>
+      <h2>The Pointe, Dubai</h2>
 
       <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
       Velit officia consequat duis enim velit mollit. </p>
@@ -474,6 +475,7 @@
 
    <div class="event3-desc hidden"> 
       <h1>Emirati Farmers Souq 3</h1>
+      <h2>The Pointe, Dubai</h2>
 
       <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
       Velit officia consequat duis enim velit mollit. </p>
@@ -483,6 +485,7 @@
 
    <div class="event4-desc hidden"> 
       <h1>Emirati Farmers Souq 4</h1>
+      <h2>The Pointe, Dubai</h2>
 
       <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
       Velit officia consequat duis enim velit mollit. </p>
@@ -492,6 +495,7 @@
 
    <div class="event5-desc hidden"> 
       <h1>Emirati Farmers Souq 5</h1>
+      <h2>The Pointe, Dubai</h2>
 
       <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
       Velit officia consequat duis enim velit mollit. </p>
@@ -522,9 +526,9 @@
       <div class="dine-container" id="dine-con">
        
       <!-- all restaurants -->
-         <a class="restaurants">  
+         <a class="restaurants first-res">  
              <!-- added a container so the images can be slighlty dimmed -->
-              <div class="img-holder"> 
+              <div class="img-holder first-img"> 
                 <img src="images/dine-images/kite-beach.png">
               </div>
 
@@ -595,7 +599,8 @@
 
    </div>
 
-   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+
+<!-- linking javascript -->
    <script src="javascript/dine.js"> </script>
 
  </section>
