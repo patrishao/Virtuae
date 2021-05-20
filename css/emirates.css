@@ -15,6 +15,9 @@ a{
 	text-decoration: none;
 }
 
+#navbar #home-nav{
+	font-weight: 700;
+	}
 .wrapper{
 	height: 100%;
 	width: 100%;
@@ -187,7 +190,8 @@ button:hover{
 		font-size: 30px;
 	}
 }
-/* extra large screen */
+/* extra large screen */ 
+/* sarai carter */
 @media screen and (min-width: 1201px){
 	.post-slider h1{
 		font-size: 150px;

@@ -5,6 +5,7 @@ body{
 	padding: 0;
 	height: 100vh;
 }
+
 .navbar{
 	background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/dubai_bg.jpg");
     background-repeat: no-repeat;
@@ -27,14 +28,14 @@ body{
     height: 100%;
 }
 .container{
-    display: flex;
     width: 100%;
 }
-.categories {
+.categories{
     height: 10%;
     width: 100%;
     display: flex;
     justify-content: center;
+    position: absolute;
 }
 .categories button {
     border: none;
@@ -145,13 +146,18 @@ button:active {
     background-color: white;
     border: 1px solid #d07b3b;
 }
-
-
-#menuShow{
+.toggleArea{
+    background-color: #252525;
+    position: relative;
+    display: none;
+    font-family: 'Karla';
+}
+.menu{
+    width: 30rem;
+}
+#toggle{
     display: none;
 }
-
-
 /* footer */
 footer{
     padding: 1rem;
@@ -167,6 +173,21 @@ footer{
     }
     #categTitle{
         font-size: 1.5rem;
+    }
+    .categories{
+        flex-direction: column;
+        display: none;
+        height: 20rem;
+    }
+    .categories button{
+        position: relative;
+        width: 100%;
+    }
+    #toggle:checked + .categories{
+        display: flex;
+    }
+    .toggleArea, .menu{
+        display: flex;
     }
 }
 /* tablet */
@@ -202,5 +223,4 @@ footer{
         flex-direction: column;
         justify-content: space-between;
     }
-
 }

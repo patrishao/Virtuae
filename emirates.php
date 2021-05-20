@@ -22,7 +22,7 @@
         <div class="wrapper">
         <div class="post-slider">
             <h1>DUBAI</h1>
-            <a href="dubai-emirates.php"><button>Explore</button></a>
+            <a href="dubai.php"><button>Explore</button></a>
 
             <!-- left and right buttons to scroll -->
             <i class="fas fa-chevron-left prev"></i>
