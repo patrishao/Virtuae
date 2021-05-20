@@ -151,9 +151,10 @@ button:active {
     position: relative;
     display: none;
     font-family: 'Karla';
-}
-.menu{
-    width: 30rem;
+    font-size: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    color: white;
 }
 #toggle{
     display: none;
