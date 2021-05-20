@@ -142,5 +142,4 @@ var i = 0;
   
   window.onload = changeImage;
 
-  console.log(images.length);
 

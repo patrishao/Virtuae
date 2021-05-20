@@ -18,7 +18,7 @@
 <body>
     <div class="navbg"> 
     <?php include 'includes/headers-edit.php'; ?> 
-    </div>
+   
 
     <div class="container-1">
 
@@ -27,7 +27,7 @@
              <div class="rectangle"></div>
            </div>
 
-
+    </div>
 <div class="display" >
 
 <!-- if there is an active session display the profile-loggedin -->

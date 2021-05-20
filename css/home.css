@@ -11,9 +11,6 @@ body{
 
 
 
-
-
-
 /* --- top page part --- */
 
 #nav{
@@ -28,6 +25,12 @@ body{
 
 }
 
+#slideshow{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
 
 /* edited the nav bar a little bit  */
 
@@ -36,10 +39,9 @@ body{
     left: 190%;
 }
 
-#navbar #home-nav{
+.holder  #home-nav{
     font-weight: 700;
   }
-
 
 
 
@@ -105,7 +107,8 @@ edit h1 inside the class*/
 I created a container so that I can easily position them at one place at once 
 and not put their positions each class**/
 .pages{
-    margin-top: 180px;
+  
+    bottom: 10%;
     float: left;
     position: absolute;
     margin-left: 50px;
@@ -785,6 +788,15 @@ button{
 /* small  screens laptops*/
 @media screen and (min-width: 769px) and (max-width: 1024px) {
 
+    #nav{
+        height: 110vh;
+    }
+
+    #slideshow{
+        width: 60%;
+        top: 55%;
+    }
+
 
     /* top destinations section */
     .top-destinations{
@@ -808,7 +820,6 @@ button{
     .destinations img{
         width: 91%;
 
-      
     }
 
     .container .destinations{
@@ -853,7 +864,7 @@ button{
     .pages{
         display: flex;
         float: none;
-        left: 30%;
+        left: 27%;
         bottom: 40px;
     
     }
@@ -862,12 +873,26 @@ button{
     flex-direction: column;
     padding: 0 20px;
 
-
     }
 
     .page a:hover{
         margin-left: 0;
         bottom: -5px;
+    }
+
+
+    #nav h1{
+        font-size: 80px;
+    }
+
+    .nav-contents a{
+        font-size: 17px;
+    }
+
+
+    #slideshow{
+        top: 60%;
+        width: 60%;
     }
 
 
@@ -1056,6 +1081,10 @@ button{
         bottom: -5px;
     }
 
+    
+    #slideshow{
+        margin-top: 80px;
+    }
 
 
 
@@ -1233,6 +1262,24 @@ button{
 
     }
 
+    .navbar.responsive {
+        position: fixed;
+        background-color: black;
+        height: 100%;
+        z-index: 9999;
+      }
+    
+      .navbar.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+      .navbar.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+      }
+    
 
 
 
