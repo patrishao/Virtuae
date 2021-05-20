@@ -3,12 +3,14 @@
 body{
 	margin: 0;
 	padding: 0;
-	height: 100vh;
-}
-.navbar{
 	background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/dubai_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+	height: 100%; /*hello, chinange ko to as 100%, originall 100vh, it might b better*/
+}
+
+.navbar{
+
     height: 100%;
 }
 a{
