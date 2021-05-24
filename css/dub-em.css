@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: black;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/ad_bg.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("../images/emirates/dubai_bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -31,7 +31,7 @@ body{
 .container h1{
     font-family: 'Montserrat';
     text-align: center;
-    font-size: 7rem;
+    font-size: 8rem;
     color: white;
 }
 .container button{
@@ -129,7 +129,7 @@ a{
 /* phone */
 @media screen and (max-width: 480px) {
 	.container h1{
-		font-size: 3.5rem;
+		font-size: 5rem;
 	}
 	.slider{
 		width: 80%;
@@ -148,7 +148,7 @@ a{
 /* tablet */
 @media screen and (min-width: 481px) and (max-width: 768px) {
 	.container h1{
-		font-size: 4rem;
+		font-size: 6rem;
 	}
 	.next, .prev{
 		visibility: hidden;
@@ -157,7 +157,7 @@ a{
 /* small screen */
 @media screen and (min-width: 769px) and (max-width: 1024px) {
 	.post-slider h1{
-		font-size: 5rem;
+		font-size: 7rem;
 	}
     .next, .prev{
 		visibility: hidden;
@@ -166,7 +166,7 @@ a{
 /* large screen */
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
 	.container h1{
-		font-size: 6rem;
+		font-size: 8rem;
 	}
 	.next, .prev{
 		top: 65%;
@@ -175,7 +175,7 @@ a{
 }
 @media screen and (min-width: 1201px){
 	.post-slider h1{
-		font-size: 6rem;
+		font-size: 8rem;
 	}
 	.post-slider button{
 		font-size: 23px;
