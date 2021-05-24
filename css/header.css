@@ -185,6 +185,7 @@ a.icon:hover path{
     background-color: #252525;
     height: 100%;
     overflow-x: hidden;
+    z-index: 9999;
   }
 
   /* adjusted the icon when the nav is opened */
@@ -193,7 +194,7 @@ a.icon:hover path{
     left: 0;
     margin-left: 20px;
     top: 0;
-    
+
   }
 
 /* adjusted the design for the links inside the nav */
