@@ -15,7 +15,6 @@
         <div class="wrapper">
             <div class="container">
                
-                
                 <div class="toggleArea">
                     <label for="toggle">
                         <div class="menu">MENU</div>
