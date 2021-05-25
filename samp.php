@@ -3,8 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Dubai</title>
+	<title>Abu Dhabi</title>
 	<link rel="stylesheet" type="text/css" href="css/samp.css">
+    <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
 
 </head>
 <body>
@@ -13,27 +14,26 @@
     </div>
 
         <div class="wrapper">
+            <div class="title">
+                <h1>ABU DHABI</h1>
+                <div class="description">
+                    <p>Abu Dhabi has made itself known worldwide for holding Formula 1 races. The capital has a state-of-the-art, luxurious racing circuit and some of the most famous races in the world have taken place here.</p>
+                </div>
+            </div>
+            
             <div class="container">
                
-                <div class="toggleArea">
-                    <label for="toggle">
-                        <div class="menu">MENU</div>
-                    </label>
-                </div>
-
-                <input type="checkbox" id="toggle">
-
                 <div class="categories"> 
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'events')" id="menuHide">EVENTS</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'dine');" id="menuHide">DINE</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'activities')" id="menuHide">ACTIVITIES</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'sights')" id="menuHide">SIGHTS TO SEE</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'discover')" id="menuHide">DISCOVER</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'mosque')" id="menuHide">MOSQUES</button>
+                        <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'events')" id="menuHide">EVENTS</button>
+                        <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'dine');" id="menuHide">DINE</button>
+                        <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'activities')" id="menuHide">ACTIVITIES</button>
+                        <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'sights')" id="menuHide">SIGHTS TO SEE</button>
+                        <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'discover')" id="menuHide">DISCOVER</button>
+                        <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'mosque')" id="menuHide">MOSQUES</button>
                 </div>
                 
             </div>
-        </div>
+        </div> 
    
 
     <div class="categ" id="categ" style="display: none;">
