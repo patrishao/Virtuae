@@ -21,8 +21,9 @@ body{
     color: white;
 }
 .description{ 
+    font-family: 'Karla';
     width: 70%;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 /*
 
@@ -66,6 +67,7 @@ body{
 .categories{
     display: flex;
     justify-content: center;
+    align-items: flex-end;
     height: 30%;
     width: 100%;
 }
@@ -98,62 +100,6 @@ body{
     color: white;
 }
 
-/* 
-.categories{
-    height: 10%;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    position: absolute;
-}
-.categories button {
-    border: none;
-    outline: none;
-    color: white;
-    flex-grow: 1;
-    font-size: 1.2rem;
-}
-.categories button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 8rem; 
-    width: 10rem;
-    background-color: #252525;
-    text-align: center;
-}
-.categories button:not(:last-child) {
-    border-right: 1px solid rgb(70, 70, 70);
-}
-  
-.categories button:hover {
-    background-color: white;
-    color: #d07b3b;
-    cursor: pointer;
-}
-.categories button:active {
-    background-color: #d07b3b;
-    color: white;
-} */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* card holder */
 .categ{
@@ -168,7 +114,7 @@ body{
     color: #2C2C2C;
     width: 85%;
     margin: auto;
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-bottom: 3rem;
 }
 /*  */
