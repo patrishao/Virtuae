@@ -40,7 +40,7 @@
                 </div>
                 <input type="checkbox" id="toggle">
                 <div class="categories"> 
-                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'events')">EVENTS</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'events')">ENTERTAINMENT</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'dine');">DINE</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'activities')">ACTIVITIES</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'sights')">SIGHTS TO SEE</button>
@@ -55,7 +55,7 @@
     <div class="categ" id="categ" style="display: none;">
         <div class="wrapCateg acc-tabs" id="events" style="display: none;">
         <div id="categTitle">
-            <h1>EVENTS IN RAS AL KHAIMAH</h1>
+            <h1>ENTERTAINMENT IN RAS AL KHAIMAH</h1>
         </div>
 
         <!--  -->
@@ -66,8 +66,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Hamra Mall</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -85,8 +85,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Manar Mall</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -104,8 +104,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Flamingo Beach</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -123,8 +123,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Jasims Wildlife Park</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -142,8 +142,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Iceland Waterpark</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -170,8 +170,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Waldorf Astoria</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -189,8 +189,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Zaitouna House</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -208,8 +208,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Sanchaya</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -227,8 +227,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Meze</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -246,8 +246,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Piaceri Da Gustare</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -272,8 +272,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Jebel Jais</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -291,8 +291,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Iceland Waterpark</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -310,8 +310,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Manar Mall</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -329,8 +329,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Wadi Shawka</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -348,8 +348,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Bassata Desert Village</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -374,8 +374,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Jebel Jais</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -393,8 +393,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Hajar Mountains</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -412,8 +412,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Dhayah Fort</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -431,8 +431,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Jazirat Al Hamra</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -450,8 +450,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Shimal</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -466,36 +466,16 @@
         <div id="categTitle">
             <h1>DISCOVER IN RAS AL KHAIMAH</h1>
         </div>
-
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/rak_bg (2).jpg" alt="" srcset="">
+                <img src="marina.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Shimal</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -513,8 +493,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Jasims Wildlife Park</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -532,27 +512,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Saqr Park</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -567,45 +528,6 @@
         <div id="categTitle">
             <h1>MOSQUES IN RAS AL KHAIMAH</h1>
         </div>
-
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!--  -->
         <div class="card">
             <div class="imgCard">
@@ -614,46 +536,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Sheikh Zayed Mosque</h3>
+                        <h4>Ras Al Khaimah</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
