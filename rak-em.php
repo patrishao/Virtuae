@@ -34,8 +34,8 @@
         <div class="container">
 
             <!-- title and button -->
-            <h1 class="title">RAS AL KHAIMA</h1>
-            <a href="#"><button>Explore</button></a>
+            <h1 class="title">RAS AL KHAIMAH</h1>
+            <a href="rak.php"><button>Explore</button></a>
 
             
             <!--  controls

@@ -35,7 +35,7 @@
 
             <!-- title and button -->
             <h1 class="title">FUJAIRAH</h1>
-            <a href="#"><button>Explore</button></a>
+            <a href="fujairah.php"><button>Explore</button></a>
 
             
             <!--  controls
