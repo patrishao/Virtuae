@@ -5,38 +5,40 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Dubai</title>
 	<link rel="stylesheet" type="text/css" href="css/dubai.css">
+    <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
 
 </head>
 <body>
-    <div class="navbar">
+    <div id="navbar">
         <?php include 'includes/headers.php';?>
+    </div>
 
         <div class="wrapper">
-            <div class="container">
-                <div id="title">
-                    <h1>DUBAI</h1>
+            <div class="title">
+                <h1>DUBAI</h1>
+                <div class="description">
+                    <p>Dubai is known for luxury shopping, modern architecture, and a lively nightlife scene. Burj Khalifa, the tallest building in the world, dominates the skyscraper-filled skyline.</p>
                 </div>
-
+            </div>
+            
+            <div class="container">    
+                 
                 <div class="toggleArea">
-                    <label for="toggle">
-                        <div class="menu">MENU</div>
-                    </label>
+                    <label for="toggle">MENU</label>
                 </div>
-
                 <input type="checkbox" id="toggle">
-
                 <div class="categories"> 
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'events')" id="menuHide">EVENTS</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'dine');" id="menuHide">DINE</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'activities')" id="menuHide">ACTIVITIES</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'sights')" id="menuHide">SIGHTS TO SEE</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'discover')" id="menuHide">DISCOVER</button>
-                    <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'mosque')" id="menuHide">MOSQUES</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'events')">EVENTS</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'dine');">DINE</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'activities')">ACTIVITIES</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'sights')">SIGHTS TO SEE</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'discover')">DISCOVER</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'mosque')">MOSQUES</button>
                 </div>
                 
             </div>
-        </div>
-    </div>
+        </div> 
+   
 
     <div class="categ" id="categ" style="display: none;">
         <div class="wrapCateg acc-tabs" id="events" style="display: none;">
@@ -650,12 +652,13 @@
             </div>
         </div>
         </div>
+
 <footer></footer>
 
 
 
   
-<script type="text/javascript" src="javascript/dubai.js"></script>
+<script type="text/javascript" src="javascript/hide-show.js"></script>
 </body>
 </html>
 

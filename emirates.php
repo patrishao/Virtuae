@@ -21,7 +21,7 @@
 
             <!-- title and button -->
             <h1 class="title">ABU DHABI</h1>
-            <a href="samp.php"><button>Explore</button></a>
+            <a href="abudhabi.php"><button>Explore</button></a>
 
             
             <!--  controls

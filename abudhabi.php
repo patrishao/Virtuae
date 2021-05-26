@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Abu Dhabi</title>
-	<link rel="stylesheet" type="text/css" href="css/samp.css">
+	<link rel="stylesheet" type="text/css" href="css/abudhabi.css">
     <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
 
 </head>
@@ -21,8 +21,12 @@
                 </div>
             </div>
             
-            <div class="container">
-               
+            <div class="container">            
+                  
+                <div class="toggleArea">
+                    <label for="toggle">MENU</label>
+                </div>
+                <input type="checkbox" id="toggle">
                 <div class="categories"> 
                         <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'events')" id="menuHide">EVENTS</button>
                         <button class="tab-btn tablink" onclick="toggleShow(); openTab(event, 'dine');" id="menuHide">DINE</button>
@@ -39,7 +43,7 @@
     <div class="categ" id="categ" style="display: none;">
         <div class="wrapCateg acc-tabs" id="events" style="display: none;">
         <div id="categTitle">
-            <h1>EVENTS IN DUBAI</h1>
+            <h1>EVENTS IN ABU DHABI</h1>
         </div>
 
         <!--  -->
@@ -143,7 +147,7 @@
 
         <div class="wrapCateg acc-tabs" id="dine" style="display: none;">
         <div id="categTitle">
-            <h1>DINE IN DUBAI</h1>
+            <h1>DINE IN ABU DHABI</h1>
         </div>
 
         <!--  -->
@@ -245,7 +249,7 @@
 
         <div class="wrapCateg acc-tabs" id="activities" style="display: none;">
         <div id="categTitle">
-            <h1>ACTIVITIES IN DUBAI</h1>
+            <h1>ACTIVITIES IN ABU DHABI</h1>
         </div>
 
         <!--  -->
@@ -347,7 +351,7 @@
 
         <div class="wrapCateg acc-tabs" id="sights" style="display: none;">
         <div id="categTitle">
-            <h1>SIGHTS TO SEE IN DUBAI</h1>
+            <h1>SIGHTS TO SEE IN ABU DHABI</h1>
         </div>
 
         <!--  -->
@@ -448,7 +452,7 @@
         </div>
         <div class="wrapCateg acc-tabs" id="discover" style="display: none;">
         <div id="categTitle">
-            <h1>DISCOVER IN DUBAI</h1>
+            <h1>DISCOVER IN ABU DHABI</h1>
         </div>
 
         <!--  -->
@@ -549,7 +553,7 @@
         </div>
         <div class="wrapCateg acc-tabs" id="mosque" style="display: none;">
         <div id="categTitle">
-            <h1>MOSQUES IN DUBAI</h1>
+            <h1>MOSQUES IN ABU DHABI</h1>
         </div>
 
         <!--  -->
@@ -654,7 +658,7 @@
 
 
   
-<script type="text/javascript" src="javascript/dubai.js"></script>
+<script type="text/javascript" src="javascript/hide-show.js"></script>
 </body>
 </html>
 

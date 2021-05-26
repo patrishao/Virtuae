@@ -21,3 +21,6 @@ function openTab(event, tabPages) {
 		x.style.display = "block";
 	  } 
   }
+
+
+
