@@ -40,7 +40,7 @@
                 </div>
                 <input type="checkbox" id="toggle">
                 <div class="categories"> 
-                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'events')">EVENTS</button>
+                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'events')">ENTERTAINMENT</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'dine');">DINE</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'activities')">ACTIVITIES</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'sights')">SIGHTS TO SEE</button>
@@ -55,7 +55,7 @@
     <div class="categ" id="categ" style="display: none;">
         <div class="wrapCateg acc-tabs" id="events" style="display: none;">
         <div id="categTitle">
-            <h1>EVENTS IN AJMAN</h1>
+            <h1>ENTERTAINMENT IN AJMAN</h1>
         </div>
 
         <!--  -->
@@ -66,8 +66,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman City Centre</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -85,8 +85,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Sinniyah Island</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -104,8 +104,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman Museum</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -123,8 +123,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman Corniche</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -134,25 +134,6 @@
                 </div>
             </div>
         </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-            </div>
 
             
         </div>
@@ -170,8 +151,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Safi Steakhouse</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -189,8 +170,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Cafe Naseem</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -208,8 +189,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Bab Al Bahr</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -227,8 +208,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Danial Restaurant</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -246,8 +227,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Dragon's Place</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -272,8 +253,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Aqua Bounce</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -291,8 +272,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Sinniyah Island</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -310,8 +291,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman Museum</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -329,27 +310,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman Corniche</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -374,8 +336,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman Museum</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -393,65 +355,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Sinniyah Island</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -462,30 +367,12 @@
             </div>
         </div>
         </div>
+
+
         <div class="wrapCateg acc-tabs" id="discover" style="display: none;">
         <div id="categTitle">
             <h1>DISCOVER IN AJMAN</h1>
         </div>
-
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="images/emirates/rak_bg (2).jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
         <!--  -->
         <div class="card">
             <div class="imgCard">
@@ -494,8 +381,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Ajman Dhow Building Yard</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -513,8 +400,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Jarah Culture Centre</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -532,8 +419,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Zorah Natural Reserve</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -551,8 +438,8 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Al Murabba Watchtower</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
@@ -571,89 +458,13 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
                 <img src="marina.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Dubai Marina</h3>
-                        <h4>Dubai</h4>
+                        <h3>Sheikh Zayed Mosque</h3>
+                        <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
