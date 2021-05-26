@@ -9,6 +9,20 @@
      <!-- link for transition -->
     <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <style>
+        body{
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("images/emirates/ad_bg.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-color: #252525;
+    }
+    </style>
 </head>
 <body>
     <div id="navbar">

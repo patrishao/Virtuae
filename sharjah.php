@@ -3,22 +3,21 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Dubai</title>
+	<title>Sharjah</title>
 	<link rel="stylesheet" type="text/css" href="css/category.css">
     <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
     <style>
         body{
         margin: 0;
         padding: 0;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("images/emirates/dubai_bg.jpg");
-        background-repeat: no-repeat;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("images/emirates/shj_bg.jpeg");
+         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
         position: relative;
         width: 100%;
         height: 100vh;
-        background-color: #252525;
-    } 
+        background-color: #252525;}
     </style>
 </head>
 <body>
@@ -28,7 +27,7 @@
 
         <div class="wrapper">
             <div class="title">
-                <h1>DUBAI</h1>
+                <h1>SHARJAH</h1>
                 <div class="description">
                     <p>Dubai is known for luxury shopping, modern architecture, and a lively nightlife scene. Burj Khalifa, the tallest building in the world, dominates the skyscraper-filled skyline.</p>
                 </div>
@@ -56,7 +55,7 @@
     <div class="categ" id="categ" style="display: none;">
         <div class="wrapCateg acc-tabs" id="events" style="display: none;">
         <div id="categTitle">
-            <h1>EVENTS IN DUBAI</h1>
+            <h1>EVENTS IN SHARJAH</h1>
         </div>
 
         <!--  -->
@@ -160,7 +159,7 @@
 
         <div class="wrapCateg acc-tabs" id="dine" style="display: none;">
         <div id="categTitle">
-            <h1>DINE IN DUBAI</h1>
+            <h1>DINE IN SHARJAH</h1>
         </div>
 
         <!--  -->
@@ -262,7 +261,7 @@
 
         <div class="wrapCateg acc-tabs" id="activities" style="display: none;">
         <div id="categTitle">
-            <h1>ACTIVITIES IN DUBAI</h1>
+            <h1>ACTIVITIES IN SHARJAH</h1>
         </div>
 
         <!--  -->
@@ -364,7 +363,7 @@
 
         <div class="wrapCateg acc-tabs" id="sights" style="display: none;">
         <div id="categTitle">
-            <h1>SIGHTS TO SEE IN DUBAI</h1>
+            <h1>SIGHTS TO SEE IN SHARJAH</h1>
         </div>
 
         <!--  -->
@@ -465,7 +464,7 @@
         </div>
         <div class="wrapCateg acc-tabs" id="discover" style="display: none;">
         <div id="categTitle">
-            <h1>DISCOVER IN DUBAI</h1>
+            <h1>DISCOVER IN SHARJAH</h1>
         </div>
 
         <!--  -->
@@ -566,7 +565,7 @@
         </div>
         <div class="wrapCateg acc-tabs" id="mosque" style="display: none;">
         <div id="categTitle">
-            <h1>MOSQUES IN DUBAI</h1>
+            <h1>MOSQUES IN SHARJAH</h1>
         </div>
 
         <!--  -->

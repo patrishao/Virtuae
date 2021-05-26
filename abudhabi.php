@@ -4,9 +4,22 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Abu Dhabi</title>
-	<link rel="stylesheet" type="text/css" href="css/abudhabi.css">
+	<link rel="stylesheet" type="text/css" href="css/category.css">
     <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
-
+    <style>
+        body{
+        margin: 0;
+        padding: 0;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("images/emirates/ad_bg.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-color: #252525;
+    } 
+    </style>
 </head>
 <body>
     <div id="navbar">
