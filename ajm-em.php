@@ -35,7 +35,7 @@
 
             <!-- title and button -->
             <h1 class="title">AJMAN</h1>
-            <a href="#"><button>Explore</button></a>
+            <a href="ajman.php"><button>Explore</button></a>
 
             
             <!--  controls

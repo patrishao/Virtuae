@@ -3,14 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Sharjah</title>
+	<title>Ajman</title>
 	<link rel="stylesheet" type="text/css" href="css/category.css">
     <link rel="stylesheet" type="text/css" href="css/trans-page.css"> 
     <style>
         body{
         margin: 0;
         padding: 0;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("images/emirates/shj_bg.jpeg");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.288)), url("images/emirates/ajm_bg.jpg");
          background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -27,9 +27,9 @@
 
         <div class="wrapper">
             <div class="title">
-                <h1>SHARJAH</h1>
+                <h1>AJMAN</h1>
                 <div class="description">
-                    <p>Sharjah is known for its Arabic and Islamic architecture as well as its libraries, Islamic museums, and cultural centers. The city is known as the cultural and literature hub of the United Arab Emirates.</p>
+                    <p>Ajman is the capital of the emirate of Ajman in the United Arab Emirates. It is the smallest emirate of the United Arab Emirates and is engulfed by the larger emirate of Sharjah.</p>
                 </div>
             </div>
             
@@ -55,7 +55,7 @@
     <div class="categ" id="categ" style="display: none;">
         <div class="wrapCateg acc-tabs" id="events" style="display: none;">
         <div id="categTitle">
-            <h1>EVENTS IN SHARJAH</h1>
+            <h1>EVENTS IN AJMAN</h1>
         </div>
 
         <!--  -->
@@ -159,7 +159,7 @@
 
         <div class="wrapCateg acc-tabs" id="dine" style="display: none;">
         <div id="categTitle">
-            <h1>DINE IN SHARJAH</h1>
+            <h1>DINE IN AJMAN</h1>
         </div>
 
         <!--  -->
@@ -261,7 +261,7 @@
 
         <div class="wrapCateg acc-tabs" id="activities" style="display: none;">
         <div id="categTitle">
-            <h1>ACTIVITIES IN SHARJAH</h1>
+            <h1>ACTIVITIES IN AJMAN</h1>
         </div>
 
         <!--  -->
@@ -363,7 +363,7 @@
 
         <div class="wrapCateg acc-tabs" id="sights" style="display: none;">
         <div id="categTitle">
-            <h1>SIGHTS TO SEE IN SHARJAH</h1>
+            <h1>SIGHTS TO SEE IN AJMAN</h1>
         </div>
 
         <!--  -->
@@ -464,7 +464,7 @@
         </div>
         <div class="wrapCateg acc-tabs" id="discover" style="display: none;">
         <div id="categTitle">
-            <h1>DISCOVER IN SHARJAH</h1>
+            <h1>DISCOVER IN AJMAN</h1>
         </div>
 
         <!--  -->
@@ -565,7 +565,7 @@
         </div>
         <div class="wrapCateg acc-tabs" id="mosque" style="display: none;">
         <div id="categTitle">
-            <h1>MOSQUES IN SHARJAH</h1>
+            <h1>MOSQUES IN AJMAN</h1>
         </div>
 
         <!--  -->
