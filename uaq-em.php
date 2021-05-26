@@ -35,7 +35,7 @@
 
             <!-- title and button -->
             <h1 class="title">UMM AL QUWAIN</h1>
-            <a href="#"><button>Explore</button></a>
+            <a href="uaq.php"><button>Explore</button></a>
 
             
             <!--  controls
