@@ -261,6 +261,12 @@
         display: inline-block;
         font-family: 'Karla', sans-serif;
         cursor: pointer;
+        transition: 0.3s;
+    }
+
+    .save-changes:hover{
+        background-color: #252525;
+        border: 2px solid #252525;
     }
         
     .delete-acc{
@@ -279,7 +285,13 @@
         display: inline-block;
         font-family: 'Karla', sans-serif;
         cursor: pointer;
+        transition: 0.3s;
     } 
+
+    .delete-acc:hover{
+        background-color: #252525;
+        border: 2px solid #252525;
+    }
         
     footer{
         margin-bottom: 850px;
@@ -547,6 +559,12 @@
         display: inline-block;
         font-family: 'Karla', sans-serif;
         cursor: pointer;
+        transition: 0.3s;
+    }
+
+    .save-changes:hover{
+        background-color: #252525;
+        border: 2px solid #252525;
     }
         
     .delete-acc{
@@ -565,7 +583,13 @@
         display: inline-block;
         font-family: 'Karla', sans-serif;
         cursor: pointer;
+        transition: 0.3s;
     } 
+
+    .delete-acc{
+        background-color: #252525;
+        border: 2px solid #252525;
+    }
         
     footer{
         margin-bottom: 200px;
@@ -585,11 +609,11 @@
 
     .container{
         border: 1px black;
-        width: 20in;
-        height: 16in;
+        width: 15in;
+        height: 10in;
         margin: 0 auto;
         background-color: white;
-        margin-top: 2in;
+        margin-top: 0.5in;
     }
 
     .user-details{
@@ -602,18 +626,18 @@
     /*prof details*/
     .prof-pic{
         border-radius: 50%;
-        width: 270px;
-        height: 270px;
+        width: 180px;
+        height: 180px;
         position: relative;
-        margin-left: 320px;
+        margin-left: 220px;
         margin-top: 80px;
     }
     .circle{
         position: relative;
-        margin-left: -500px;
-        margin-top: 200px;
-        width: 50px;
-        height: 50px;
+        margin-left: -380px;
+        margin-top: 170px;
+        width: 35px;
+        height: 35px;
         background: #252525;
         border-radius: 50%;
         padding: 7px;
@@ -621,10 +645,10 @@
         
     .edit{
         position: relative;
-        width: 39px;
+        width: 29px;
         height: auto;
-        margin-left: 5px;
-        margin-top: 5px;
+        margin-left: 4px;
+        margin-top: 4px;
     }
     .descs{
         display: flex;
@@ -638,7 +662,7 @@
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 45px;
+        font-size: 34px;
     
         color: #252525;
     }
@@ -646,56 +670,56 @@
         position: relative;
         height: 29px;
         margin-left: 100px;
-        margin-top: 5px;
+        margin-top: 7px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 32px;
+        font-size: 22px;
     
         color: #252525;
     }
     .location-img{
         position: relative;
         width: auto;
-        height: 29px;
+        height: 20px;
     }
     .location{
         position: relative;
-        margin-top: 50px;
+        margin-top: 28px;
         margin-left: 100px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 32px;
+        font-size: 22px;
         color: #252525;
     }
         
     h1{
         position: relative;
         margin-left: 70px;
-        margin-top: -230px;
+        margin-top: -150px;
     
         font-family: 'Montserrat', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 45px;
+        font-size: 34px;
     
         color: #252525;
     }    
     
     h2{
         position: relative;
-        height: 35px;
+        height: 28px;
         margin-left: 70px;
-        margin-top: 200px;
-        padding-bottom: 50px;
+        margin-top: 150px;
+        padding-bottom: 35px;
         
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 40px;
+        font-size: 28px;
         
         color: #252525;
     }
@@ -709,7 +733,7 @@
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 40px;
+        font-size: 28px;
         color: #252525;
     }
     
@@ -720,55 +744,55 @@
     .name-label{
         position: relative;
         height: 18px;
-        margin-left: 590px;
-        margin-top: -10px;
+        margin-left: 480px;
+        margin-top: -20px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 25px;
+        font-size: 18px;
     
         color: #252525;
     }
     .full-name{
         outline: none;
         position: relative;
-        height: 60px;
-        width: 500px;
-        margin-left: 590px;
-        margin-top: 30px;
+        height: 50px;
+        width: 350px;
+        margin-left: 480px;
+        margin-top: 13px;
         box-sizing: border-box;
         padding: 20px;
         border: 2px solid #252525;
         border-radius: 15px;
         font-family: 'Karla', sans-serif;
-        font-size: 25px;
+        font-size: 20px;
     }
     .last-name{
         outline: none;
         position: relative;
-        height: 60px;
-        width: 500px;
-        margin-left: 1155px;
-        margin-top: -60px;
+        height: 50px;
+        width: 350px;
+        margin-left: 890px;
+        margin-top: -50px;
         box-sizing: border-box;
         padding: 20px;
         border: 2px solid #252525;
         border-radius: 15px;
         font-family: 'Karla', sans-serif;
-        font-size: 25px;
+        font-size: 20px;
     }
         
     .loc-label{
         position: relative;
         height: 18px;
-        margin-left: 590px;
-        margin-top: 50px;
+        margin-left: 480px;
+        margin-top: 40px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 25px;
+        font-size: 18px;
     
         color: #252525;
     }
@@ -776,63 +800,69 @@
     .loc{
         outline: none;
         position: relative;
-        height: 60px;
-        width: 1065px;
-        margin-left: 590px;
-        margin-top: 25px;
+        height: 50px;
+        width: 760px;
+        margin-left: 480px;
+        margin-top: 13px;
         box-sizing: border-box;
         padding: 20px;
         border: 2px solid #252525;
         border-radius: 15px;
         font-family: 'Karla', sans-serif;
-        font-size: 25px;
+        font-size: 20px;
     }
     
     .cp-label{
         position: relative;
         height: 18px;
-        margin-left: 590px;
-        margin-top: 50px;
+        margin-left: 480px;
+        margin-top: 40px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 25px;
+        font-size: 18px;
     
         color: #252525;
     }
     .phone-no{
         outline: none;
         position: relative;
-        height: 60px;
-        width: 1065px;
-        margin-left: 590px;
-        margin-top: 25px;
+        height: 50px;
+        width: 760px;
+        margin-left: 480px;
+        margin-top: 13px;
         box-sizing: border-box;
         padding: 20px;
         border: 2px solid #252525;
         border-radius: 15px;
         font-family: 'Karla', sans-serif;
-        font-size: 25px;
+        font-size: 20px;
     }
         
     .save-changes{
         position: relative;
-        margin-left: 830px;
-        margin-top: 0.9in;
+        margin-left: 620px;
+        margin-top: 0.8in;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 270px;
-        height: 75px;
+        width: 210px;
+        height: 57px;
         padding: 5px 20px;
-        font-size: 30px;
+        font-size: 24px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         font-family: 'Karla', sans-serif;
         cursor: pointer;
+        transition: 0.3s;
+    }
+
+    .save-changes:hover{
+        background-color: #252525;
+        border: 2px solid #252525;
     }
         
     .delete-acc{
@@ -842,19 +872,25 @@
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 270px;
-        height: 75px;
+        width: 210px;
+        height: 57px;
         padding: 5px 20px;
-        font-size: 30px;
+        font-size: 24px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
         font-family: 'Karla', sans-serif;
         cursor: pointer;
+        transition: 0.3s;
     } 
+
+    .delete-acc{
+        background-color: #252525;
+        border: 2px solid #252525;
+    }
         
     footer{
-        margin-bottom: 850px;
+        margin-bottom: 200px;
     }
 }
 
