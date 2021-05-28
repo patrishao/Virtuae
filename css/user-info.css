@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
-/* @media screen and (max-width: 2056px) {
+@media screen and (max-width: 1920px) {
     body{
     margin:0;
     font-family: 'Karla';
@@ -13,309 +13,14 @@
 
     .container{
         border: 1px black;
-        width: 20in;
-        height: 16in;
-        margin: 0 auto;
+        width: 10in;
+        height: 8in;
         background-color: white;
-        margin-top: 2in;
-    }
-
-    .user-details{
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-left: 250px;
-    }
-    
-    prof details
-    .prof-pic{
-        border-radius: 50%;
-        width: 270px;
-        height: 270px;
-        position: relative;
-        margin-left: 320px;
-        margin-top: 80px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -500px;
-        margin-top: 200px;
-        width: 50px;
-        height: 50px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-        
-    .edit{
-        position: relative;
-        width: 39px;
-        height: auto;
-        margin-left: 5px;
-        margin-top: 5px;
-    }
-    .descs{
-        display: flex;
-        flex-direction: column;
-    }
-    .name{
-        position: relative;
-        margin-left: 100px;
-        margin-top: 70px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 45px;
-    
-        color: #252525;
-    }
-    .email{
-        position: relative;
-        height: 29px;
-        margin-left: 100px;
-        margin-top: 5px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 32px;
-    
-        color: #252525;
-    }
-    .location-img{
-        position: relative;
-        width: auto;
-        height: 29px;
-    }
-    .location{
-        position: relative;
-        margin-top: 50px;
-        margin-left: 100px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 32px;
-        color: #252525;
-    }
-        
-    h1{
-        position: relative;
-        margin-left: 70px;
-        margin-top: -230px;
-    
-        font-family: 'Montserrat', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 45px;
-    
-        color: #252525;
-    }    
-    
-    h2{
-        position: relative;
-        height: 35px;
-        margin-left: 70px;
-        margin-top: 200px;
-        padding-bottom: 50px;
-        
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 40px;
-        
-        color: #252525;
-    }
-        
-    .acc-s{
-        position: relative;
-        margin-left: 70px;
-    
-        cursor: pointer;
-        text-decoration: none;
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 40px;
-        color: #252525;
-    }
-    
-    .forms{
-        display: grid;
-    }
-        
-    .name-label{
-        position: relative;
-        height: 18px;
-        margin-left: 590px;
-        margin-top: -10px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 25px;
-    
-        color: #252525;
-    }
-    .full-name{
-        outline: none;
-        position: relative;
-        height: 60px;
-        width: 500px;
-        margin-left: 590px;
-        margin-top: 30px;
-        box-sizing: border-box;
-        padding: 20px;
-        border: 2px solid #252525;
-        border-radius: 15px;
-        font-family: 'Karla', sans-serif;
-        font-size: 25px;
-    }
-    .last-name{
-        outline: none;
-        position: relative;
-        height: 60px;
-        width: 500px;
-        margin-left: 1155px;
-        margin-top: -60px;
-        box-sizing: border-box;
-        padding: 20px;
-        border: 2px solid #252525;
-        border-radius: 15px;
-        font-family: 'Karla', sans-serif;
-        font-size: 25px;
-    }
-        
-    .loc-label{
-        position: relative;
-        height: 18px;
-        margin-left: 590px;
-        margin-top: 50px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 25px;
-    
-        color: #252525;
-    }
-    
-    .loc{
-        outline: none;
-        position: relative;
-        height: 60px;
-        width: 1065px;
-        margin-left: 590px;
-        margin-top: 25px;
-        box-sizing: border-box;
-        padding: 20px;
-        border: 2px solid #252525;
-        border-radius: 15px;
-        font-family: 'Karla', sans-serif;
-        font-size: 25px;
-    }
-    
-    .cp-label{
-        position: relative;
-        height: 18px;
-        margin-left: 590px;
-        margin-top: 50px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 25px;
-    
-        color: #252525;
-    }
-    .phone-no{
-        outline: none;
-        position: relative;
-        height: 60px;
-        width: 1065px;
-        margin-left: 590px;
-        margin-top: 25px;
-        box-sizing: border-box;
-        padding: 20px;
-        border: 2px solid #252525;
-        border-radius: 15px;
-        font-family: 'Karla', sans-serif;
-        font-size: 25px;
-    }
-        
-    .save-changes{
-        position: relative;
-        margin-left: 830px;
-        margin-top: 0.9in;
-        border: 2px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 270px;
-        height: 75px;
-        padding: 5px 20px;
-        font-size: 30px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-
-    .save-changes:hover{
-        background-color: #252525;
-        border: 2px solid #252525;
-    }
-        
-    .delete-acc{
-        position: relative;
-        margin-left: 60px;
-        border: 2px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 270px;
-        height: 75px;
-        padding: 5px 20px;
-        font-size: 30px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    } 
-
-    .delete-acc:hover{
-        background-color: #252525;
-        border: 2px solid #252525;
-    }
-        
-    footer{
-        margin-bottom: 850px;
-    }
-} */
-
-@media screen and (max-width: 2056px) {
-    body{
-    margin:0;
-    font-family: 'Karla';
-    }
-
-    .navbg{
-        display: flex;
-        flex-direction: row-reverse;
-    }
-
-    .container{
-        border: 1px black;
-        width: 15in;
-        height: 10in;
-        margin: 0 auto;
-        background-color: white;
+        margin-left: 1in;
         margin-top: 0.5in;
+        align-items: center;
+        align-content: center;
+        justify-content: center;
     }
 
     .user-details{
@@ -328,18 +33,18 @@
     /*prof details*/
     .prof-pic{
         border-radius: 50%;
-        width: 180px;
-        height: 180px;
+        width: 130px;
+        height: 130px;
         position: relative;
-        margin-left: 220px;
-        margin-top: 80px;
+        margin-left: 110px;
+        margin-top: 60px;
     }
     .circle{
         position: relative;
-        margin-left: -380px;
-        margin-top: 170px;
-        width: 35px;
-        height: 35px;
+        margin-left: -290px;
+        margin-top: 140px;
+        width: 20px;
+        height: 20px;
         background: #252525;
         border-radius: 50%;
         padding: 7px;
@@ -347,10 +52,8 @@
         
     .edit{
         position: relative;
-        width: 29px;
+        width: 20px;
         height: auto;
-        margin-left: 4px;
-        margin-top: 4px;
     }
     .descs{
         display: flex;
@@ -358,26 +61,26 @@
     }
     .name{
         position: relative;
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 70px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 34px;
+        font-size: 25px;
     
         color: #252525;
     }
     .email{
         position: relative;
         height: 29px;
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 7px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 22px;
+        font-size: 19px;
     
         color: #252525;
     }
@@ -389,24 +92,24 @@
     .location{
         position: relative;
         margin-top: 28px;
-        margin-left: 100px;
+        margin-left: 50px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 22px;
+        font-size: 19px;
         color: #252525;
     }
         
     h1{
         position: relative;
-        margin-left: 70px;
-        margin-top: -150px;
+        margin-left: 30px;
+        margin-top: -120px;
     
         font-family: 'Montserrat', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 34px;
+        font-size: 25px;
     
         color: #252525;
     }    
@@ -414,28 +117,28 @@
     h2{
         position: relative;
         height: 28px;
-        margin-left: 70px;
+        margin-left: 30px;
         margin-top: 150px;
-        padding-bottom: 35px;
+        padding-bottom: 20px;
         
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 28px;
+        font-size: 22px;
         
         color: #252525;
     }
         
     .acc-s{
         position: relative;
-        margin-left: 70px;
+        margin-left: 30px;
     
         cursor: pointer;
         text-decoration: none;
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 28px;
+        font-size: 22px;
         color: #252525;
     }
     
@@ -446,55 +149,55 @@
     .name-label{
         position: relative;
         height: 18px;
-        margin-left: 480px;
+        margin-left: 365px;
         margin-top: -20px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 18px;
+        font-size: 12px;
     
         color: #252525;
     }
     .full-name{
         outline: none;
         position: relative;
-        height: 50px;
-        width: 350px;
-        margin-left: 480px;
-        margin-top: 13px;
+        height: 30px;
+        width: 240px;
+        margin-left: 365px;
+        margin-top: 3px;
         box-sizing: border-box;
-        padding: 20px;
+        padding: 17px;
         border: 2px solid #252525;
-        border-radius: 15px;
+        border-radius: 10px;
         font-family: 'Karla', sans-serif;
-        font-size: 20px;
+        font-size: 14px;
     }
     .last-name{
         outline: none;
         position: relative;
-        height: 50px;
-        width: 350px;
-        margin-left: 890px;
-        margin-top: -50px;
+        height: 30px;
+        width: 240px;
+        margin-left: 635px;
+        margin-top: -38px;
         box-sizing: border-box;
-        padding: 20px;
+        padding: 17px;
         border: 2px solid #252525;
-        border-radius: 15px;
+        border-radius: 10px;
         font-family: 'Karla', sans-serif;
-        font-size: 20px;
+        font-size: 14px;
     }
         
     .loc-label{
         position: relative;
         height: 18px;
-        margin-left: 480px;
+        margin-left: 365px;
         margin-top: 40px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 18px;
+        font-size: 12px;
     
         color: #252525;
     }
@@ -502,58 +205,57 @@
     .loc{
         outline: none;
         position: relative;
-        height: 50px;
-        width: 760px;
-        margin-left: 480px;
-        margin-top: 13px;
+        height: 30px;
+        width: 510px;
+        margin-left: 365px;
+        margin-top: 3px;
         box-sizing: border-box;
-        padding: 20px;
+        padding: 17px;
         border: 2px solid #252525;
-        border-radius: 15px;
+        border-radius: 10px;
         font-family: 'Karla', sans-serif;
-        font-size: 20px;
+        font-size: 14px;
     }
     
     .cp-label{
         position: relative;
         height: 18px;
-        margin-left: 480px;
+        margin-left: 365px;
         margin-top: 40px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 18px;
+        font-size: 12px;
     
         color: #252525;
     }
     .phone-no{
         outline: none;
         position: relative;
-        height: 50px;
-        width: 760px;
-        margin-left: 480px;
-        margin-top: 13px;
+        height: 30px;
+        width: 510px;
+        margin-left: 365px;
+        margin-top: 3px;
         box-sizing: border-box;
-        padding: 20px;
+        padding: 17px;
         border: 2px solid #252525;
-        border-radius: 15px;
+        border-radius: 10px;
         font-family: 'Karla', sans-serif;
-        font-size: 20px;
+        font-size: 14px;
     }
         
     .save-changes{
         position: relative;
-        margin-left: 620px;
-        margin-top: 0.8in;
+        margin-left: 440px;
+        margin-top: 0.5in;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 210px;
-        height: 57px;
-        padding: 5px 20px;
-        font-size: 24px;
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -574,10 +276,9 @@
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 210px;
-        height: 57px;
-        padding: 5px 20px;
-        font-size: 24px;
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -589,10 +290,6 @@
     .delete-acc:hover{
         background-color: #252525;
         border: 2px solid #252525;
-    }
-        
-    footer{
-        margin-bottom: 200px;
     }
 }
 
