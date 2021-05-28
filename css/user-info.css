@@ -13,7 +13,7 @@
 
     .container{
         border: 1px black;
-        width: 10in;
+        width: 5in;
         height: 8in;
         background-color: white;
         margin-left: 1in;
@@ -163,7 +163,7 @@
         outline: none;
         position: relative;
         height: 30px;
-        width: 240px;
+        width: 310px;
         margin-left: 365px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -177,8 +177,8 @@
         outline: none;
         position: relative;
         height: 30px;
-        width: 240px;
-        margin-left: 635px;
+        width: 310px;
+        margin-left: 720px;
         margin-top: -38px;
         box-sizing: border-box;
         padding: 17px;
@@ -206,7 +206,7 @@
         outline: none;
         position: relative;
         height: 30px;
-        width: 510px;
+        width: 665px;
         margin-left: 365px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -234,7 +234,7 @@
         outline: none;
         position: relative;
         height: 30px;
-        width: 510px;
+        width: 665px;
         margin-left: 365px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -247,7 +247,7 @@
         
     .save-changes{
         position: relative;
-        margin-left: 440px;
+        margin-left: 520px;
         margin-top: 0.5in;
         border: 2px solid #90893E;
         border-radius: 70px;
@@ -306,10 +306,11 @@
 
     .container{
         border: 1px black;
-        width: 15in;
-        height: 10in;
+        width: 5in;
+        height: 8in;
         margin: 0 auto;
         background-color: white;
+        margin-left: 1in;
         margin-top: 0.5in;
     }
 
@@ -323,18 +324,18 @@
     /*prof details*/
     .prof-pic{
         border-radius: 50%;
-        width: 180px;
-        height: 180px;
+        width: 110px;
+        height: 110px;
         position: relative;
-        margin-left: 220px;
-        margin-top: 80px;
+        margin-left: 110px;
+        margin-top: 60px;
     }
     .circle{
         position: relative;
-        margin-left: -380px;
-        margin-top: 170px;
-        width: 35px;
-        height: 35px;
+        margin-left: -290px;
+        margin-top: 140px;
+        width: 19px;
+        height: 19px;
         background: #252525;
         border-radius: 50%;
         padding: 7px;
@@ -342,10 +343,8 @@
         
     .edit{
         position: relative;
-        width: 29px;
+        width: 19px;
         height: auto;
-        margin-left: 4px;
-        margin-top: 4px;
     }
     .descs{
         display: flex;
@@ -353,26 +352,26 @@
     }
     .name{
         position: relative;
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 70px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: bold;
-        font-size: 34px;
+        font-size: 24px;
     
         color: #252525;
     }
     .email{
         position: relative;
         height: 29px;
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 7px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 22px;
+        font-size: 18px;
     
         color: #252525;
     }
@@ -584,10 +583,6 @@
     .delete-acc:hover{
         background-color: #252525;
         border: 2px solid #252525;
-    }
-        
-    footer{
-        margin-bottom: 200px;
     }
 }
 
