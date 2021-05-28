@@ -12,28 +12,29 @@
 
 
 </head>
+
+
 <body>
 
     <div class="navbg"> 
     <?php include 'includes/headers-edit.php'; ?> 
     </div>
 
-    <div class="container-1">
-
-        <!-- BACKGROUND -->
-        <div class="background-container"></div>
+    <div class="container">
 
         <!-- PROFILE -->
-        <div class="profile-container">
-            <div class="profile-pic"></div>
-        </div>
-        <div class="circle"></div>
-        <img src="svg/edit.svg" class="edit">
         <div class="user-details">
-            <h1 class="name">PLACEHOLDER</h1>
-            <p class="email">placeholder@gmail.com</p>
-            <img src="images/Vector.png" class="location-img">
-            <p class="location">Placeholder, Location</p>
+            <img src="images/placeholder2.jpg" class="prof-pic">
+            <div class="descs">
+                <h1 class="name">PLACEHOLDER</h1>
+                <p class="email">placeholder@gmail.com</p>
+                <div class="location">
+                    <p><img src="images/Vector.svg" class="location-img"> Placeholder, Location</p>
+                </div>
+            </div>
+            <div class="circle">
+                <img src="svg/edit.svg" class="edit">
+            </div>
         </div>
 
         <h1>Edit Profile</h1>
@@ -41,24 +42,25 @@
         <h2>User info</h2>
         <a class="acc-s" href="account-settings.php">Account settings</a>
         
-        <div>
-        <p>First Nameㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ Last Name</p>
-        <p class="two">Location</p>
-        <p class="three">Phone Number</p>
-
-        <form action="#" method="post">
-        <input class="full-name" type="text" placeholder="Full Name" /> 
-        <input class="last-name" type="text" placeholder="Last Name" /> 
-        <input class="loc" type="text" placeholder="Location" /> 
-        <input class="phone-no" type="text" placeholder="e.g. + 971 12 345 6789" /> 
-
-        <button class="btn save-changes">Save Changes</button>
-        <button class="btn delete-acc">Delete Account</button>
-        </form>
-
+        <div class="forms">
+            <p class="name-label">First Nameㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ Last Name</p>
+            <input class="full-name" type="text" placeholder="First Name" /> 
+            <input class="last-name" type="text" placeholder="Last Name" />
+            <div class="forms2">
+                <p class="loc-label">Location</p>
+                <input class="loc" type="text" placeholder="Location" /> 
+                <p class="cp-label">Phone Number</p>
+                <input class="phone-no" type="text" placeholder="e.g. + 971 12 345 6789" /> 
+            </div>
+            <form action="#" method="post">
+                <button class="save-changes">Save Changes</button>
+                <button class="delete-acc">Delete Account</button>
+            </form>
+        </div>
+        
     </div>
 
-    <footer>ㅤ</footer>
+    <footer></footer>
 
 </body>
 </html>
