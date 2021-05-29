@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
     <title>PLACE HOLDER FOR PLACES</title>
         
         <!-- CSS -->
@@ -17,23 +17,26 @@
     </div>
 
     <!-- TITLE -->
-    
-        <div class="title-container" id="title">
-        <div class="title-slider">
-            <div class="picture"><img src="images/PLACEHOLDER.png" class="picture" /></div>
-            <div class="picture"><img src="images/PLACEHOLDER.png" class="picture" /></div>
-            <div class="picture"><img src="images/PLACEHOLDER.png" class="picture"/></div>
+    <div class="wrapper1">
+        <div class="title-container">
+            <div class="another-container1">
+                <div class="title-slider">
+                        <div><img src="images/image21.png" class="picture" /></div>
+                        <div><img src="images/image21.png" class="picture" /></div>
+                        <div><img src="images/image21.png" class="picture" /></div>
+                </div>
             </div>
-        <div class="arrow-l"><i class="fas fa-angle-left fa-3x"></i></div> 
-        <div class="arrow-r"><i class="fas fa-angle-right fa-3x"></i></div>
-
-            <h1> PLACEHOLDER </h1>
-            <p class="location-title"> PLACEHOLDER </p>
-            <button href="#" class="line1"> TOUR </button>
+            <div class="another-container">
+                <h1 class="title1"> JUMEIRAH MOSQUE </h1>
+                <p class="location-title"> PLACEHOLDER </p>
+                <button href="#" class="line1"> TOUR </button>
+            </div>
         </div>
+    </div>
     <!-- CATEGORIES -->
+    <div class="wrapper3">
         <div class="categories">
-                <div class="box" onClick="history()"><a>HISTORY</a></div>
+                <div class="box" onClick="history()"><a>INFO</a></div>
                 <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
                 <div class="box" onClick="timings()"><a>TIMINGS</a></div>
                 <div class="box" onClick="events()"><a>EVENTS</a></div>
@@ -41,51 +44,34 @@
                 <div class="box" onClick="reviews()"><a>REVIEWS</a></div>
                 <div class="box" onClick="media()"><a>MEDIA</a></div>
         </div>
+        </div>
 
     <!-- BACKGROUND 1 -->
 
             <div class="rectangle"></div>
 
     <!-- INFORMATION -->
-        <div class="layer1">
+    <div class="rectangle2"></div>
+    <div class="wrapper2">
         <div class="info-hist-box" id="history">
-        <div class="info-container">
+        
+         <div class="layer1">
+         
+            <div class="left-images"> 
             <h2 class="info-title"> Information </h2>
-            <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. Iaculis urna id volutpat 
-                lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. Iaculis urna id volutpat 
-                lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. Tempor nec feugiat nisl pretium.
-                Tempor nec feugiat nisl pretium. </p>
-        </div>
-        <div class="hist-container">
-            <h2 class="history-title"> History </h2>
-            <p class="history-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. <br><br>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat  
-                lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                At risus viverra adipiscing at in. Tempor nec feugiat nisl pretium. <br><br>
-                </p>
-        </div>
-        <div class="left-images">
-            <img src="images/PLACEHOLDER.png" class="img-set"/>
-            <img src="images/PLACEHOLDER.png" class="img-set"/>
-            <img src="images/PLACEHOLDER.png" class="img-set"/>
-        </div>
+                <img src="images/PLACEHOLDER.png" class="img-set"/>
+                <img src="images/PLACEHOLDER.png" class="img-set"/>
+                <img src="images/PLACEHOLDER.png" class="img-set"/>
+            </div>
+            <div class="info-container">
+                <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
+                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
+                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
+                    At risus viverra adipiscing at in. </p>
+            </div>
+            
+         </div>
         </div>
         </div>
 
@@ -254,138 +240,154 @@
         </div>
 
     <!-- events -->
+    <div class="wrapper4">
         <div class="event-listing">
-
          <div class="e-row">
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+                <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
+                </div>
+
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
-            <div class="event-content">
-            <div class="extra-wrapper1" >
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
-            </div>
+
 
         </div>
 
         <div class="e-row">
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">  
-            <div class="extra-wrapper2" >              
+            <div class="extra-wrapper">   
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div> 
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="extra-wrapper">
+            <div class="e-date">
+                <div class="e-month"> MAY </div>
+                <div class="e-number"> 11 </div>
             </div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="extra-wrapper">
+            <div class="e-date">
+                <div class="e-month"> MAY </div>
+                <div class="e-number"> 11 </div>
             </div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+
             </div>
 
             <div class="event-content">  
-            <div class="extra-wrapper2" >              
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="extra-wrapper">
+            <div class="e-date">
+                <div class="e-month"> MAY </div>
+                <div class="e-number"> 11 </div>
             </div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
             </div>
+
+            </div>
+
             
             
         </div>
 
         </div>
+    </div>
 
     <!-- -->
 
@@ -446,7 +448,7 @@
 
     <div class="reply-function" id="reply-function">
         <h3 class="rep-to">reply:</h3>
-        <textarea class="reply-text" placeholder="add a reply" cols="150" rows="5"></textarea>
+            <input class="form-control" placeholder="add a reply"></input>
         <button class="rep btn">reply</button>
         <button class="cancel btn" onClick="closeReply()">cancel</button>
         </div>
@@ -454,7 +456,7 @@
     <div class="wr-container" id="wr-container">
     <div class="write-review">
     <img src="images/PLACEHOLDER.png" class="pfp self" />
-        <textarea class="form-control" placeholder="add a review" cols="150" rows="5"></textarea>   
+        <input class="form-control" placeholder="add a review"></input>
     </div>
     <button class="post btn">post</button>
         <button class="cancel btn">cancel</button>
@@ -580,45 +582,74 @@
             infinite: true,
 
          });
+
          $('.e-row').slick({
-             prevArrow: false,
-             nextArrow: false,
-             draggable: true,
-             slidesToShow: 3,
-             autoplay: true,
+            prevArrow: false,
+            nextArrow: false,
+            draggable: true,
+            slidesToShow: 3,
+            autoplay: false,
             autoplaySpeed: 3000,
             infinite: true,
 
          });
-         $('#title .title-slider').slick({
-             prevArrow: '.arrow-l',
-             nextArrow: '.arrow-r',
-             slidesToShow: 1,
+         
+         $('.title-slider').slick({
+            prevArrow: false,
+            nextArrow: false,
+            draggable: true,
+            slidesToShow: 1,
+            autoplay: true,
+            autoplaySpeed: 3000,
+            infinite: true,
+
          });
+        
          
 
     
          //scroll to
         function history(){
-            window.scrollTo(0, 1000);
+            window.scroll({
+                top: 1000,
+                behavior: "smooth"
+            });
         }
         function whttodo(){
-            window.scrollTo(0, 2200);
+            window.scroll({
+                top: 2200,
+                behavior: "smooth"
+            });
         }
         function timings(){
-            window.scrollTo(0, 2800);
+            window.scroll({
+                top: 2800,
+                behavior: "smooth"
+            });
         }
         function events(){
-            window.scrollTo(0, 3500);
+            window.scroll({
+                top: 3500,
+                behavior: "smooth"
+            });
         }
         function vt(){
-            window.scrollTo(0, 4600);
+            window.scroll({
+                top: 4600,
+                behavior: "smooth"
+            });
         }
         function reviews(){
-            window.scrollTo(0, 5600);
+            window.scroll({
+                top: 5600,
+                behavior: "smooth"
+            });
         }
         function media(){
-            window.scrollTo(0, 6700);
+            window.scroll({
+                top: 6700,
+                behavior: "smooth"
+            });
         }
     </script> 
  
