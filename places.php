@@ -244,138 +244,154 @@
         </div>
 
     <!-- events -->
+    <div class="wrapper4">
         <div class="event-listing">
-
          <div class="e-row">
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+                <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
+                <div class="e-date">
+                    <div class="e-month"> MAY </div>
+                    <div class="e-number"> 11 </div>
+                </div>
+                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
+                </div>
+
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper1" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
-            <div class="event-content">
-            <div class="extra-wrapper1" >
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
-            </div>
+
 
         </div>
 
         <div class="e-row">
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
+            <div class="extra-wrapper">
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div>
+
             </div>
 
             <div class="event-content">  
-            <div class="extra-wrapper2" >              
+            <div class="extra-wrapper">   
                 <div class="e-date">
                     <div class="e-month"> MAY </div>
                     <div class="e-number"> 11 </div>
                 </div>
                 <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-            </div>
+                </div> 
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="extra-wrapper">
+            <div class="e-date">
+                <div class="e-month"> MAY </div>
+                <div class="e-number"> 11 </div>
             </div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper2" >
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="extra-wrapper">
+            <div class="e-date">
+                <div class="e-month"> MAY </div>
+                <div class="e-number"> 11 </div>
             </div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            </div>
+
             </div>
 
             <div class="event-content">  
-            <div class="extra-wrapper2" >              
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="extra-wrapper">
+            <div class="e-date">
+                <div class="e-month"> MAY </div>
+                <div class="e-number"> 11 </div>
             </div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
             </div>
+
+            </div>
+
             
             
         </div>
 
         </div>
+    </div>
 
     <!-- -->
 
@@ -436,7 +452,7 @@
 
     <div class="reply-function" id="reply-function">
         <h3 class="rep-to">reply:</h3>
-        <input class="form-control" placeholder="add a reply" cols="150" rows="5"></input>
+            <input class="form-control" placeholder="add a reply"></input>
         <button class="rep btn">reply</button>
         <button class="cancel btn" onClick="closeReply()">cancel</button>
         </div>
@@ -444,7 +460,7 @@
     <div class="wr-container" id="wr-container">
     <div class="write-review">
     <img src="images/PLACEHOLDER.png" class="pfp self" />
-        <input type="text"class="form-control"></input>   
+        <input class="form-control" placeholder="add a review"></input>
     </div>
     <button class="post btn">post</button>
         <button class="cancel btn">cancel</button>
@@ -570,16 +586,18 @@
             infinite: true,
 
          });
+
          $('.e-row').slick({
             prevArrow: false,
             nextArrow: false,
             draggable: true,
             slidesToShow: 3,
-            autoplay: true,
+            autoplay: false,
             autoplaySpeed: 3000,
             infinite: true,
 
          });
+         
          $('.title-slider').slick({
             prevArrow: false,
             nextArrow: false,
