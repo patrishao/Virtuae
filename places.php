@@ -25,10 +25,6 @@
                         <div><img src="images/image21.png" class="picture" /></div>
                         <div><img src="images/image21.png" class="picture" /></div>
                 </div>
-               <!-- <div class="arrows">
-                    <div class="arrow-l"><i class="fas fa-angle-left fa-3x"></i></div> 
-                    <div class="arrow-r"><i class="fas fa-angle-right fa-3x"></i></div> 
-                </div>-->
             </div>
             <div class="another-container">
                 <h1 class="title1"> JUMEIRAH MOSQUE </h1>
