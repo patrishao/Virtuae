@@ -18,41 +18,46 @@
     <?php include 'includes/headers-edit.php'; ?> 
     </div>
 
-    <div class="container-1">
+    <div class="container">
         
-        <!-- BACKGROUND -->
-        <div class="background-container"></div>
-    
-        <!-- PROFILE -->
-        
-        <div class="profile-container">
-            <div class="profile-pic"></div>
-        </div>
-        <div class="circle"></div>
-        <img src="svg/edit.svg" class="edit">
         <div class="user-details">
-            <h1 class="name">PLACEHOLDER</h1>
-            <p class="email">placeholder@gmail.com</p>
-            <img src="images/Vector.png" class="location-img">
-            <p class="location">Placeholder, Location</p>
+            <img src="images/placeholder2.jpg" class="prof-pic">
+            <div class="descs">
+                <h1 class="name">PLACEHOLDER</h1>
+                <p class="email">placeholder@gmail.com</p>
+                <div class="location">
+                    <p><img src="images/Vector.svg" class="location-img"> Placeholder, Location</p>
+                </div>
+            </div>
+            <div class="circle">
+                <img src="svg/edit.svg" class="edit">
+            </div>
         </div>
 
         <h1>Edit Profile</h1>
 
-        <a class="u-info" href="user-info.php">User info</a>
-        <h2>Account settings</h2>
+        <div class="nav">
+            <a class="u-info" href="user-info.php">User info</a>
+            <h2>Account settings</h2>
+        </div>
 
-        <p>Email</p>
-        <p class="two">Password</p>
-
-        <form action="#" method="post">
-        <input class="email-in" type="text" placeholder="placeholder@gmail.com" /> 
-        <input class="pw" type="text" placeholder="" /> 
-
-        <button class="btn change-pw">Change</button>
-
-        <button class="btn save-changes">Save Changes</button>
-        <button class="btn delete-acc">Delete Account</button>
+        <div class="forms">
+            <div class="forms2">
+                <p class="email-label">Email</p>
+                <input class="e-mail" type="text" placeholder="kayapaba@gmail.com" /> 
+                <p class="pass-label">Password</p>
+                <div class="change-pass">
+                <input class="password" type="text" placeholder="" /> 
+                <form action="#" method="post">
+                    <button class="change">Change</button>
+                </form>
+                </div>
+            </div>
+            <form action="#" method="post">
+                <button class="save-changes">Save Changes</button>
+                <button class="delete-acc">Delete Account</button>
+            </form>
+        </div>
 
     </div>
 

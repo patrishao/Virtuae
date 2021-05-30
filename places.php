@@ -12,10 +12,10 @@
 
 </head>
 <body>
-    <div class="navbg"> 
-    <?php include 'includes/headers.php'; ?> 
+    <div id="navbar"> 
+        <?php include 'includes/headers-edit.php';?>
     </div>
-
+    
     <!-- TITLE -->
     <div class="wrapper1">
         <div class="title-container">
@@ -123,8 +123,10 @@
         <!-- -->
 
         <!-- TIMINGS -->
+
         <div class="timing-container">
             <h2 class="timing-title">TIMINGS</h2>
+            <div class="wrapper3">
             <div class="timing-week">
                 <div class="days" onClick="sun()"><a>SUNDAY</a></div>
                 <div class="days" onClick="mon()"><a>MONDAY</a></div>
@@ -134,14 +136,12 @@
                 <div class="days" onClick="fri()"><a>FRIDAY</a></div>
                 <div class="days" onClick="sat()"><a>SATURDAY</a></div>
             </div>
+            </div>
 
                 <div class="t-container"> <!-- to edit this part go to the javascript below vvv -->
                     <div class="timing-info" id="timing-info">
                         <div class="time">
                         <p id="t-time"></p> 
-                        </div>
-                        <div class="t-info">
-                            <p id="t-info"></div>
                         </div>
                     </div>
                 </div> 
@@ -588,7 +588,7 @@
             nextArrow: false,
             draggable: true,
             slidesToShow: 3,
-            autoplay: false,
+            autoplay: true,
             autoplaySpeed: 3000,
             infinite: true,
 
