@@ -1,5 +1,5 @@
 
-<!-- <?php include 'signupdata.php' ?> -->
+<?php include 'signupdata.php' ?>
 <?php include 'includes/database.php' ?>
 
 

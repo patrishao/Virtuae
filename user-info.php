@@ -42,6 +42,7 @@
         <h2>User info</h2>
         <a class="acc-s" href="account-settings.php">Account settings</a>
         
+        <form action="#" method="POST">
         <div class="forms">
             <div class="forms1">
                 <p class="name-label">First Name</p>
@@ -55,9 +56,9 @@
                 <p class="cp-label">Phone Number</p>
                 <input class="phone-no" type="text" placeholder="e.g. + 971 12 345 6789" /> 
             </div>
-            <form action="#" method="post">
-                <button class="save-changes">Save Changes</button>
-                <button class="delete-acc">Delete Account</button>
+   
+                <input class="save-changes" type="submit" value="Save Changes">
+                <input class="delete-acc" type="submit" value="Delete Account">
             </form>
         </div>
         

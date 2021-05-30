@@ -41,6 +41,7 @@
             <h2>Account settings</h2>
         </div>
 
+        <form action="#" method="post">
         <div class="forms">
             <div class="forms2">
                 <p class="email-label">Email</p>
@@ -53,9 +54,9 @@
                 </form>
                 </div>
             </div>
-            <form action="#" method="post">
-                <button class="save-changes">Save Changes</button>
-                <button class="delete-acc">Delete Account</button>
+       
+            <input class="save-changes" type="submit" value="Save Changes">
+            <input class="delete-acc" type="submit" value="Delete Account">
             </form>
         </div>
 
