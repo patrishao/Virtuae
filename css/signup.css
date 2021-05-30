@@ -7,21 +7,20 @@ body{
 }
 
 
-/* image on the right */
+/* image on the left */
 
 .image-container{
     float: left;
-    display: flex;
+  
     position: relative;
 }
 
 
 .image{
     width: 70%;
-    max-height: 100%;
-    position: relative;
-    left: 0;
-    top: 0;
+    height: 125vh;
+    vertical-align: top;
+
 }
 
 
@@ -36,6 +35,7 @@ body{
     left: 16%;
     color: rgba(255, 255, 255, 0.857);
 }
+
 
 
 /* start your journey */
@@ -58,18 +58,26 @@ h1{
 
 .log-in{
     margin-top: 5px;
+
 }
 
+
+/* .container .title-holder{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
 
 /* whole forms */
 
 .container{ 
 
     display: flex;
-    background-color: white;
-    justify-content: center;
+    background-color: transparent;
+
     margin-top: 80px;
     margin-right: 50px;
+    justify-content: center;
 
 
 
@@ -78,9 +86,10 @@ h1{
 
 
 .form{
-    width: 80%;
+    width: 85%;
     height: 50%;
     margin-top: 80px;
+    
     
 
 }
@@ -95,6 +104,7 @@ h1{
     margin: 20px 0;
     border: none;
     border-bottom: 2px solid #C4C4C4;
+    background-color: transparent;
     font-size: 24px;
 }
 
@@ -105,6 +115,7 @@ h1{
     margin-right: 20px;
     border: none;
     border-bottom: 2px solid #C4C4C4;
+    background-color: transparent;
     font-size: 24px;
 }
     
@@ -130,6 +141,7 @@ input[type=submit] {
    font-weight: 700;
 }
 
+
 .button{
     display: flex;
     justify-content: center;
@@ -138,7 +150,7 @@ input[type=submit] {
 
 
 input[type=submit]:hover{
-    background-color:  #101823d5;
+    background-color:  #90893E;
 }
 
 
@@ -223,5 +235,451 @@ input[type=submit]:hover{
 .signup-link:hover{
     color: #323a45;
     text-decoration: underline;
+
+}
+
+
+.login-p, .hr1, .hr2{
+    display: none;
+}
+
+
+@media screen and (min-width: 1024px) and (max-width: 1400px) {
+    .container{
+        margin-right: 0px;
+        justify-content: center;
+
+    }
+    .form{
+        margin-left: -10vw;
+
+        width: 100%;
+
+    }
+
+    .form .email, input[type=password]{
+        width: 85%;
+    }
+
+    .form .fl-name {
+        width: 40%;
+    }
+
+    .log-in{
+        margin-left: -10vw;
+    }
+/* 
+    input[type=submit] {
+        padding: 20px 60px;
+    } */
+
+
+}
+
+ @media screen and (min-width: 970px) and (max-width: 1024px) {
+
+    .logo{
+        width: 30%;
+        height: 20%;
+        left: 7%;
+    }
+
+    .title{
+        left: 10%;
+        font-size: 35px;
+        top: 39%;
+    }
+
+    h4{
+        left: 15%;
+        font-size: 13px;
+        top: 44%;
+    }
+    
+    .image{
+        height: 120vh;
+        width: 50%;
+        margin-right: -50%;
+    }
+
+    .container{
+        margin-right: 0%;
+        justify-content: initial;
+        margin-top: 10%;
+
+    }
+
+    .form{
+        margin-right: 0;
+        width: 48%;
+        left: 43%;
+        position: absolute;
+
+    }
+
+    .form .fl-name {
+        width: 44%;
+    }
+
+
+    .form .email, input[type=password]{
+        width: 95%;
+    }
+
+    .log-in{
+        /* margin-left: -30vw; */
+        left: 55%;
+        display: initial;
+        position: absolute;
+    }
+
+
+    .line-holder{
+        justify-content: initial;
+        left: 45%;
+        margin-top: 70px;
+    }
+
+
+    .logo-holder{
+        left: 18%;
+        margin-top: 70px;   
+    }
+
+
+    .sign-up{
+        bottom: 0;
+        left: 55%;
+        justify-content: initial;
+    }
+
+
+   
+
+    input[type=submit] {
+        padding: 20px 5vw;
+        font-size: 2vw;
+    }
+
+
+} 
+
+
+@media screen and (min-width: 768px) and (max-width: 990px) {
+
+    .logo{
+        width: 30%;
+        height: 20%;
+        left: 7%;
+    }
+
+    .title{
+        left: 10%;
+        font-size: 35px;
+        top: 39%;
+    }
+
+    h4{
+        left: 15%;
+        font-size: 13px;
+        top: 44%;
+    }
+    
+    .image{
+        height: 120vh;
+        width: 50%;
+        margin-right: -50%;
+    }
+
+    .container{
+        margin-right: 0%;
+        justify-content: initial;
+        margin-top: 10%; 
+
+    }
+
+    .form{
+        margin-right: 0;
+        width: 40%;
+        left: 50%;
+        position: absolute;
+
+    }
+
+    .form .fl-name {
+        width: 40%;
+    }
+
+
+    .form .email, input[type=password]{
+        width: 95%;
+    }
+
+    .log-in{
+        /* margin-left: -30vw; */
+        left: 55%;
+        display: initial;
+        position: absolute;
+    }
+
+
+    .line-holder{
+        justify-content: initial;
+        left: 45vw;
+        margin-top: 70px;
+    }
+
+
+    .logo-holder{
+        left: 18%;
+        margin-top: 70px;   
+    }
+
+
+    .sign-up{
+        bottom: 0;
+        left: 55%;
+        justify-content: initial;
+    }
+
+
+   
+
+    input[type=submit] {
+        padding: 20px 5vw;
+        font-size: 2vw;
+    }
+
+    
+
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+    .logo{
+        width: 30%;
+        height: 18%;
+        left: 7%;
+    }
+
+    .title{
+        left: 10%;
+        font-size: 35px;
+        top: 39%;
+    }
+
+    h4{
+        left: 15%;
+        font-size: 13px;
+        top: 44%;
+    }
+    
+    .image{
+        height: 130vh;
+        width: 45%;
+        margin-right: -50%;
+    }
+
+    .container{
+        margin-right: 0%;
+        justify-content: initial;
+        margin-top: 10%;
+
+    }
+
+    .form{
+        margin-right: 0;
+        width: 40%;
+        left: 50%;
+        position: absolute;
+
+    }
+
+    .form .fl-name {
+        width: 100%;
+    }
+
+
+    .form .email, input[type=password]{
+        width: 100%;
+    }
+
+    .log-in{
+        /* margin-left: -30vw; */
+        left: 55%;
+        display: initial;
+        position: absolute;
+    }
+
+
+    .line-holder{
+        justify-content: initial;
+        left: 49%;
+        margin-top: 170px;
+    }
+
+
+    .logo-holder{
+        left: 23%;
+        margin-top: 170px;   
+    }
+
+
+    .sign-up{
+        top: 120%;
+        left: 55%;
+        justify-content: initial;
+    }
+
+
+    .button{
+        /* justify-content: initial; */
+        margin-left: 10%;
+    }
+
+    input[type=submit] {
+        padding: 20px 5vw;
+        font-size: 2vw;
+    }
+
+    
+    ::placeholder{
+      font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width: 481px) {
+
+    .image{
+        width: 100%;
+        height: 195vh;
+    }
+
+    .logo{
+        top: 7%;
+        width: 45%;
+        height: 20%;
+        left: 25%;
+
+    }
+
+    .title{
+        font-size: 10vw;
+        top: 22%;
+        left: 24vw;
+        display: flex;
+        font-size: 10vw;
+    }
+
+    h4{
+        font-size: 15px;
+        top: 53vh;
+        left: 36vw;
+        display: flex;
+    }
+
+    .container{
+        position: absolute;
+      
+        margin-top: 65vh;
+    
+    }
+
+
+    .log-in{
+        color: white;
+        margin-left: 8vw;
+        font-size: 33px;
+    }
+
+    .form{
+        width: 80%;
+        margin-left: 13%;
+        justify-content: inherit;
+    }
+
+    .form .email, input[type=password]{
+        border-bottom: 2px solid white;
+    }
+
+
+    ::placeholder{
+        color: white;
+      font-size: 18px;
+    }
+
+    .form .fl-name {
+        border-bottom: 2px solid white;
+        width: 95%;
+    }
+
+    
+    .login-p{
+        position: absolute;
+        top: 95vh;
+        color: #C4C4C4;
+        left: 43%;
+        display: block;
+    }
+
+    .hr1{
+        position: absolute;
+        top: 97.5vh;
+       left: 5%;
+        color: #C4C4C4;
+        background-color: #C4C4C4;
+        width:30vw;
+        display: block;
+
+        
+    }
+
+    .hr2{
+        position: absolute;
+        top: 97.5vh;
+        left: 65%;
+        background-color: #C4C4C4;
+        color: #C4C4C4;
+        width: 30vw;
+        display: block;
+        
+    }
+
+
+    .line-holder{
+        display: none;
+    }
+
+    .logo-holder{
+        top: 95vh;
+        margin-left: 20px;
+    }
+
+    .logos path{
+        fill: white;
+    }
+
+    .logos:hover{
+        border: 2px solid #0c0c0c;
+
+    }
+
+
+    .sign-up{
+       top: 130%;
+    }
+
+    .signup-link{
+        color: white;
+    }
+
+
+    
+    input[type=submit] {
+
+      padding: 20px 40px;
+      font-size: 17px;
+
+    }
 
 }

@@ -13,22 +13,24 @@ body{
     float: right;
     display: flex;
     position: relative;
+
+    
 }
 
 
 .image{
     width: 100%;
-    max-height: 100%;
-    position: relative;
-    left: 0;
-    top: 0;
+    height: 120vh;
+    vertical-align: top;
 }
 
 
 .logo{
     position: absolute;
-    top: 23%;
-    left: 30%;
+    top: 20%;
+    left: 34%;
+    height: 32%;
+    width: 40%;
 }
 
 .title{
@@ -93,6 +95,7 @@ input[type=text], input[type=password]{
     border: none;
     border-bottom: 2px solid #C4C4C4;
     font-size: 24px;
+    background-color: transparent;
 }
 
 .forgotpass{
@@ -137,7 +140,7 @@ input[type=submit] {
 
 
 input[type=submit]:hover{
-    background-color:  #101823d5;
+    background-color:  #90893E;
 }
 
 
@@ -148,7 +151,7 @@ input[type=submit]:hover{
     justify-content: center;
     position: absolute;
     width: 100%;
-    top: 75%;
+    top: 80%;
     margin-top: 50px;
     
 }
@@ -177,7 +180,7 @@ input[type=submit]:hover{
     justify-content: center;
     position: absolute;
     width: 100%;
-    top: 80%;
+    top: 88%;
     margin-top: 50px;
 }
 
@@ -197,6 +200,10 @@ input[type=submit]:hover{
 }
 
 
+.login-p, .hr1, .hr2{
+    display: none;
+}
+
 /* sign up link */
 
 .sign-up{
@@ -204,7 +211,7 @@ input[type=submit]:hover{
    display: flex;
    justify-content: flex-end;
     margin-top: 20px;
-    top: 105%;
+    top: 106%;
 }
 
 /* added spacing between sign up */
@@ -224,3 +231,255 @@ input[type=submit]:hover{
     text-decoration: underline;
 
 }
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+   .image-container{
+    
+       width: 50%;
+   }
+
+   .image{
+       height: 120vh;
+       width: 100%;
+   }
+
+     .title{
+         top: 50vh;
+        left: 15vw;
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    h4{
+       /* top: 60vh; */
+       margin-top: -2%;
+        left: 22vw;
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo{
+        /* width: 40v;
+        height: 25vh; */
+        height: 25%;
+        left: 17vw;
+        top: 28vh;
+        display: flex;
+        justify-content: center;
+    }
+
+    .container{
+        margin-top: 15%;
+    }
+   
+   .form{
+        width: 80%;
+        margin-top: 15vh;
+   }
+
+   .line-holder{
+       top:90%
+   }
+
+   .logo-holder{
+       top: 94%;
+   }
+
+   .sign-up{
+       margin-top: 5%;
+   }
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+   
+   .image-container{
+    
+       width: 50%;
+   }
+
+   .image{
+       height: 120vh;
+   }
+
+     .title{
+        top: 50vh;
+        left: 15vw;
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center;
+        font-size: 45px;
+    }
+
+    h4{
+        margin-top: -15px;
+        left: 42%;
+    }
+
+    .logo{
+        height: 25%;
+        width: 50%;
+        left: 15vw;
+        top: 28vh;
+        display: flex;
+        justify-content: center;
+    }
+
+   
+   .form{
+    width: 80%;
+
+    }
+
+
+    .container{
+        margin-top: 15vh;
+    }
+
+
+    ::placeholder{
+      font-size: 18px;
+    }
+
+
+}
+
+
+ @media screen and (min-width: 320px) and (max-width: 481px) {
+    .image-container{
+    
+    float: none;
+    position: absolute;
+    display: flex;
+        
+    }
+
+    .image{
+        height: 160vh;
+        width: 100%;
+    }
+
+
+    .logo{
+        top: 8vh;
+        width: 45%;
+        height: 20%;
+        left: 29%;
+       
+    }
+
+    .title{
+        top: 30vh;
+        font-size: 10vw;
+        left: 25vw;
+        display: flex;
+
+    }
+
+    h4{
+        top: 40vh;
+        left: 36vw;
+        display: flex;
+    }
+
+    .log-in{
+        color: white;
+        font-size: 33px;
+    }
+
+
+    .form{
+        position: absolute;
+        width: 85%;
+    }
+
+    .container{
+        margin-top: 45vh;    
+    }
+
+    ::placeholder{
+        color: white;
+      font-size: 18px;
+    }
+
+    input[type=text], input[type=password]{
+        border-bottom: 2px solid white;
+    } 
+
+
+
+    .line-holder{
+        display: none;
+    }
+
+    .logo-holder{
+        top: 125vh;
+    }
+
+    .logos path{
+        fill: white;
+    }
+
+    .logos:hover{
+        border: 2px solid #0c0c0c;
+
+    }
+
+    .sign-up{
+    
+        top: 130vh;
+    }
+
+
+    .login-p{
+        position: absolute;
+        top: 122vh;
+        color: #C4C4C4;
+        left: 40%;
+        display: block;
+    }
+
+    .hr1{
+        position: absolute;
+        top: 124.5vh;
+       left: 6%;
+        color: #C4C4C4;
+        background-color: #C4C4C4;
+        width:30vw;
+        display: block;
+
+        
+    }
+
+    .hr2{
+        position: absolute;
+        top: 124.5vh;
+        margin-left: 11vw;
+        background-color: #C4C4C4;
+        color: #C4C4C4;
+        width: 30vw;
+        display: block;
+        
+    }
+
+
+    .sign-up{
+       top: 145%;
+    }
+
+    .signup-link{
+        color: white;
+    }
+
+    .signup-link:hover{
+        color: rgb(164, 164, 164);
+    }
+
+  
+}
+
+
+

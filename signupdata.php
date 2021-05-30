@@ -1,6 +1,7 @@
 <?php include 'includes/database.php' ?>
 
 
+
 <?php 
 
 if(isset($_POST['submit'])){
@@ -34,12 +35,12 @@ $query = "INSERT INTO users (firstName, lastName, email, password)";
 $query .= "VALUES ('$firstName', '$lastName', '$email', '$password')";
 
 
-// adding query to the sql
+// adding the values query to the sql
 
 $result = mysqli_query($connection, $query);
 
 
-// checking if queery is working
+// checking if query is working
  if (!$result){
 
     die('Query failed' . mysqli_error($connection));
