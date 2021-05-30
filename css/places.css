@@ -150,7 +150,7 @@ body{
     justify-content: center;
 
     width: 95%;
-    height: 1300px;
+    height: 900px;
     margin-top: 50px;
 }
 
@@ -159,7 +159,7 @@ body{
     height: 1200px;
    
     position: absolute;
-    top: 550px;
+    top: 650px;
 
     z-index: -2;
 
@@ -170,17 +170,20 @@ body{
     background-color: white;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
 
-    padding: 100px;
+
+    padding: 40px;
+    padding-bottom: 0px;
     width: 100%;
+    height: 100%;
 }
 
 .info-container{
     display: flex;
     flex-direction: column;
 
-    width: 50%;
+    width: 40%;
 }
 
 .info-title{
@@ -192,24 +195,18 @@ body{
 
     color: #000000;
 
-    margin-bottom: 30px;
-
-
 }
 .info-description{
     font-family: Karla;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 28px;
     letter-spacing: 0.01em;
     
     color: #3E3E3E;
 
-    width: 90%;
-
-    margin-top: 90px;
-    margin-left: 90px;
+    width: 100%;
 }
 
 .left-images{
@@ -217,6 +214,7 @@ body{
     flex-direction: column;
     flex-wrap: wrap;
     
+    gap: 30px;
     width: 50%;
     height: 100%;
 }
@@ -226,8 +224,8 @@ body{
     flex-direction: column;
     flex-wrap: wrap;
 
-    width: 100%;
-    height: 30%;
+    width: 800px;
+    height: 200px;
 }
 
 /* ==== */
@@ -271,40 +269,6 @@ body{
     margin-left: 50px;
 }
 
-.wtd-title{
-    color: #000000;
-    
-    font-family: Karla;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 48px;
-    line-height: 64px;
-
-    width: 254px;
-    height: 64px;
-
-    margin-top: 50px;
-    margin-left: 80px;
-
-}
-
-.wtd-desc{
-    color: #000000;
-
-    font-family: Karla;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 24px;
-    line-height: 28px;
-    letter-spacing: 0.01em;
-
-    width: 353px;
-    height: 252px;
-
-    margin-top: 15px;
-    margin-left: 80px;
-
-}
 
 /* ==== */
 
@@ -395,7 +359,7 @@ body{
     display: flex;
     justify-content: center;
 
-    width: 100%;
+    width: 95%;
     height: 100%;
 }
 .timing-week a{
@@ -673,7 +637,7 @@ body{
     flex-direction: row;
     align-content: center;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     flex-wrap: wrap;
     width: 100%;
     height: 80%;
@@ -1054,6 +1018,7 @@ body{
 /*----------------------------------*/
 /* MEDIA QUERIES */
 
+/* ? should be the phones */
 @media screen and (max-width: 480px) {
     .main .sideb .showDate i {
         cursor: pointer;
@@ -1076,19 +1041,22 @@ body{
       }
 
 }
+
 /* tablet */
 @media screen and (min-width: 481px) and (max-width: 769px) {
-    .rectangle{
+    .rectangle{ /* * background - the green box*/
         width: 100%;
-        height: 1400px;
+        height: 600px;
        
         position: absolute;
-        top: 300px;
+        top: 370px;
     
         z-index: -2;
     
         background: #163A36;
     }
+
+    /* * the title and the gallery thing next to it*/
     .title1{
         font-size: 40px;
         line-height: 40px;
@@ -1105,36 +1073,381 @@ body{
     .wrapper3{
         margin-top: -50px;
     }
+
+    /* categories */
+
+    .categories .box{
+        height: 90px;
+    }
+
+    .categories a{
+        font-size: 15px;
+    }
+
+    /* * information box and the images*/
+    .img-set{
+        width: 300px;
+        height: 100px;
+    }
+    .info-hist-box {
+        width: 95%;
+        height: 500px;
+    }
+    .layer1{
+        height: 500px;
+    }
+    .info-title {
+        font-size: 30px;
+    }
+    .info-description {
+        font-size: 14px;
+        padding-top: 70px;
+    }
+
+    /* * the what to do part */
+    .contents-box {
+        width: 300px;
+        max-height: 320px;
+    }
+    .wtd-container{
+        height: 500px;
+    }
+    .contents-img{
+        height: 320px;
+    }
+    .contents-container {
+        bottom: 380px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 135px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        float: right;
+    }
+    /* * timings */
+    .timing-title{
+        font-size: 30px;
+        padding-top: 40px;
+        padding-bottom: 50px;
+        padding-left: 80px
+    }
+    .timing-week .days{
+        height: 90px;
+    }
+    .timing-container{
+        padding-bottom: 30px;
+    }
+    .timing-week a{
+        font-size: 15px;
+    }
+        /* *calendar and events */
+    .calendar-title{
+        font-size: 30px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 80px
+    }
+
+    .main{
+        margin-bottom: -110px;
+    }
+
+    .main .sideb table th {
+        font-size: 14px;
+        height: 5%;
+    }
+    .main .sideb table {
+        height: 30%;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb{
+        height: 75%;
+    }
+    .main .right-wrapper {
+        height: 75%;
+    }
+    .main .right-wrapper .day {
+        font-size: 120px;
+        text-indent: 0px;
+    }
+
+    /* --- */
+
+    .name-event{
+        font-size: 14px;
+        padding: 20px;
+    }
+    .e-month{
+        font-size: 10px;
+    }
+    .e-number{
+        font-size: 20px;
+    }
+    
 }
+
 /* small screen */
 @media screen and (min-width: 770px) and (max-width: 1024px) {
-    .rectangle{
+    .rectangle{ /* * background - the green box*/
         width: 100%;
-        height: 1400px;
+        height: 600px;
        
         position: absolute;
-        top: 400px;
+        top: 370px;
     
         z-index: -2;
     
         background: #163A36;
     }
+    /* * the title and the gallery thing next to it*/
+    .title1{
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .location-title{
+        font-size: 10px;
+
+    }
+    .line1{
+        font-size: 10px;
+        height: 15%;
+        width: 15%;
+    }
+    .wrapper3{
+        margin-top: -50px;
+    }
+
+    /* * categories*/
+    .categories .box{
+        height: 90px;
+    }
+    .categories a{
+        font-size: 15px;
+    }
+
+  
+    /* * information box and the images*/
+    .img-set{
+        width: 300px;
+        height: 100px;
+    }
+    .info-hist-box {
+        width: 95%;
+        height: 500px;
+    }
+    .layer1{
+        height: 500px;
+    }
+    .info-title {
+        font-size: 30px;
+    }
+    .info-description {
+        font-size: 14px;
+        padding-top: 70px;
+    }
+
+    /* *calendar and events */
+    .calendar-title{
+        font-size: 50px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 80px
+    }
+
+    .main{
+        margin-bottom: -110px;
+    }
+
+    .main .sideb table th {
+        font-size: 14px;
+        height: 5%;
+    }
+    .main .sideb table {
+        height: 30%;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb{
+        height: 75%;
+    }
+    .main .right-wrapper {
+        height: 75%;
+    }
+    .main .right-wrapper .day {
+        font-size: 120px;
+        text-indent: 0px;
+    }
+
+    /* --- */
+
+    .name-event{
+        font-size: 14px;
+        padding: 20px;
+    }
+    .e-month{
+        font-size: 10px;
+    }
+    .e-number{
+        font-size: 20px;
+    }
+    
+
 }
-/* large screen */
+
+/* ! large screen */
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
     .rectangle{
         width: 100%;
-        height: 1400px;
+        height: 700px;
        
         position: absolute;
-        top: 400px;
+        top: 470px;
     
         z-index: -2;
     
         background: #163A36;
     }
+    .img-set{
+        width: 500px;
+        height: 100px;
+    }
+    .info-hist-box {
+        width: 95%;
+        height: 500px;
+    }
+    .layer1{
+        height: 500px;
+    }
+    .info-title {
+        font-size: 37px;
+    }
+    .info-description {
+        font-size: 16px;
+        padding-top: 70px;
+    }
+
+    /* * the what to do part */
+    .contents-box {
+        width: 400px;
+        max-height: 420px;
+    }
+    .wtd-container{
+        height: 600px;
+    }
+    .contents-img{
+        height: 420px;
+    }
+    .contents-container {
+        bottom: 400px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 189px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        float: right;
+    }
+
+      /* * timings */
+    .timing-title{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 80px
+        }
+    .timing-container{
+        padding-bottom: 50px;
+    }
+    .timing-week .days{
+        height: 90px;
+    }
+
+    .timing-week a{
+        font-size: 15px;
+    }
+
+    /* *calendar and events */
+    .calendar-title{
+        font-size: 50px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 80px
+    }
+
+    .main{
+        margin-bottom: -110px;
+    }
+
+    .main .sideb table th {
+        font-size: 14px;
+        height: 5%;
+    }
+    .main .sideb table {
+        height: 30%;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb{
+        height: 75%;
+    }
+    .main .right-wrapper {
+        height: 75%;
+    }
+    .main .right-wrapper .day {
+        font-size: 120px;
+        text-indent: 0px;
+    }
+
+    /* --- */
+
+    .name-event{
+        font-size: 14px;
+        padding: 20px;
+    }
+    .e-month{
+        font-size: 10px;
+    }
+    .e-number{
+        font-size: 20px;
+    }
 }
 @media screen and (min-width: 1201px){
+    .rectangle{
+        width: 100%;
+        height: 850px;
+       
+        position: absolute;
+        top: 650px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+    .layer1{
+        justify-content: center;
+        gap: 30px;
+    }
+    .info-description {
+        font-size: 20px;
+        padding-top: 70px;
+    }
 
 }
 /*----------------------------------*/
