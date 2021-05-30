@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1 {
+    font-family: 'Karla', sans-serif;
+    color: rgb(25, 25, 25);
+    position: absolute;
+    font-size: 15px;
+    bottom: 8px;
+    left: 16px;
+}
+
+h2 {
+    font-family: 'Karla', sans-serif;
+    color: rgb(25, 25, 25);
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    font-size: 45px;
+    font-weight: 650;
+    color: rgb(22, 22, 22);
+    position: absolute;
+    top:15%;
+    padding-left:7%;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+/*for the 1st flexbox */
+.placeholder1{
+    margin-top: 100%;
+    box-sizing: border-box;
+    width:100%;
+    justify-content: center;
+    display:flex;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+}
+
+/*for the 2nd flexbox */
+.placeholder2{
+    box-sizing: border-box;
+    width:100%;
+    justify-content: center;
+    display:flex;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+}
+
+/*for the 3rd flexbox */
+.placeholder3{
+    box-sizing: border-box;
+    width:100%;
+    justify-content: center;
+    display:flex;
+    background-color: rgb(255, 255, 255);
+    flex-direction: row;
+    margin-bottom: 70px;
+}
+
+.bookmark {
+    margin:20px;
+    width:400px;
+    height:300px;
+}
+
+.placedesc {
+    font-family: 'Karla', sans-serif;
+    color: rgb(25, 25, 25);
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+ /*one separate div each for place */
+
+.place1 {
+    border:none;
+}
+
+.place2 {
+    border:none;
+}
+
+.place3 {
+    border:none;
+}
+
+.place4 {
+    border:none;
+}
+
+.place5 {
+    border:none;
+}
+
+.place6 {
+    border:none;
+}
+
+.place7 {
+    border:none;
+}
+
+.place8 {
+    border:none;
+}
+
+.place9 {
+    border:none;
+}
+
