@@ -55,7 +55,7 @@
 
     </div>
 
-    <!--classes for 2nd row of places 
+    <!--classes for 2nd row of places -->
     <div class="placeholder2">
 
     <div class="place4"> 
@@ -87,10 +87,10 @@
              <h2>Dubai</h2>
          </div>
     </div>
-    -->
+    </div>
 
     <!--classes for 3rd row of places -->
-
+    <div class="placeholder3">
     <div class="place7"> 
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc7.png">
@@ -119,6 +119,7 @@
              <h1>Dubai Creek</h1>
              <h2>Dubai</h2>
          </div>
+    </div>
     </div>
     
 
