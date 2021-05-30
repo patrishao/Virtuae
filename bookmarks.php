@@ -22,47 +22,105 @@
 
     <!--classes for 1st row of places -->
     <div class="placeholder1">
-         <div class="place1"> 
-         <img class="bookmark" src="images/bookmarks-images/plc1.png">
-         <div class="placedesc">
-                <h1> Jebel Jais </h1>
-                <h2> Ras Al Khaimah </h2>
-              </div>
+
+    <div class="place1"> 
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc1.png">
          </div>
-         <div class="place2">
-         <img class="bookmark" src="images/bookmarks-images/plc2.png">
+         <div class="placedesc"> 
+             <h1>Jebel Jais</h1>
+             <h2>Ras Al Khaimah</h2>
          </div>
-         <div class="place3">
-         <img class="bookmark" src="images/bookmarks-images/plc3.png">
+    </div>
+          
+    <div class="place2">
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc2.png">
+         </div>
+         <div class="placedesc"> 
+             <h1>Burj Al Arab</h1>
+             <h2>Dubai</h2>
          </div>
     </div>
 
-    <!--classes for 2nd row of places -->
-    <div class="placeholder2">
-         <div class="place4">
-         <img class="bookmark" src="images/bookmarks-images/plc4.png"> 
+    <div class="place3">
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc3.png">
          </div>
-         <div class="place5">
-         <img class="bookmark" src="images/bookmarks-images/plc5.png">
-         </div>
-         <div class="place6">
-         <img class="bookmark" src="images/bookmarks-images/plc6.png">
+         <div class="placedesc"> 
+             <h1>Dubai Creek</h1>
+             <h2>Dubai</h2>
          </div>
     </div>
+
+    </div>
+
+    <!--classes for 2nd row of places 
+    <div class="placeholder2">
+
+    <div class="place4"> 
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc4.png">
+         </div>
+         <div class="placedesc"> 
+             <h1>Jebel Jais</h1>
+             <h2>Ras Al Khaimah</h2>
+         </div>
+    </div>
+          
+    <div class="place5">
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc5.png">
+         </div>
+         <div class="placedesc"> 
+             <h1>Burj Al Arab</h1>
+             <h2>Dubai</h2>
+         </div>
+    </div>
+
+    <div class="place6">
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc6.png">
+         </div>
+         <div class="placedesc"> 
+             <h1>Dubai Creek</h1>
+             <h2>Dubai</h2>
+         </div>
+    </div>
+    -->
 
     <!--classes for 3rd row of places -->
-    <div class="placeholder3">
-         <div class="place7">
-         <img class="bookmark" src="images/bookmarks-images/plc7.png"> 
+
+    <div class="place7"> 
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc7.png">
          </div>
-         <div class="place8">
-         <img class="bookmark" src="images/bookmarks-images/plc8.png">
+         <div class="placedesc"> 
+             <h1>Jebel Jais</h1>
+             <h2>Ras Al Khaimah</h2>
          </div>
-         <div class="place9">
-         <img class="bookmark" src="images/bookmarks-images/plc9.png">
+    </div>
+          
+    <div class="place8">
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc8.png">
+         </div>
+         <div class="placedesc"> 
+             <h1>Burj Al Arab</h1>
+             <h2>Dubai</h2>
          </div>
     </div>
 
+    <div class="place9">
+         <div class="blackbg">
+             <img class="bookmark" src="images/bookmarks-images/plc9.png">
+         </div>
+         <div class="placedesc"> 
+             <h1>Dubai Creek</h1>
+             <h2>Dubai</h2>
+         </div>
+    </div>
+    
 
     </div> <!-- wrapper -->
 
