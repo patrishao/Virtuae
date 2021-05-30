@@ -12,6 +12,7 @@ body{
 
 
 
+
 /*----------------------------------*/
 
 /*----------------------------------*/
@@ -69,7 +70,7 @@ body{
     font-style: normal;
     font-weight: 900;
     font-size: 60px;
-    line-height: 88px;
+    line-height:70px;
 
     width: 50%;
 }
@@ -91,7 +92,6 @@ body{
     
     height: 40px;
     width: 70px;
-
 
 }
 
@@ -642,28 +642,7 @@ body{
 }
 
 
-@media screen and (min-width: 320px) and (max-width:480px){
-    .main .sideb .showDate i {
-        cursor: pointer;
-        background: #D07B3B;
-        border-radius: 4px;
-        padding: 8px 12px;
-        transform: scale(1);
-        transition: all 0.3s;
-      }
-      .main .right-wrapper {
-        background-color: #D07B3B;
-        color: white;
-        display: block;
-        transform-origin: left center;
-        transform: rotateY(110deg);
-        transition: all 0.5s; 
-      }
-      .main .right-wrapper.is-active {
-        transform: rotateY(0deg);
-      }
 
-}
 
 /* events */
 .wrapper4{
@@ -1070,5 +1049,94 @@ body{
 
     margin-top: 50px;
 }
+/*----------------------------------*/
 
+/*----------------------------------*/
+/* MEDIA QUERIES */
 
+@media screen and (max-width: 480px) {
+    .main .sideb .showDate i {
+        cursor: pointer;
+        background: #D07B3B;
+        border-radius: 4px;
+        padding: 8px 12px;
+        transform: scale(1);
+        transition: all 0.3s;
+      }
+      .main .right-wrapper {
+        background-color: #D07B3B;
+        color: white;
+        display: block;
+        transform-origin: left center;
+        transform: rotateY(110deg);
+        transition: all 0.5s; 
+      }
+      .main .right-wrapper.is-active {
+        transform: rotateY(0deg);
+      }
+
+}
+/* tablet */
+@media screen and (min-width: 481px) and (max-width: 769px) {
+    .rectangle{
+        width: 100%;
+        height: 1400px;
+       
+        position: absolute;
+        top: 300px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+    .title1{
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .location-title{
+        font-size: 10px;
+
+    }
+    .line1{
+        font-size: 10px;
+        height: 15%;
+        width: 15%;
+    }
+    .wrapper3{
+        margin-top: -50px;
+    }
+}
+/* small screen */
+@media screen and (min-width: 770px) and (max-width: 1024px) {
+    .rectangle{
+        width: 100%;
+        height: 1400px;
+       
+        position: absolute;
+        top: 400px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+}
+/* large screen */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+    .rectangle{
+        width: 100%;
+        height: 1400px;
+       
+        position: absolute;
+        top: 400px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+}
+@media screen and (min-width: 1201px){
+
+}
+/*----------------------------------*/
+
+/*----------------------------------*/

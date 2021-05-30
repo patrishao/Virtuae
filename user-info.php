@@ -43,8 +43,11 @@
         <a class="acc-s" href="account-settings.php">Account settings</a>
         
         <div class="forms">
-            <p class="name-label">First Nameㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤLast Name</p>
-            <input class="full-name" type="text" placeholder="First Name" /> 
+            <div class="forms1">
+                <p class="name-label">First Name</p>
+                <p class="lname-label">Last Name</p>
+            </div>
+            <input class="first-name" type="text" placeholder="First Name" /> 
             <input class="last-name" type="text" placeholder="Last Name" />
             <div class="forms2">
                 <p class="loc-label">Location</p>
