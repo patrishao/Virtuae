@@ -2,14 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-h1 {
+/*h1 {
     font-family: 'Karla', sans-serif;
     color: rgb(25, 25, 25);
     position: absolute;
     font-size: 15px;
     bottom: 8px;
     left: 16px;
-}
+} 
 
 h2 {
     font-family: 'Karla', sans-serif;
@@ -17,23 +17,35 @@ h2 {
     position: absolute;
     bottom: 8px;
     left: 16px;
-}
+} */
+
 
 .text {
-    font-family: 'Roboto', sans-serif;
-    font-size: 45px;
-    font-weight: 650;
-    color: rgb(22, 22, 22);
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 133.69%;
+
     position: absolute;
     top:15%;
     padding-left:7%;
     letter-spacing: 5px;
     margin-bottom: 10px;
 }
+ 
+.wrapper{     /* this'll wrap your entire 3 rows, and keep it in place.*/
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    position: relative;
+    top: 200px;
+}
 
 /*for the 1st flexbox */
 .placeholder1{
-    margin-top: 100%;
     box-sizing: border-box;
     width:100%;
     justify-content: center;

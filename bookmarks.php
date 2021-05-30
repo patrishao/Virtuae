@@ -13,8 +13,13 @@
         <?php include 'includes/headers-edit.php';?>
     </div>
     
-    <div class="text">Bookmarks</div>
-    
+
+    <h1 class="text">Bookmarks</h1>
+
+
+    <div class="wrapper"> <!-- having a whole wrapper can help in keeping 
+    all ur elements 2gether so they don't have a meltdown and not listen to u-->
+
     <!--classes for 1st row of places -->
     <div class="placeholder1">
          <div class="place1"> 
@@ -57,6 +62,9 @@
          <img class="bookmark" src="images/bookmarks-images/plc9.png">
          </div>
     </div>
+
+
+    </div> <!-- wrapper -->
 
     </body>
 </html>
