@@ -479,7 +479,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmmos1C.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
