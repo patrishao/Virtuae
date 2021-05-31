@@ -17,7 +17,8 @@
 </head>
 <body>
     <div class="navbg"> 
-    <?php include 'includes/headers-edit.php'; ?> 
+    <?php include 'includes/headers.php'; ?> 
+    <img src = "images/logo_thickb.png" id="virtuae" style="width: 60px; height: 60px;">
    
 
     <div class="container-1">

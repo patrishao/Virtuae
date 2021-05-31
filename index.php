@@ -17,7 +17,8 @@
 
 <!-- Nav and First Part -->
 <div id="nav"> 
-
+<!-- <img src = "images/logo_thickb.png" id="virtuae" style="width: 60px; height: 60px;"> -->
+<img src = "images/logo_thickw.png" id="virtuae" style="width: 60px; height: 60px;">
 <!-- including the nav layout -->
 <?php include 'includes/headers.php';?> 
 
@@ -617,11 +618,13 @@
      <div class="creator-container">
 
        <div class="member">
+         <img src="images/members/patrisha.PNG" class="member-img">
         <h2>Patrisha Ortigas</h2>
         <h3>Developer</h3>
       </div>
 
       <div class="member">
+      <img src="images/members/carter.JPG" class="member-img">
         <h2>Carter Catis</h2>
         <h3>Developer</h3>
       </div>
@@ -634,16 +637,19 @@
       <div class="break"></div>
 
       <div class="member">
+      <img src="images/members/sarai.JPG" class="member-img">
         <h2>Sarai Carreon</h2>
         <h3>Designer</h3>
       </div>
 
       <div class="member">
+      <img src="images/members/gabby.png" class="member-img">
         <h2>Alysxandra Reyes</h2>
         <h3>Researcher</h3>
       </div>
 
       <div class="member">
+      <img src="images/members/ruth.jpg" class="member-img">
         <h2>Ruth Amurao</h2>
         <h3>Designer</h3>
       </div>

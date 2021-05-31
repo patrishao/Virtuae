@@ -18,7 +18,7 @@
 <body>
 <div class="image-container"> 
 <img src="images/login.jpeg" alt = "bg" class="image"> 
-<img src="images/logo_virtuaew.png" width="45%" height="30%" class="logo">
+<img src="images/logo_virtuaew.png" width="40%" height="25%" class="logo">
 <br>
 
 

@@ -19,9 +19,10 @@
  
   <!-- all the links, each has id to highlight the corresponding text for page -->
     <div class="holder"> 
+
      <a href="index.php" id = "home-nav">Home</a>
      <a href="emirates.php" id = "emirates-nav" >Emirates</a>
-     <a href="#" id = "home-boomarks">Bookmarks</a>
+     <a href="bookmarks.php" id = "home-boomarks">Bookmarks</a>
      <a href="profile.php" id="profile"> 
        <svg width="23" height="26" viewBox="0 0 26 29" fill="none" xmlns="http://www.w3.org/2000/svg">
        <g filter="url(#filter0_d)">
@@ -63,19 +64,24 @@
 // the onclick function
   function myFunction() {
 
+
     // gets the menu icon
     var x = document.getElementById("myTopnav");
+    var logo = document.getElementById("virtuae");
 
     // checks if x has a class called navbar
     if (x.className === "navbar") {
 
       // add the class called responsive
       x.className += " responsive";
+      logo.style.display = "none";
+  
 
     } else {
 
       // if there's none, put navbar
      x.className = "navbar";
+     logo.style.display = "block";
 
     }
   }

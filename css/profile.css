@@ -6,6 +6,21 @@ body{
     font-family: Karla;
 }
 
+.navbar .holder a{
+    color: black;
+}
+
+.navbar .holder a:hover{
+    color: black;
+    font-weight: 700;
+}
+
+#profile path{
+    stroke: black;
+    stroke-width: 2.5px;
+}
+
+
 
 /*-----------------------------------*/
 /*background*/
