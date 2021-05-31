@@ -47,7 +47,7 @@
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'activities')">ACTIVITIES</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'sights')">SIGHTS TO SEE</button>
                         <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'discover')">DISCOVER</button>
-                        <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'mosque')">MOSQUES</button>
+                        <!-- <button class="tab-btn tablink link" onclick="toggleShow(); openTab(event, 'mosque')">MOSQUES</button> -->
                 </div>
                 
             </div>
@@ -443,8 +443,7 @@
                         <h3>Umm Al Quwain Museum</h3>
                         <h4>Umm Al Quwain</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>UAQ Museum is the centre of history and heritage in the city. With a wide range of visitors from GCC expats to school field trips, this museum depicts the history of UAE in one beautiful fortress. The exhibits focus mainly..</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -462,8 +461,7 @@
                         <h3>Al Sinniyah Island</h3>
                         <h4>Umm Al Quwain</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>The Al Sinniyah Island among other islands lie east to the mainland of Umm al-Quwain. The length of the island is about eight kilometers, and its width extends up to four miles. The island is full of natural reserves...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -481,8 +479,7 @@
                         <h3>Abandoned IL-76</h3>
                         <h4>Umm Al Quwain</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Abandoned IL-76 is a Russian cargo plane that was left abandoned and rusting away since probably the 1970s at a non-functional airstrip in Umm al-Quwain. This soviet-era abandoned cargo plane... </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -500,8 +497,7 @@
                         <h3>Al-Dur Archaeological Site</h3>
                         <h4>Umm Al Quwain</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Al-Dur Archaeological site is one of the most important archaeological sites in UAE and among the prime places to visit in Umm Al Quwain. Also known as Ed-Dur or Ed-Dour, Al Dur is the largest pre-Islamic site in the...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -519,8 +515,7 @@
                         <h3>Khor Al Beidah</h3>
                         <h4>Umm Al Quwain</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Less than an hour from Dubai lie the Khor Al Beidah wetlands, it is an untouched haven for birds and birdwatchers alike. A patchwork of pristine beaches, emerald blue lagoons, hidden islands and dense mangroves, the wetlands are...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -528,11 +523,11 @@
             </div>
         </div>
         </div>
+        <!--  
         <div class="wrapCateg acc-tabs" id="mosque" style="display: none;">
         <div id="categTitle">
             <h1>MOSQUES IN UMM AL QUWAIN</h1>
         </div>
-        <!--  -->
         <div class="card">
             <div class="imgCard">
                 <img src="marina.jpg" alt="" srcset="">
@@ -551,7 +546,7 @@
                 </div>
             </div>
         </div>
-        </div>
+        </div>-->
 
 <footer></footer>
 
