@@ -844,7 +844,7 @@ body{
     height: 100px;
     
     position: relative;
-    right: 90px;
+    right: 50px;
 }
 
 .reply-btn{
@@ -1291,7 +1291,9 @@ body{
     iframe{
         height: 500px;
     }
+
     /* *reviews */
+
     .review-title{
         font-size: 40px;
         padding-top: 0px;
@@ -1314,7 +1316,7 @@ body{
     }
     
     .r-box{
-        width: 50%;
+        width: 100%;
     }
 
     .review-content{
@@ -1326,6 +1328,16 @@ body{
         font-size: 20px;
     }
 
+    .line-r{
+        right: 30px;
+        top: 100px;
+    }
+
+    .review-replies{
+        margin-left: 20px;
+        margin-top: -100px;
+        width: 90%;
+    }
     .date{
         font-size: 20px;
         margin-left: 5px;
@@ -1333,8 +1345,14 @@ body{
     .dot{
         margin-left: 5px;
     }
-
-
+    .post{
+        margin-left: 50px;
+    }
+    .btn{
+        height: 40px;
+        width: 80px;
+        font-size: 12px;
+    }
 
 } 
 
@@ -1839,12 +1857,13 @@ body{
     
     .main-box {
         padding-top: 0px;
-        width: 60%;
-        padding-left: 10px;
+        width: 100%;
+        padding-left: 70px;
     }
     
     .reply-box{
-        width: 70%;
+        margin-top: -100px;
+        width: 100%;
     }
 
     .review-content{
@@ -1857,6 +1876,9 @@ body{
 
     .date{
         font-size: 29px;
+    }
+    .line-r{
+        top: 5px;
     }
 }
 @media screen and (min-width: 1201px){
@@ -1878,6 +1900,9 @@ body{
     .info-description {
         font-size: 20px;
         padding-top: 70px;
+    }
+    line-r{
+        top: 30px;
     }
 
 }

@@ -416,7 +416,6 @@
         <div class="user-review">
        
             <div class="main-review review">
-            <img src="images/PLACEHOLDER.png" class="pfp"/>
                 <div class="r-box main-box">
                 <div class="user">Avery Angel <div class="dot"></div>
                 <span class="date">Apr 01 2012</span></div>
@@ -432,7 +431,6 @@
 
             <div class="review-replies review">
                 <div class="line-r"></div>
-                <img src="images/PLACEHOLDER.png" class="pfp"/>
                 <div class="r-box reply-box">
                 <div class="user">Avery Angel <div class="dot"></div>
                 <span class="date">Apr 01 2012</span></div>
@@ -462,7 +460,6 @@
 
     <div class="wr-container" id="wr-container">
     <div class="write-review">
-    <img src="images/PLACEHOLDER.png" class="pfp self" />
         <input class="form-control" placeholder="add a review"></input>
     </div>
     <button class="post btn">post</button>
