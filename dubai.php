@@ -22,6 +22,8 @@
     </style>
 </head>
 <body>
+    <!-- <img src = "images/logo_thickb.png" id="virtuae" style="width: 60px; height: 60px;"> -->
+    <img src = "images/logo_thickw.png" id="virtuae" style="width: 60px; height: 60px;">
     <div id="navbar">
         <?php include 'includes/headers.php';?>
     </div>
