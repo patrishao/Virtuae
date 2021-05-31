@@ -187,9 +187,10 @@ body{
 
 
     padding: 40px;
+    padding-top: 80px;
     padding-bottom: 0px;
     width: 100%;
-    height: 100%;
+    height: 95%;
 }
 
 .info-container{
@@ -236,7 +237,7 @@ body{
 
 .left-images{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
     
     gap: 30px;

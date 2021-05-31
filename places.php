@@ -406,6 +406,9 @@
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.091466187711!2d55.26329251547081!3d25.233844083879188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f425496f47ed1%3A0xd880ed54682d125a!2sJumeirah%20Mosque!5e0!3m2!1sen!2sae!4v1622472111655!5m2!1sen!2sae"
+         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
     <!-- -->
     
     <!-- COMMENTS -->
