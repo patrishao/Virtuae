@@ -620,18 +620,19 @@
        <div class="member">
          <img src="images/members/patrisha.PNG" class="member-img">
         <h2>Patrisha Ortigas</h2>
-        <h3>Developer</h3>
+        <h3>Lead Programmer</h3>
       </div>
 
       <div class="member">
       <img src="images/members/carter.JPG" class="member-img">
         <h2>Carter Catis</h2>
-        <h3>Developer</h3>
+        <h3>Lead Programmer</h3>
       </div>
 
       <div class="member">
+      <img src="images/members/bianca.jpg" class="member-img">
         <h2>Bianca Dalangin</h2>
-        <h3>Designer</h3>
+        <h3>UX/UI Designer</h3>
       </div>
 
       <div class="break"></div>
@@ -639,24 +640,22 @@
       <div class="member">
       <img src="images/members/sarai.JPG" class="member-img">
         <h2>Sarai Carreon</h2>
-        <h3>Designer</h3>
+        <h3>UX/UI Designer</h3>
       </div>
 
       <div class="member">
       <img src="images/members/gabby.png" class="member-img">
         <h2>Alysxandra Reyes</h2>
-        <h3>Researcher</h3>
+        <h3>Researcher/Programmer</h3>
       </div>
 
       <div class="member">
       <img src="images/members/ruth.jpg" class="member-img">
         <h2>Ruth Amurao</h2>
-        <h3>Designer</h3>
+        <h3>Researcher/Programmer</h3>
       </div>
 
   </div>
-  
-
 
 </section>
 

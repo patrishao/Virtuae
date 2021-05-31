@@ -59,21 +59,44 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2>
-                <img src="images/PLACEHOLDER.png" class="img-set"/>
-                <img src="images/PLACEHOLDER.png" class="img-set"/>
-                <img src="images/PLACEHOLDER.png" class="img-set"/>
+                <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
+                <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
+                <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
-                    <img src="images/Star.png" />
-                    <img src="images/Desktop Download.png" />
+                    
+                    <form> 
+                        <button>  <img src="images/Star.png" /> </button>
+                    </form>
+
+                    <button> <img src="images/Desktop Download.png" /> </button>
+                    
                 </div>
             <h2 class="info-title1"> Information </h2>
                 <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
                     lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in. </p>
+                    At risus viverra adipiscing at in. 
+                    
+                    <br>
+                    <br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
+                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
+                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
+                    At risus viverra adipiscing at in.                    
+                    
+
+                    <br>
+                    <br>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
+                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
+                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
+                    At risus viverra adipiscing at in.            
+                    </p>
             </div>
             
          </div>
@@ -84,7 +107,16 @@
 
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
+        <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/>
             <div class="scroller-area">
+
+            <div class="contents-box">
+                <div class="contents-container1">
+                <h2 class="contents-title1"> What to do </h2>
+                <p class="contents-desc1">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
+                 Feugiat in ante metus dictum at tempor commodo. </p>
+                 </div>
+            </div> 
             
             <div class="contents-box">
                 <img src="images/PLACEHOLDER.png" class="contents-img"/>
@@ -478,7 +510,7 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/dubai/dxbact1B.jpg" /></div>
             <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
             <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
             <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
