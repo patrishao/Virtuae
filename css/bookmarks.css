@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/*for the title of the page*/
 .text {
     font-family: Karla;
     font-style: normal;
@@ -10,24 +11,23 @@
     font-size: 60px;
 
     position: absolute;
-    top:15%;
-    padding-left:7%;
+    top:16%;
+    padding-left:9%;
     letter-spacing: 5px;
     margin-bottom: 10px;
 }
 
- /* this'll wrap your entire 3 rows, and keep it in place.*/
-.wrapper{    
+ /*this'll wrap all 3 rows together to keep it in place*/
+.bookmarks_wrapper{    
     display: flex;
     width: 100%;
     flex-direction: row;
     flex-wrap: wrap;
-
     position: relative;
     top: 200px;
 }
 
-/*for the 1st flexbox */
+/*for the 1st flexbox*/
 .placeholder1{
     box-sizing: border-box;
     width:100%;
@@ -39,7 +39,7 @@
 }
 
 
-/*for the 2nd flexbox */
+/*for the 2nd flexbox*/
 .placeholder2{
     box-sizing: border-box;
     width:100%;
@@ -51,6 +51,7 @@
     margin-top: 20px;
 }
 
+/*for the 3rd flexbox*/
 .placeholder3{
     box-sizing: border-box;
     width:100%;
@@ -63,7 +64,12 @@
     margin-top: 20px;
 }
 
+/*div container for places*/
+ .places {
+    border:none;
+}
 
+/*div container for the pictures within each place*/
 .bookmark {
     opacity: .7;
     background: none;
@@ -71,12 +77,13 @@
     height:300px;
 }
 
+/*adds dim effect on pictures*/
 .blackbg {
     background-color: black;
     height: 98.9%
 }
 
-
+/*name for the places per picture*/
 .placedesc {
     font-family: 'Karla', sans-serif;
     color: white;
@@ -98,43 +105,3 @@
     font-size: 18px;
     font-weight: 400;
 }
-
- /*one separate div each for place */
-
-.place1 {
-    border:none;
- 
-}
-
-.place2 {
-    border:none;
-}
-
-.place3 {
-    border:none;
-}
-
-.place4 {
-    border:none;
-}
-
-.place5 {
-    border:none;
-}
-
-.place6 {
-    border:none;
-}
-
-.place7 {
-    border:none;
-}
-
-.place8 {
-    border:none;
-}
-
-.place9 {
-    border:none;
-}
-

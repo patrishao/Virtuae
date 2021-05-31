@@ -14,26 +14,32 @@
     </div>
     
 
+    <!--title of the page-->
     <h1 class="text">Bookmarks</h1>
 
+    <!--wrapper to keep elements together-->
+    <div class="bookmarks_wrapper">
 
-    <div class="wrapper"> <!-- having a whole wrapper can help in keeping 
-    all ur elements 2gether so they don't have a meltdown and not listen to u-->
-
-    <!--classes for 1st row of places -->
+    <!--classes for 1st row of places-->
     <div class="placeholder1">
 
-    <div class="place1"> 
+    <div class="places"> 
+         <a href="#">
+             <!--to add dim effect on the pictures-->
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc1.png">
          </div>
+         
+         <!--description name for the places per picture-->
          <div class="placedesc"> 
              <h1>Jebel Jais</h1>
              <h2>Ras Al Khaimah</h2>
          </div>
+         </a>
     </div>
           
-    <div class="place2">
+    <div class="places">
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc2.png">
          </div>
@@ -41,9 +47,11 @@
              <h1>Burj Al Arab</h1>
              <h2>Dubai</h2>
          </div>
+         </a>
     </div>
 
-    <div class="place3">
+    <div class="places">
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc3.png">
          </div>
@@ -51,79 +59,92 @@
              <h1>Dubai Creek</h1>
              <h2>Dubai</h2>
          </div>
+         </a>
     </div>
 
     </div>
 
-    <!--classes for 2nd row of places -->
+    <!--classes for 2nd row of places-->
     <div class="placeholder2">
 
-    <div class="place4"> 
+    <div class="places"> 
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc4.png">
          </div>
          <div class="placedesc"> 
-             <h1>Jebel Jais</h1>
+             <h1>Pink Lake</h1>
              <h2>Ras Al Khaimah</h2>
          </div>
+         </a>
     </div>
           
-    <div class="place5">
+    <div class="places">
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc5.png">
          </div>
          <div class="placedesc"> 
-             <h1>Burj Al Arab</h1>
+             <h1>Louis Tomlinson Live in Dubai</h1>
              <h2>Dubai</h2>
          </div>
+         </a>
     </div>
 
-    <div class="place6">
+    <div class="places">
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc6.png">
          </div>
          <div class="placedesc"> 
-             <h1>Dubai Creek</h1>
-             <h2>Dubai</h2>
+             <h1>Sheikh Zayed Grand Mosque</h1>
+             <h2>Abu Dhabi</h2>
          </div>
+         </a>
     </div>
     </div>
 
-    <!--classes for 3rd row of places -->
+    <!--classes for 3rd row of places-->
     <div class="placeholder3">
-    <div class="place7"> 
+
+    <div class="places"> 
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc7.png">
          </div>
          <div class="placedesc"> 
-             <h1>Jebel Jais</h1>
-             <h2>Ras Al Khaimah</h2>
+             <h1>Skydive Dubai</h1>
+             <h2>Dubai</h2>
          </div>
+         </a>
     </div>
           
-    <div class="place8">
+    <div class="places">
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc8.png">
          </div>
          <div class="placedesc"> 
-             <h1>Burj Al Arab</h1>
-             <h2>Dubai</h2>
+             <h1>Louvre Abu Dhabi</h1>
+             <h2>Abu Dhabi</h2>
          </div>
+         </a>
     </div>
 
-    <div class="place9">
+    <div class="places">
+         <a href="#">
          <div class="blackbg">
              <img class="bookmark" src="images/bookmarks-images/plc9.png">
          </div>
          <div class="placedesc"> 
-             <h1>Dubai Creek</h1>
+             <h1>Ski Dubai</h1>
              <h2>Dubai</h2>
          </div>
+         </a>
     </div>
     </div>
     
-
-    </div> <!-- wrapper -->
+    </div> 
 
     </body>
 </html>
