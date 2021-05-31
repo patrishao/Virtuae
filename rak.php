@@ -364,8 +364,7 @@
                         <h3>Jebel Jais</h3>
                         <h4>Ras Al Khaimah</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>The UAE's highest peak, Jebel Jais, is part of the spectacular Hajar mountains that were formed over 70 million years ago in the eastern part of Ras Al Khaimah, United Arab Emirates and Oman. The summit has...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -383,8 +382,7 @@
                         <h3>Hajar Mountains</h3>
                         <h4>Ras Al Khaimah</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Al-Hajar Mountains (Arabic: جِبَال ٱلْحَجَر‎, romanized: Jibāl al-Ḥajar, The Rocky Mountains or The Stone Mountains) in northeastern Oman and also the eastern United Arab Emirates are the highest...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -402,8 +400,7 @@
                         <h3>Dhayah Fort</h3>
                         <h4>Ras Al Khaimah</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Dhayah Fort is an 18th-century fortification in Ras Al Khaimah, United Arab Emirates (UAE).  It is the highest hilltop fort in the UAE and was the site of a battle during the Persian Gulf campaign of 1819...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -421,8 +418,7 @@
                         <h3>Jazirat Al Hamra</h3>
                         <h4>Ras Al Khaimah</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Al Jazirah Al Hamra is a town to the south of the city of Ras Al Khaimah in the United Arab Emirates. The town was ruled by the Zaab tribe, which was rehoused in Abu Dhabi following a dispute with the Ruler of Ras Al Khaimah.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -514,7 +510,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ras al khaimah/rakmos2G.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">

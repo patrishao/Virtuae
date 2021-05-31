@@ -252,7 +252,8 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 60px;
+        margin-left: 710px;
+        margin-top: -40px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -522,7 +523,8 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 40px;
+        margin-top: -40px;
+        margin-left: 640px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -795,7 +797,8 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 40px;
+        margin-top: -40px;
+        margin-left: 565px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -1071,7 +1074,8 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 40px;
+        margin-top: -35px;
+        margin-left: 440px;
         border: 1.5px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -1348,7 +1352,8 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 20px;
+        margin-left: 305px;
+        margin-top: -26px;
         border: 1px solid #90893E;
         border-radius: 70px;
         color: white;
