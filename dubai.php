@@ -142,7 +142,7 @@
                         <h3>Bollywood Parks</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Bollywood Parks™ Dubai is the first park of its kind in the world. In six fascinating zones, you can experience different environments inspired by the greatest Bollywood blockbusters. Experience the diverse cultures... </p>
+                    <p>Bollywood Parks Dubai is the first park of its kind in the world. In six fascinating zones, you can experience different environments inspired by the greatest Bollywood blockbusters. Experience the diverse cultures... </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
