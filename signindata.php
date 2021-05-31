@@ -6,11 +6,17 @@
 <?php 
 
 
+//activate a session for loginfailed
+$_SESSION['message'] = 'Login failed, please check your details.';
 
+
+//checks if there are values and get data
 if (isset($_POST['login'])){
 
-  $email = $_POST['email'];
+    unset( $_SESSION['loginFailed'] ); //unset the login error, meaning there is value
+    $email = $_POST['email'];
    $password = $_POST['password'];
+
 
 
 //   cleaning up data
@@ -61,6 +67,8 @@ if ($email === $db_email && $password === $db_password ){
 
 // if anything else happens, stay to login
 else{
+
+
     header("Location: login.php");
 }
 

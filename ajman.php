@@ -21,6 +21,8 @@
     </style>
 </head>
 <body>
+    <!-- <img src = "images/logo_thickb.png" id="virtuae" style="width: 60px; height: 60px;"> -->
+    <img src = "images/logo_thickw.png" id="virtuae" style="width: 60px; height: 60px;">
     <div id="navbar">
         <?php include 'includes/headers.php';?>
     </div>
@@ -477,7 +479,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmmos1C.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">

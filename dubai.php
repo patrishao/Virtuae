@@ -22,6 +22,8 @@
     </style>
 </head>
 <body>
+    <!-- <img src = "images/logo_thickb.png" id="virtuae" style="width: 60px; height: 60px;"> -->
+    <img src = "images/logo_thickw.png" id="virtuae" style="width: 60px; height: 60px;">
     <div id="navbar">
         <?php include 'includes/headers.php';?>
     </div>
@@ -169,8 +171,7 @@
                         <h3>Marimoto Restaurant</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Morimoto is the first restaurant in the region from Iron Chef star Masaharu Morimoto. Staying true to its namesake’s signature style, Morimoto offers a unique take on Japanese menu staples. </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -245,8 +246,7 @@
                         <h3>Catch22</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Catch22 is more than just a restaurant, it’s an experience with lots of fun elements in store making it the perfect place for a casual lunch, date night, family dinner or friendly get together. </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -290,8 +290,7 @@
                         <h3>Skydive Dubai</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Skydive Dubai is the top skydiving company located in Mina Seyahi, next to Jumeirah beach. Witness the ambience of Dubai from the sky & slash the dream of skydiving from your bucket list. </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -309,8 +308,7 @@
                         <h3>Ski Dubai</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Ski Dubai is an indoor ski resort with 22,500 square meters of indoor ski area. The park maintains a temperature of -1 degree to 2 degrees Celsius throughout the year. It is a part of the Mall of the Emirates... </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -474,8 +472,7 @@
                         <h3>The Buried Village of Al Madama</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Not too far from Dubai, one of the fastest developing cities in the world, is a buried village outside of Al Madam. Out in the desert, the town is a relic of an unknown past. No one is exactly sure why the... </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -550,8 +547,7 @@
                         <h3>The Green Planet </h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Discover the wonders of a tropical forest at The Green Planet, a bio-dome that invites visitors to explore our planet’s fascinating flora and fauna through an immersive expedition into the tropics. Designed as an enclosed... </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>

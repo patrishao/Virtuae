@@ -1,7 +1,8 @@
 
 <?php include 'signupdata.php' ?>
-<?php include 'includes/database.php' ?>
+<!-- <?php include 'includes/database.php' ?> -->
 
+<?php session_start(); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -49,6 +50,15 @@
 
 </form>
 
+<!-- checks if login error -->
+<?php
+     if (isset($_SESSION['message']))
+     { ?> 
+
+      <h2> <?php echo $_SESSION['message']; ?> </h2>  
+      <?php   unset($_SESSION['message']); 
+     }
+    ?>
 
 <div class="line-holder">
 <p class="line"><span>Log in with</span></p>

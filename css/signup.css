@@ -26,8 +26,8 @@ body{
 
 .logo{
     position: absolute;
-    top: 23%;
-    left: 10%;
+    top: 27%;
+    left: 14%;
 }
 
 .title{
@@ -74,8 +74,7 @@ h1{
 
     display: flex;
     background-color: transparent;
-
-    margin-top: 80px;
+    margin-top: 8%;
     margin-right: 50px;
     justify-content: center;
 
@@ -161,7 +160,7 @@ input[type=submit]:hover{
     justify-content: center;
     position: absolute;
     width: 100%;
-    top: 80%;
+    top: 83%;
     margin-top: 50px;
     margin-right: 15px;
 }
@@ -190,7 +189,7 @@ input[type=submit]:hover{
     justify-content: center;
     position: absolute;
     width: 100%;
-    top: 85%;
+    top: 87%;
     margin-top: 50px;
 }
 
@@ -257,6 +256,9 @@ input[type=submit]:hover{
 
     }
 
+
+
+
     .form .email, input[type=password]{
         width: 85%;
     }
@@ -268,10 +270,6 @@ input[type=submit]:hover{
     .log-in{
         margin-left: -10vw;
     }
-/* 
-    input[type=submit] {
-        padding: 20px 60px;
-    } */
 
 
 }
@@ -282,6 +280,7 @@ input[type=submit]:hover{
         width: 30%;
         height: 20%;
         left: 7%;
+        top: 24%;
     }
 
     .title{
@@ -371,6 +370,7 @@ input[type=submit]:hover{
         width: 30%;
         height: 20%;
         left: 7%;
+        top: 24%;
     }
 
     .title{
@@ -460,6 +460,7 @@ input[type=submit]:hover{
         width: 30%;
         height: 18%;
         left: 7%;
+        top: 26%;
     }
 
     .title{
@@ -553,6 +554,7 @@ input[type=submit]:hover{
     .image{
         width: 100%;
         height: 195vh;
+        filter: brightness(50%);
     }
 
     .logo{
