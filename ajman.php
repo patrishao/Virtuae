@@ -71,8 +71,7 @@
                         <h3>Ajman City Centre</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>City Centre Ajman, conveniently located on Al Ittihad Street, is the largest shopping and entertainment destination in the emirate with 34,000sqm of retail space. The mall is home to more than 79 international...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -90,8 +89,7 @@
                         <h3>Al Sinniyah Island</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. It is one of the most popular places to visit...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -109,8 +107,7 @@
                         <h3>Ajman Museum</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort served as the ruler’s residence until 1970, before it was converted into a museum a decade later.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -128,8 +125,7 @@
                         <h3>Ajman Corniche</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Lined with cafés and restaurants, the Corniche is a four-kilometre-long esplanade overlooking the Arabian Gulf. Much of the emirate’s social activities and events are centred on this area. Situated along the...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -147,8 +143,7 @@
                         <h3>China Mall</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -175,8 +170,7 @@
                         <h3>Safi Steakhouse</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Unwind in chic sophistication while enjoying panoramic views of the pool, gardens and the Arabian Gulf at Safi. The menu features delectable cut of meat, freshly prepared on demand according to guest's preferences.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -194,8 +188,7 @@
                         <h3>Cafe Naseem</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Wondering where to brunch this season? Cafe Naseem is the place and this is why it is - a lavish international buffet spread, live cooking stations, seating facing the beach and live music - perfect enough for a laid-back brunch.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -210,11 +203,10 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Bab Al Bahr</h3>
+                        <h3>Bab Al Bahar</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Bab Al Bahar it's a beach bar located in 5* hotel Ajman Palace. It got a nice see view, simple but accurate decor. </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -232,8 +224,7 @@
                         <h3>Danial Restaurant</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Bringing the best taste to your parties and gatherings. Our catering service is available for your parties and gathering anywhere in the UAE. With an exquisite menu of phenomenal tastes and textures...  </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -251,8 +242,7 @@
                         <h3>Dragon's Place</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Dragon's Place is a smart casual and contemporary restaurant, featuring a sushi bar, private Teppanyaki dining table, and two private washitsu rooms with low floor seating. It is the place where you can enjoy...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -277,8 +267,7 @@
                         <h3>Aqua Bounce</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>It’s a fun way to get in some serious exercise – the bouncy assault course also provides a test on scrambler’s stamina, balance and motor-skills. With obstacles providing challenges for a range of abilities...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -296,8 +285,7 @@
                         <h3>Al Sinniyah Island</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. It is one of the most popular places to visit...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -315,8 +303,7 @@
                         <h3>Ajman Museum</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort served as the ruler’s residence until 1970, before it was converted into a museum a decade later.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -334,8 +321,7 @@
                         <h3>Ajman Corniche</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Lined with cafés and restaurants, the Corniche is a four-kilometre-long esplanade overlooking the Arabian Gulf. Much of the emirate’s social activities and events are centred on this area. Situated along the...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -360,8 +346,7 @@
                         <h3>Ajman Museum</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort served as the ruler’s residence until 1970, before it was converted into a museum a decade later.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -379,8 +364,7 @@
                         <h3>Al Sinniyah Island</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. It is one of the most popular places to visit...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -405,8 +389,7 @@
                         <h3>Ajman Dhow Building Yard</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Historically, wooden dhows played a vital role in fishing, pearling and trading across the region. Ajman’s Dhow Yard remains one of the world's largest dhow-building centres. You’ll find the...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -416,16 +399,15 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment5G.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Al Jarah Culture Centre</h3>
+                        <h3>China Mall</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -443,8 +425,7 @@
                         <h3>Al Zorah Natural Reserve</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Al Zorah Nature Reserve is a vibrant ecosystem made up of mangroves, turquoise lagoons and sandy beaches, which is home to nearly 58 species of bird including pink flamingo, egret and heron.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -462,8 +443,7 @@
                         <h3>Al Murabba Watchtower</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>The Arabian Peninsula is dotted with mud-brick forts and watchtowers, built to protect coastal towns, and the sandy-coloured Al-Muraba Watchtower has served as the guardian of Ajman for over 80 years.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -487,8 +467,7 @@
                         <h3>Sheikh Zayed Mosque</h3>
                         <h4>Ajman</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Among all the religious institutions of Ajman, Sheikh Zayed Ajman Mosque stands high on the itinerary of the emirate with its remarkable and intrinsic architecture. Built in the memory of Late Sheikh Rashid bin Humaid Al Nuaimi...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
