@@ -64,6 +64,11 @@
                 <img src="images/PLACEHOLDER.png" class="img-set"/>
             </div>
             <div class="info-container">
+                <div class="dl-bm">
+                    <img src="images/Star.png" />
+                    <img src="images/Desktop Download.png" />
+                </div>
+            <h2 class="info-title1"> Information </h2>
                 <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
@@ -394,11 +399,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">VIRTUAL TOUR</h2>
     <!-- to be replaced -->
+
     <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min" 
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
+
     <!-- -->
     
     <!-- COMMENTS -->
@@ -409,7 +416,6 @@
         <div class="user-review">
        
             <div class="main-review review">
-            <img src="images/PLACEHOLDER.png" class="pfp"/>
                 <div class="r-box main-box">
                 <div class="user">Avery Angel <div class="dot"></div>
                 <span class="date">Apr 01 2012</span></div>
@@ -425,7 +431,6 @@
 
             <div class="review-replies review">
                 <div class="line-r"></div>
-                <img src="images/PLACEHOLDER.png" class="pfp"/>
                 <div class="r-box reply-box">
                 <div class="user">Avery Angel <div class="dot"></div>
                 <span class="date">Apr 01 2012</span></div>
@@ -455,7 +460,6 @@
 
     <div class="wr-container" id="wr-container">
     <div class="write-review">
-    <img src="images/PLACEHOLDER.png" class="pfp self" />
         <input class="form-control" placeholder="add a review"></input>
     </div>
     <button class="post btn">post</button>
@@ -588,7 +592,7 @@
             nextArrow: false,
             draggable: true,
             slidesToShow: 3,
-            autoplay: true,
+            autoplay: false,
             autoplaySpeed: 3000,
             infinite: true,
 
