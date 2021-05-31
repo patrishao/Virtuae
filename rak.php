@@ -354,7 +354,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/ras al khaimah/raksts1A.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -373,7 +373,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/ras al khaimah/raksts2B.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -392,7 +392,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ras al khaimah/raksts3F.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -411,7 +411,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ras al khaimah/raksts4G.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -430,7 +430,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ras al khaimah/rakdis1A.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -438,8 +438,7 @@
                         <h3>Shimal</h3>
                         <h4>Ras Al Khaimah</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Shimal is the name of a settlement in Ras Al Khaimah, United Arab Emirates. It is associated with the Shihuh tribe of the Northern UAE and Oman and with the foundation of the Islamic era port of Julfar, and was once... </p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
