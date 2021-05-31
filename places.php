@@ -64,6 +64,11 @@
                 <img src="images/PLACEHOLDER.png" class="img-set"/>
             </div>
             <div class="info-container">
+                <div class="dl-bm">
+                    <img src="images/Star.png" />
+                    <img src="images/Desktop Download.png" />
+                </div>
+            <h2 class="info-title1"> Information </h2>
                 <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
@@ -394,11 +399,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">VIRTUAL TOUR</h2>
     <!-- to be replaced -->
+
     <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min" 
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
+
     <!-- -->
     
     <!-- COMMENTS -->
@@ -588,7 +595,7 @@
             nextArrow: false,
             draggable: true,
             slidesToShow: 3,
-            autoplay: true,
+            autoplay: false,
             autoplaySpeed: 3000,
             infinite: true,
 
