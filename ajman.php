@@ -61,7 +61,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ad_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment1A.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -80,7 +80,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment2E.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -99,7 +99,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment3F.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -115,15 +115,34 @@
                 </div>
             </div>
         </div>
-        <!--  -->
-        <div class="card">
+            <!--  -->
+            <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment4D.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
                         <h3>Ajman Corniche</h3>
+                        <h4>Ajman</h4>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <div class="cardButton">
+                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--  -->
+        <div class="card">
+            <div class="imgCard">
+                <img src="images/ajman/ajment5G.jpg" alt="" srcset="">
+            </div>
+            <div class="cardContent">
+                <div class="contents">
+                    <div class="contentTitle">
+                        <h3>China Mall</h3>
                         <h4>Ajman</h4>
                     </div>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
@@ -146,7 +165,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/ajman/ajmdin1C.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -165,7 +184,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmdin2C.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -184,7 +203,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmdin3D.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -203,7 +222,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmdin5F.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -222,7 +241,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmdin4F.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -248,7 +267,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ajm_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmact1A.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -267,7 +286,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment2E.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -286,7 +305,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment3F.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -305,7 +324,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment4D.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -331,7 +350,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/ajman/ajment3F.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -350,7 +369,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/ajment2E.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -376,7 +395,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/ajman/IMG_2152.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -414,7 +433,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/ajmdis3D.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -433,7 +452,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/ajman/IMG_2172.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
