@@ -20,17 +20,16 @@
     <div class="wrapper1">
         <div class="title-container">
             <div class="another-container1">
-                <div class="title-slider">
+                <div class="title-slider"> <!-- images the one sa top left -->
                         <div><img src="images/image21.png" class="picture" /></div>
                         <div><img src="images/image21.png" class="picture" /></div>
                         <div><img src="images/image21.png" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> JUMEIRAH MOSQUE </h1>
-                <p class="location-title"> PLACEHOLDER </p>
-                <button href="#" class="line1"> TOUR </button>
-            </div>
+                <h1 class="title1"> JUMEIRAH MOSQUE </h1> <!-- title -->
+                <p class="location-title"> PLACEHOLDER </p> <!-- location-->
+                <button href="#" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
     </div>
     <!-- CATEGORIES -->
@@ -58,7 +57,7 @@
          <div class="layer1">
          
             <div class="left-images"> 
-            <h2 class="info-title"> Information </h2>
+            <h2 class="info-title"> Information </h2> <!-- images on the left -->
                 <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
                 <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
                 <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
@@ -73,7 +72,7 @@
                     <button> <img src="images/Desktop Download.png" /> </button>
                     
                 </div>
-            <h2 class="info-title1"> Information </h2>
+            <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
@@ -112,7 +111,7 @@
 
             <div class="contents-box">
                 <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2>
+                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
                  Feugiat in ante metus dictum at tempor commodo. </p>
                  </div>
@@ -123,7 +122,7 @@
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p>
+                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
@@ -132,7 +131,7 @@
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p>
+                 Feugiat in ante metus dictum at tempor commodo. </p><!-- put the actual activities here -->
                  </div>
             </div> 
             
@@ -142,7 +141,7 @@
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p>
+                 Feugiat in ante metus dictum at tempor commodo. </p><!-- put the actual activities here -->
                  </div>
             </div>
 
@@ -151,7 +150,7 @@
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p>
+                 Feugiat in ante metus dictum at tempor commodo. </p><!-- put the actual activities here -->
                  </div>
             </div>
 
@@ -164,7 +163,7 @@
         <div class="timing-container">
             <h2 class="timing-title">TIMINGS</h2>
             <div class="wrapper3">
-            <div class="timing-week">
+            <div class="timing-week"> <!-- to edit this part go to the javascript below vvv -->
                 <div class="days" onClick="sun()"><a>SUNDAY</a></div>
                 <div class="days" onClick="mon()"><a>MONDAY</a></div>
                 <div class="days" onClick="tues()"><a>TUESDAY</a></div>
@@ -176,7 +175,7 @@
             </div>
 
                 <div class="t-container"> <!-- to edit this part go to the javascript below vvv -->
-                    <div class="timing-info" id="timing-info">
+                    <div class="timing-info" id="timing-info"> <!-- its rlly all the way down there -->
                         <div class="time">
                         <p id="t-time"></p> 
                         </div>
@@ -282,23 +281,12 @@
          <div class="e-row">
 
             <div class="event-content">
-                <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                <div class="extra-wrapper"> <!-- these are for the events -->
+                <div class="e-date"> 
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
                 </div>
-                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
-                </div>
-
-            </div>
-
-            <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -306,21 +294,10 @@
             <div class="event-content">
             <div class="extra-wrapper">
                 <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
-                </div>
-
-            </div>
-
-            <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
-                </div>
-                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -328,10 +305,10 @@
             <div class="event-content">
             <div class="extra-wrapper">
                 <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -339,10 +316,32 @@
             <div class="event-content">
             <div class="extra-wrapper">
                 <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> 
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"><p class="en-adjustin<!-- date -->g">Eid Al Fitr</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper">
+                <div class="e-date">
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+            <div class="extra-wrapper">
+                <div class="e-date">
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
+                </div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -356,10 +355,10 @@
             <div class="event-content">
             <div class="extra-wrapper">
                 <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -367,10 +366,10 @@
             <div class="event-content">
             <div class="extra-wrapper">
                 <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -378,10 +377,10 @@
             <div class="event-content">  
             <div class="extra-wrapper">   
                 <div class="e-date">
-                    <div class="e-month"> MAY </div>
-                    <div class="e-number"> 11 </div>
+                    <div class="e-month"> MAY </div> <!-- month -->
+                    <div class="e-number"> 11 </div> <!-- date -->
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div> 
 
             </div>
@@ -389,10 +388,10 @@
             <div class="event-content">
             <div class="extra-wrapper">
             <div class="e-date">
-                <div class="e-month"> MAY </div>
-                <div class="e-number"> 11 </div>
-            </div>
-            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+                <div class="e-month"> MAY </div> <!-- month -->
+                <div class="e-number"> 11 </div> <!-- date -->
+            </div> 
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
             </div>
 
             </div>
@@ -400,10 +399,10 @@
             <div class="event-content">
             <div class="extra-wrapper">
             <div class="e-date">
-                <div class="e-month"> MAY </div>
-                <div class="e-number"> 11 </div>
+                <div class="e-month"> MAY </div> <!-- month -->
+                <div class="e-number"> 11 </div> <!-- date -->
             </div>
-            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
             </div>
 
             </div>
@@ -411,10 +410,10 @@
             <div class="event-content">  
             <div class="extra-wrapper">
             <div class="e-date">
-                <div class="e-month"> MAY </div>
-                <div class="e-number"> 11 </div>
+                <div class="e-month"> MAY </div> <!-- month -->
+                <div class="e-number"> 11 </div> <!-- date -->
             </div>
-            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div>
+            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
             </div>
 
             </div>
@@ -431,13 +430,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">VIRTUAL TOUR</h2>
     <!-- to be replaced -->
-
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min" 
+    <!-- virtual tour -->
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min"  
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
-
+     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.091466187711!2d55.26329251547081!3d25.233844083879188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f425496f47ed1%3A0xd880ed54682d125a!2sJumeirah%20Mosque!5e0!3m2!1sen!2sae!4v1622472111655!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -450,7 +449,7 @@
         
         <div class="user-review">
        
-            <div class="main-review review">
+            <div class="main-review review"> 
                 <div class="r-box main-box">
                 <div class="user">Avery Angel <div class="dot"></div>
                 <span class="date">Apr 01 2012</span></div>
@@ -506,7 +505,7 @@
     <!-- -->
 
     <section id="media-wrappper">
-        <h2 class="media-title">MEDIA</h2>
+        <h2 class="media-title">MEDIA</h2> 
         <div class="showcase">
 
         <div class="row row1">
@@ -546,41 +545,41 @@
 
     <script>
         //timing content
-        $('#timing-info').hide();
+        $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is sun');
-            $('#t-info').html('placeholder for sunday information');
+            $('#t-time').html('this is sun'); //so put the timings here
+
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is mon');
-            $('#t-info').html('placeholder for monday information');
+            $('#t-time').html('this is mon');//so put the timings here
+
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is tues');
-            $('#t-info').html('awooga');
+            $('#t-time').html('this is tues');//so put the timings here
+  
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is wed');
-            $('#t-info').html('placeholder for wednesady information');
+            $('#t-time').html('this is wed');//so put the timings here
+  
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is thurs');
-            $('#t-info').html('placeholder for thursdsa information');
+            $('#t-time').html('this is thurs');//so put the timings here
+            
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is fri');
-            $('#t-info').html('placeholder for friday information');
+            $('#t-time').html('this is fri');//so put the timings here
+
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is sat');
-            $('#t-info').html('placeholder for saturday information');
+            $('#t-time').html('this is sat');//so put the timings here
+   
         }
 
         //reply function

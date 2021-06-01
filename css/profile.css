@@ -119,9 +119,7 @@ h1{
 .line{
     position: absolute;
     justify-content: center;
-    width: 963px;
-    height: 0px;
-    left: 246px;
+    width: 100%;
     top: 600px;
     
     border: 1px solid #163A36;
