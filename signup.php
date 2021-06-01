@@ -1,5 +1,5 @@
 
-
+<?php include 'signupdata.php'  ?>
 
 
 <!DOCTYPE html>
@@ -36,7 +36,7 @@
 
 <br>
 
-<form class="form" action="login.php" method="POST">
+<form class="form" action="signup.php" method="POST">
 
     <input type="text" name="firstName" placeholder="First Name" class="fl-name"> 
     <input type="text" name="lastName" placeholder="Last Name" class="fl-name"> 

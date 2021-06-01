@@ -4,6 +4,7 @@
 body{
     font-family: 'Karla', sans-serif;
     margin: 0;
+    overflow-x: hidden;
 }
 
 
@@ -11,7 +12,6 @@ body{
 
 .image-container{
     float: left;
-  
     position: relative;
 }
 
@@ -138,6 +138,7 @@ input[type=submit] {
    font-size: 23px;
    font-family: 'Montserrat', sans-serif;
    font-weight: 700;
+   margin-top: 20px;
 }
 
 
@@ -243,6 +244,14 @@ input[type=submit]:hover{
 }
 
 
+h5{
+    color: rgb(223, 57, 57);
+    position: absolute;
+    top: 70%;
+    right: 23%;
+}
+
+
 @media screen and (min-width: 1024px) and (max-width: 1400px) {
     .container{
         margin-right: 0px;
@@ -250,13 +259,11 @@ input[type=submit]:hover{
 
     }
     .form{
-        margin-left: -10vw;
+        margin-left: -5vw;
 
         width: 100%;
 
     }
-
-
 
 
     .form .email, input[type=password]{
@@ -271,6 +278,28 @@ input[type=submit]:hover{
         margin-left: -10vw;
     }
 
+    input[type=submit] {
+        margin-left: -6vw;
+    }
+
+    .logo-holder{
+        margin-left: -13vw;
+    }
+
+
+    .sign-up{
+        margin-left: -13vw;
+    }
+
+
+    h5{
+        margin-right: 1vw;
+
+    }
+
+    .line-holder{
+        margin-right: 13%;
+    }
 
 }
 
@@ -361,6 +390,12 @@ input[type=submit]:hover{
     }
 
 
+    h5{
+        margin-right: -2vw;
+        top: 68vh;
+
+    }
+
 } 
 
 
@@ -412,7 +447,7 @@ input[type=submit]:hover{
 
 
     .form .email, input[type=password]{
-        width: 95%;
+        width: 87%;
     }
 
     .log-in{
@@ -448,6 +483,14 @@ input[type=submit]:hover{
     input[type=submit] {
         padding: 20px 5vw;
         font-size: 2vw;
+    }
+
+    
+    h5{
+        margin-right: -4vw;
+        top: 68vh;
+        font-size: 13px;
+
     }
 
     
@@ -547,13 +590,21 @@ input[type=submit]:hover{
     ::placeholder{
       font-size: 18px;
     }
+
+
+    h5{
+        margin-right: -6vw;
+        top: 77vh;
+        font-size: 10px;
+
+    }
 }
 
 @media screen and (min-width: 320px) and (max-width: 481px) {
 
     .image{
         width: 100%;
-        height: 195vh;
+        height: 200vh;
         filter: brightness(50%);
     }
 
@@ -669,6 +720,7 @@ input[type=submit]:hover{
 
     .sign-up{
        top: 130%;
+       margin-right: -10%;
     }
 
     .signup-link{
@@ -682,6 +734,16 @@ input[type=submit]:hover{
       padding: 20px 40px;
       font-size: 17px;
 
+    }
+
+    
+    h5{
+        margin-right: 7vw;
+        top: 140vh;
+        font-size: 10px;
+        position: absolute;
+        z-index: 999;
+     
     }
 
 }

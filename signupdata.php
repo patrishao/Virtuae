@@ -14,40 +14,81 @@ if(isset($_POST['submit'])){
     $password = $_POST['password'];
 
 
-// cleans up data to avoid hackers doing harm to the site, no injection
+    // cleans up data to avoid hackers doing harm to the site, no injection
   $username =  mysqli_real_escape_string($connection, $firstName);
   $lastName =  mysqli_real_escape_string($connection, $lastName);
   $email =  mysqli_real_escape_string($connection, $email);
   $password =  mysqli_real_escape_string($connection, $password);
 
 
-//   if ($firstName && $lastName && $email && $password){
+  
+    // query to find the the email
+    $query = "SELECT * FROM users";
+    $selectQuery = mysqli_query($connection, $query); //brings the result
 
-//   }
+      if (!$selectQuery){ die("Cant connect" . mysqli_error($connection));
 
-//   else{
-//       echo "Please enter details";
-//   }
-
-
-// creating the query
-$query = "INSERT INTO users (firstName, lastName, email, password)";
-$query .= "VALUES ('$firstName', '$lastName', '$email', '$password')";
+    }
 
 
-// adding the values query to the sql
+    //reading the table, or getting all usernames based on the result
 
-$result = mysqli_query($connection, $query);
+    while($rows = mysqli_fetch_array($selectQuery)){
+ 
+       $db_id  = $rows['id'];
+       $db_email = $rows['email'];
+       $db_firstName = $rows['firstName'];
+       $db_lastName = $rows['lastName'];
+       $db_password = $rows['password'];
+       $db_location = $rows['location'];
+       $db_number = $rows['number'];
 
 
-// checking if query is working
- if (!$result){
+    }
 
-    die('Query failed' . mysqli_error($connection));
- }
+    //if there are values entered in the form, add the the values to the database
+    if ($firstName && $lastName && $email && $password){
+      //but first checks if the email already exists in the database
+        if ($email === $db_email){
 
+          //display only this
+          echo "<h5> The email exists, please try another email. </h5> ";
 
-}
+          }
+
+          //if the email doesnst exist
+          else{
+              // creating the query
+              $query = "INSERT INTO users (firstName, lastName, email, password)";
+              $query .= "VALUES ('$firstName', '$lastName', '$email', '$password')";
+   
+   
+               // add the details in the database
+                $result = mysqli_query($connection, $query);
+   
+   
+                // checking if query is working
+                  if (!$result){
+   
+                   die('Query failed' . mysqli_error($connection));
+                 }
+
+              //lead them to login page
+              header("Location: login.php");
+          }
+
+    }
+
+      //if any value isn't complete, display a text
+      else{
+        echo "<h5> Form is not complete, please fill it out. </h5>";
+
+        
+      }
+        
+
+  }
+
 
 
 
