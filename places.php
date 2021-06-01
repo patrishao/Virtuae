@@ -32,6 +32,7 @@
                 <button href="#" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
     </div>
+    </div>
     <!-- CATEGORIES -->
     <div class="wrapper3">
         <div class="categories">
@@ -43,7 +44,7 @@
                 <div class="box" onClick="reviews()"><a>REVIEWS</a></div>
                 <div class="box" onClick="media()"><a>MEDIA</a></div>
         </div>
-        </div>
+    </div>
 
     <!-- BACKGROUND 1 -->
 
