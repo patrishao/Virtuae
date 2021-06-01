@@ -256,9 +256,10 @@ footer{
     background-color: white;
 }
 
+/* MEDIA QUERIES */
 
 /* phone */
-@media screen and (max-width: 480px){
+@media screen and (max-width: 479px){
     .title{
         font-size: 1.5rem;
     }
@@ -290,10 +291,11 @@ footer{
         justify-content: flex-start;
         flex-direction: column-reverse;
     }
+    
 
 }
 /* tablet */
-@media screen and (min-width: 481px) and (max-width: 768px){
+@media screen and (min-width: 480px) and (max-width: 768px){
     .title{
         font-size: 2rem;
     }
@@ -305,6 +307,9 @@ footer{
     }
     .categories button{
         font-size: 1rem;
+    }
+    .wrapper{
+        flex-direction: column;
     }
 }
 /* laptop */
