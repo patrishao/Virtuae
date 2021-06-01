@@ -296,7 +296,7 @@ body{
 .wtd-bg{
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 700px;
 }
 
 .scroller-area{
@@ -307,7 +307,6 @@ body{
 
     position:relative;
     top: 90px;
-    margin: 0 15px;
 
 }
 
@@ -2144,6 +2143,7 @@ body{
         max-height: 420px;
     }
     .wtd-container{
+        margin-top: 200px;
         height: 600px;
     }
     .contents-img{
@@ -2164,6 +2164,9 @@ body{
         width: 50%;
         height: 40%;
         float: right;
+    }
+    .wtd-bg{
+        height: 600px;
     }
 
       /* * timings */
@@ -2287,7 +2290,7 @@ body{
 @media screen and (min-width: 1201px){
     .rectangle{
         width: 100%;
-        height: 150vh;
+        height: 900px;
        
         position: absolute;
         top: 590px;
