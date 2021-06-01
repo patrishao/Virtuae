@@ -548,44 +548,6 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Sharjah Mosque</h3>
-                        <h4>Sharjah</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>King Faisal Mosque</h3>
-                        <h4>Sharjah</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
                 <img src="marina.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
@@ -594,46 +556,7 @@
                         <h3>Al Noor Mosque</h3>
                         <h4>Sharjah</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Al Maghfira Mosque</h3>
-                        <h4>Sharjah</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Al Qasba Mosque</h3>
-                        <h4>Sharjah</h4>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Al Noor Mosque is a place of worship open to the public and a popular Islamic tourism destination. It is an iconic landmark along the Sharjah corniche, with cascading domes and two towering minarets in the Ottoman style.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>

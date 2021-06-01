@@ -108,7 +108,7 @@
                         <h3>Legoland</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Legoland Dubai is a family theme park in Dubai. It opened on October 31, 2016. It is the first Legoland park in the Middle East and was the seventh worldwide. Legoland Dubai and Legoland Water Park is the ultimate...  </p>
+                    <p>Legoland Dubai is an indoor theme park exclusively engineered for complete family entertainment. It is a one-of-its-kind amusement park which has got everything to satisfy the cravings of your 2 to 12-year-old child.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -189,8 +189,7 @@
                         <h3>Malecon Restaurant</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Malecon is the place to be for the full-on Latin experience, a zesty blend of Latin American cuisines and a carefully selected fusion of international styles. Live Latino entertainment further serves...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -208,8 +207,7 @@
                         <h3>Wokyo Noodle Bar</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Wokyo is a casual noodle bar with the mission to explore the great noodle tradition of the Far East. Creating noodle dishes with the perfect flavor, texture, aroma and slurp factor is a craft that we honor every day.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -227,8 +225,7 @@
                         <h3>Pitifire Pizza</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Pitfire may describe its pizzas as ‘not quite Neapolitan, not quite New York’, but all you really need to know is that these slices are simply not to be missed. Lovingly devised by founders Michele and Bill Johnson, beautifully blistered...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -246,7 +243,7 @@
                         <h3>Catch22</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Catch22 is more than just a restaurant, it’s an experience with lots of fun elements in store making it the perfect place for a casual lunch, date night, family dinner or friendly get together. </p>
+                    <p>Catch22 is a social contemporary eatery that serves an array of international dishes. Offering a dilemma of choice, the menu really has something for everyone, whether you want to share dishes among friends or enjoy all to yourself.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -271,8 +268,7 @@
                         <h3>IMG Worlds of Adventure</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>IMG Worlds of Adventure is one of Dubai's best theme parks, bringing Marvel and Cartoon Network characters to life with state-of-the-art rides. Covering an area of more than 28 football fields, you’ll want to ensure you’re wearing comfortable shoes.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -326,8 +322,7 @@
                         <h3>Wild Wadi Waterpark</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Wild Wadi Water Park is an internationally renowned water park located in the Jumeirah area of Dubai near the famous Burj Al Arab. Owned and operated by the world-renowned hotel group, Jumeirah International...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -345,8 +340,7 @@
                         <h3>Global Village</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Global Village combines cultures of 90 countries across the world at one place. It claims to be the world's largest tourism, leisure, shopping and entertainment project. It is the region's first cultural, entertainment, family and shopping destination.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -371,8 +365,7 @@
                         <h3>Burj Khalifa</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Soaring 828m into the sky, the Burj Khalifa is the tallest building in the world and one of the greatest engineering feats of all time. Completed in 2010, the mighty tower represents the beating heart of Dubai and its brave ambitions.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -390,8 +383,7 @@
                         <h3>Dubai Frame</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Dubai Frame opened to the public in January 2018 and has quickly become one of the most popular attractions in Dubai and in the UAE. If you’re looking for a great way to spend your day in Dubai, visiting the Dubai Frame...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -409,8 +401,7 @@
                         <h3>Dubai Miracle Garden</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Each season, as the weather begins to cool at the onset of winter, the gates reopen at Dubai Miracle Garden. With more than 150 million flowers in full bloom, this 72,000-sq-m paradise has flowered into one of the region’s most...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -428,8 +419,7 @@
                         <h3>Al Fahidi Historical District </h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>The traditional style of life that was prevalent in Dubai from the mid 19th century till the 1970s is reflected at Al-Fahidi Historical Neighbourhood, where buildings with high air towers (Barajeel), built...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -447,8 +437,7 @@
                         <h3>Dubai Aquarium and Underwater Zoo</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Rising to the third floor of The Dubai Mall, the aquarium is home to 140 species of sea life and offers many incredible ways to experience the underwater world. Stroll through a 48-metre tunnel, with the aquarium...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -490,8 +479,7 @@
                         <h3>Al Shindagha Museum</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Set along the historic waters of Dubai Creek, Al Shindagha Museum tells the proud story of the nation’s past and reverent traditions. The museum’s 'Dubai Creek: Birth of a City' is a state-of-the-art multimedia...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -509,8 +497,7 @@
                         <h3>Al Serkal Avenue</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Once an industrial area in the very centre of Dubai, Alserkal Avenue now comprises around 40 warehouses, converted into galleries, dance studios, artisanal cafés and more. The neighbourhood has nurtured...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -528,8 +515,7 @@
                         <h3>Etihad Museum</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>A dynamic 21st century museum, Etihad Museum is focused on inspiring its visitors with the story of the founding of the UAE.The 25,000 m2 landmark is befittingly located at the very place where the UAE was founded in 1971.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -571,8 +557,7 @@
                         <h3>Jumeirah Mosque</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>One of the most iconic landmarks in Dubai is the Jumeirah Mosque. Adopting an ‘Open Doors, Open Minds’ policy, the mosque welcomes visitors of all faiths to admire the surroundings and learn about Islam and the local culture.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -590,8 +575,7 @@
                         <h3>Iranian Mosque</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>The Iranian Mosque Hosainia is a Shia mosque Hosainia located near the old Textile Souk in the Bur Dubai district of Dubai, United Arab Emirates. The mosque is inspired by Persian architecture and is notable...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -609,8 +593,7 @@
                         <h3>Al Farooq Omar Ibn Al Khattab Mosque – Umm Suqueim</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>The Al Farooq Omar Bin Al Khattab Mosque and Centre is one of the first mosques to open their doors to non-Muslims. Whether you want to discover the faith of Islam, admire stunning architecture, or stop by to pray...</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -628,8 +611,7 @@
                         <h3>Al Salam Mosque</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Al Salam Mosque is one of the most magnificent mosques located in Al Barsha behind Mall of the Emirates. Its capacity is of 1,500 worshippers with a separate prayer hall for females and a separate hall for Iftar.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
@@ -647,8 +629,7 @@
                         <h3>Khalifa Al Tajer Mosque</h3>
                         <h4>Dubai</h4>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. </p>
+                    <p>Covering an area more Khalifa Al Tajer Mosquethan 105,000 square feet, the Khalifa Al Tajer Mosque is the Middle East’s first eco-friendly mosque. Positioned in Deira, the mosque is to offer prayer and can house up to 3,500 worshippers.</p>
                     <div class="cardButton">
                             <a href="#"><button class="moreContent">READ MORE</button></a>
                     </div>
