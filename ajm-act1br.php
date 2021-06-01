@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Aqua Bounce Ajman</title>
+    <title>PLACE HOLDER FOR PLACES</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -59,9 +59,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="smallimg"/></div>
+                <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="img-set"/>
+                <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="img-set"/>
+                <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="img-set"/>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
@@ -74,27 +74,27 @@
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> It’s a fun way to get in some serious exercise – 
-                the bouncy assault course also provides a test on scrambler’s 
+                <p class="info-description"> It’s a fun way to get in some serious exercise – the bouncy assault course also provides a test on scrambler’s 
                 stamina, balance and motor-skills. 
                     
                     <br>
                     <br>
 
-                    With obstacles providing challenges for a range of abilities, conquer climbing walls, 
-                    balancing beams, swing ropes and your own fear. Sea anemones and turtles are a treat for 
-                    snorkelers, while divers flock here for the beautiful rock 
-                    formations teeming with moray eels, and rays. If you prefer to stay on 
-                    the surface, take a kayak out to spot schools of fish from above the clear waters.
-
-                    <br>
-                    <br>
+                    With obstacles providing challenges for a range of abilities, conquer climbing walls, balancing beams, 
+                swing ropes and your own fear.                
                     
-                    Having fun because of the is a joyful experience and a must when having vacation. 
-                    Simple enough everyone should be able to have fun.  You can go new places and 
-                    discover new things, you can learn new things and learn to go beyond fun, and 
-                    it makes you happy and you can bond with people.
-              
+                    <br>
+                    <br>
+                    Sea anemones and turtles are a treat for snorkelers, while divers flock here for the beautiful rock 
+                    formations teeming with moray eels, rays and Arabian angelfish. If you prefer to stay on the surface,
+                     take a kayak out to spot schools of fish from above the clear waters.
+
+                     <br>
+                    <br>
+                     Having fun because of the is a joyful experience and a must when having vacation. Simple enough everyone 
+                     should be able to have fun.  You can go new places and discover new things, 
+                     you can learn new things and learn to go beyond fun, and it makes you happy and you can bond with people.
+     
                     </p>
             </div>
             
@@ -109,49 +109,30 @@
         <img src="images\ajm-pictures\wtdbgcolor.png" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
             <div class="scroller-area">
 
-            
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Days by the beach won’t ever be the same with Ajman’s first ever 
-                floating water park! You can enjoy by having an absolute blast on the Aqua Bounce Park or just
-                by watching people do their thing. Rest up and relax by moving your body through the floating park
-                of Aqua Bounce Ajman. </p>
+                <p class="contents-desc1">Days by the beach won’t ever be the same with Ajman’s first ever floating water park!
+                <br>
+                <br> 
+                As a family with children, choosing a nearby diving centre for guides to the island is highly recommended. 
+                </p>
                  </div>
             </div> 
             
             <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" />
-                </div>
+                <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="contents-img"/>
                 <div class="contents-container">
                 <h2 class="contents-title"> Enjoy </h2>
-                <p class="contents-desc">
-                As a family with children, choosing a nearby diving centre for guides to the island is highly 
-                recommended.  </p> <!-- put the actual activities here -->
+                <p class="contents-desc">Bring your friends and family down for a day of fun, laughter and good times at the latest water-play attraction located at Fairmont Ajman. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
-            
+
             <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" />
-                </div>
+                <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="contents-img"/>
                 <div class="contents-container">
                 <h2 class="contents-title"> Dive </h2>
-                <p class="contents-desc"> You can easily rent equipment for a dive, or fins, snorkels 
-                and masks for snorkelling, just ask the staff of the park. </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Swim </h2>
-                <p class="contents-desc">Swimming is a good all-round activity because it: keeps your heart rate up but 
-                takes some of the impact stress off your body.  </p> <!-- put the actual activities here -->
+                <p class="contents-desc"> You can easily rent equipment for a dive, or fins, snorkels and masks for snorkelling. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
 
@@ -472,9 +453,11 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     <!-- google maps -->   
-     
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.35917169339!2d55.4373528!3d25.4185382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98eaeaa0b0d0b82a!2sAqua%20Bounce%20Ajman!5e0!3m2!1sen!2sae!4v1622579773397!5m2!1sen!2sae" 
+    <!-- to be replaced -->
+    
+    
+    <!-- google maps -->   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.35917169339!2d55.4373528!3d25.4185382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98eaeaa0b0d0b82a!2sAqua%20Bounce%20Ajman!5e0!3m2!1sen!2sae!4v1622562628191!5m2!1sen!2sae" 
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -546,25 +529,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg"/></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg"/></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg"/></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" /></div>
+            <div class="img-media"><img src="images/dubai/dxbact1B.jpg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
         </div>
 
         </div>
@@ -585,37 +568,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is sun'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is mon');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is tues');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is wed');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is thurs');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is fri');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html('this is sat');//so put the timings here
    
         }
 
