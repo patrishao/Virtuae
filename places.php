@@ -34,7 +34,7 @@
     </div>
     </div>
     <!-- CATEGORIES -->
-    <div class="wrapper3">
+    <div class="wrapper3"> <!-- not to be touched -->
         <div class="categories">
                 <div class="box" onClick="history()"><a>INFO</a></div>
                 <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
@@ -48,7 +48,7 @@
 
     <!-- BACKGROUND 1 -->
 
-            <div class="rectangle"></div>
+            <div class="rectangle"></div> <!-- ignore -->
 
     <!-- INFORMATION -->
     <div class="rectangle2"></div>
@@ -107,7 +107,7 @@
 
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
-        <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/>
+        <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
             <div class="scroller-area">
 
             <div class="contents-box">
