@@ -309,7 +309,12 @@ footer{
         font-size: 1rem;
     }
     .wrapper{
-        flex-direction: column;
+        flex-direction: row;
+        justify-content: end;
+        flex-wrap: wrap;
+    }
+    .btn{
+        width: 50px;
     }
 }
 /* laptop */
