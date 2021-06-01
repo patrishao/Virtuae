@@ -68,7 +68,7 @@
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Dine\Al Meshwar Restaurant.docx"> 
+                    <a href="download\Ajman\Activities\Aqua Bounce Ajman.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -106,7 +106,9 @@
 
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
-        <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <div class="blackbg">
+        <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        </div>
         <div class="scroller-area">
 
             

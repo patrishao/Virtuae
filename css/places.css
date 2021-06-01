@@ -297,11 +297,17 @@ body{
     margin-top: 70px;
 }
 
+.blackbg {
+    background-color: black;
+}
+
 .wtd-bg{
     color:#252525;
     position: absolute;
     width: 100%;
     height: 700px;
+    opacity: .65;
+    background: none;
 }
 
 .scroller-area{
