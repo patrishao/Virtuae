@@ -1,3 +1,70 @@
+<?php // including the connection and getting the data of user
+include 'includes/database.php';
+include 'includes/fetchdata.php';
+
+
+
+ // checking the "save changes" button is pressed
+ if(isset($_POST['save'])){
+
+    //getting the values of the form and storing it into variables 
+    $user_email  = $_POST['email'];
+    $user_password  = $_POST['password'];
+
+
+    if ($user_email && $user_password){
+
+
+      //creating the query to be able to update the user data
+      $query = "UPDATE users SET "; 
+
+         // updating the values based on the what the user has entered
+         $query .= "email = '{$user_email}', ";
+         $query .= " password = '{$user_password}' ";
+   
+          // updating it only with the specific email
+          $query .= " WHERE id = '{$idUser}' "; 
+
+
+      $update_query = mysqli_query($connection, $query);
+
+            //checks if query is working or not, if it's not close the database and show the error
+            if(!$update_query){
+                die('Query Failed'. mysqli_error($connection));
+            }
+
+    // refresh the page once changes are made so the data will be displayed
+    header("Refresh:0");
+
+
+    }   
+ 
+    else{
+        echo "<h5> Form is not complete, please fill it out. </h5>";
+    }
+}
+
+
+else if (isset($_POST['delete'])){
+
+    $delete_query = "DELETE FROM users WHERE email = '{$email}' ";
+
+    $delete = mysqli_query($connection, $delete_query);
+
+        if(!$delete){
+          die('Query Failed'. mysqli_error($connection));
+        }
+
+      
+     session_destroy();
+     header("Location: login.php");   
+
+
+}
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,6 +81,7 @@
 
     <div class="navbg"> 
     <?php include 'includes/headers-edit.php'; ?> 
+
     </div>
 
     <div class="container">
@@ -21,10 +89,24 @@
         <div class="user-details">
             <img src="images/placeholder2.jpg" class="prof-pic">
             <div class="descs">
-                <h1 class="name">PLACEHOLDER</h1>
-                <p class="email">placeholder@gmail.com</p>
+                <h1 class="name"> <?php echo $firstName . " ". $lastName;?> </h1>
+                <p class="email"> <?php echo $email; ?> </p>
                 <div class="location">
-                    <p><img src="images/Vector.svg" class="location-img"> Placeholder, Location</p>
+                    <p><img src="images/Vector.svg" class="location-img"> 
+                
+                     <!-- checks if a location has been set, if location isn't set, it tells users to set a location -->
+                     <?php if(!$location) {
+                        echo "Set a location";
+                    }
+
+                    // if a user has a location, display the location
+                    else{
+                        echo $location;
+                    }
+                
+                    ?>
+                
+                </p>
                 </div>
             </div>
             <div class="circle">
@@ -43,18 +125,14 @@
         <div class="forms">
             <div class="forms2">
                 <p class="email-label">Email</p>
-                <input class="e-mail" type="text" placeholder="kayapaba@gmail.com" /> 
+                <input class="e-mail" type="text" name="email" value=" <?php echo $email; ?> " /> 
                 <p class="pass-label">Password</p>
-                <div class="change-pass">
-                <input class="password" type="text" placeholder="" /> 
-                <form action="#" method="post">
-                    <button class="change">Change</button>
-                </form>
-                </div>
-            </div>
+                <input class="password" type="password" name="password" value=" <?php echo $password; ?> "/> 
+
+
        
-            <input class="save-changes" type="submit" value="Save Changes">
-            <input class="delete-acc" type="submit" value="Delete Account">
+            <input class="save-changes" type="submit" value="Save Changes" name="save">
+            <input class="delete-acc" type="submit" value="Delete Account" name = "delete">
             </form>
         </div>
 

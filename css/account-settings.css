@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
+
+/* for the navbar */
+.navbar .holder a{
+    color: black;
+}
+
+.navbar .holder a:hover{
+    color: black;
+    font-weight: 700;
+}
+
+#profile path{
+    stroke: black;
+    stroke-width: 2.5px;
+}
+
+a:hover{
+    font-weight: 700;
+    color: #7c7979;
+}
+
+
 @media screen and (max-width: 1920px) {
     body{
         margin:0;
@@ -202,6 +224,8 @@
         font-size: 14px;
     }
 
+    
+
     .change-pass{
         display: flex;
     }
@@ -272,9 +296,20 @@
         background-color: #252525;
         border: 2px solid #252525;
     }
+
+    h5{
+        color: rgb(223, 57, 57);
+        position: absolute;
+        top: 82%;
+        left: 30.5%;
+    
+    }
+    
 }
 
 @media screen and (max-width: 1200px) {
+
+
     body{
         margin:0;
         font-family: 'Karla';

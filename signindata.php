@@ -44,6 +44,8 @@ while($rows = mysqli_fetch_array($selectQuery)){
  $db_firstName = $rows['firstName'];
  $db_lastName = $rows['lastName'];
  $db_password = $rows['password'];
+ $db_location = $rows['location'];
+ $db_number = $rows['number'];
 
 
 }
@@ -54,10 +56,13 @@ if ($email === $db_email && $password === $db_password ){
 
     // creating sessions for the data inside database, so the data can be pulled somewhere else
 
+    $_SESSION['id'] = $db_id;
     $_SESSION['email'] = $db_email;
     $_SESSION['firstName'] = $db_firstName;
     $_SESSION['lastName'] = $db_lastName;
-    $_SESSION['password'] = $password;  
+    $_SESSION['password'] = $db_password;  
+    $_SESSION['location'] = $db_location;
+    $_SESSION['number'] = $db_number;
 
 
 
