@@ -29,7 +29,7 @@
             <div class="another-container">
                 <h1 class="title1"> JUMEIRAH MOSQUE </h1> <!-- title -->
                 <p class="location-title"> PLACEHOLDER </p> <!-- location-->
-                <button href="#" class="line1"> TOUR </button> <!-- do not replace this da botan -->
+                <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
     </div>
     </div>
@@ -284,10 +284,10 @@
             <div class="event-content">
                 <div class="extra-wrapper"> <!-- these are for the events -->
                     <div class="e-date"> 
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> JUN </div> <!-- month -->
+                        <div class="e-number"> 15 </div> <!-- date -->
                     </div>
-                    <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"><p class="en-adjusting">Super Sports Night Run Series</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -295,10 +295,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-month"> FEB </div> <!-- month -->
                         <div class="e-number"> 11 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Sharjah Light Festival</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -306,10 +306,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> FEB </div> <!-- month -->
+                        <div class="e-number"> 25 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Dubai Food Festival</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -317,10 +317,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> MAR </div> <!-- month -->
+                        <div class="e-number"> 13 </div> <!-- date -->
                     </div>
-                    <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"><p class="en-adjusting">A</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -429,7 +429,7 @@
     <!-- -->
 
     <!-- VIRTUAL TOUR -->
-    <h2 class="vt-title">VIRTUAL TOUR</h2>
+    <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
     <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min"  
