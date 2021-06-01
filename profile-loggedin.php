@@ -16,28 +16,39 @@
 
 
     
-    <div class="container-1">
-
-
+    <div class="container-1"> </div>
         <!-- PROFILE -->
         <div class="profile-container">
-        <div class="profile-pic"></div>
             <div class="profile-details">
-
             <!-- displaying the name of the user -->
-                <h1>      <?php echo $_SESSION['firstName'] . " " . $_SESSION['lastName'] ?> </h1>
+                <div class="top-line">
+                    <h1> <?php echo $_SESSION['firstName'] . " " . $_SESSION['lastName'] ?> </h1>
+                
+                    <div class="wrapper">
+                    <a href="account-settings.php"> 
+                    <button class="btn">
+                        EDIT PROFILE
+                    </button> </a>
+                    <a href="#">
+                    <button class="btn">
+                        LOG OUT
+                    </button> </a>
+                    </div>
+
+                </div>
 
              <!-- displaying the email from the databsase -->
                 <p class="profile-email"> <?php echo $_SESSION['email'] ?>  </p>
-
-
-                    <img src="images/Vector.png" class="location-img">
-                <p class="profile-location">Placeholder, Location</p>
+                    
+                <p class="profile-location"><img src="images/Vector.png" class="location-img">
+                Placeholder, Location</p>
+                <div class="line"></div>
             </div>
+
+
         </div>
 
-        <div class="line"></div>
-    </div>
+
 
 
     <div class="container-2">
