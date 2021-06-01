@@ -59,9 +59,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
-                <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
-                <img src="images/abu dhabi/auhact1G.jpg" class="img-set"/>
+                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg"/></div>
+                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg"/></div>
+                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
@@ -110,6 +110,7 @@
         <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
             <div class="scroller-area">
 
+            
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
@@ -119,7 +120,9 @@
             </div> 
             
             <div class="contents-box">
-                <img src="images/PLACEHOLDER.png" class="contents-img"/>
+                <div class="contents-img">
+                    <img src="images/PLACEHOLDER.png" />
+                </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
@@ -128,32 +131,38 @@
             </div> 
             
             <div class="contents-box">
-                <img src="images/PLACEHOLDER.png" class="contents-img"/>
+                <div class="contents-img">
+                    <img src="images/PLACEHOLDER.png" />
+                </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p><!-- put the actual activities here -->
+                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
 
-            <div class="contents-box">
-                <img src="images/PLACEHOLDER.png" class="contents-img"/>
+              <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/PLACEHOLDER.png" />
+                </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p><!-- put the actual activities here -->
+                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
                  </div>
-            </div>
+            </div> 
 
-            <div class="contents-box">
-                <img src="images/PLACEHOLDER.png" class="contents-img"/>
+              <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/PLACEHOLDER.png" />
+                </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Placeholder </h2>
                 <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p><!-- put the actual activities here -->
+                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
                  </div>
-            </div>
+            </div> 
 
             </div>
         </div>
