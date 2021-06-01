@@ -70,7 +70,11 @@
                         <button>  <img src="images/Star.png" /> </button>
                     </form>
 
-                    <button> <img src="images/Desktop Download.png" /> </button>
+                    <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
+                    right click > copy path and then paste it on the href ! -->
+                    <a href="download\Fujairah\Dine\Al Meshwar Restaurant.docx"> 
+                    <button><img src="images/Desktop Download.png"/></button>
+                    </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
