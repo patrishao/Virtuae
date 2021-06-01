@@ -59,9 +59,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg"/></div>
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg"/></div>
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg"/></div>
+                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
