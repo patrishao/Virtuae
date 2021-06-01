@@ -561,25 +561,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/dubai/dxbact1B.jpg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/dubai/dxbact1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
         </div>
 
         </div>
