@@ -42,7 +42,7 @@
 
     <div class="container-2">
 
-        <!-- REVIEWS -->
+        <!-- REVIEWS
         <div class="reviews-container">
             <div class="review-box">
                 <img src="images/PLACEHOLDER.png" class="review-img">
@@ -70,7 +70,7 @@
                     Exercitation veniam consequat sunt nostrud amet. </p>
             </div>
         
-        </div>
+        </div> -->
 
     </div>
 </body>
