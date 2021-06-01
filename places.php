@@ -65,10 +65,6 @@
             </div>
             <div class="info-container">
                 <div class="dl-bm">
-                    
-                    <form> 
-                        <button>  <img src="images/Star.png" /> </button>
-                    </form>
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
