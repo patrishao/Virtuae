@@ -107,8 +107,10 @@
 
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
+        <div class="blackbg">
         <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
-            <div class="scroller-area">
+        </div>
+        <div class="scroller-area">
 
             
             <div class="contents-box">
