@@ -283,66 +283,66 @@
 
             <div class="event-content">
                 <div class="extra-wrapper"> <!-- these are for the events -->
-                <div class="e-date"> 
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
-                </div>
-
-            </div>
-
-            <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="e-date"> 
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
-                </div>
-
-            </div>
-
-            <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> 
-                </div>
-                <div class="name-event"><p class="en-adjustin<!-- date -->g">Eid Al Fitr</p></div> <!-- name of the event -->
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"><p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+
+            </div>
+
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -354,68 +354,68 @@
         <div class="e-row">
 
             <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper">
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div>
 
             </div>
 
             <div class="event-content">  
-            <div class="extra-wrapper">   
-                <div class="e-date">
-                    <div class="e-month"> MAY </div> <!-- month -->
-                    <div class="e-number"> 11 </div> <!-- date -->
-                </div>
-                <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                <div class="extra-wrapper">   
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
                 </div> 
 
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper">
-            <div class="e-date">
-                <div class="e-month"> MAY </div> <!-- month -->
-                <div class="e-number"> 11 </div> <!-- date -->
-            </div> 
-            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
-            </div>
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div> 
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                </div>
 
             </div>
 
             <div class="event-content">
-            <div class="extra-wrapper">
-            <div class="e-date">
-                <div class="e-month"> MAY </div> <!-- month -->
-                <div class="e-number"> 11 </div> <!-- date -->
-            </div>
-            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
-            </div>
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                </div>
 
             </div>
 
             <div class="event-content">  
-            <div class="extra-wrapper">
-            <div class="e-date">
-                <div class="e-month"> MAY </div> <!-- month -->
-                <div class="e-number"> 11 </div> <!-- date -->
-            </div>
-            <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
-            </div>
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> MAY </div> <!-- month -->
+                        <div class="e-number"> 11 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                </div>
 
             </div>
 
