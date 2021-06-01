@@ -15,6 +15,10 @@ body{
     font-weight: 700;
 }
 
+.navbar a.icon path {
+    stroke: black;
+}
+
 #profile path{
     stroke: black;
     stroke-width: 2.5px;
@@ -88,6 +92,9 @@ a {
     justify-content: flex-end;
     gap: 20px;
 }
+.wrapper2{
+    display:none;
+   }
 .btn{
     font-family: Karla;
     font-style: normal;
@@ -291,7 +298,24 @@ footer{
         justify-content: flex-start;
         flex-direction: column-reverse;
     }
-    
+    .wrapper{
+        display: none;
+    }
+    .wrapper2{
+        display: flex;
+        flex-direction:row;
+        flex-wrap: wrap;
+        width: 70%;
+        gap: 10px;
+        margin-bottom: -50px;
+        margin-top: 40px;
+    }
+    .btn{
+        width: 100%;
+    }
+    .profile-container{
+        height: 350px;
+    }
 
 }
 /* tablet */
@@ -313,9 +337,7 @@ footer{
         justify-content: end;
         flex-wrap: wrap;
     }
-    .btn{
-        width: 50px;
-    }
+
 }
 /* laptop */
 @media screen and (min-width: 769px){

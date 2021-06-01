@@ -44,7 +44,18 @@
                     
                 <p class="profile-location"><img src="images/Vector.png" class="location-img">
                 Placeholder, Location</p>
+                <div class="wrapper2">
+                    <a href="account-settings.php"> 
+                    <button class="btn">
+                        EDIT PROFILE
+                    </button> </a>
+                    <a href="#">
+                    <button class="btn">
+                        LOG OUT
+                    </button> </a>
+                    </div>
                 <div class="line"></div>
+               
             </div>
 
 
