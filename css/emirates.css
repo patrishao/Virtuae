@@ -126,10 +126,10 @@ a{
 	}
 	.slider{
 		width: 80%;
-		height: 240px;
+		height: 250px;
 	}
-	.imgSlider{
-		height: 240px;
+	.box{
+		height: 250px;
 	}
 	.next, .prev{
 		visibility: hidden;
