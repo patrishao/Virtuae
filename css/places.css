@@ -701,7 +701,7 @@ body{
 
 /* events */
 .wrapper4{
-    display: flex;
+    display: flex;  
     justify-content: center;
     width: 100%;
 }
@@ -1810,7 +1810,8 @@ body{
         max-height: 320px;
     }
     .wtd-container{
-        height: 500px;
+        height: 480px;
+        margin-top: 100px;
     }
     .contents-img{
         height: 320px;
@@ -1824,6 +1825,15 @@ body{
         position: relative;
         left: 135px;
         top: 20px;
+    }
+    .wtd-bg{
+        height: 50%;
+    }
+    .contents-title1{
+        font-size: 30px;
+    }
+    .contents-desc1{
+        font-size: 15px;
     }
     .contents-desc{
         font-size: 15px;
