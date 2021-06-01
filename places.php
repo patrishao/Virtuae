@@ -285,9 +285,42 @@
                 <div class="extra-wrapper"> <!-- these are for the events -->
                     <div class="e-date"> 
                         <div class="e-month"> JUN </div> <!-- month -->
+                        <div class="e-number"> 24 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"><p class="en-adjusting"> Dubai Summer Surprises</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> JUL </div> <!-- month -->
+                        <div class="e-number"> 19 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Eid Al Adha</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> AUG </div> <!-- month -->
+                        <div class="e-number"> 5 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Fall/Winter Collection Launch Sale</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> AUG </div> <!-- month -->
                         <div class="e-number"> 15 </div> <!-- date -->
                     </div>
-                    <div class="name-event"><p class="en-adjusting">Super Sports Night Run Series</p></div> <!-- name of the event -->
+                    <div class="name-event"><p class="en-adjusting">Back to School Sale</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -295,10 +328,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> FEB </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> SEP </div> <!-- month -->
+                        <div class="e-number"> 07 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Sharjah Light Festival</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">World Future Enerygy Summit 2021</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -306,10 +339,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> FEB </div> <!-- month -->
-                        <div class="e-number"> 25 </div> <!-- date -->
+                        <div class="e-month"> SEP </div> <!-- month -->
+                        <div class="e-number"> 19 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Dubai Food Festival</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Dubai Home Festival</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -317,10 +350,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAR </div> <!-- month -->
-                        <div class="e-number"> 13 </div> <!-- date -->
+                        <div class="e-month"> DEC </div> <!-- month -->
+                        <div class="e-number"> 10 </div> <!-- date -->
                     </div>
-                    <div class="name-event"><p class="en-adjusting">A</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Dahawi Festival</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -328,25 +361,13 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> DEC </div> <!-- month -->
+                        <div class="e-number"> 12 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Sharjah World Championship Week 2021</p></div> <!-- name of the event -->
                 </div>
 
             </div>
-
-            <div class="event-content">
-                <div class="extra-wrapper">
-                    <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
-                    </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
-                </div>
-
-            </div>
-
 
 
         </div>
@@ -356,10 +377,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> OCT </div> <!-- month -->
+                        <div class="e-number"> 21 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Expo 2020</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -367,10 +388,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> OCT </div> <!-- month -->
+                        <div class="e-number"> 29 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Diwali Festival</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -378,10 +399,10 @@
             <div class="event-content">  
                 <div class="extra-wrapper">   
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> N0V </div> <!-- month -->
+                        <div class="e-number"> 03 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Sharjah National Bookfair</p></div> <!-- name of the event -->
                 </div> 
 
             </div>
@@ -389,10 +410,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> NOV </div> <!-- month -->
+                        <div class="e-number"> 08 </div> <!-- date -->
                     </div> 
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">ADIPEC 2021</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -400,10 +421,10 @@
             <div class="event-content">
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> NOV </div> <!-- month -->
+                        <div class="e-number"> 14 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">Sharjah Film Platform</p></div> <!-- name of the event -->
                 </div>
 
             </div>
@@ -411,15 +432,36 @@
             <div class="event-content">  
                 <div class="extra-wrapper">
                     <div class="e-date">
-                        <div class="e-month"> MAY </div> <!-- month -->
-                        <div class="e-number"> 11 </div> <!-- date -->
+                        <div class="e-month"> DEC </div> <!-- month -->
+                        <div class="e-number"> 2 </div> <!-- date -->
                     </div>
-                    <div class="name-event"> <p class="en-adjusting">Eid Al Fitr</p></div> <!-- name of the event -->
+                    <div class="name-event"> <p class="en-adjusting">National UAE Day</p></div> <!-- name of the event -->
                 </div>
 
             </div>
 
-            
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> DEC </div> <!-- month -->
+                        <div class="e-number"> 15 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Dubai Shopping Festival</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
+            <div class="event-content">
+                <div class="extra-wrapper">
+                    <div class="e-date">
+                        <div class="e-month"> DEC </div> <!-- month -->
+                        <div class="e-number"> 16 </div> <!-- date -->
+                    </div>
+                    <div class="name-event"> <p class="en-adjusting">Sharjah Focal Point 2021</p></div> <!-- name of the event -->
+                </div>
+
+            </div>
+
             
         </div>
 
