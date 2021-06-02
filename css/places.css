@@ -262,6 +262,18 @@ body{
 
     width: 100%;
 }
+.info-description1{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    
+    color: #3E3E3E;
+
+    width: 100%;
+}
 
 .left-images{
     display: flex;
@@ -1216,6 +1228,10 @@ body{
         font-size: 15px;
         height: 80%;
     }
+    .info-description1{
+        font-size: 15px;
+        height: 80%;
+    }
     .info-title1{
         display: block;
         font-size: 30px;
@@ -1529,6 +1545,10 @@ body{
         font-size: 15px;
         height: 80%;
     }
+    .info-description1{
+        font-size: 15px;
+        height: 80%;
+    }
     .info-title1{
         display: block;
         font-size: 30px;
@@ -1834,14 +1854,21 @@ body{
         height: 500px;
     }
     .layer1{
-        height: 500px;
+        padding-top: 30px;
+        height: 400px;
+        justify-content: center;
     }
     .info-title {
         font-size: 30px;
     }
     .info-description {
         font-size: 14px;
-        padding-top: 70px;
+        padding-top: 30px;
+    }
+    .info-description1 {
+        font-size: 14px;
+        padding-top: 10px;
+        width: 120%;
     }
 
     /* * the what to do part */
@@ -2073,6 +2100,10 @@ body{
         font-size: 14px;
         padding-top: 70px;
     }
+    .info-description1{
+        font-size: 14px;
+        padding-top: 30px;
+    }
 
     .contents-box {
         width: 400px;
@@ -2229,6 +2260,10 @@ body{
     .info-description {
         font-size: 16px;
         padding-top: 70px;
+    }
+    .info-description1 {
+        font-size: 16px;
+        padding-top: 30px;
     }
 
     /* * the what to do part */
@@ -2408,6 +2443,11 @@ body{
     }
     .info-description {
         font-size: 20px;
+        padding-top: 70px;
+    }
+    .info-description1 {
+        font-size: 18px;
+        padding-top: 30px;
     }
     line-r{
         top: 30px;

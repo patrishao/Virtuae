@@ -29,7 +29,7 @@
             <div class="another-container">
                 <h1 class="title1"> Ajman Corniche </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
-                <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
+                <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
     </div>
@@ -463,7 +463,7 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.966576227109!2d55.4456037!3d25.4134573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x562a16a1ef84dd73!2sAjman%20Museum!5e0!3m2!1sen!2sae!4v1622591972077!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14415.668365099053!2d55.4317446!3d25.4075857!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3b6fb486954e99f7!2sAjman%20Beach%20Corniche!5e0!3m2!1sen!2sae!4v1622596279949!5m2!1sen!2sae" 
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -535,25 +535,70 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4H.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4H.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
 
         </div>
