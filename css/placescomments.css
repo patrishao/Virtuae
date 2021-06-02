@@ -1,0 +1,2464 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+
+
+body{
+    font-family: Karla;
+    background-color: #FFFFFF;
+
+    margin:0;
+}
+
+.smallimg{
+    max-width: 90%
+}
+
+.navbar .holder a{
+    color: black;
+}
+
+.navbar .holder a:hover{
+    color: black;
+    font-weight: 700;
+}
+
+.dl-bm{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+
+
+
+.dl-bm button{
+    background: none;
+    border: none;
+}
+
+.dl-bm button:hover{
+   background-color: rgb(220, 220, 220)
+
+}
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* TITLE */
+.wrapper1{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+    margin-bottom: 100px;
+}
+.title-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 100px;
+
+    width: 90%;
+    height: 60%;
+}
+.another-container1{    
+    width: 50%;
+
+}
+.title-slider{
+    z-index: 1;
+}
+.arrows{
+    position: absolute;
+    top: 100px;
+    z-index: 3;
+}
+
+.title-slider{
+    width: 100%;
+    height: 100%;
+}
+
+.picture{
+    width: 100%;
+    height: 90%;
+}
+
+.another-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content:center;
+
+    width: 40%;
+}
+.title1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    line-height:70px;
+
+    width: 90%;
+}
+
+.line1{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 23px;
+
+    border: 1px hidden;
+    border-radius: 50px;
+
+    background-color: #90893E;
+    color: white;
+
+    text-align: center;
+    
+    height: 40px;
+    width: 70px;
+
+    margin-top: 10px;
+
+}
+
+
+.line1:hover{
+    background-color: #737373;
+}
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* CATEGORIES */
+
+.wrapper3{
+    display: flex;
+    justify-content:center;
+    width: 100%;
+}
+.categories{
+    display: flex;
+    justify-content: center;
+
+    width: 95%;
+    height: 100%;
+}
+
+
+.categories .box{
+    background: #FFFFFF;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: auto;
+
+    width: 255.5px;
+    height: 135px;
+ 
+    text-align: center;
+    font-family: Karla;
+    font-weight: 700;
+    color: black;
+    font-size: 20px;
+}
+.box:not(:last-child){
+    border-right: 1px solid #DCD5CB;
+
+}
+
+.box:hover{
+    background-color: #9C9F84;
+    color: white;
+}
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* INFORMATION and HISTORY*/
+
+.wrapper2{
+    display: flex;
+    justify-content: center;
+}
+
+.info-hist-box{
+    display: flex;
+    justify-content: center;
+
+    width: 95%;
+    height: 900px;
+    margin-top: 50px;
+}
+
+.rectangle{
+    width: 100%;
+    height: 1200px;
+   
+    position: absolute;
+    top: 650px;
+
+    z-index: -2;
+
+    background: #163A36;
+}
+
+.layer1{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+    padding: 40px;
+    padding-top: 80px;
+    padding-bottom: 0px;
+    width: 100%;
+    height: 95%;
+}
+
+.info-container{
+    display: flex;
+    flex-direction: column;
+
+    width: 40%;
+}
+
+.info-title{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+
+    color: #000000;
+
+}
+
+.info-title1{
+    display: none;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+
+    color: #000000;
+}
+
+.info-description{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    
+    color: #3E3E3E;
+
+    width: 100%;
+}
+.info-description1{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    
+    color: #3E3E3E;
+
+    width: 100%;
+}
+
+.left-images{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    gap: 30px;
+    width: 50%;
+    height: 65%;
+}
+
+.img-set{
+    width: 90%;
+    height: 40%;
+    overflow:hidden;
+}
+
+/* ==== */
+
+
+
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* WHAT TO DO */
+
+.wtd-container{
+  
+    height: 700px;
+    width: 100%;
+
+    margin-top: 70px;
+}
+
+.blackbg {
+    background-color: black;
+}
+
+.wtd-bg{
+    color:#252525;
+    position: absolute;
+    width: 100%;
+    height: 700px;
+    opacity: .65;
+    background: none;
+}
+
+.scroller-area{
+    display: inline-block;
+
+    height: 520px;
+    width: 100%;
+
+    position:relative;
+    top: 90px;
+
+}
+
+/* ==== */
+.contents-box{
+    background:white;
+
+    width: 550px;
+    max-height: 520px;
+
+    margin-left: 50px;
+}
+
+
+
+/* ==== */
+
+
+.contents-img{
+    width: 250px;
+    height: 519px;
+    overflow: hidden;
+}
+
+.contents-container{
+
+    float:right;
+
+    position: relative;
+    bottom: 500px
+}
+
+
+.contents-container1{
+    float: none;
+    width: 100%;
+    height: 519px;
+    margin-left: 10%;
+}
+
+
+
+.contents-title1{
+    color: black;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 50px;
+    margin-top: 80px;
+}
+
+.contents-title{
+    color: #D07B3B;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 47px;
+
+    width: 125px;
+    height: 47px;
+
+    margin-top: 65px;
+
+}
+
+
+.contents-desc1{
+
+    color: #000000;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+
+    width: 80%;
+
+
+    margin-top: 20px;
+
+
+}
+
+.contents-desc{
+    color: #000000;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    margin-right: 30px;
+
+    width: 234px;
+    height: 228px;
+
+    margin-top: 20px;
+
+}
+
+
+
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* TIMINGS */
+
+.timing-container{
+    background-color: #FFFFFF;
+
+    padding-bottom: 80px;
+    margin-top: 20px;
+
+}
+
+.timing-title{
+    color: #000000;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 80px;
+
+    display: flex;
+
+    width: 270px;
+    height: 80px;
+
+    padding-top: 70px;
+    padding-left: 90px;
+    padding-bottom: 55px;
+
+}
+
+/* ==== */
+
+.timing-week{
+    display: flex;
+    justify-content: center;
+
+    width: 95%;
+    height: 100%;
+}
+.timing-week a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.timing-week .days{
+    background: #DCD5CB;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: auto;
+
+    width: 255.5px;
+    height: 135px;
+ 
+    text-align: center;
+}
+.days:not(:last-child){
+    border-right: 1px solid rgb(255, 255, 255);
+}
+.days:hover{
+    background-color: #FFFFFF;
+}
+
+/* ==== */
+.t-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+
+}
+
+.timing-info{
+    background-color: #DCD5CB;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 1200px;
+    height: 90px;
+
+    margin-top: 30px;
+}
+
+
+.time{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+
+    text-align: center;
+    
+    width: 200px;
+}
+
+.t-info{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+
+    float: right;
+
+    width: 600px;
+
+    border-left: 1px solid white;
+}
+
+
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* CALENDAR */
+.calendar-title{
+    color: #000000;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 80px;
+
+    display: flex;
+
+    width: 270px;
+    height: 80px;
+
+    padding-left: 90px;
+}
+
+.calendar-bg{
+
+    display: flex;  
+
+    height: auto;
+    width: auto;
+
+    justify-content: center;
+
+}
+
+.main {
+    transition: all 0.195s ease;
+    transform-style: preserve-3d;
+ 
+    width: 70%;
+    height: 600px;
+
+    margin-top: 50px;
+    margin-left: 100px;
+    padding-right: 100px;
+
+
+}
+
+.main.is-rotated-left {
+  transform: rotateY(-4deg);
+}
+
+.main.is-rotated-right {
+  transform: rotateY(4deg);
+}
+
+.main .sideb{
+    background-color: white;
+    border: 2px solid #163A36;
+    border-right: hidden;
+    float: left;
+
+    width: 50%;
+    height: 100%;
+    
+    box-sizing: border-box;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main .header {
+    padding: 15px 0 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.main .header i {
+    padding: 0 5px;
+    cursor: pointer;
+}
+.main .header span {
+    display: inline-block;
+    margin: 0 3px;
+    font-weight: 700;
+}
+.main .right-wrapper {
+  display: flex;  
+  float: right;
+
+  width: 50%;
+  height: 100%;
+  background-color: #163A36;
+  color: white;
+  display: block;
+}
+.main .right-wrapper .header {
+  text-align: center;
+  padding-top: 100px;
+  justify-content: center;
+}
+.main .right-wrapper .day {
+  font-size: 12em;
+  text-indent: -12px;
+  text-align: center;
+  display: block;
+}
+.main .right-wrapper .month {
+  font-size: 2.5em;
+  text-align: center;
+  display: block;
+}
+.main .sideb .showDate {
+  color: white;
+  text-align: right;
+  width: 100%;
+}
+
+.main .sideb .showDate i.is-active {
+  transform: scale(-1);
+}
+.main .sideb table {
+  text-align: center;
+  width: 90%;
+  height: 400px;
+  margin: 30px auto 0;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+.main .sideb table tbody:before {
+  content: "-";
+  display: block;
+  line-height: 0.75em;
+  color: transparent;
+}
+.main .sideb table th {
+  color: #000000;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.main .sideb table td {
+  font-size: 20px;
+  padding: 11px 5px;
+  color: #ced0ce;
+  transition: all 0.3s;
+  position: relative;
+}
+.main .sideb table td::before {
+  content: "";
+  display: none;
+  width: 50%;
+  height: 2px;
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, -8px);
+  background-color: #D07B3B;
+}
+.main .sideb table td.currentDay::before {
+  display: block;
+}
+.main .sideb table td.selectable {
+  color: #303633;
+  cursor: pointer;
+}
+
+
+
+
+/* events */
+.wrapper4{
+    display: flex;  
+    justify-content: center;
+    width: 100%;
+}
+.event-listing{
+    display: flex;
+    flex-direction: row;    
+    flex-wrap: wrap;
+    justify-content: center;
+    align-self: center;
+    width: 90%;
+}
+
+.e-row{
+    display: flex !important; 
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 30%;
+}
+
+/* ------ */
+.extra-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 80%;
+    margin-top: 20px;   
+    margin-bottom: 20px;
+}
+.name-event{
+    background-color: #DCD5CB;
+    width: 40%;
+    height: 100%;
+    font-size: 17px;
+
+    padding: 30px;
+
+}
+.e-date{
+    width: 20%;
+    height: 100%;
+
+    border: 2px solid #90893E;
+
+    text-align: center;
+}
+.e-month{
+    background-color: #90893E;
+
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 171.69%;
+
+    /* identical to box height, or 26px */
+
+    color: #FFFFFF;
+}
+
+.e-number{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    padding: 7px;
+}
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* VIRTUAL TOUR */
+
+.vt-title {
+    color: #000000;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 80px;
+
+    height: 100px;
+    width: 80%;
+
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+
+}
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* REVIEWS */
+
+.review-title {
+    color: #000000;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 80px;
+
+    height: 100px;
+    width: 500px;
+
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+
+/* adjustments */
+.pfp{
+    border: 1px solid #DCD5CB;
+    height: 150px;
+    width: 150px;
+
+
+    margin-right: 20px;    
+}
+
+.review-container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    /* CHANGE!! = just to highlight the change :) */
+    /* removed the justify content center */
+
+    border-top: 1px solid #DCD5CB;
+    border-bottom: 1px solid #DCD5CB;
+
+}
+
+.review{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
+
+.user-review{
+    height: auto;
+
+    padding: 40px;
+
+
+}
+
+.user{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 43px;
+
+    width: auto;
+}
+
+.date{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 43px;
+
+    margin-left: 20px;
+}
+
+.review-content{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 43px;
+    
+}
+
+.dot{
+    background-color: #D07B3B;
+
+    display: inline-block;
+
+    border: 1px hidden;
+    border-radius: 20px;
+    
+    width: 5px;
+    height: 5px;
+
+    margin-bottom: 5px;
+    margin-left: 20px;
+
+
+}
+
+
+.line-r{
+    display: block;
+
+    background-color: #D07B3B;
+
+    width: 2px;
+    height: 100px;
+    
+    position: relative;
+    right: 50px;
+}
+
+.reply-btn{
+    text-decoration: none;
+    color: #000000;
+
+
+    position: relative;
+    top: 10px;
+    
+}
+
+.reply-btn:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* content */
+
+.review-replies .main-review{
+    margin-top: 30px;
+}
+
+.review-replies{
+    padding: 30px;
+
+    margin-left: 150px;
+}
+
+
+.main-box{
+    padding: 30px;  
+}
+
+.reply-box{
+    background-color:#DCD5CB;
+    border: 1px hidden;
+
+    resize: none;
+    
+    padding: 30px;
+}
+
+.reply-function{
+    display: none;
+    border: 2px solid #DCD5CB;
+    background-color: #DCD5CB;
+
+    height: 100%;
+    width: 1100px;
+
+    padding: 50px;
+
+    position: relative;
+    top: 10px;
+    left: 350px;
+
+    z-index: 9;
+}
+
+.rep-to{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 43px;
+
+    margin-bottom: 20px;
+}
+
+.rep{
+    border: 2px solid #90893E;  
+    color: #90893E;
+    background-color: #FFFFFF;
+}
+
+
+
+/* add a review */
+.form-control{
+    width: 80%;
+    height: 80px;
+
+    border-radius: 10px;
+}
+
+.self{
+    height: 80px;
+    width: 80px;
+}
+
+.wr-container{
+    border-bottom: 1px solid #DCD5CB;
+
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+
+.write-review{
+    display: flex;
+    justify-content: center;
+
+    width: auto;
+    height: 100%;
+
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    font-family: Karla;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 23px;
+
+    border-radius: 50px;
+
+    text-align: center;
+    
+    height: 50px;
+    width: 90px;
+
+}
+
+.btn:hover{
+    background-color:#c4bd72;
+    color:rgb(255, 255, 255);
+}
+
+.post{
+    border: 2px solid #90893E;  
+    color: #90893E;
+    background-color: #FFFFFF;
+
+    margin-left: 170px;
+
+}
+
+
+.cancel{
+    border: 1px hidden;
+    background: #90893E;
+    color: #FFFFFF;
+
+    margin-left: 10px;
+}
+
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* MEDIA */
+.media-title{
+    color: #000000;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 80px;
+
+    height: 100px;
+    width: 500px;
+
+    margin-left: 80px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.showcase{
+    background:#163A36;
+}
+
+.fiximg{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.img-media{
+    margin-left: 50px; 
+    border: 20px solid white;
+    overflow: hidden;
+}
+
+.row1{
+    padding-top: 100px;
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.row2{
+    margin-bottom: 50px;
+}
+
+.row3{
+    padding-bottom: 100px;
+
+    margin-top: 50px;
+}
+
+.img-media{
+    margin-left: 50px; 
+    border: 20px solid white;
+    background-color: white;
+    overflow: hidden;
+}
+
+.img-media p{
+    margin-top: 10px;
+    text-align: center;
+}
+/*----------------------------------*/
+
+/*----------------------------------*/
+/* MEDIA QUERIES */
+
+@media screen and (max-width:320px) {
+    .rectangle{ /* * background - the green box*/
+        width: 100%;
+        height: 1000px;
+       
+        position: absolute;
+        top: 390px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+     /* * the title and the gallery thing next to it*/
+    .another-container1 {
+        width: 100%;
+    }
+    
+    .title-container{
+        color: white;
+
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .title1{
+        font-size: 50px;
+        line-height: 50px;
+        padding-top: 20px;
+    }
+
+    .location-title{
+        padding-bottom: 10px;
+    }
+
+    .another-container{
+        width: 90%;
+    }
+     /* *categories */
+
+     .wrapper1{
+        margin-bottom: 30px;
+    }
+    .categories{
+        width: 85%;
+    }
+     .categories .box{
+        height: 60px;
+    }
+    .categories a{
+        font-size: 11px;
+    }
+
+    /* *information and the images*/
+    .info-hist-box{
+        width: 85%;
+    }
+
+    .info-container {
+        width: 100%;
+    }
+    
+    .left-images{
+        width: 100%;
+        order: 2;
+        margin-top: 30px;
+    }
+
+    .info-title{ /* magic trick*/
+        display: none;
+    }
+
+    .info-description{
+        font-size: 15px;
+        height: 80%;
+    }
+    .info-description1{
+        font-size: 15px;
+        height: 80%;
+    }
+    .info-title1{
+        display: block;
+        font-size: 30px;
+    }
+    .layer1{
+    flex-direction: column;
+    }
+    
+    .img-set{
+        width: 350px;
+        height: 100px;
+    }
+
+    .info-hist-box{
+        height: 783px;
+    }
+    .layer1{
+    height: 90%;
+    }
+
+    /* *what to do for real*/
+    .contents-box {
+        width: 300px;
+        max-height: 320px;
+    }
+    .scroller-area{
+        top: 75px;
+    }
+    .wtd-container{
+        height: 470px;
+        margin-top: 0px;
+    }
+    .contents-img{
+        height: 320px;
+    }
+    .contents-container {
+        bottom: 380px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 135px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        float: right;
+    }
+
+    /* *timings */
+    .timing-title{
+        font-size: 40px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        padding-left: 50px
+    }
+    .timing-info{
+        width: 80%;
+        height: 90%;
+
+    }
+    .time {
+        font-size: 10px;
+    }
+    .timing-week{
+        width: 90%;
+    }
+    .timing-week .days{
+        height: 60px;
+    }
+    .timing-container{
+        padding-bottom: 30px;
+    }
+    .timing-week a{
+        font-size: 10px;
+    }
+
+    /* *calendar and events */
+    .calendar-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 10px;
+        padding-left: 50px
+    }
+    .calendar-bg{
+        margin-top: -30px;
+    }
+    .main {
+        margin-bottom: -210px;
+    }
+    .main .sideb table th {
+        font-size: 11px;
+        height: 5%;
+    }
+    .main .sideb table td {
+        font-size: 12px;
+    }
+    .main .header {
+        padding-top: 0px;
+    }
+    .main .sideb table {
+        height: 30%;
+        margin: 0px auto 0;
+        line-height: 2px;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb {
+        height: 40%;
+        width: 100%;
+        border-right-color: rgb(22, 58, 54);
+        border-right-style: solid;
+        border-right-width: 2px;
+    }
+    .main .right-wrapper {
+        height: 45%;
+        width: 100%;
+    }
+    .showDate{
+        display: none;
+    }
+    .main .right-wrapper .day {
+        font-size: 80px;
+        text-indent: 0px;
+    }
+    .main .right-wrapper .header {
+        padding-top: 40px;
+
+    }
+
+    /* --- */
+    .wrapper4 {
+        margin-top: 130px;
+    }
+    .extra-wrapper{
+        gap: 5px;
+    }
+    .event-listing{
+        width: 100%;
+    }
+    .name-event{
+        font-size: 9px;
+        padding: 15px;
+    }
+    .e-date{
+        width: 25%;
+        height: 90%;
+    }
+    .e-month{
+        font-size: 7px;
+    }
+    .e-number{
+        font-size: 12px;
+    }
+
+    /* *virtual tour */
+    .vt-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 50px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    iframe{
+        height: 500px;
+    }
+
+    /* *reviews */
+
+    .review-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 50px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    
+    .pfp{
+        height: 90px;
+        width: 90px;
+        margin-left: 40px;
+    }
+    
+    .main-box {
+        padding-top: 0px;
+        width: 60%;
+        padding-left: 10px;
+    }
+    
+    .r-box{
+        width: 100%;
+    }
+
+    .review-content{
+        font-size: 19px;
+        width: 100%;
+    }
+
+    .user{
+        font-size: 20px;
+    }
+
+    .line-r{
+        right: 30px;
+        top: 100px;
+    }
+
+    .review-replies{
+        margin-left: 20px;
+        margin-top: -100px;
+        width: 90%;
+    }
+    .date{
+        font-size: 20px;
+        margin-left: 5px;
+    }
+    .dot{
+        margin-left: 5px;
+    }
+    .post{
+        margin-left: 50px;
+    }
+    .btn{
+        height: 40px;
+        width: 80px;
+        font-size: 12px;
+    }
+
+}
+/* ? should be the phones */
+@media screen and (min-width:321px) and (max-width: 499px){
+    .rectangle{ /* * background - the green box*/
+        width: 100%;
+        height: 1000px;
+       
+        position: absolute;
+        top: 390px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+     /* * the title and the gallery thing next to it*/
+    .another-container1 {
+        width: 100%;
+    }
+    
+    .title-container{
+        color: white;
+
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .title1{
+        font-size: 50px;
+        line-height: 50px;
+        padding-top: 20px;
+    }
+
+    .location-title{
+        padding-bottom: 10px;
+    }
+
+    .another-container{
+        width: 90%;
+    }
+     /* *categories */
+
+     .wrapper1{
+        margin-bottom: 30px;
+    }
+    .categories{
+        width: 85%;
+    }
+     .categories .box{
+        height: 60px;
+    }
+    .categories a{
+        font-size: 11px;
+    }
+
+    /* *information and the images*/
+    .info-hist-box{
+        width: 85%;
+    }
+
+    .info-container {
+        width: 100%;
+        margin-top: -50px;
+    }
+    
+    .left-images{
+        width: 100%;
+        order: 2;
+        margin-top: 30px;
+    }
+
+    .info-title{ /* magic trick*/
+        display: none;
+    }
+
+    .info-description{
+        font-size: 15px;
+        height: 80%;
+    }
+    .info-description1{
+        font-size: 15px;
+        height: 80%;
+    }
+    .info-title1{
+        display: block;
+        font-size: 30px;
+    }
+    .layer1{
+    flex-direction: column;
+    }
+    
+    .img-set{
+        width: 350px;
+        height: 100px;
+    }
+
+    .info-hist-box{
+        height: 783px;
+    }
+    .layer1{
+    height: 90%;
+    }
+
+    /* *what to do for real*/
+    .contents-box {
+        width: 400px;
+        max-height: 420px;
+    }
+    .wtd-container{
+        margin-top: 500px;
+        height: 600px;
+    }
+    .contents-img{
+            width: 180px;
+            height: 420px;
+            overflow: hidden;
+    }
+    .contents-container {
+        bottom: 400px;
+    }
+    .contents-title1{
+        font-size: 25px;
+    }
+    .contents-desc1{
+        font-size: 18px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 189px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        margin-right: 10px;
+        float: right;
+    }
+    .wtd-bg{
+        height: 600px;
+    }
+
+    /* *timings */
+    .timing-title{
+        font-size: 40px;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        padding-left: 50px
+    }
+    .timing-info{
+        width: 80%;
+        height: 90%;
+
+    }
+    .time {
+        font-size: 10px;
+    }
+    .timing-week{
+        width: 90%;
+    }
+    .timing-week .days{
+        height: 60px;
+    }
+    .timing-container{
+        padding-bottom: 30px;
+    }
+    .timing-week a{
+        font-size: 10px;
+    }
+
+    /* *calendar and events */
+    .calendar-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 10px;
+        padding-left: 50px
+    }
+    .calendar-bg{
+        margin-top: -30px;
+    }
+    .main {
+        margin-bottom: -210px;
+    }
+    .main .sideb table th {
+        font-size: 11px;
+        height: 5%;
+    }
+    .main .sideb table td {
+        font-size: 12px;
+    }
+    .main .header {
+        padding-top: 0px;
+    }
+    .main .sideb table {
+        height: 30%;
+        margin: 0px auto 0;
+        line-height: 2px;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb {
+        height: 40%;
+        width: 100%;
+        border-right-color: rgb(22, 58, 54);
+        border-right-style: solid;
+        border-right-width: 2px;
+    }
+    .main .right-wrapper {
+        height: 45%;
+        width: 100%;
+    }
+    .showDate{
+        display: none;
+    }
+    .main .right-wrapper .day {
+        font-size: 80px;
+        text-indent: 0px;
+    }
+    .main .right-wrapper .header {
+        padding-top: 40px;
+
+    }
+
+    /* --- */
+    .wrapper4 {
+        margin-top: 130px;
+    }
+    .extra-wrapper{
+        gap: 5px;
+    }
+    .event-listing{
+        width: 100%;
+    }
+    .name-event{
+        font-size: 9px;
+        padding: 15px;
+    }
+    .e-date{
+        width: 25%;
+        height: 90%;
+    }
+    .e-month{
+        font-size: 7px;
+    }
+    .e-number{
+        font-size: 12px;
+    }
+
+    /* *virtual tour */
+    .vt-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 70px;
+        padding-left: 50px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    iframe{
+        height: 500px;
+    }
+
+    /* *reviews */
+
+    .review-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 50px;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+    
+    .pfp{
+        height: 90px;
+        width: 90px;
+        margin-left: 40px;
+    }
+    
+    .main-box {
+        padding-top: 0px;
+        width: 60%;
+        padding-left: 10px;
+    }
+    
+    .r-box{
+        width: 100%;
+    }
+
+    .review-content{
+        font-size: 19px;
+        width: 100%;
+    }
+
+    .user{
+        font-size: 20px;
+    }
+
+    .line-r{
+        right: 30px;
+        top: 100px;
+    }
+    .form-control{
+        width: 90%;
+    }
+    .reply-function{
+        width: 65%;
+        left: 30px;
+    }
+    .review-replies{
+        margin-left: 20px;
+        margin-top: -100px;
+        width: 90%;
+    }
+    .date{
+        font-size: 20px;
+        margin-left: 5px;
+    }
+    .dot{
+        margin-left: 5px;
+    }
+    .post{
+        margin-left: 50px;
+    }
+    .btn{
+        height: 40px;
+        width: 80px;
+        font-size: 12px;
+    }
+
+} 
+
+/* tablet */
+@media screen and (min-width: 500px) and (max-width: 769px) {
+    .rectangle{ /* * background - the green box*/
+        width: 100%;
+        height: 600px;
+       
+        position: absolute;
+        top: 370px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+
+    /* * the title and the gallery thing next to it*/
+    .title1{
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .location-title{
+        font-size: 10px;
+
+    }
+    .line1{
+        font-size: 10px;
+        height: 15%;
+        width: 15%;
+    }
+    .wrapper3{
+        margin-top: -50px;
+    }
+
+    /* *categories */
+
+  
+    .categories .box{
+        height: 90px;
+    }
+
+    .categories a{
+        font-size: 15px;
+    }
+
+    /* * information box and the images*/
+    .img-set{
+        width: 300px;
+        height: 100px;
+    }
+    .info-hist-box {
+        width: 95%;
+        height: 500px;
+    }
+    .layer1{
+        padding-top: 30px;
+        height: 400px;
+        justify-content: center;
+    }
+    .info-title {
+        font-size: 30px;
+    }
+    .info-description {
+        font-size: 14px;
+        padding-top: 30px;
+    }
+    .info-description1 {
+        font-size: 14px;
+        padding-top: 10px;
+        width: 120%;
+    }
+
+    /* * the what to do part */
+    .contents-box {
+        width: 400px;
+        max-height: 420px;
+    }
+    .wtd-container{
+        margin-top: 200px;
+        height: 600px;
+    }
+    .contents-img{
+            width: 180px;
+            height: 420px;
+            overflow: hidden;
+    }
+    .contents-container {
+        bottom: 400px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 189px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        margin-right: 10px;
+        float: right;
+    }
+    .wtd-bg{
+        height: 600px;
+    }
+    /* * timings */
+    .timing-title{
+        font-size: 40px;
+        padding-top: 40px;
+        padding-bottom: 50px;
+        padding-left: 80px
+    }
+    .timing-info{
+        width: 90%;
+    }
+    .timing-week .days{
+        height: 90px;
+    }
+    .timing-container{
+        padding-bottom: 30px;
+    }
+    .timing-week a{
+        font-size: 15px;
+    }
+     /* *calendar and events */
+    .calendar-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 80px
+    }
+
+    .main {
+        margin-bottom: -210px;
+    }
+    .main .sideb table th {
+        font-size: 11px;
+        height: 5%;
+    }
+    .main .sideb table td {
+        font-size: 12px;
+    }
+    .main .sideb table {
+        height: 30%;
+        margin: 0px auto 0;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb {
+        height: 60%;
+    }
+    .main .right-wrapper {
+        height: 60%;
+    }
+    .main .right-wrapper .day {
+        font-size: 90px;
+        text-indent: 0px;
+    }
+    .main .right-wrapper .header {
+        padding-top: 70px;
+
+    }
+
+    /* --- */
+
+    .name-event{
+        font-size: 10px;
+        padding: 20px;
+    }
+    .e-month{
+        font-size: 10px;
+    }
+    .e-number{
+        font-size: 20px;
+    }
+
+    /* vt title */
+    .vt-title{
+        font-size: 40px;
+        padding-top: 40px;
+
+    }
+     /* *reviews */
+     .review-title{
+        font-size: 40px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    .pfp{
+        height: 90px;
+        width: 90px;
+        margin-left: 40px;
+    }
+    
+    .main-box {
+        padding-top: 0px;
+        width: 60%;
+        padding-left: 10px;
+    }
+    
+    .r-box{
+        width: 100%;
+    }
+
+    .reply-box{
+        margin-top: -100px;
+    }
+
+    .review-replies{
+        margin-left: 60px;
+    }
+
+    .reply-function{
+        width: 80%;
+        left: 30px;
+    }
+    .review-content{
+        font-size: 19px;
+    }
+    .post{
+        margin-left: 70px;
+    }
+    .user{
+        font-size: 29px;
+    }
+
+    .date{
+        font-size: 29px;
+    }
+    /* media */
+    .media-title{
+        font-size: 40px;
+        margin-left: 80px;
+        margin-top: 60px;
+        margin-bottom: 10px;
+        height: 60px;
+    }
+}
+
+/* small screen */
+@media screen and (min-width: 770px) and (max-width: 1024px) {
+    .rectangle{ /* * background - the green box*/
+        width: 100%;
+        height: 600px;
+       
+        position: absolute;
+        top: 370px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+    /* * the title and the gallery thing next to it*/
+    .title1{
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .location-title{
+        font-size: 10px;
+
+    }
+    .line1{
+        font-size: 10px;
+        height: 15%;
+        width: 15%;
+    }
+    .wrapper3{
+        margin-top: -50px;
+    }
+
+    /* * categories*/
+    .categories .box{
+        height: 90px;
+    }
+    .categories a{
+        font-size: 15px;
+    }
+
+  
+    /* * information box and the images*/
+    .img-set{
+        width: 300px;
+        height: 100px;
+    }
+    .info-hist-box {
+        width: 95%;
+        height: 500px;
+    }
+    .layer1{
+        height: 500px;
+    }
+    .info-title {
+        font-size: 30px;
+    }
+    .info-description {
+        font-size: 14px;
+        padding-top: 70px;
+    }
+    .info-description1{
+        font-size: 14px;
+        padding-top: 30px;
+    }
+
+    .contents-box {
+        width: 400px;
+        max-height: 420px;
+    }
+    .wtd-container{
+        margin-top: 200px;
+        height: 600px;
+    }
+    .contents-img{
+            width: 180px;
+            height: 420px;
+            overflow: hidden;
+    }
+    .contents-container {
+        bottom: 400px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 189px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        margin-right: 10px;
+        float: right;
+    }
+    .wtd-bg{
+        height: 600px;
+    }
+    /* *timing */
+    .timing-info{
+        width: 90%;
+    }
+
+    /* *calendar and events */
+    .calendar-title{
+        font-size: 50px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 80px
+    }
+
+    .main{
+        margin-bottom: -110px;
+    }
+
+    .main .sideb table th {
+        font-size: 14px;
+        height: 5%;
+    }
+    .main .sideb table {
+        height: 30%;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb{
+        height: 75%;
+    }
+    .main .right-wrapper {
+        height: 75%;
+    }
+    .main .right-wrapper .day {
+        font-size: 120px;
+        text-indent: 0px;
+    }
+
+    /* --- */
+
+    .name-event{
+        font-size: 12px;
+        padding: 20px;
+    }
+    .e-month{
+        font-size: 10px;
+    }
+    .e-number{
+        font-size: 20px;
+    }
+     /* *reviews */
+     .review-title{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 80px;
+        margin: 0px;
+    }
+    
+    .pfp{
+        height: 90px;
+        width: 90px;
+        margin-left: 40px;
+    }
+    
+    .main-box {
+        padding-top: 0px;
+        width: 60%;
+        padding-left: 10px;
+    }
+    
+    .reply-box{
+        width: 70%;
+    }
+    
+ 
+
+    .review-content{
+        font-size: 19px;
+    }
+
+    .user{
+        font-size: 29px;
+    }
+
+    .date{
+        font-size: 29px;
+    }
+    
+
+}
+
+/* ! large screen */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+    .rectangle{
+        width: 100%;
+        height: 700px;
+       
+        position: absolute;
+        top: 470px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+    .img-set{
+        width: 500px;
+        height: 100px;
+    }
+    .info-hist-box {
+        width: 95%;
+        height: 500px;
+    }
+    .layer1{
+        height: 500px;
+    }
+    .info-title {
+        font-size: 37px;
+    }
+    .info-description {
+        font-size: 16px;
+        padding-top: 70px;
+    }
+    .info-description1 {
+        font-size: 16px;
+        padding-top: 30px;
+    }
+
+    /* * the what to do part */
+    .contents-box {
+        width: 400px;
+        max-height: 420px;
+    }
+    .wtd-container{
+        margin-top: 200px;
+        height: 600px;
+    }
+    .contents-img{
+            width: 180px;
+            height: 420px;
+            overflow: hidden;
+    }
+    .contents-container {
+        bottom: 400px;
+    }
+    .contents-title1{
+        font-size: 30px;
+    }
+    .contents-desc1{
+        font-size: 20px;
+    }
+    .contents-title {
+        font-size: 20px;
+        width: 50%;
+        position: relative;
+        left: 189px;
+        top: 20px;
+    }
+    .contents-desc{
+        font-size: 15px;
+        width: 50%;
+        height: 40%;
+        margin-right: 10px;
+        float: right;
+    }
+    .wtd-bg{
+        height: 600px;
+    }
+
+      /* * timings */
+    .timing-title{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 80px;
+        }
+    .timing-container{
+        padding-bottom: 50px;
+    }
+    .timing-info{
+        width: 90%;
+    }
+    .timing-week .days{
+        height: 90px;
+    }
+
+    .timing-week a{
+        font-size: 15px;
+    }
+
+    /* *calendar and events */
+    .calendar-title{
+        font-size: 50px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 80px
+    }
+
+    .main{
+        margin-bottom: -110px;
+    }
+
+    .main .sideb table th {
+        font-size: 14px;
+        height: 5%;
+    }
+    .main .sideb table {
+        height: 30%;
+    }
+    tbody{
+        height: 50%;
+    }
+    .main .sideb{
+        height: 75%;
+    }
+    .main .right-wrapper {
+        height: 75%;
+    }
+    .main .right-wrapper .day {
+        font-size: 120px;
+        text-indent: 0px;
+    }
+
+    /* --- */
+
+    .name-event{
+        font-size: 12px;
+        padding: 20px;
+    }
+    .e-month{
+        font-size: 10px;
+    }
+    .e-number{
+        font-size: 20px;
+    }
+    /* *virtual tour*/
+    .vt-title{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 80px;
+        margin: 0px;
+    }
+
+    /* *reviews */
+    .review-title{
+        font-size: 50px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 80px;
+        margin: 0px;
+    }
+    
+    .main-box {
+        padding-top: 0px;
+        width: 100%;
+        padding-left: 70px;
+    }
+    
+    .reply-box{
+        margin-top: -100px;
+        width: 100%;
+    }
+
+    .review-content{
+        font-size: 19px;
+    }
+
+    .reply-function{
+        width: 85%;
+        left: 30px;
+    }
+
+    .post{
+        margin-left: 100px;
+    }
+    .user{
+        font-size: 29px;
+    }
+
+    .date{
+        font-size: 29px;
+    }
+    .line-r{
+        top: 5px;
+    }
+}
+@media screen and (min-width: 1201px){
+    .rectangle{
+        width: 100%;
+        height: 900px;
+       
+        position: absolute;
+        top: 590px;
+    
+        z-index: -2;
+    
+        background: #163A36;
+    }
+    .layer1{
+        justify-content: center;
+        gap: 30px;
+    }
+    .info-description {
+        font-size: 20px;
+        padding-top: 70px;
+    }
+    .info-description1 {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+    line-r{
+        top: 30px;
+    }
+
+}
+/*----------------------------------*/
+
+/*----------------------------------*/
