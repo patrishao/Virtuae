@@ -74,29 +74,29 @@
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in. 
-                    
-                    <br>
-                    <br>
+                <p class="info-description"> <br>
+                <br>
+                <br>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
                     lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in.                    
-                    
-
+                    At risus viverra adipiscing at in.
                     <br>
                     <br>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    <br>
+                 </p>
+                   
+                    <h2 class="info-title"> History </h2> <!-- history -->
+                   <p class="info-description"> 
+                   <br>
+                   Lorem ipsum dolor sit amet, conconsectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in.            
-                    </p>
+                    lacus laoreet. Et egestas quis ipsum suspendiss e ultrices gravida dictum fusce ut. 
+                    At risus viverra adipiscing at in. </p>                    
+                             
+                    
             </div>
             
          </div>
@@ -563,25 +563,99 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/dubai/dxbact1B.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
-            <div class="img-media"><img src="images/PLACEHOLDER.png" class="fiximg" /></div>
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> wowie a description! </p>
+            </div>
+
         </div>
 
         </div>
