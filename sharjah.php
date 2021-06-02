@@ -277,7 +277,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/wasit-natural-reserve-x-architects-sharjah-united-arab-emirates-nelson-garrido-photography_dezeen_1568_3.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
