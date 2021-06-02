@@ -63,7 +63,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ad_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/AL-NOOR-ISLAND-67-1597132394752_173dc825102_original-ratio.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -81,7 +81,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/shjaquarium.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -99,7 +99,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/almontazah.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -117,7 +117,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/Al-Qasba.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -135,7 +135,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/wasit-natural-reserve-x-architects-sharjah-united-arab-emirates-nelson-garrido-photography_dezeen_1568_3.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -162,7 +162,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/sharjah/shakespeare-and-co-al.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -180,7 +180,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/ratioscoffee.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -198,7 +198,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/fencafe.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -216,7 +216,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/waffee.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -234,7 +234,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/gazebo.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -295,7 +295,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/shjsciencemuseum.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -313,7 +313,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/shjdiscovery.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -331,7 +331,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/shjdesertpark.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
