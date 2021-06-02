@@ -259,7 +259,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ajm_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/almontazah.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
