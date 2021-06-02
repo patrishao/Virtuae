@@ -21,14 +21,14 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/image21.png" class="picture" /></div>
-                        <div><img src="images/image21.png" class="picture" /></div>
-                        <div><img src="images/image21.png" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> JUMEIRAH MOSQUE </h1> <!-- title -->
-                <p class="location-title"> PLACEHOLDER </p> <!-- location-->
+                <h1 class="title1"> WARNER BROS WORLD </h1> <!-- title -->
+                <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
@@ -59,41 +59,52 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
+
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="smallimg"/></div>
+
             </div>
             <div class="info-container">
+
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Dine\Al Meshwar Restaurant.docx"> 
+                    <a href="download\Abu Dhabi\Entertainment\Warner Bros World.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
+
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
+
                 <p class="info-description"> 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in.
-                    <br> 
-                    <br>
-                 </p>
-                   
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                   <p class="info-description1"> 
-                   Lorem ipsum dolor sit amet, conconsectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                    lacus laoreet. Et egestas quis ipsum suspendiss e ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in. </p>                    
-                             
                     
+                    Warner Bros. World Abu Dhabi is an indoor amusement park in Abu Dhabi, United Arab Emirates, 
+                    owned and developed by Miral Asset Management at an expected cost of $1 billion. The park 
+                    features characters from Warner Bros.'s franchises, such as Looney Tunes, DC Comics, Hanna-Barbera, 
+                    and others.
+                    
+                    <br><br>
+
+                    The park is located on Yas Island near Ferrari World and Yas Waterpark, and is the third Warner 
+                    Bros.'s theme park. An adjoining hotel is also being built at the center of Yas Island. The park 
+                    contains 29 rides, restaurants, attractions, shops and shows.
+
+                   <br><br>
+
+                </p>
+                   
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                    On July 24, 2018, the park was inaugurated by Vice President and Prime Minister of the UAE Sheikh Mohammed 
+                    bin Rashid Al Maktoum, and Crown Prince of Abu Dhabi Sheikh Mohammed bin Zayed Al Nahyan.
+
+                </p>                    
+              
             </div>
             
          </div>
@@ -105,65 +116,78 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
             
             <div class="contents-box">
                 <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p>
-                 </div>
+                    <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
+                    <p class="contents-desc1">
+
+                        The excitement begins at the Warner Bros. Plaza, your portal to our 
+                        uniquely themed lands including Bedrock, Dynamite Gulch, Cartoon Junction, 
+                        Gotham City and Metropolis. Experience 29 state-of-the-art exhilarating rides, 
+                        interactive family-friendly attractions and unique live entertainment for 
+                        memories that will last a lifetime.
+
+                    </p>
+                </div>
             </div> 
+         
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
-                 </div>
+                    <h2 class="contents-title"> Batman </h2>
+                    <p class="contents-desc"> 
+
+                        To the Batmobile; prepare to be thrilled! This high-speed, high-octane ride will 
+                        have you climbing, spinning and rolling through the dark skies of Gotham, patrolling 
+                        the city at Batman’s side. 
+
+                    </p> <!-- put the actual activities here -->
+                </div>
             </div> 
             
+
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1H.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
+                    <h2 class="contents-title"> Racing </h2>
+                    <p class="contents-desc">
+
+                        Buckle up and get ready to giggle; join the Tasmanian Devil on the track. This 
+                        children’s car ride will whip you around at speeds Taz himself would be proud of.
+
+                    </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
 
               <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
+                    <h2 class="contents-title"> Shop </h2>
+                    <p class="contents-desc">
+
+                        Pick up a souvenir, gift or memento of your day at one of our exciting retail outlets 
+                        throughout the park. From Daffy to Taz, Batman to Catwoman, you'll find treats, goodies 
+                        and more featuring all your favorite characters.
+
+                    </p> <!-- put the actual activities here -->
                  </div>
             </div> 
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-
-            </div>
+        
+        
+        </div>
         </div>
         <!-- -->
 
@@ -480,59 +504,91 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
+
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min"  
-        frameborder="0" style="border:none;" allowvr="yes" 
-        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
-        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
-    </iframe>	
-     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.091466187711!2d55.26329251547081!3d25.233844083879188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f425496f47ed1%3A0xd880ed54682d125a!2sJumeirah%20Mosque!5e0!3m2!1sen!2sae!4v1622472111655!5m2!1sen!2sae"
-         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe width="100%" height="800px" src="https://poly.google.com/view/b7qQfYz4kt5/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    
+        <!-- google maps -->   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.8420998826864!2d54.59704721499557!3d24.490927284229603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4569238902a7%3A0x5a3f2432f3fb33b9!2sWarner%20Bros%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622677591881!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
     <!-- COMMENTS -->
+
     <h2 class="review-title">REVIEWS</h2>
-  
+
+    <script src="javascript/alerts.js"> </script>
+    
+
     <div class="review-container" id="review-container">
-        
+     
         <div class="user-review">
        
+           <?php 
+           
+                // fetching all the data from this certain page
+                  $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+                  $query .= "ORDER BY comment_id DESC";
+                  $select_customers = mysqli_query($connection, $query);
+        
+                    while($row = mysqli_fetch_assoc($select_customers)){
+                        $comment_id = $row['comment_id'];
+                        $comment_page = $row['comment_page'];
+                        $comment_date = $row['comment_date'];
+                        $comment_author = $row['comment_author'];
+                        $comment_email = $row['comment_email'];
+                        $comment_contents = $row['comment_contents'];
+           ?>
+    
+
+            <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
             <div class="main-review review"> 
                 <div class="r-box main-box">
-                <div class="user">Avery Angel <div class="dot"></div>
-                <span class="date">Apr 01 2012</span></div>
-                <div class="review-content">
-                    I am placeholder review, I am reviewing the placeholder
-                    and the place is very holding.
-
-                </div>
-                <a class="reply-btn" onClick="reply()"><img src="images/reply.png"/>Reply</a>
-                
+                     <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                     <span class="date">  <?php  echo $comment_date?> </span></div>
+                     <div class="review-content"> <?php  echo $comment_contents?> </div>
                 </div>
             </div>
 
-            <div class="review-replies review">
-                <div class="line-r"></div>
-                <div class="r-box reply-box">
-                <div class="user">Avery Angel <div class="dot"></div>
-                <span class="date">Apr 01 2012</span></div>
-                <div class="review-content">
-                    I am placeholder review, I am reviewing the placeholder
-                    and the place is very holding.
 
-                </div>
-                <a class="reply-btn" onClick="reply()"><img src="images/reply.png"/>Reply</a>
-
-   
-
-                </div>
-            </div>
+            <?php } ?>
+              <!-- closing the while loop -->
+      
             
         </div>
+        
     </div>
+
+    <!-- including the other php file that handles the form -->
+    <?php  include 'includes/comments.php' ?>
+
+    <form class="wr-container" id="wr-container" method="post" action="">
+        
+        <div class="write-review">
+
+             <!-- getting the name of whoever posted the comment -->
+             <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
+
+             <!-- hidden values to get the user's who's logged -->
+            <input type="hidden" name="email" value=" <?php echo $email ?>  " >
+
+            <!-- getting the page name to know where is the user commenting -->
+            <input type="hidden" name="page" value="<?php echo $pageName?>" >
+
+
+
+           <!-- adding a review -->
+          <input type="text" name="review"  class="form-control" placeholder="Add a review..."></input>
+
+        </div>
+
+        <!-- buttons to send  -->
+        <input type="submit" class="post btn" value="Post" name="post">
+        <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+
+    </div>
+    </form>
     
         <!-- replying function -->
 
@@ -673,37 +729,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is sun'); //so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is mon');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is tues');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is wed');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is thurs');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is fri');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is sat');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
    
         }
 
