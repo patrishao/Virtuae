@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Ajman Corniche</title>
+    <title>Cafe Naseem</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -21,13 +21,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2H.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2D.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Ajman Corniche </h1> <!-- title -->
+                <h1 class="title1"> Cafe Naseem </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
@@ -37,7 +37,6 @@
     <div class="wrapper3"> <!-- not to be touched -->
         <div class="categories">
                 <div class="box" onClick="history()"><a>INFO</a></div>
-                <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
                 <div class="box" onClick="timings()"><a>TIMINGS</a></div>
                 <div class="box" onClick="events()"><a>EVENTS</a></div>
                 <div class="box" onClick="vt()"><a>VIRTUAL TOUR</a></div>
@@ -59,38 +58,37 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2A.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2H.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Ajman Corniche.docx"> 
+                    <a href="download\Ajman\Dine\Cafe Naseem.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Lined with cafés and restaurants, the Corniche is a four-kilometre-long esplanade 
-                    overlooking the Arabian Gulf. Much of the emirate’s social activities and events are centred on this area.
-
+                <p class="info-description"> Cafe Naseem welcomes you for an abundant buffet-style meal featuring delicious 
+                    flavours along with a bountiful selection of gourmet creations in the relaxed indoor and outdoor settings 
+                    by the beach.
                     <br>
                     <br>
 
-                    The community like most of the UAE has a multi-cultural population. The overall neighbourhood is vibrant and you will not feel 
-                    secluded. There are plenty of venues within walking distance such as restaurants, spas, gyms, schools and malls. There are some 
-                    buildings on Corniche Ajman that are under construction, while many are already completed and ready for investment or rentals. 
-                    Here, you will find 1, 2 and 3 bedrooms apartments.
+                    Wondering where to brunch this season? Cafe Naseem is the place and this is why it is - a lavish international 
+                    buffet spread, live cooking stations, seating facing the beach and live music - perfect enough for a laid-back brunch.
 
                     <br>
                     <br>
                     
-                    To date, Ajman Corniche is one of the best off-plan projects in the emirate 
-                    that interested investors may want to consider.Situated along the northwestern shore of the emirate, the Corniche road (or Sheikh 
-                    Humaid bin Rashid Al Nuaimi Street) stretches from the roundabout just after Coral Beach Resort Sharjah to the five-star Kempinski Hotel Ajman.
+                    Travel in flavours every Sunday, Tuesday and Thursday at Cafe Naseem. In Sundays: Dinner Theme Nights: Arabic Culinary 
+                    Nights - AED 195 per person including soft beverages. For Tuesdays: Dinner Theme Nights: Asian Culinary Nights - AED 
+                    195 per person including soft beverages. And lastly, for for Thursdays, Dinner Theme Nights: Mexican Culinary Nights  
+                    - AED 195 per person including soft beverages.
               
                     </p>
             </div>
@@ -98,55 +96,6 @@
          </div>
         </div>
         </div>
-
-
-
-        <!-- WHAT TO DO -->
-        <div class="wtd-container" id="wtd-container">
-        <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
-        </div>
-        <div class="scroller-area">
-
-            
-            <div class="contents-box">
-                <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">
-                    Ajman’s beautiful coastline is best enjoyed with a stroll along the Corniche, 
-                    where families come to promenade and picnic on the beach. Ajman Corniche is home to several high-rise towers. 
-                    The waterfront community is home to two popular buildings: Ajman Corniche Residences and Corniche Tower. 
-                    Take a look at the most popular buildings before renting or buying an apartment in the neighbourhood.
-                </p>
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Go walk </h2>
-                <p class="contents-desc">
-                Soak up the sun during the day with an afternoon walk, or go for a swim in the sheltered tidal pool.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Relax  </h2>
-                <p class="contents-desc"> The area really comes to life during the evening and on weekends, so join the locals 
-                    enjoying barbeques and picnics on the beach, or visit one of the many casual restaurants such as Attibrah 
-                    and Themar Al Bahar. </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            </div>
-        </div>
-        <!-- -->
 
         <!-- TIMINGS -->
 
@@ -434,7 +383,7 @@
                     <div class="e-date">
                         <div class="e-month"> DEC </div> <!-- month -->
                         <div class="e-number"> 15 </div> <!-- date -->
-                    </div>
+                    </div>+-
                     <div class="name-event"> <p class="en-adjusting">Dubai Shopping Festival</p></div> <!-- name of the event -->
                 </div>
 
@@ -463,7 +412,7 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14415.668365099053!2d55.4317446!3d25.4075857!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3b6fb486954e99f7!2sAjman%20Beach%20Corniche!5e0!3m2!1sen!2sae!4v1622596279949!5m2!1sen!2sae" 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14413.851549495605!2d55.4421863!3d25.4227837!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcd37f9a2d5ca4e7d!2sCafe%20Naseem!5e0!3m2!1sen!2sae!4v1622603305474!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -535,25 +484,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="fiximg" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4H.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1H.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="fiximg" /></div>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1G.jpg" class="fiximg" /></div>
         </div>
 
         </div>
@@ -574,37 +523,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
+            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30s PM - 10:00 PM');  //so put the timings here
    
         }
 
