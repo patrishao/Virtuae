@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Aqua Bounce Ajman</title>
+    <title>Ajman Corniche</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -21,13 +21,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Aqua Bounce </h1> <!-- title -->
+                <h1 class="title1"> Ajman Corniche </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
@@ -59,41 +59,38 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Aqua Bounce Ajman.docx"> 
+                    <a href="download\Ajman\Activities\Ajman Corniche.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> It’s a fun way to get in some serious exercise – 
-                the bouncy assault course also provides a test on scrambler’s 
-                stamina, balance and motor-skills. 
-                    
+                <p class="info-description"> Lined with cafés and restaurants, the Corniche is a four-kilometre-long esplanade 
+                    overlooking the Arabian Gulf. Much of the emirate’s social activities and events are centred on this area.
+
                     <br>
                     <br>
 
-                    With obstacles providing challenges for a range of abilities, conquer climbing walls, 
-                    balancing beams, swing ropes and your own fear. Sea anemones and turtles are a treat for 
-                    snorkelers, while divers flock here for the beautiful rock 
-                    formations teeming with moray eels, and rays. If you prefer to stay on 
-                    the surface, take a kayak out to spot schools of fish from above the clear waters.
+                    The community like most of the UAE has a multi-cultural population. The overall neighbourhood is vibrant and you will not feel 
+                    secluded. There are plenty of venues within walking distance such as restaurants, spas, gyms, schools and malls. There are some 
+                    buildings on Corniche Ajman that are under construction, while many are already completed and ready for investment or rentals. 
+                    Here, you will find 1, 2 and 3 bedrooms apartments.
 
                     <br>
                     <br>
                     
-                    Having fun because of the is a joyful experience and a must when having vacation. 
-                    Simple enough everyone should be able to have fun.  You can go new places and 
-                    discover new things, you can learn new things and learn to go beyond fun, and 
-                    it makes you happy and you can bond with people.
+                    To date, Ajman Corniche is one of the best off-plan projects in the emirate 
+                    that interested investors may want to consider.Situated along the northwestern shore of the emirate, the Corniche road (or Sheikh 
+                    Humaid bin Rashid Al Nuaimi Street) stretches from the roundabout just after Coral Beach Resort Sharjah to the five-star Kempinski Hotel Ajman.
               
                     </p>
             </div>
@@ -107,7 +104,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -115,48 +112,38 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Days by the beach won’t ever be the same with Ajman’s first ever 
-                floating water park! You can enjoy by having an absolute blast on the Aqua Bounce Park or just
-                by watching people do their thing. Rest up and relax by moving your body through the floating park
-                of Aqua Bounce Ajman. </p>
+                <p class="contents-desc1">
+                    Ajman’s beautiful coastline is best enjoyed with a stroll along the Corniche, 
+                    where families come to promenade and picnic on the beach. Ajman Corniche is home to several high-rise towers. 
+                    The waterfront community is home to two popular buildings: Ajman Corniche Residences and Corniche Tower. 
+                    Take a look at the most popular buildings before renting or buying an apartment in the neighbourhood.
+                </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" />
+                    <img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Enjoy </h2>
+                <h2 class="contents-title"> Go walk </h2>
                 <p class="contents-desc">
-                As a family with children, choosing a nearby diving centre for guides to the island is highly 
-                recommended.  </p> <!-- put the actual activities here -->
+                Soak up the sun during the day with an afternoon walk, or go for a swim in the sheltered tidal pool.  </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" />
+                    <img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Dive </h2>
-                <p class="contents-desc"> You can easily rent equipment for a dive, or fins, snorkels 
-                and masks for snorkelling, just ask the staff of the park. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Relax  </h2>
+                <p class="contents-desc"> The area really comes to life during the evening and on weekends, so join the locals 
+                    enjoying barbeques and picnics on the beach, or visit one of the many casual restaurants such as Attibrah 
+                    and Themar Al Bahar. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Swim </h2>
-                <p class="contents-desc">Swimming is a good all-round activity because it: keeps your heart rate up but 
-                takes some of the impact stress off your body.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-
             </div>
         </div>
         <!-- -->
@@ -474,9 +461,9 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     <!-- google maps -->   
-     
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.35917169339!2d55.4373528!3d25.4185382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98eaeaa0b0d0b82a!2sAqua%20Bounce%20Ajman!5e0!3m2!1sen!2sae!4v1622579773397!5m2!1sen!2sae" 
+    
+    <!-- google maps -->   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.966576227109!2d55.4456037!3d25.4134573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x562a16a1ef84dd73!2sAjman%20Museum!5e0!3m2!1sen!2sae!4v1622591972077!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -548,25 +535,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4H.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" /></div>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" /></div>
         </div>
 
         </div>
@@ -587,37 +574,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6 AM - 10 PM '); //so put the timings here
    
         }
 

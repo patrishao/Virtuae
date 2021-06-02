@@ -15,6 +15,10 @@ body{
     font-weight: 700;
 }
 
+.navbar a.icon path {
+    stroke: black;
+}
+
 #profile path{
     stroke: black;
     stroke-width: 2.5px;
@@ -56,12 +60,13 @@ a {
 .profile-container{
     display: flex;
     width: 100%;
-    height: 400px;
+    height: 300px;
     justify-content: center;
 }
 .profile-details{
     display: flex;
-    width: 90%;
+    width: 80%;
+    height: 300px;
     flex-wrap: wrap;
     flex-direction: column;
     justify-content: flex-start;
@@ -87,6 +92,9 @@ a {
     justify-content: flex-end;
     gap: 20px;
 }
+.wrapper2{
+    display:none;
+   }
 .btn{
     font-family: Karla;
     font-style: normal;
@@ -101,7 +109,7 @@ a {
 }
 
 h1{
-    font-family: Karla;
+    font-family:karla;
     font-style: normal;
     font-weight: bold;
     font-size: 35px;
@@ -132,4 +140,224 @@ h1{
 /*-----------------------------------*/
 
 /*-----------------------------------*/
-/*reviews*/
+/*recommendations*/
+.wrapping2{
+    display: flex;
+    width:100%;
+    justify-content: center;
+}
+.rec-title{
+    font-family: karla;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 133.69%;
+    
+    text-align: center;
+
+    width: 90%
+}
+
+.showcase{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.row{
+    margin-top: 40px;
+    width: 90%;
+}
+.card{
+    margin: auto;
+    margin-bottom: 2rem;
+    font-size: 10px;
+    font-family: 'Karla';
+    width: 85%;
+    box-shadow: 0 0 1.0rem rgba(116, 109, 88, 0.342);
+
+}
+.card:hover{
+    box-shadow: 0 0 1.0rem rgba(190, 183, 161, 0.342);
+}
+
+/* content */
+.cardContent{
+    padding: 1rem;
+}
+.imgCard{
+    height: 35rem;
+    overflow: hidden;
+}
+.imgCard img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+.contents h3{
+    font-size: 2rem;
+    padding-bottom: 0.5rem;
+}
+.contents h4{
+    font-size: 1.5rem;
+}
+.contents p{
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+    text-align: justify;
+}
+/* button */
+.cardButton{
+    display: flex;
+    justify-content: flex-end;
+}
+.moreContent{
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-family: 'Karla';
+    border-radius: 1.5rem;
+    color: white;
+    background-color: #252525;
+}
+.moreContent:hover{
+    background-color: #d07b3b;
+    color: white;
+}
+.moreContent:active {
+    color: #d07b3b;
+    background-color: white;
+    border: 1px solid #d07b3b;
+}
+
+.toggleArea{
+    background-color: #252525;
+    position: relative;
+    display: none;
+    font-family: 'Karla';
+    font-size: 1.5rem;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    width: 100%;
+    height: 20%;
+}
+.toggleArea:hover{
+    background-color: #d07b3b;
+}
+label{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+#toggle{
+    display: none;
+} 
+/* footer */
+footer{
+    padding: 1rem;
+    background-color: white;
+}
+
+/* MEDIA QUERIES */
+
+/* phone */
+@media screen and (max-width: 479px){
+    .title{
+        font-size: 1.5rem;
+    }
+    .description{
+        font-size: 1rem;
+    }
+    .imgCard{
+        height: 20rem;
+    }
+    #categTitle{
+        font-size: 1.5rem;
+    }
+    .categories{
+        flex-direction: column;
+        visibility: hidden;
+        height: 20rem;
+    }
+    .categories button{
+        position: relative;
+        width: 100%;
+    }
+    #toggle:checked + .categories{
+        visibility: visible;
+    }
+    .toggleArea, .menu{
+        display: flex;
+    }
+    .container{
+        justify-content: flex-start;
+        flex-direction: column-reverse;
+    }
+    .wrapper{
+        display: none;
+    }
+    .wrapper2{
+        display: flex;
+        flex-direction:row;
+        flex-wrap: wrap;
+        width: 70%;
+        gap: 10px;
+        margin-bottom: -50px;
+        margin-top: 40px;
+    }
+    .btn{
+        width: 100%;
+    }
+    .profile-container{
+        height: 350px;
+    }
+
+}
+/* tablet */
+@media screen and (min-width: 480px) and (max-width: 768px){
+    .title{
+        font-size: 2rem;
+    }
+    .description{
+        font-size: 1.2;
+    }
+    #categTitle{
+        font-size: 1.5rem;
+    }
+    .categories button{
+        font-size: 1rem;
+    }
+    .wrapper{
+        flex-direction: row;
+        justify-content: end;
+        flex-wrap: wrap;
+    }
+
+}
+/* laptop */
+@media screen and (min-width: 769px){
+    .card{
+        display: flex;
+        height: 20rem;  
+        overflow: hidden;
+    }
+    .imgCard{
+        height: auto;
+        flex: 1;
+    }
+    .cardContent{
+        padding-top: 2rem;
+        flex: 2;
+        display: flex;
+    }
+    .contents{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+}

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Aqua Bounce Ajman</title>
+    <title>Al Sinniyah Island</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -21,13 +21,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Aqua Bounce </h1> <!-- title -->
+                <h1 class="title1"> Al Sinniyah Island </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
@@ -59,41 +59,37 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Aqua Bounce Ajman.docx"> 
+                    <a href="download\Ajman\Activities\Al Sinniyah Island.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> It’s a fun way to get in some serious exercise – 
-                the bouncy assault course also provides a test on scrambler’s 
-                stamina, balance and motor-skills. 
+                <p class="info-description"> At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, 
+                    Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. 
+                    It is one of the most popular places to visit in Umm Al Quwain as part of Ajman Tour Packages.
                     
                     <br>
                     <br>
 
-                    With obstacles providing challenges for a range of abilities, conquer climbing walls, 
-                    balancing beams, swing ropes and your own fear. Sea anemones and turtles are a treat for 
-                    snorkelers, while divers flock here for the beautiful rock 
-                    formations teeming with moray eels, and rays. If you prefer to stay on 
-                    the surface, take a kayak out to spot schools of fish from above the clear waters.
+                    The series of islands lie east to the mainland of Umm al-Quwain are surrounded by mangrove forests and are an 
+                    important area for migratory birds. Seneyah Island is the largest of the island group. 
 
                     <br>
                     <br>
                     
-                    Having fun because of the is a joyful experience and a must when having vacation. 
-                    Simple enough everyone should be able to have fun.  You can go new places and 
-                    discover new things, you can learn new things and learn to go beyond fun, and 
-                    it makes you happy and you can bond with people.
+                    Many birds, including 
+                    flamingos, herons, terns, and plovers can be seen in the shallow mud flats here. It is the most preferred island 
+                    for a great nature escape from the hustle and bustle of the cities of the United Arab Emirates.
               
                     </p>
             </div>
@@ -107,7 +103,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -115,48 +111,35 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Days by the beach won’t ever be the same with Ajman’s first ever 
-                floating water park! You can enjoy by having an absolute blast on the Aqua Bounce Park or just
-                by watching people do their thing. Rest up and relax by moving your body through the floating park
-                of Aqua Bounce Ajman. </p>
+                <p class="contents-desc1">Al Sinniyah Island is also well-known with the name of Jazirat as Siniyah. 
+                    Island is full of natural reserves that’s why Emirati believes that with the spending of 25 Billion AED 
+                    they would be able to enhance the tourism in Al Sinniyah Island and also gain a sufficient amount of profits in near future. </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" />
+                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg"/>
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Enjoy </h2>
+                <h2 class="contents-title"> Birdwatching </h2>
                 <p class="contents-desc">
-                As a family with children, choosing a nearby diving centre for guides to the island is highly 
-                recommended.  </p> <!-- put the actual activities here -->
+                The Al Sinniyah Island is especially meant for birdwatchers and nature enthusiasts since it hosts a wide 
+                variety of flora and fauna like the rare Socotra cormorants, flamingoes and seagulls.  </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" />
+                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Dive </h2>
-                <p class="contents-desc"> You can easily rent equipment for a dive, or fins, snorkels 
-                and masks for snorkelling, just ask the staff of the park. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Romance </h2>
+                <p class="contents-desc"> If you are travelling with your partner then you must visit this island as it 
+                    is one of the most romantic places in Ajman.  </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Swim </h2>
-                <p class="contents-desc">Swimming is a good all-round activity because it: keeps your heart rate up but 
-                takes some of the impact stress off your body.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-
             </div>
         </div>
         <!-- -->
@@ -474,9 +457,9 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     <!-- google maps -->   
      
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.35917169339!2d55.4373528!3d25.4185382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98eaeaa0b0d0b82a!2sAqua%20Bounce%20Ajman!5e0!3m2!1sen!2sae!4v1622579773397!5m2!1sen!2sae" 
+    <!-- google maps -->   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28784.180799283127!2d55.61026818417203!3d25.604165257329186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fd74565f0793%3A0xcf5feeb793eb348b!2zSmF6xKtyYXQgYXMgU8SrbsSreWFo!5e0!3m2!1sen!2sae!4v1622589108820!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -548,25 +531,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" /></div>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" /></div>
         </div>
 
         </div>

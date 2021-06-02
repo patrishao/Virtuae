@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Aqua Bounce Ajman</title>
+    <title>Ajman Museum</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -21,13 +21,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Aqua Bounce </h1> <!-- title -->
+                <h1 class="title1"> Ajman Museum </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
@@ -59,41 +59,42 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Aqua Bounce Ajman.docx"> 
+                    <a href="download\Ajman\Activities\Ajman Museum.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> It’s a fun way to get in some serious exercise – 
-                the bouncy assault course also provides a test on scrambler’s 
-                stamina, balance and motor-skills. 
+                <p class="info-description"> The Ajman Museum is a museum located in the city of Ajman, United Arab Emirates. Ajman 
+                    Museum includes several sections that offer a compelling glimpse of Ajman's past, including archaeology, manuscripts, 
+                    folk costumes, souvenirs, and more. The museum displays are annotated in both Arabic and English. 
                     
                     <br>
                     <br>
 
-                    With obstacles providing challenges for a range of abilities, conquer climbing walls, 
-                    balancing beams, swing ropes and your own fear. Sea anemones and turtles are a treat for 
-                    snorkelers, while divers flock here for the beautiful rock 
-                    formations teeming with moray eels, and rays. If you prefer to stay on 
-                    the surface, take a kayak out to spot schools of fish from above the clear waters.
+                    It is housed in an 18th-century fortress that was used as a stronghold for the Emirates leadership and as the first 
+                    line of defense. Earlier it was the ruler's palace and then it was converted as the Ajman police station. When the 
+                    fort was renovated two wind towers and two watchtowers were maintained. A massive gate and two cannons can be seen 
+                    on the front of the fort. The museum tells about the local history and heritage, the place highlights various aspects 
+                    of the past. The Ajman Museum with displays of lifestyle and traditional professions includes a huge collection of 
+                    archeological artifacts, manuscripts, and old weapons as well as displays of medical and religious practices are on 
+                    display. 
 
                     <br>
                     <br>
                     
-                    Having fun because of the is a joyful experience and a must when having vacation. 
-                    Simple enough everyone should be able to have fun.  You can go new places and 
-                    discover new things, you can learn new things and learn to go beyond fun, and 
-                    it makes you happy and you can bond with people.
+                    One of the most famous displays is an excavated cemetery discovered in the Al Muwaihat area, which features pottery 
+                    and funeral jewellery dating back as far as 3000 BC. This was a former fishing village, Ajman also relied heavily on 
+                    pearl fishing and there is a section specifically devoted to what was once one of the most important pastimes in the region.
               
                     </p>
             </div>
@@ -107,7 +108,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -115,48 +116,37 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Days by the beach won’t ever be the same with Ajman’s first ever 
-                floating water park! You can enjoy by having an absolute blast on the Aqua Bounce Park or just
-                by watching people do their thing. Rest up and relax by moving your body through the floating park
-                of Aqua Bounce Ajman. </p>
+                <p class="contents-desc1">Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort 
+                    served as the ruler’s residence until 1970, before it was converted into a museum a decade later.
+                    You’ll find the museum on the east side of the central square in the Al Bustan area. 
+                </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" />
+                    <img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg"/>
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Enjoy </h2>
+                <h2 class="contents-title"> Exhibits </h2>
                 <p class="contents-desc">
-                As a family with children, choosing a nearby diving centre for guides to the island is highly 
-                recommended.  </p> <!-- put the actual activities here -->
+                The exhibits offer a compelling glimpse of Ajman’s past, from centuries-old manuscripts and weaponry to 
+                models of wooden dhows and ingenious irrigation systems. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" />
+                    <img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Dive </h2>
-                <p class="contents-desc"> You can easily rent equipment for a dive, or fins, snorkels 
-                and masks for snorkelling, just ask the staff of the park. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> History </h2>
+                <p class="contents-desc"> One of the most notable displays is an excavated cemetery discovered 
+                    in the Al Muwaihat area, which features pottery and funeral jewellery dating back as 
+                    far as 3000 BC.  </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Swim </h2>
-                <p class="contents-desc">Swimming is a good all-round activity because it: keeps your heart rate up but 
-                takes some of the impact stress off your body.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-
             </div>
         </div>
         <!-- -->
@@ -474,9 +464,9 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     <!-- google maps -->   
-     
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.35917169339!2d55.4373528!3d25.4185382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x98eaeaa0b0d0b82a!2sAqua%20Bounce%20Ajman!5e0!3m2!1sen!2sae!4v1622579773397!5m2!1sen!2sae" 
+    
+    <!-- google maps -->   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.966576227109!2d55.4456037!3d25.4134573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x562a16a1ef84dd73!2sAjman%20Museum!5e0!3m2!1sen!2sae!4v1622591972077!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -548,25 +538,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="fiximg" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3H.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="fiximg" /></div>>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="fiximg" /></div>
         </div>
 
         </div>
