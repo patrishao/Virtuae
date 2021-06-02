@@ -228,45 +228,39 @@
     <!-- lists of destinations with all of them having same classes for same designs
      and contents -->
       <div class="destinations">
-        <img src="images//top-des-images/jebel-jais.jpg">
-        <h1>Jebel Jais</h1>
+        <img src="images/ras al khaimah/rakact4H.jpg">
+        <h1>Wadi Shawka</h1>
         <h2>Ras Al Khaimah</h2>
       </div>
 
        <div class="destinations">
-        <img src="images//top-des-images/jebel-jais.jpg">
-        <h1>Jebel Jais</h1>
-        <h2>Ras Al Khaimah</h2>
+        <img src="images/dubai/burjkhalifa.JPG">
+        <h1>Burj Khalifa</h1>
+        <h2>Dubai</h2>
       </div>
 
       <div class="destinations">
-        <img src="images//top-des-images/jebel-jais.jpg">
-        <h1>Jebel Jais</h1>
-        <h2>Ras Al Khaimah</h2>
+        <img src="images/abu dhabi/auhdis6B.jpg">
+        <h1>Yas Viceroy</h1>
+        <h2>Abu Dhabi</h2>
       </div>
 
       <div class="destinations">
-        <img src="images//top-des-images/jebel-jais.jpg">
+        <img src="images/ras al khaimah/raksts1A.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
      </div>
 
       <div class="destinations">
-        <img src="images//top-des-images/jebel-jais.jpg">
-        <h1>Jebel Jais</h1>
-        <h2>Ras Al Khaimah</h2>
+        <img src="images/abu dhabi/auhdis5E.jpg">
+        <h1>Emirates Palace</h1>
+        <h2>Abu Dhabi</h2>
      </div>
-
-      <div class="destinations">
-        <img src="images//top-des-images/jebel-jais.jpg">
-        <h1>Jebel Jais</h1>
-        <h2>Ras Al Khaimah</h2>
-      </div>
 
      <div class="destinations">
-       <img src="images//top-des-images/jebel-jais.jpg">
-       <h1>Jebel Jais</h1>
-       <h2>Ras Al Khaimah</h2>
+       <img src="images/abu dhabi/auhact2D.jpg">
+       <h1>Zaya Nurai</h1>
+       <h2>Abu Dhabi</h2>
      </div>
     </div>
   </div>
@@ -323,17 +317,17 @@
       <div class="adventure-places">
 
        <!-- image link -->
-       <img src="images/adventures-images/ski-dubai.jpg">
+       <img src="images/ras al khaimah/rakact1D.jpg">
+       
 
        <!-- the headings and p components in class to set position easier -->
          <div class="components"> 
-           <h1>Ski Dubai</h1>
-           <h2>Mall of the Emirates, Dubai</h2>
+           <h1>Jebel Jais (Zipline)</h1>
+           <h2>Ras Al Khaimah</h2>
 
-           <p> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-           Velit officia consequat duis enim velit mollit. </p>
+           <p> The UAE's highest peak, Jebel Jais, is part of the spectacular Hajar mountains that were formed over 70 million years ago in the eastern part of Ras Al Khaimah, United Arab Emirates and Oman. The summit has an elevation of...</p>
 
-
+           
           <a href="#">EXPLORE</a>
 
         </div>
@@ -344,14 +338,29 @@
       <!-- rest of the list with having the same classes -->
       <div class="adventure-places">
 
-       <img src="images/adventures-images/ski-dubai.jpg" >
+       <img src="images/dubai/dxbact3A (1).jpg" >
 
           <div class="components"> 
-          <h1>Sky Dive Dubai</h1>
-          <h2>Dubai Marina, Dubai</h2>
+          <h1>Ski Dubai</h1>
+          <h2>Dubai</h2>
 
-          <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          Velit officia consequat duis enim velit mollit. </p>
+          <p class="wrap"> Ski Dubai is an indoor ski resort with 22,500 square meters of indoor ski area. The park maintains a temperature of -1 degree to 2 degrees Celsius throughout the year. It is a part of the Mall of the Emirates...</p>
+
+          <a href="#">EXPLORE</a>
+
+        </div>
+   
+      </div>
+
+      <div class="adventure-places">
+
+       <img src="images/ajman/ajmact1A.jpg" >
+
+          <div class="components"> 
+          <h1>Aqua Bounce</h1>
+          <h2>Ajman</h2>
+
+          <p class="wrap">It’s a fun way to get in some serious exercise – the bouncy assault course also provides a test on scrambler’s stamina, balance and motor-skills. With obstacles providing challenges for a range of abilities...</p>
 
           <a href="#">EXPLORE</a>
 
@@ -361,14 +370,13 @@
 
        <div class="adventure-places">
 
-       <img src="images/adventures-images/ski-dubai.jpg">
+       <img src="images/dubai/dxbact2C.jpg">
 
        <div class="components"> 
-         <h1>Ski Dubai</h1>
-         <h2>Mall of the Emirates, Dubai</h2>
+         <h1>Skydive Dubai</h1>
+         <h2>Dubai</h2>
 
-         <p class="wrap"> Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          Velit officia consequat duis enim velit mollit. </p>
+         <p class="wrap"> Skydive Dubai is the top skydiving company located in Mina Seyahi, next to Jumeirah beach. Witness the ambience of Dubai from the sky & slash the dream of skydiving from your bucket list.</p>
 
           <a href="#">EXPLORE</a>
 
@@ -531,12 +539,12 @@
          <a class="restaurants first-res">  
              <!-- added a container so the images can be slighlty dimmed -->
               <div class="img-holder first-img"> 
-                <img src="images/dine-images/kite-beach.png">
+                <img src="images/ras al khaimah/rakdin1H.jpg">
               </div>
 
               <div class="resto-desc">
-                <h1>Kite Beach Center Restaurant & Café</h1>
-                <h2>Umm al Quwain</h2>
+                <h1>Waldorf Astoria</h1>
+                <h2>Ras Al Khaimah</h2>
               </div>
           </a>
 
@@ -545,12 +553,12 @@
           <a class="restaurants" href="#">
 
               <div class="img-holder"> 
-                <img src="images/dine-images/das-brahaus.png">
+                <img src="images/dubai/dxbdin5D.jpg">
               </div>
 
              <div class="resto-desc">
-                <h1>Das Brauhaus</h1>
-                <h2>Umm al Quwain</h2>
+                <h1>Catch22</h1>
+                <h2>Dubai</h2>
              </div>
           </a>
 
@@ -558,12 +566,12 @@
 
           <a class="restaurants" href="#">
               <div class="img-holder"> 
-                <img src="images/dine-images/das-brahaus.png">
+                <img src="images/abu dhabi/auhdin1B.jpg">
               </div>
 
               <div class="resto-desc">
-                <h1>Das Brauhaus</h1>
-                <h2>Umm al Quwain</h2>
+                <h1>Observation Deck at 300</h1>
+                <h2>Abu Dhabi</h2>
              </div>
          </a>
 
@@ -577,7 +585,7 @@
               </div>
 
              <div class="resto-desc">
-               <h1>Das Brauhaus</h1>
+               <h1>Backwaters</h1>
                <h2>Umm al Quwain</h2>
              </div>
          </a>
@@ -587,15 +595,26 @@
           <a class="restaurants" href="#">
 
               <div class="img-holder"> 
-                <img src="images/dine-images/das-brahaus.png">
+                <img src="images/ras al khaimah/rakdin5C.jpg">
               </div>
 
              <div class="resto-desc">
-               <h1>Das Brauhaus</h1>
-               <h2>Umm al Quwain</h2>
+               <h1>Piaceri Da Gustare</h1>
+               <h2>Ras Al Khaimah</h2>
              </div>
            </a>
 
+          <a class="restaurants" href="#">
+
+              <div class="img-holder"> 
+                <img src="images/fujairah/bookstore.JPG">
+              </div>
+
+             <div class="resto-desc">
+               <h1>The Bookstore</h1>
+               <h2>Fujairah</h2>
+             </div>
+           </a>
 
     </div>
 
