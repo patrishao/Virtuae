@@ -64,7 +64,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ad_bg.jpg" alt="" srcset="">
+                <img src="images/dubai/Dubai-Opera-House.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -82,7 +82,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -100,7 +100,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/dubai/legolanf.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -118,7 +118,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/dubai/Dubai-Festival-City-Mall-1-1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -136,7 +136,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/dubai/dancers-bollywood-park-dubai.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
