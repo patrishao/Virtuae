@@ -29,7 +29,7 @@
             <div class="another-container">
                 <h1 class="title1"> Dragon's Place </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
-                <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
+                <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
     </div>
     </div>
@@ -484,25 +484,71 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
+
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
 
         </div>

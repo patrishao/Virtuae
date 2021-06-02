@@ -29,7 +29,7 @@
             <div class="another-container">
                 <h1 class="title1"> Aqua Bounce </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
-                <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
+                <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
     </div>
@@ -548,25 +548,73 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
+            <div class="img-media">
+            <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+            
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+            
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+        
         </div>
+
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
+
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
+            <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" />
+            <p> wowie a description! </p>
+            </div>
+
         </div>
 
         </div>
