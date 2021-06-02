@@ -74,22 +74,19 @@
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> <br>
-                <br>
-                <br>
+                <p class="info-description"> 
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
                     lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
                     At risus viverra adipiscing at in.
-                    <br>
-                    <br>
+                    <br> 
                     <br>
                  </p>
                    
-                    <h2 class="info-title"> History </h2> <!-- history -->
-                   <p class="info-description"> 
-                   <br>
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                   <p class="info-description1"> 
                    Lorem ipsum dolor sit amet, conconsectetur adipiscing elit, sed do eiusmod tempor 
                     incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
                     sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
