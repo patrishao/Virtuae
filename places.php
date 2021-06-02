@@ -13,7 +13,18 @@
 </head>
 <body>
     <div id="navbar"> 
-        <?php include 'includes/headers-edit.php';?>
+            <?php 
+
+            include 'includes/database.php';
+            include 'includes/fetchdata.php' ;
+            include 'includes/headers-edit.php';
+
+            //$pageName = "name of the page"; 
+
+            //like;
+            $pageName = "places"; 
+
+            ?>
     </div>
     
     <!-- TITLE -->
@@ -493,64 +504,81 @@
 
     <!-- -->
     
-    <!-- COMMENTS -->
-    <h2 class="review-title">REVIEWS</h2>
-  
-    <div class="review-container" id="review-container">
+        <!-- COMMENTS -->
+
+        <h2 class="review-title">REVIEWS</h2>
+
+        <script src="javascript/alerts.js"> </script>
+
+
+        <div class="review-container" id="review-container">
         
-        <div class="user-review">
-       
-            <div class="main-review review"> 
-                <div class="r-box main-box">
-                <div class="user">Avery Angel <div class="dot"></div>
-                <span class="date">Apr 01 2012</span></div>
-                <div class="review-content">
-                    I am placeholder review, I am reviewing the placeholder
-                    and the place is very holding.
+            <div class="user-review">
+        
+            <?php 
+            
+                    // fetching all the data from this certain page
+                    $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+                    $query .= "ORDER BY comment_id DESC";
+                    $select_customers = mysqli_query($connection, $query);
+            
+                        while($row = mysqli_fetch_assoc($select_customers)){
+                            $comment_id = $row['comment_id'];
+                            $comment_page = $row['comment_page'];
+                            $comment_date = $row['comment_date'];
+                            $comment_author = $row['comment_author'];
+                            $comment_email = $row['comment_email'];
+                            $comment_contents = $row['comment_contents'];
+            ?>
 
+
+                <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
+                <div class="main-review review"> 
+                    <div class="r-box main-box">
+                        <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                        <span class="date">  <?php  echo $comment_date?> </span></div>
+                        <div class="review-content"> <?php  echo $comment_contents?> </div>
+                    </div>
                 </div>
-                <a class="reply-btn" onClick="reply()"><img src="images/reply.png"/>Reply</a>
+
+
+                <?php } ?>
+                <!-- closing the while loop -->
+        
                 
-                </div>
-            </div>
-
-            <div class="review-replies review">
-                <div class="line-r"></div>
-                <div class="r-box reply-box">
-                <div class="user">Avery Angel <div class="dot"></div>
-                <span class="date">Apr 01 2012</span></div>
-                <div class="review-content">
-                    I am placeholder review, I am reviewing the placeholder
-                    and the place is very holding.
-
-                </div>
-                <a class="reply-btn" onClick="reply()"><img src="images/reply.png"/>Reply</a>
-
-   
-
-                </div>
             </div>
             
         </div>
-    </div>
-    
-        <!-- replying function -->
 
-    <div class="reply-function" id="reply-function">
-        <h3 class="rep-to">reply:</h3>
-            <input class="form-control" placeholder="add a reply"></input>
-        <button class="rep btn">reply</button>
-        <button class="cancel btn" onClick="closeReply()">cancel</button>
+        <!-- including the other php file that handles the form -->
+        <?php  include 'includes/comments.php' ?>
+
+        <form class="wr-container" id="wr-container" method="post" action="">
+            
+            <div class="write-review">
+
+                <!-- getting the name of whoever posted the comment -->
+                <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
+
+                <!-- hidden values to get the user's who's logged -->
+                <input type="hidden" name="email" value=" <?php echo $email ?>  " >
+
+                <!-- getting the page name to know where is the user commenting -->
+                <input type="hidden" name="page" value="<?php echo $pageName?>" >
+
+
+
+            <!-- adding a review -->
+            <input type="text" name="review"  class="form-control" placeholder="Add a review..."></input>
+
+            </div>
+
+            <!-- buttons to send  -->
+            <input type="submit" class="post btn" value="Post" name="post">
+            <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+
         </div>
-
-    <div class="wr-container" id="wr-container">
-    <div class="write-review">
-        <input class="form-control" placeholder="add a review"></input>
-    </div>
-    <button class="post btn">post</button>
-        <button class="cancel btn">cancel</button>
-    </div>
-    </div>
+        </form>
 
 
     <!-- -->
