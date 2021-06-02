@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Ajman Museum</title>
+    <title>Safi Steakhouse</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -21,13 +21,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Ajman Museum </h1> <!-- title -->
+                <h1 class="title1"> Safi Steakhouse </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
         </div>
@@ -37,7 +37,6 @@
     <div class="wrapper3"> <!-- not to be touched -->
         <div class="categories">
                 <div class="box" onClick="history()"><a>INFO</a></div>
-                <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
                 <div class="box" onClick="timings()"><a>TIMINGS</a></div>
                 <div class="box" onClick="events()"><a>EVENTS</a></div>
                 <div class="box" onClick="vt()"><a>VIRTUAL TOUR</a></div>
@@ -59,42 +58,38 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Ajman Museum.docx"> 
+                    <a href="download\Ajman\Dine\Safi Steakhouse.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> The Ajman Museum is a museum located in the city of Ajman, United Arab Emirates. Ajman 
-                    Museum includes several sections that offer a compelling glimpse of Ajman's past, including archaeology, manuscripts, 
-                    folk costumes, souvenirs, and more. The museum displays are annotated in both Arabic and English. 
+                <p class="info-description"> Safi Restaurant & Bar features stunning, panoramic views of the pool, gardens 
+                    and the Arabian Gulf. Our steakhouse offers delectable seafood and steaks, which are complemented 
+                    by pan-Asian cuisine.
                     
                     <br>
                     <br>
 
-                    It is housed in an 18th-century fortress that was used as a stronghold for the Emirates leadership and as the first 
-                    line of defense. Earlier it was the ruler's palace and then it was converted as the Ajman police station. When the 
-                    fort was renovated two wind towers and two watchtowers were maintained. A massive gate and two cannons can be seen 
-                    on the front of the fort. The museum tells about the local history and heritage, the place highlights various aspects 
-                    of the past. The Ajman Museum with displays of lifestyle and traditional professions includes a huge collection of 
-                    archeological artifacts, manuscripts, and old weapons as well as displays of medical and religious practices are on 
-                    display. 
+                    During a staycation at the Ajman Saray, their Safi Restaurant which was once a fabulous place to dine on steaks, 
+                    and now converted into a daily outdoor dining restaurant was our afternoon lunch stop. Very limited menu, so if 
+                    you are not an inhouse guest I would suggest to not visit. 
 
                     <br>
                     <br>
                     
-                    One of the most famous displays is an excavated cemetery discovered in the Al Muwaihat area, which features pottery 
-                    and funeral jewellery dating back as far as 3000 BC. This was a former fishing village, Ajman also relied heavily on 
-                    pearl fishing and there is a section specifically devoted to what was once one of the most important pastimes in the region.
+                    Best part was relaxing in the January afternoon sun, with a Carlsberg in your hand! Unwind in chic sophistication 
+                    while enjoying panoramic views of the pool, gardens and the Arabian Gulf at Safi. The menu features delectable 
+                    cut of meat, freshly prepared on demand according to guest's preferences.
               
                     </p>
             </div>
@@ -102,54 +97,6 @@
          </div>
         </div>
         </div>
-
-
-
-        <!-- WHAT TO DO -->
-        <div class="wtd-container" id="wtd-container">
-        <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
-        </div>
-        <div class="scroller-area">
-
-            
-            <div class="contents-box">
-                <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort 
-                    served as the ruler’s residence until 1970, before it was converted into a museum a decade later.
-                    You’ll find the museum on the east side of the central square in the Al Bustan area. 
-                </p>
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg"/>
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Exhibits </h2>
-                <p class="contents-desc">
-                The exhibits offer a compelling glimpse of Ajman’s past, from centuries-old manuscripts and weaponry to 
-                models of wooden dhows and ingenious irrigation systems. </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> History </h2>
-                <p class="contents-desc"> One of the most notable displays is an excavated cemetery discovered 
-                    in the Al Muwaihat area, which features pottery and funeral jewellery dating back as 
-                    far as 3000 BC.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            </div>
-        </div>
-        <!-- -->
 
         <!-- TIMINGS -->
 
@@ -437,7 +384,7 @@
                     <div class="e-date">
                         <div class="e-month"> DEC </div> <!-- month -->
                         <div class="e-number"> 15 </div> <!-- date -->
-                    </div>
+                    </div>+-
                     <div class="name-event"> <p class="en-adjusting">Dubai Shopping Festival</p></div> <!-- name of the event -->
                 </div>
 
@@ -466,7 +413,7 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.966576227109!2d55.4456037!3d25.4134573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x562a16a1ef84dd73!2sAjman%20Museum!5e0!3m2!1sen!2sae!4v1622591972077!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.088816377573!2d55.4413016!3d25.4207994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92ffc01e6b7ab79e!2sSAFI!5e0!3m2!1sen!2sae!4v1622596772891!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -538,25 +485,25 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="fiximg" /></div>
         </div>
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3H.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="fiximg" /></div>>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1H.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="fiximg" /></div>
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="fiximg" /></div>
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="fiximg" /></div>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1G.jpg" class="fiximg" /></div>
         </div>
 
         </div>
@@ -577,37 +524,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6:00 PM - 11:30 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6:00 PM - 11:30 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6:00 PM - 11:30 PM ');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6:00 PM - 11:30 PM ');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6:00 PM - 11:30 PM ');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 6:00 PM - 11:30 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 12:30 PM - 10:30 PM '); //so put the timings here
    
         }
 
