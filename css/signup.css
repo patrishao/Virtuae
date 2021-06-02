@@ -8,9 +8,10 @@ body{
 }
 
 
-/* image on the left */
+/* image & title of the page */
 
-.image-container{
+
+.image-container{ /*positioned all contents at left*/
     float: left;
     position: relative;
 }
@@ -18,12 +19,12 @@ body{
 
 .image{
     width: 70%;
-    height: 125vh;
+    height: 116vh;
     vertical-align: top;
 
 }
 
-
+/* positioning logo at center */
 .logo{
     position: absolute;
     top: 27%;
@@ -61,13 +62,6 @@ h1{
 
 }
 
-
-/* .container .title-holder{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
 /* whole forms */
 
 .container{ 
@@ -94,7 +88,7 @@ h1{
 }
 
 
-/* email n password form */
+/* email n password field */
 .form .email, input[type=password]{
     outline: none;
     width: 95%;
@@ -106,6 +100,7 @@ h1{
     font-size: 24px;
 }
 
+/* first and last name field */
 .form .fl-name {
     outline: none;
     width: 45%;
@@ -119,15 +114,13 @@ h1{
 }
     
 
-/* style the classes that doesnt have the name "names" */
 
-
-
-
+/* placeholder of fields*/
 ::placeholder{
     color: #C4C4C4;
 }
 
+/* button (Register now) */
 input[type=submit] {
     padding: 20px 80px;
     background-color: #101823;
@@ -140,14 +133,14 @@ input[type=submit] {
     margin-top: 20px;
 }
 
-
+/* positioning it at center */
 .button{
     display: flex;
     justify-content: center;
     margin-top: 40px;
 }
 
-
+/* hover of button */
 input[type=submit]:hover{
     background-color:  #90893E;
 }
@@ -216,17 +209,17 @@ input[type=submit]:hover{
    display: flex;
    justify-content: flex-end;
     margin-top: 20px;
-    top: 105%;
+    top: 103%;
 }
 
 /* added spacing between sign up */
 .sign-up {
-    color: #C4C4C4;
+    color: black;
 }
 
 .signup-link{
     padding-left: 5px;
-    color: #101823;
+    color: #303949cb;
     text-decoration: none;
     margin-top: 16px;
 }
@@ -652,6 +645,8 @@ h5{
 
     .form .email, input[type=password]{
         border-bottom: 2px solid white;
+        color: white;
+        font-size: 18px;
     }
 
 
@@ -663,6 +658,8 @@ h5{
     .form .fl-name {
         border-bottom: 2px solid white;
         width: 95%;
+        color: white;
+        font-size: 18px;
     }
 
     
