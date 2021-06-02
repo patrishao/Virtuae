@@ -62,25 +62,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
-            </div>
-            <div class="cardContent">
-                <div class="contents">
-                    <div class="contentTitle">
-                        <h3>Kalba Corniche Park</h3>
-                        <h4>Fujairah</h4>
-                    </div>
-                    <p>The park is recognised as an ideal picnic and barbeque spot among tourists and a number of families. The park also has an open playground for children and access to a beach, but this is not ideal for swimming.</p>
-                    <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--  -->
-        <div class="card">
-            <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/Shark-Island-Khorfakkan-1-scaled.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -98,7 +80,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/snoopy.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -113,8 +95,24 @@
                 </div>
             </div>
             </div>
-
-            
+        <!--  -->
+        <div class="card">
+            <div class="imgCard">
+                <img src="images/fujairah/kalba.JPG" alt="" srcset="">
+            </div>
+            <div class="cardContent">
+                <div class="contents">
+                    <div class="contentTitle">
+                        <h3>Kalba Corniche Park</h3>
+                        <h4>Fujairah</h4>
+                    </div>
+                    <p>The park is recognised as an ideal picnic and barbeque spot among tourists and a number of families. The park also has an open playground for children and access to a beach, but this is not ideal for swimming.</p>
+                    <div class="cardButton">
+                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                    </div>
+                </div>
+            </div>
+        </div>            
         </div>
 
         <div class="wrapCateg acc-tabs" id="dine" style="display: none;">
@@ -124,7 +122,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/fujairah/orangery.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -142,7 +140,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/almeshwar.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -160,7 +158,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/bookstore.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -178,7 +176,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/hooked.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -196,7 +194,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/crepes.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -221,7 +219,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ajm_bg.jpg" alt="" srcset="">
+                <img src="images/fujairah/alaqahbeach.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -239,7 +237,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/fujairah/snoopy.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -257,7 +255,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/Shark-Island-Khorfakkan-1-scaled.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -275,7 +273,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/fujmuseum.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -299,7 +297,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/alhayl.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -317,7 +315,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/snoopy.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -335,7 +333,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/fort.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -359,7 +357,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/rak_bg (2).jpg" alt="" srcset="">
+                <img src="images/fujairah/fort.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -377,7 +375,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/fujairah/alaqahbeach.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -395,7 +393,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/bitnahfort.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -413,7 +411,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/alhayl.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -431,7 +429,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/fridaymarket.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -454,7 +452,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/albidyah.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -472,7 +470,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/fujairah/sheikhzayed.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
