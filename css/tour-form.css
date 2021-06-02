@@ -290,9 +290,9 @@
     .container{
         border: 1px black;
         width: 880px;
-        height: 8in;
-        background-color: burlywood;
-        margin-top: 1.1in;
+        height: 7in;
+        background-color: white;
+        margin-top: 1.2in;
         margin-left: auto;
         margin-right: auto;
     }
@@ -313,28 +313,28 @@
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 11px;
+        font-size: 12px;
     
         color: #252525;
     }
     .lname-label{
         position: relative;
         display: inline-block;
-        margin-left: 422px;
+        margin-left: 407px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 11px;
+        font-size: 12px;
     
         color: #252525;
     }
     .first-name{
         outline: none;
         position: relative;
-        height: 40px;
-        width: 400px;
-        margin-top: 3px;
+        height: 35px;
+        width: 410px;
+        margin-top: -10px;
         box-sizing: border-box;
         padding: 17px;
         border: 2px solid #252525;
@@ -345,9 +345,9 @@
     .last-name{
         outline: none;
         position: relative;
-        height: 40px;
-        width: 400px;
-        margin-left: 480px;
+        height: 35px;
+        width: 410px;
+        margin-left: 470px;
         margin-top: -40px;
         box-sizing: border-box;
         padding: 17px;
@@ -378,21 +378,21 @@
     .time{
         outline: none;
         position: relative;
-        height: 30px;
-        width: 400px;
+        height: 35px;
+        width: 410px;
         margin-top: -10px;
         box-sizing: border-box;
         padding: 17px;
         border: 2px solid #252525;
         border-radius: 10px;
         font-family: 'Karla', sans-serif;
-        font-size: 14px;
+        font-size: 15px;
     }
 
     .date-label{
         position: relative;
         display: inline-block;
-        margin-left: 475px;
+        margin-left: 440px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
@@ -404,33 +404,31 @@
     .date{
         outline: none;
         position: relative;
-        height: 30px;
-        width: 400px;
-        margin-left: 480px;
-        margin-top: -38px;
+        height: 35px;
+        width: 410px;
+        margin-left: 470px;
         box-sizing: border-box;
         padding: 17px;
         border: 2px solid #252525;
         border-radius: 10px;
         font-family: 'Karla', sans-serif;
-        font-size: 14px;
+        font-size: 15px;
     }
         
     .forms3{
         display: flex;
         display: inline-block;
-        margin-top: 10px;
+        margin-top: 14px;
         justify-content: center;
     }   
     .tour-label{
         position: relative;
         height: 18px;
-        margin-top: 40px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 11px;
+        font-size: 12px;
     
         color: #252525;
     }
@@ -439,7 +437,7 @@
         position: relative;
         height: 38px;
         width: 880px;
-        margin-top: 3px;
+        margin-top: 5px;
         border-radius: 10px;
         font-family: 'Karla', sans-serif;
         font-size: 15px;
@@ -473,12 +471,12 @@
     .inquire-label{
         position: relative;
         height: 18px;
-        margin-top: 40px;
+        margin-top: 20px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
         font-weight: normal;
-        font-size: 11px;
+        font-size: 12px;
     
         color: #252525;
     }
@@ -487,7 +485,7 @@
         position: relative;
         height: 100px;
         width: 880px;
-        margin-top: 3px;
+        margin-top: -10px;
         box-sizing: border-box;
         padding: 17px;
         border: 2px solid #252525;
@@ -499,13 +497,13 @@
         
     .save-changes{
         position: relative;
-        margin-left: 450px;
-        margin-top: 0.6in;
+        margin-left: 310px;
+        margin-top: 0.3in;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 148px;
+        width: 100px;
         height: 40px;
         font-size: 16px;
         text-align: center;
@@ -522,12 +520,12 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 640px;
+        margin-left: 470px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 148px;
+        width: 100px;
         height: 40px;
         font-size: 16px;
         text-align: center;
@@ -543,7 +541,7 @@
     }
 }
 
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     body{
         margin:0;
         font-family: 'Karla';
@@ -556,95 +554,16 @@
 
     .container{
         border: 1px black;
-        width: 5in;
-        height: 7.5in;
+        width: 840px;
+        height: 6in;
         background-color: white;
-        margin-left: 0.7in;
-        margin-top: 0.5in;
+        margin-top: 1.2in;
+        margin-left: auto;
+        margin-right: auto;
     }
 
-    .user-details{
-        position: relative;
-        display: flex;
-        align-items: center;
-        margin-left: 250px;
-    }
-    .prof-pic{
-        border-radius: 50%;
-        width: 120px;
-        height: 120px;
-        position: relative;
-        margin-left: 5px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -235px;
-        margin-top: 110px;
-        width: 13px;
-        height: 13px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }   
-    .edit{
-        position: relative;
-        margin-top: -1px;
-        margin-left: -1px;
-        width: 15px;
-        height: auto;
-    }
-    .descs{
-        display: flex;
-        flex-direction: column;
-    }
-    .name{
-        position: relative;
-        margin-left: 40px;
-        margin-top: 60px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 22px;
-    
-        color: #252525;
-    }
-    .email{
-        position: relative;
-        height: 29px;
-        margin-left: 40px;
-        margin-top: 1px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 16px;
-    
-        color: #252525;
-    }
-    .location-img{
-        position: relative;
-        width: auto;
-        height: 12.5px;
-        padding-right: 3px;
-    }
-    .location{
-        position: relative;
-        margin-top: 10px;
-        margin-left: 40px;
-    
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 16px;
-        color: #252525;
-    }
-        
     h1{
         position: relative;
-        margin-left: 0px;
-        margin-top: -110px;
     
         font-family: 'Montserrat', sans-serif;
         font-style: normal;
@@ -654,47 +573,19 @@
         color: #252525;
     }    
     
-    h2{
-        position: relative;
-        height: 28px;
-        margin-left: 0px;
-        margin-top: 150px;
-        padding-bottom: 8px;
-        
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: bold;
-        font-size: 19px;
-        
-        color: #252525;
-    }   
-    .acc-s{
-        position: relative;
-        margin-left: 0px;
-    
-        cursor: pointer;
-        text-decoration: none;
-        font-family: 'Karla', sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 19px;
-        color: #252525;
-    }
-    
     .forms{
         display: grid;
     }
+
     .forms1{
         display: flex;
         display: inline-block;
-        margin-top: -10px;
+        margin-top: 20px;
     }
-
     .name-label{
         position: relative;
         display: inline-block;
         height: 18px;
-        margin-left: 260px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
@@ -706,7 +597,7 @@
     .lname-label{
         position: relative;
         display: inline-block;
-        margin-left: 250px;
+        margin-left: 393px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
@@ -719,9 +610,8 @@
         outline: none;
         position: relative;
         height: 30px;
-        width: 260px;
-        margin-left: 260px;
-        margin-top: 2px;
+        width: 390px;
+        margin-top: -9px;
         box-sizing: border-box;
         padding: 16px;
         border: 2px solid #252525;
@@ -733,9 +623,9 @@
         outline: none;
         position: relative;
         height: 30px;
-        width: 260px;
-        margin-left: 568px;
-        margin-top: -37px;
+        width: 390px;
+        margin-left: 450px;
+        margin-top: -36.2px;
         box-sizing: border-box;
         padding: 16px;
         border: 2px solid #252525;
@@ -744,11 +634,73 @@
         font-size: 14px;
     }
         
+    .forms2{
+        display: flex;
+        display: inline-block;
+        margin-top: 5px;
+    }
+    .time-label{
+        position: relative;
+        display: inline-block;
+        height: 18px;
+        margin-top: -20px;
+    
+        font-family: 'Karla', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+    
+        color: #252525;
+    }
+    .time{
+        outline: none;
+        position: relative;
+        height: 30px;
+        width: 390px;
+        margin-top: -10px;
+        box-sizing: border-box;
+        padding: 17px;
+        border: 2px solid #252525;
+        border-radius: 8px;
+        font-family: 'Karla', sans-serif;
+        font-size: 14px;
+    }
+
+    .date-label{
+        position: relative;
+        display: inline-block;
+        margin-left: 423px;
+    
+        font-family: 'Karla', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+    
+        color: #252525;
+    }
+    .date{
+        outline: none;
+        position: relative;
+        height: 30px;
+        width: 390px;
+        margin-left: 450px;
+        box-sizing: border-box;
+        padding: 17px;
+        border: 2px solid #252525;
+        border-radius: 8px;
+        font-family: 'Karla', sans-serif;
+        font-size: 14px;
+    }
+        
+    .forms3{
+        display: flex;
+        display: inline-block;
+        margin-top: 14px;
+        justify-content: center;
+    }   
     .tour-label{
         position: relative;
         height: 18px;
-        margin-left: 260px;
-        margin-top: 30px;
     
         font-family: 'Karla', sans-serif;
         font-style: normal;
@@ -760,22 +712,42 @@
     .tour-loc{
         outline: none;
         position: relative;
-        height: 30px;
-        width: 570px;
-        margin-left: 260px;
-        margin-top: 3px;
-        box-sizing: border-box;
-        padding: 16px;
-        border: 2px solid #252525;
+        height: 38px;
+        width: 840px;
+        margin-top: 5px;
         border-radius: 8px;
         font-family: 'Karla', sans-serif;
         font-size: 14px;
+    }
+    select{
+        width: 100%;
+        height: 100%;
+        font-family: 'Karla', sans-serif;
+        font-size: 15px;
+        text-decoration: none;
+        border-radius: 8px;
+        border: 2px solid #252525;
+        padding-left: 12px;
+        padding-right: 12px;
+        outline: none;
+        cursor: pointer;
+    }
+    select::-webkit-scrollbar {
+        width: 13px;
+    }
+    select::-webkit-scrollbar-track {
+        background: #f1f1f1; 
+    }
+    select::-webkit-scrollbar-thumb {
+        background: #888; 
+    }
+    select::-webkit-scrollbar-thumb:hover {
+        background: #555; 
     }
     
     .inquire-label{
         position: relative;
         height: 18px;
-        margin-left: 260px;
         margin-top: 30px;
     
         font-family: 'Karla', sans-serif;
@@ -788,10 +760,9 @@
     .inquire{
         outline: none;
         position: relative;
-        height: 30px;
-        width: 570px;
-        margin-left: 260px;
-        margin-top: 3px;
+        height: 90px;
+        width: 840px;
+        margin-top: -8px;
         box-sizing: border-box;
         padding: 16px;
         border: 2px solid #252525;
@@ -802,13 +773,13 @@
         
     .save-changes{
         position: relative;
-        margin-left: 380px;
+        margin-left: 290px;
         margin-top: 0.5in;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 148px;
+        width: 100px;
         height: 40px;
         font-size: 16px;
         text-align: center;
@@ -825,12 +796,12 @@
         
     .delete-acc{
         position: relative;
-        margin-left: 565px;
+        margin-left: 446px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
         background-color: #90893E;
-        width: 148px;
+        width: 100px;
         height: 40px;
         font-size: 16px;
         text-align: center;
@@ -846,7 +817,7 @@
     }
 }
 
-@media screen and (max-width: 972px) {
+/* @media screen and (max-width: 972px) {
     body{
         margin:0;
         font-family: 'Karla';
