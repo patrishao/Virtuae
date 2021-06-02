@@ -90,7 +90,7 @@
                     Best part was relaxing in the January afternoon sun, with a Carlsberg in your hand! Unwind in chic sophistication 
                     while enjoying panoramic views of the pool, gardens and the Arabian Gulf at Safi. The menu features delectable 
                     cut of meat, freshly prepared on demand according to guest's preferences.
-              
+
                     </p>
             </div>
             
@@ -486,67 +486,67 @@
 
         <div class="row row1">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in the restaurant </p>
             </div>
 
         </div>
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Pictures hanged within the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1H.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Table with drinks in the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Pictures hanged within the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Safi Steakhouse\ajmdin1G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior within Safi Steakhouse </p>
             </div>
 
         </div>

@@ -79,19 +79,23 @@
 
                     <br>
                     <br>
-
-                    The community like most of the UAE has a multi-cultural population. The overall neighbourhood is vibrant and you will not feel 
-                    secluded. There are plenty of venues within walking distance such as restaurants, spas, gyms, schools and malls. There are some 
-                    buildings on Corniche Ajman that are under construction, while many are already completed and ready for investment or rentals. 
-                    Here, you will find 1, 2 and 3 bedrooms apartments.
-
-                    <br>
-                    <br>
                     
                     To date, Ajman Corniche is one of the best off-plan projects in the emirate 
                     that interested investors may want to consider.Situated along the northwestern shore of the emirate, the Corniche road (or Sheikh 
                     Humaid bin Rashid Al Nuaimi Street) stretches from the roundabout just after Coral Beach Resort Sharjah to the five-star Kempinski Hotel Ajman.
               
+                    <br>
+                    <br>
+
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                    <p class="info-description1"> 
+
+                    Ajman’s rich cultural heritage and customs are the result of thousands of years of varying influences. The emirate’s human history can be 
+                    traced back to around 3000 BC following excavations at archaeological sites around the region. Discoveries from an ancient burial site found 
+                    at Muwaihat in 1986 are housed at Ajman Museum and include distinctive clay pottery, the influence of which can still be seen in the style 
+                    of pottery produced in modern-day Ajman.
+
                     </p>
             </div>
             
@@ -536,67 +540,67 @@
 
         <div class="row row1">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The road by Ajman Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Scooters for the public to use in Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People strolling in Ajman Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The sidewalk of Ajman Corniche at night </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People having a conversation </p>
             </div>
 
         </div>
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Ajman Corniche at night time </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People strolling in Ajman Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4H.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> High-rise buildings in Ajman Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4A.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The road by Ajman Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4B.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Scooters for the public to use in Corniche </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4C.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People strolling in Ajman Corniche </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4D.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The sidewalk of Ajman Corniche at night </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4E.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People having a conversation </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4F.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Ajman Corniche at night time </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Corniche\ajment4G.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People strolling in Ajman Corniche </p>
             </div>
 
         </div>

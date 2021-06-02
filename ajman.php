@@ -172,7 +172,7 @@
                     </div>
                     <p>Unwind in chic sophistication while enjoying panoramic views of the pool, gardens and the Arabian Gulf at Safi. The menu features delectable cut of meat, freshly prepared on demand according to guest's preferences.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-din1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
                     </div>
                     <p>Wondering where to brunch this season? Cafe Naseem is the place and this is why it is - a lavish international buffet spread, live cooking stations, seating facing the beach and live music - perfect enough for a laid-back brunch.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-din2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -208,7 +208,7 @@
                     </div>
                     <p>Bab Al Bahar it's a beach bar located in 5* hotel Ajman Palace. It got a nice see view, simple but accurate decor. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-din3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -226,7 +226,7 @@
                     </div>
                     <p>Bringing the best taste to your parties and gatherings. Our catering service is available for your parties and gathering anywhere in the UAE. With an exquisite menu of phenomenal tastes and textures...  </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-din5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -244,7 +244,7 @@
                     </div>
                     <p>Dragon's Place is a smart casual and contemporary restaurant, featuring a sushi bar, private Teppanyaki dining table, and two private washitsu rooms with low floor seating. It is the place where you can enjoy...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-din4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -269,7 +269,7 @@
                     </div>
                     <p>It’s a fun way to get in some serious exercise – the bouncy assault course also provides a test on scrambler’s stamina, balance and motor-skills. With obstacles providing challenges for a range of abilities...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
                     </div>
                     <p>At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. It is one of the most popular places to visit...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -305,7 +305,7 @@
                     </div>
                     <p>Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort served as the ruler’s residence until 1970, before it was converted into a museum a decade later.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -323,7 +323,7 @@
                     </div>
                     <p>Lined with cafés and restaurants, the Corniche is a four-kilometre-long esplanade overlooking the Arabian Gulf. Much of the emirate’s social activities and events are centred on this area. Situated along the...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>

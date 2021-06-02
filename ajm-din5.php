@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Bab Al Bahr</title>
+    <title>Danial Restaurant</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -21,13 +21,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3A.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Bab Al Bahr </h1> <!-- title -->
+                <h1 class="title1"> Danial Restaurant </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -58,37 +58,37 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Dine\Bab Al Bahr.docx"> 
+                    <a href="download\Ajman\Dine\Dragon.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Bab Al Bahar it's a beach bar located in 5* hotel Ajman Palace. 
-                    It got a nice see view, simple but accurate decor. 
+                <p class="info-description"> Welcome to Dragon's Palace, where we specialize in Szechuan and Cantonese style Chinese food. 
+                You can find all your favorite Chinese food selections, General Tsao's Chicken, Sweet & Sour and much more. Find us a 8576 
+                E Broadway Blvd, near S Camino Seco. Next to Walmart Neighborhood Market and four minutes away from Broadway Plaza. Order 
+                online now for carryout and delivery.
                     <br>
                     <br>
 
-                    Escape the ordinary and embark on a coastal chic experience at the newly revamped - Bab Al Bahr. 
-                    Renowned for their signature dishes that focus on meats and seafood along with a wide selection of 
-                    fully crafted beverages that perfectly complement each other, this casual-upscale culinary destination is bound to become your new favorite hotspot to socialize, relax and unwind in style.
+                    A restaurant that serves Asian Cuisine and Luxury Dining, Dragon's Place is a smart casual and contemporary restaurant, 
+                    featuring a sushi bar, private Teppanyaki dining table, and two private washitsu rooms with low floor seating. It is the 
+                    place where you can enjoy the finest Asian fusion delicacies with highlights of the Japanese and Thai cuisines.
 
                     <br>
                     <br>
                     
-                    Travel in flavours every Sunday, Tuesday and Thursday at Cafe Naseem. In Sundays: Dinner Theme Nights: Arabic Culinary 
-                    Nights - AED 195 per person including soft beverages. For Tuesdays: Dinner Theme Nights: Asian Culinary Nights - AED 
-                    195 per person including soft beverages. And lastly, for for Thursdays, Dinner Theme Nights: Mexican Culinary Nights  
-                    - AED 195 per person including soft beverages.
+                    If you’re a fan of Asian food and culture, this is the place to be! Dragon’s Place is a smart casual and contemporary restaurant, 
+                    featuring a sushi bar, private Teppanyaki dining table, and two private washitsu rooms with low floor seating.
               
                     </p>
             </div>
@@ -412,7 +412,7 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3401.2561993821996!2d55.440811467975614!3d25.421362623563382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb61463385664a42b!2sBab%20Al%20Bahr%20Beach%20Bar%20%26%20Grill!5e0!3m2!1sen!2sae!4v1622623665828!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.478057795814!2d55.4390456!3d25.4175438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe6ec22786790d70a!2sDragon&#39;s%20Place!5e0!3m2!1sen!2sae!4v1622628456395!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -484,68 +484,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3A.jpg" class="fiximg" />
-            <p> Interior of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
+            <p> Tables in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3B.jpg" class="fiximg" />
-            <p> The view outside of the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
+            <p> Interior of the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3C.jpg" class="fiximg" />
-            <p> The view outside the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
+            <p> Tables in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3D.jpg" class="fiximg" />
-            <p> Outside tables of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3E.jpg" class="fiximg" />
-            <p> Restaurant's overview </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
         </div>
+
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3F.jpg" class="fiximg" />
-            <p> Selection of Food in Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
+            <p> Exterior of the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3G.jpg" class="fiximg" />
-            <p> Plate of food from the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3H.jpg" class="fiximg" />
-            <p> Selection of Food in Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3A.jpg" class="fiximg" />
-            <p> Interior of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
+            <p> Tables in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3B.jpg" class="fiximg" />
-            <p> The view outside of the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
+            <p> Interior of the restaurant </p>
             </div>
 
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3C.jpg" class="fiximg" />
-            <p> The view outside the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
+            <p> Tables in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3D.jpg" class="fiximg" />
-            <p> Outside tables of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3E.jpg" class="fiximg" />
-            <p> Restaurant's overview </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3F.jpg" class="fiximg" />
-            <p> Selection of Food in Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
+            <p> Exterior of the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3G.jpg" class="fiximg" />
-            <p> Plate of food from the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
+            <p> Food served in Dragon's Palace </p>
             </div>
 
         </div>
@@ -568,38 +569,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( '12:30 PM – 3:00 PM 7:00 PM – 11:30 PM' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( '12:30 PM – 3:00 PM 7:00 PM – 11:30 PM' ); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( '12:30 PM – 3:00 PM 7:00 PM – 11:30 PM' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( '12:30 PM – 3:00 PM 7:00 PM – 11:30 PM' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html(' 1:00 PM – 11:30 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html(' 1:00 PM – 11:30 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30s PM - 10:00 PM');  //so put the timings here
-   
+            $('#t-time').html(' 1:00 PM – 11:30 PM ');  //so put the timings here
         }
 
         //reply function

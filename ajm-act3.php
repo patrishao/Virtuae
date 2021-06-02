@@ -21,9 +21,9 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="picture" /></div>
                         <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
@@ -80,6 +80,17 @@
                     
                     <br>
                     <br>
+                    
+                    One of the most famous displays is an excavated cemetery discovered in the Al Muwaihat area, which features pottery 
+                    and funeral jewellery dating back as far as 3000 BC. This was a former fishing village, Ajman also relied heavily on 
+                    pearl fishing and there is a section specifically devoted to what was once one of the most important pastimes in the region.
+              
+                    <br>
+                    <br>
+
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                    <p class="info-description1"> 
 
                     It is housed in an 18th-century fortress that was used as a stronghold for the Emirates leadership and as the first 
                     line of defense. Earlier it was the ruler's palace and then it was converted as the Ajman police station. When the 
@@ -88,14 +99,7 @@
                     of the past. The Ajman Museum with displays of lifestyle and traditional professions includes a huge collection of 
                     archeological artifacts, manuscripts, and old weapons as well as displays of medical and religious practices are on 
                     display. 
-
-                    <br>
-                    <br>
                     
-                    One of the most famous displays is an excavated cemetery discovered in the Al Muwaihat area, which features pottery 
-                    and funeral jewellery dating back as far as 3000 BC. This was a former fishing village, Ajman also relied heavily on 
-                    pearl fishing and there is a section specifically devoted to what was once one of the most important pastimes in the region.
-              
                     </p>
             </div>
             
@@ -539,69 +543,69 @@
 
         <div class="row row1">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Museum's exhibit </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Outside of the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The entrance to the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Outside of the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Outside of the museum </p>
             </div>
 
         </div>
 
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The view by the entrance </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Person going through the exhibits outside the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3H.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Person going in the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Museum's exhibit </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Outside of the museum </p>
             </div>
 
         </div>
 
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The entrance to the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Outside of the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Outside of the museum </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> The view by the entrance </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Ajman Museum\ajment3G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Person going through the exhibits outside the museum </p>
             </div>
 
         </div>
@@ -624,37 +628,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 08:00 AM to 08:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 08:00 AM to 08:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 08:00 AM to 08:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 08:00 AM to 08:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 08:00 AM to 08:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 02:30 PM to 08:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 08:00 AM to 08:00 PM '); //so put the timings here
    
         }
 

@@ -485,67 +485,67 @@
 
         <div class="row row1">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Exterior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Exterior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
         </div>
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Drinks served within the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2H.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Exterior of the restaurant </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Exterior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Drinks served within the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Cafe Naseem\ajmdin2G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food in Cafe Naseem </p>
             </div>
 
         </div>

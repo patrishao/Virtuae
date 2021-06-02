@@ -485,68 +485,68 @@
 
         <div class="row row1">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Tables in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Tables in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
         </div>
 
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Exterior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Tables in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Interior of the restaurant </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Tables in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Exterior of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Food served in Dragon's Palace </p>
             </div>
 
         </div>

@@ -21,8 +21,8 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="picture" /></div>
                         <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="picture" /></div>
                         <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="picture" /></div>
                 </div>
             </div>
@@ -82,16 +82,24 @@
                     <br>
 
                     The series of islands lie east to the mainland of Umm al-Quwain are surrounded by mangrove forests and are an 
-                    important area for migratory birds. Seneyah Island is the largest of the island group. 
-
-                    <br>
-                    <br>
-                    
-                    Many birds, including 
+                    important area for migratory birds. Seneyah Island is the largest of the island group. Many birds, including 
                     flamingos, herons, terns, and plovers can be seen in the shallow mud flats here. It is the most preferred island 
                     for a great nature escape from the hustle and bustle of the cities of the United Arab Emirates.
               
+                    <br>
+                    <br>
+
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                    <p class="info-description1"> 
+                    The island was of great historical importance, as residents of Umm Al Quwain have settled in it when they moved from 
+                    Mulah Island, led by Sheikh Majid bin Rashid Al Mualla, two hundred years ago. Many years later, people of Umm Al Quwain 
+                    have then, moved from the Siniya Island to Umm Al Quwain. Siniya Island is, topographically, flat and characterized by 
+                    the existence of Mangroves, Ghaf trees and superficial plants. The island is a natural park where deers, seagulls, eagles, 
+                    herons and cormorants live. There are 65 different archaeological sites in the island that contain some graves, structural 
+                    remains, psoriasis hills and towers.
                     </p>
+
             </div>
             
          </div>
@@ -532,69 +540,69 @@
 
         <div class="row row1">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Al Sinniyah Island view </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Greenery of the island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Island's plantation and sea </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> View from Al Sinniyah Island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Animals from Al Sinniyah Island </p>
             </div>
 
         </div>
 
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Animals from Al Sinniyah Island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> View from Al Sinniyah Island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Animals from Al Sinniyah Island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Al Sinniyah Island view </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Greenery of the island </p>
             </div>
 
         </div>
 
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> View from Al Sinniyah Island  </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Animals from Al Sinniyah Island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Animals from Al Sinniyah Island </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Al Sinniyah Island view </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Animals from Al Sinniyah Island </p>
             </div>
             
         </div>
@@ -617,37 +625,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
    
         }
 

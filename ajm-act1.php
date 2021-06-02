@@ -77,10 +77,10 @@
                 <p class="info-description"> It’s a fun way to get in some serious exercise – 
                 the bouncy assault course also provides a test on scrambler’s 
                 stamina, balance and motor-skills. 
-                    
-                    <br>
-                    <br>
 
+                    <br>
+                    <br>
+                    
                     With obstacles providing challenges for a range of abilities, conquer climbing walls, 
                     balancing beams, swing ropes and your own fear. Sea anemones and turtles are a treat for 
                     snorkelers, while divers flock here for the beautiful rock 
@@ -89,13 +89,21 @@
 
                     <br>
                     <br>
-                    
+
                     Having fun because of the is a joyful experience and a must when having vacation. 
                     Simple enough everyone should be able to have fun.  You can go new places and 
                     discover new things, you can learn new things and learn to go beyond fun, and 
                     it makes you happy and you can bond with people.
-              
+
+                    <br>
+                    <br>
+
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                    <p class="info-description1"> 
+                    Aqua Bounce Ajman debuted to the public in April 1, 2018.
                     </p>
+        
             </div>
             
          </div>
@@ -550,69 +558,69 @@
         <div class="row row1">
             <div class="img-media">
             <img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
             
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Fairmont Ajman where the park’s located </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
             
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Park obstacles and challenges </p>
             </div>
         
         </div>
 
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Fairmont Ajman where the park’s located </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1H.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1A.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1B.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Fairmont Ajman where the park’s located </p>
             </div>
 
         </div>
 
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1C.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1D.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1E.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Park obstacles and challenges </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1F.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> People enjoying over floating park’s obstacles </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Activities\Aqua Bounce Ajman\ajmact1G.jpg" class="fiximg" />
-            <p> wowie a description! </p>
+            <p> Fairmont Ajman where the park’s located </p>
             </div>
 
         </div>
@@ -635,37 +643,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 am to 5:00pm '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 5:00 PM '); //so put the timings here
    
         }
 
