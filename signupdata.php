@@ -52,7 +52,9 @@ if(isset($_POST['submit'])){
         if ($email === $db_email){
 
           //display only this
-          echo "<h5> The email exists, please try another email. </h5> ";
+          echo '<script>alert("The email exists, please try another email.")</script>';
+          
+
 
           }
 
@@ -81,7 +83,7 @@ if(isset($_POST['submit'])){
 
       //if any value isn't complete, display a text
       else{
-        echo "<h5> Form is not complete, please fill it out. </h5>";
+        echo '<script>alert("Form is not complete, please fill it out.")</script>';
 
         
       }

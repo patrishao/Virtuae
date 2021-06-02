@@ -48,32 +48,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 130px;
-        height: 130px;
-        position: relative;
-        margin-left: 110px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -290px;
-        margin-top: 140px;
-        width: 20px;
-        height: 20px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        width: 20px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: 69px;
     }
     .name{
         position: relative;
@@ -213,7 +191,7 @@ a:hover{
         outline: none;
         position: relative;
         height: 30px;
-        width: 540px;
+        width: 665px;
         margin-left: 365px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -224,37 +202,13 @@ a:hover{
         font-size: 14px;
     }
 
-    
-
-    .change-pass{
+    .save-delete{
         display: flex;
+        margin-top: 0.5in;
     }
-    .change{
-        position: relative;
-        margin-left: 31px;
-        border: 2px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 90px;
-        height: 40px;
-        font-size: 15px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    .change:hover{
-        background-color: #252525;
-        border: 2px solid #252525;
-    }
-        
     .save-changes{
         position: relative;
-        margin-left: 520px;
-        margin-top: 0.5in;
+        margin-left: 530px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -276,8 +230,7 @@ a:hover{
         
     .delete-acc{
         position: relative;
-        margin-left: 710px;
-        margin-top: -40px;
+        margin-left: 40px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -296,20 +249,9 @@ a:hover{
         background-color: #252525;
         border: 2px solid #252525;
     }
-
-    h5{
-        color: rgb(223, 57, 57);
-        position: absolute;
-        top: 82%;
-        left: 30.5%;
-    
-    }
-    
 }
 
 @media screen and (max-width: 1200px) {
-
-
     body{
         margin:0;
         font-family: 'Karla';
@@ -335,32 +277,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 130px;
-        height: 130px;
-        position: relative;
-        margin-left: 30px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -270px;
-        margin-top: 130px;
-        width: 17px;
-        height: 17px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        width: 17px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -10px;
     }
     .name{
         position: relative;
@@ -497,7 +417,7 @@ a:hover{
         outline: none;
         position: relative;
         height: 40px;
-        width: 540px;
+        width: 660px;
         margin-left: 285px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -508,35 +428,13 @@ a:hover{
         font-size: 15px;
     }
 
-    .change-pass{
+    .save-delete{
         display: flex;
+        margin-top: 0.6in;
     }
-    .change{
-        position: relative;
-        margin-left: 31px;
-        border: 2px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 90px;
-        height: 40px;
-        font-size: 15px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    .change:hover{
-        background-color: #252525;
-        border: 2px solid #252525;
-    }
-        
     .save-changes{
         position: relative;
         margin-left: 450px;
-        margin-top: 0.6in;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -558,8 +456,7 @@ a:hover{
         
     .delete-acc{
         position: relative;
-        margin-top: -40px;
-        margin-left: 640px;
+        margin-left: 40px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -606,34 +503,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 120px;
-        height: 120px;
-        position: relative;
-        margin-left: 5px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -235px;
-        margin-top: 110px;
-        width: 13px;
-        height: 13px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        margin-top: -1px;
-        margin-left: -1px;
-        width: 15px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -30px;
     }
     .name{
         position: relative;
@@ -771,7 +644,7 @@ a:hover{
         outline: none;
         position: relative;
         height: 30px;
-        width: 450px;
+        width: 570px;
         margin-left: 260px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -781,36 +654,14 @@ a:hover{
         font-family: 'Karla', sans-serif;
         font-size: 14px;
     }
-
-    .change-pass{
-        display: flex;
-    }
-    .change{
-        position: relative;
-        margin-left: 28px;
-        border: 2px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 90px;
-        height: 40px;
-        font-size: 15px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    .change:hover{
-        background-color: #252525;
-        border: 2px solid #252525;
-    }
         
+    .save-delete{
+        display: flex;
+        margin-top: 0.5in;
+    }
     .save-changes{
         position: relative;
         margin-left: 380px;
-        margin-top: 0.5in;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -832,8 +683,7 @@ a:hover{
         
     .delete-acc{
         position: relative;
-        margin-top: -40px;
-        margin-left: 565px;
+        margin-left: 38px;
         border: 2px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -880,34 +730,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 100px;
-        height: 100px;
-        position: relative;
-        margin-left: -50px;
-        margin-top: 40px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -183px;
-        margin-top: 83px;
-        width: 11px;
-        height: 11px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        margin-right: 4px;
-        margin-bottom: 4px;
-        width: 14px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -80px;
     }
     .name{
         position: relative;
@@ -1048,7 +874,7 @@ a:hover{
         outline: none;
         position: relative;
         height: 32px;
-        width: 338px;
+        width: 445px;
         margin-left: 200px;
         margin-top: 3px;
         box-sizing: border-box;
@@ -1058,36 +884,14 @@ a:hover{
         font-family: 'Karla', sans-serif;
         font-size: 13px;
     }
-
-    .change-pass{
-        display: flex;
-    }
-    .change{
-        position: relative;
-        margin-left: 25px;
-        border: 1.5px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 80px;
-        height: 35px;
-        font-size: 14px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    .change:hover{
-        background-color: #252525;
-        border: 1.5px solid #252525;
-    }
         
+    .save-delete{
+        display: flex;
+        margin-top: 0.4in;
+    }
     .save-changes{
         position: relative;
         margin-left: 285px;
-        margin-top: 0.4in;
         border: 1.5px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -1109,8 +913,7 @@ a:hover{
         
     .delete-acc{
         position: relative;
-        margin-top: -35px;
-        margin-left: 440px;
+        margin-left: 40px;
         border: 1.5px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -1157,34 +960,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 80px;
-        height: 80px;
-        position: relative;
-        margin-left: -100px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -160px;
-        margin-top: 89px;
-        width: 8px;
-        height: 8px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        margin-right: 6px;
-        margin-bottom: 6px;
-        width: 11px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -125px;
     }
     .name{
         position: relative;
@@ -1326,7 +1105,7 @@ a:hover{
         outline: none;
         position: relative;
         height: 25px;
-        width: 210px;
+        width: 285px;
         margin-left: 150px;
         margin-top: 0px;
         box-sizing: border-box;
@@ -1337,35 +1116,13 @@ a:hover{
         font-size: 11px;
     }
 
-    .change-pass{
+    .save-delete{
         display: flex;
+        margin-top: 50px;
     }
-    .change{
-        position: relative;
-        margin-left: 15px;
-        border: 1px solid #90893E;
-        border-radius: 70px;
-        color: white;
-        background-color: #90893E;
-        width: 60px;
-        height: 27px;
-        font-size: 11px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-family: 'Karla', sans-serif;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    .change:hover{
-        background-color: #252525;
-        border: 1px solid #252525;
-    }
-        
     .save-changes{
         position: relative;
-        margin-left: 185px;
-        margin-top: 28px;
+        margin-left: 184px;
         border: 1px solid #90893E;
         border-radius: 70px;
         color: white;
@@ -1387,8 +1144,7 @@ a:hover{
         
     .delete-acc{
         position: relative;
-        margin-left: 305px;
-        margin-top: -26px;
+        margin-left: 25px;
         border: 1px solid #90893E;
         border-radius: 70px;
         color: white;

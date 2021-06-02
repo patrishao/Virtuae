@@ -40,7 +40,7 @@ include 'includes/fetchdata.php';
     }   
  
     else{
-        echo "<h5> Form is not complete, please fill it out. </h5>";
+        echo '<script>alert("Form is not complete, please fill it out.")</script>';
     }
 }
 
@@ -87,7 +87,6 @@ else if (isset($_POST['delete'])){
     <div class="container">
         
         <div class="user-details">
-            <img src="images/placeholder2.jpg" class="prof-pic">
             <div class="descs">
                 <h1 class="name"> <?php echo $firstName . " ". $lastName;?> </h1>
                 <p class="email"> <?php echo $email; ?> </p>
@@ -109,9 +108,6 @@ else if (isset($_POST['delete'])){
                 </p>
                 </div>
             </div>
-            <div class="circle">
-                <img src="svg/edit.svg" class="edit">
-            </div>
         </div>
 
         <h1>Edit Profile</h1>
@@ -128,12 +124,13 @@ else if (isset($_POST['delete'])){
                 <input class="e-mail" type="text" name="email" value=" <?php echo $email; ?> " /> 
                 <p class="pass-label">Password</p>
                 <input class="password" type="password" name="password" value=" <?php echo $password; ?> "/> 
-
-
-       
-            <input class="save-changes" type="submit" value="Save Changes" name="save">
-            <input class="delete-acc" type="submit" value="Delete Account" name = "delete">
-            </form>
+                
+                <div class="save-delete">
+                    <input class="save-changes" type="submit" value="Save Changes" name="save">
+                    <input class="delete-acc" type="submit" value="Delete Account" name = "delete">
+                </div>
+                </form>
+            </div>
         </div>
 
     </div>

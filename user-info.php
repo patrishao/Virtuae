@@ -45,7 +45,7 @@ include 'includes/fetchdata.php';
     }   
  
     else{
-        echo "<h5> Form is not complete, please fill it out. </h5>";
+        echo '<script>alert("Form is not complete, please fill it out.")</script>';
     }
 }
 
@@ -95,7 +95,6 @@ else if (isset($_POST['delete'])){
 
         <!-- PROFILE -->
         <div class="user-details">
-            <img src="images/placeholder2.jpg" class="prof-pic">
             <div class="descs">
                 <h1 class="name"><?php echo $firstName . " " . $lastName ?></h1>
                 <p class="email"> <?php echo $email ?> </p>
@@ -117,9 +116,6 @@ else if (isset($_POST['delete'])){
                     </p>
 
                 </div>
-            </div>
-            <div class="circle">
-                <img src="svg/edit.svg" class="edit">
             </div>
         </div>
 

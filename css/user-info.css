@@ -36,7 +36,7 @@ a:hover{
     .container{
         border: 1px black;
         width: 5in;
-        height: 8in;
+        height: 7.5in;
         background-color: white;
         margin-left: 1in;
         margin-top: 0.5in;
@@ -48,32 +48,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 130px;
-        height: 130px;
-        position: relative;
-        margin-left: 110px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -290px;
-        margin-top: 140px;
-        width: 20px;
-        height: 20px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        width: 20px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: 69px;
     }
     .name{
         position: relative;
@@ -323,14 +301,6 @@ a:hover{
         background-color: #252525;
         border: 2px solid #252525;
     }
-
-    h5{
-        color: rgb(223, 57, 57);
-        position: absolute;
-        top: 95%;
-        left: 30.5%;
-    
-    }
 }
 
 @media screen and (max-width: 1200px) {
@@ -359,32 +329,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 130px;
-        height: 130px;
-        position: relative;
-        margin-left: 30px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -270px;
-        margin-top: 130px;
-        width: 17px;
-        height: 17px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        width: 17px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -10px;
     }
     .name{
         position: relative;
@@ -660,34 +608,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 120px;
-        height: 120px;
-        position: relative;
-        margin-left: 5px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -235px;
-        margin-top: 110px;
-        width: 13px;
-        height: 13px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }   
-    .edit{
-        position: relative;
-        margin-top: -1px;
-        margin-left: -1px;
-        width: 15px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -30px;
     }
     .name{
         position: relative;
@@ -963,34 +887,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 100px;
-        height: 100px;
-        position: relative;
-        margin-left: -50px;
-        margin-top: 40px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -183px;
-        margin-top: 83px;
-        width: 11px;
-        height: 11px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }
-    .edit{
-        position: relative;
-        margin-right: 4px;
-        margin-bottom: 4px;
-        width: 14px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -80px;
     }
     .name{
         position: relative;
@@ -1267,34 +1167,10 @@ a:hover{
         align-items: center;
         margin-left: 250px;
     }
-    .prof-pic{
-        border-radius: 50%;
-        width: 80px;
-        height: 80px;
-        position: relative;
-        margin-left: -100px;
-        margin-top: 60px;
-    }
-    .circle{
-        position: relative;
-        margin-left: -160px;
-        margin-top: 89px;
-        width: 8px;
-        height: 8px;
-        background: #252525;
-        border-radius: 50%;
-        padding: 7px;
-    }   
-    .edit{
-        position: relative;
-        margin-right: 6px;
-        margin-bottom: 6px;
-        width: 11px;
-        height: auto;
-    }
     .descs{
         display: flex;
         flex-direction: column;
+        margin-left: -125px;
     }
     .name{
         position: relative;
@@ -1545,8 +1421,6 @@ a:hover{
     }
 
     .navbar a.icon path {
-            stroke: black;
+        stroke: black;
     }
-
-    
 }

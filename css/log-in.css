@@ -98,8 +98,7 @@ h2{
 
 /* email n password form */
 input[type=text], input[type=password]{
-    
-
+    outline: none;
     width: 90%;
     padding: 15px 3px;
     margin: 20px 0;
