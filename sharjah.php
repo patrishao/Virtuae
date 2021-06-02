@@ -259,7 +259,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ajm_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/almontazah.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -356,7 +356,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/sharjah/martyrs.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -374,7 +374,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/baitobaid.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -392,7 +392,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/Sharjah-City-Municipality.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -410,7 +410,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/alrafisah.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -428,7 +428,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/goldsouk.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -452,7 +452,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/rak_bg (2).jpg" alt="" srcset="">
+                <img src="images/sharjah/artmuseum.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -470,7 +470,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/sharjah/mleiha.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -488,7 +488,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/alhefaiyah.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -506,7 +506,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/shjarchaeology.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -524,7 +524,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/arabian.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -548,7 +548,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/sharjah/alnoor.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
