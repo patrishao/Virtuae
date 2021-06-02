@@ -298,6 +298,10 @@ footer{
         justify-content: flex-start;
         flex-direction: column-reverse;
     }
+    h1{
+        font-size: 31px;
+        width: 100%;
+    }
     .wrapper{
         display: none;
     }
