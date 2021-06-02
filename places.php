@@ -29,7 +29,7 @@
             <div class="another-container">
                 <h1 class="title1"> JUMEIRAH MOSQUE </h1> <!-- title -->
                 <p class="location-title"> PLACEHOLDER </p> <!-- location-->
-                <button href="tour-form.php" class="line1"> TOUR </button> <!-- do not replace this da botan -->
+                <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
     </div>
