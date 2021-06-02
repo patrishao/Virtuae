@@ -17,6 +17,7 @@
         <h1>Book a Tour</h1>
         
         <form action="#" method="POST">
+
         <div class="forms">
             <div class="forms1">
                 <p class="name-label">First Name</p>
@@ -185,6 +186,7 @@
                 <input class="save-changes" type="submit" value="Submit">
                 <input class="delete-acc" type="submit" value="Cancel">
         </div>
+
         </form>
         
     </div>
