@@ -1,13 +1,3 @@
-<?php 
-
-include 'includes/database.php';
-include 'includes/fetchdata.php' ;
-
-$pageName = "ajm-act1"; 
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,8 +12,20 @@ $pageName = "ajm-act1";
 
 </head>
 <body>
-    <div id="navbar"> 
-        <?php include 'includes/headers-edit.php';?>
+
+<div id="navbar"> 
+            <?php 
+
+            include 'includes/database.php';
+            include 'includes/fetchdata.php' ;
+            include 'includes/headers-edit.php';
+
+            //$pageName = "name of the page"; 
+
+            //like;
+            $pageName = "ajm-act1"; 
+
+            ?>
     </div>
     
     <!-- TITLE -->
@@ -503,80 +505,81 @@ $pageName = "ajm-act1";
 
     <h2 class="review-title">REVIEWS</h2>
 
-    <script src="javascript/alerts.js"> </script>
-    
+<script src="javascript/alerts.js"> </script>
 
-    <div class="review-container" id="review-container">
-     
-        <div class="user-review">
-       
-           <?php 
-           
-                // fetching all the data from this certain page
-                  $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
-                  $query .= "ORDER BY comment_id DESC";
-                  $select_customers = mysqli_query($connection, $query);
-        
-                    while($row = mysqli_fetch_assoc($select_customers)){
-                        $comment_id = $row['comment_id'];
-                        $comment_page = $row['comment_page'];
-                        $comment_date = $row['comment_date'];
-                        $comment_author = $row['comment_author'];
-                        $comment_email = $row['comment_email'];
-                        $comment_contents = $row['comment_contents'];
-           ?>
-    
 
-            <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
-            <div class="main-review review"> 
-                <div class="r-box main-box">
-                     <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
-                     <span class="date">  <?php  echo $comment_date?> </span></div>
-                     <div class="review-content"> <?php  echo $comment_contents?> </div>
-                </div>
+<div class="review-container" id="review-container">
+
+    <div class="user-review">
+
+    <?php 
+    
+            // fetching all the data from this certain page
+            $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+            $query .= "ORDER BY comment_id DESC";
+            $select_customers = mysqli_query($connection, $query);
+    
+                while($row = mysqli_fetch_assoc($select_customers)){
+                    $comment_id = $row['comment_id'];
+                    $comment_page = $row['comment_page'];
+                    $comment_date = $row['comment_date'];
+                    $comment_author = $row['comment_author'];
+                    $comment_email = $row['comment_email'];
+                    $comment_contents = $row['comment_contents'];
+    ?>
+
+
+        <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
+        <div class="main-review review"> 
+            <div class="r-box main-box">
+                <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                <span class="date">  <?php  echo $comment_date?> </span></div>
+                <div class="review-content"> <?php  echo $comment_contents?> </div>
             </div>
-
-
-            <?php } ?>
-              <!-- closing the while loop -->
-      
-            
-        </div>
-        
-    </div>
-
-    <!-- including the other php file that handles the form -->
-    <?php  include 'includes/comments.php' ?>
-
-    <form class="wr-container" id="wr-container" method="post" action="">
-        
-        <div class="write-review">
-
-             <!-- getting the name of whoever posted the comment -->
-             <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
-
-             <!-- hidden values to get the user's who's logged -->
-            <input type="hidden" name="email" value=" <?php echo $email ?>  " >
-
-            <!-- getting the page name to know where is the user commenting -->
-            <input type="hidden" name="page" value="<?php echo $pageName?>" >
-
-
-
-           <!-- adding a review -->
-          <input type="text" name="review"  class="form-control" placeholder="Add a review..."></input>
-
         </div>
 
-        <!-- buttons to send  -->
-        <input type="submit" class="post btn" value="Post" name="post">
-        <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+
+        <?php } ?>
+        <!-- closing the while loop -->
+
+        
+    </div>
+    
+</div>
+
+<!-- including the other php file that handles the form -->
+<?php  include 'includes/comments.php' ?>
+
+<form class="wr-container" id="wr-container" method="post" action="">
+    
+    <div class="write-review">
+
+        <!-- getting the name of whoever posted the comment -->
+        <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
+
+        <!-- hidden values to get the user's who's logged -->
+        <input type="hidden" name="email" value=" <?php echo $email ?>  " >
+
+        <!-- getting the page name to know where is the user commenting -->
+        <input type="hidden" name="page" value="<?php echo $pageName?>" >
+
+
+
+    <!-- adding a review -->
+    <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
+
 
     </div>
-    </form>
+
+    <!-- buttons to send  -->
+    <input type="submit" class="post btn" value="Post" name="post">
+    <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+
+</div>
+</form>
 
 
-    <!-- -->
+<!-- -->
 
     <section id="media-wrappper">
         <h2 class="media-title">MEDIA</h2> 

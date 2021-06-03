@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Bab Al Bahr</title>
+    <title>China Mall</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-din3"; 
+            $pageName = "ajm-ent5"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3A.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Bab Al Bahr </h1> <!-- title -->
+                <h1 class="title1"> China Mall </h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -48,6 +48,7 @@
     <div class="wrapper3"> <!-- not to be touched -->
         <div class="categories">
                 <div class="box" onClick="history()"><a>INFO</a></div>
+                <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
                 <div class="box" onClick="timings()"><a>TIMINGS</a></div>
                 <div class="box" onClick="events()"><a>EVENTS</a></div>
                 <div class="box" onClick="vt()"><a>VIRTUAL TOUR</a></div>
@@ -69,38 +70,40 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Dine\Bab Al Bahr.docx"> 
+                    <a href="download\Ajman\Entertainment\China Mall.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Bab Al Bahar it's a beach bar located in 5* hotel Ajman Palace. 
-                    It got a nice see view, simple but accurate decor. 
+                <p class="info-description"> One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, 
+                it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip that lies 
+                between Sheikh Ammar Bin Humaid Street and Sheikh Mohammed Bin Rashid Al Maktoum Road. 
                     <br>
                     <br>
 
-                    Escape the ordinary and embark on a coastal chic experience at the newly revamped - Bab Al Bahr. 
-                    Renowned for their signature dishes that focus on meats and seafood along with a wide selection of 
-                    fully crafted beverages that perfectly complement each other, this casual-upscale culinary destination is bound to become your new favorite hotspot to socialize, relax and unwind in style.
-
+                    The project was launched in 2007 and was ready by the end of 2010. Mainly popular for large retail spaces, the complex 
+                    has a small number of accommodations. It also includes several dining outlets, a mosque and a bank. It is known for a 
+                    variety of products and businesses from mainland China. 
+                    
                     <br>
                     <br>
                     
-                    Travel in flavours every Sunday, Tuesday and Thursday at Cafe Naseem. In Sundays: Dinner Theme Nights: Arabic Culinary 
-                    Nights - AED 195 per person including soft beverages. For Tuesdays: Dinner Theme Nights: Asian Culinary Nights - AED 
-                    195 per person including soft beverages. And lastly, for for Thursdays, Dinner Theme Nights: Mexican Culinary Nights  
-                    - AED 195 per person including soft beverages.
-              
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                   <p class="info-description1"> 
+                   China Mall, Ajman is a Dh300 million project dedicated retail and wholesale market for Chinese products, 
+                   opened on Monday October 25, 2010 in the Ajman Free Zone. </p>   
+                    
                     </p>
             </div>
             
@@ -423,7 +426,7 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3401.2561993821996!2d55.440811467975614!3d25.421362623563382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb61463385664a42b!2sBab%20Al%20Bahr%20Beach%20Bar%20%26%20Grill!5e0!3m2!1sen!2sae!4v1622623665828!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.478057795814!2d55.4390456!3d25.4175438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe6ec22786790d70a!2sDragon&#39;s%20Place!5e0!3m2!1sen!2sae!4v1622628456395!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -513,68 +516,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3A.jpg" class="fiximg" />
-            <p> Interior of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg"  class="fiximg" />
+            <p> Outside view of China Mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3B.jpg" class="fiximg" />
-            <p> The view outside of the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg"  class="fiximg" />
+            <p> Clothes shop in the mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3C.jpg" class="fiximg" />
-            <p> The view outside the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg"  class="fiximg" />
+            <p> Path within the mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3D.jpg" class="fiximg" />
-            <p> Outside tables of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5D.jpg"  class="fiximg" />
+            <p> Shops in China Mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3E.jpg" class="fiximg" />
-            <p> Restaurant's overview </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5E.jpg"  class="fiximg" />
+            <p> Shops in China Mall </p>
             </div>
 
         </div>
+
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3F.jpg" class="fiximg" />
-            <p> Selection of Food in Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg"  class="fiximg" />
+            <p> A shop that sells cosmetics and nail polish </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3G.jpg" class="fiximg" />
-            <p> Plate of food from the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5G.jpg"  class="fiximg" />
+            <p> Shop that sells stuff to hang on the walls </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3H.jpg" class="fiximg" />
-            <p> Selection of Food in Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5H.jpg"  class="fiximg" />
+            <p> Shops in China Mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3A.jpg" class="fiximg" />
-            <p> Interior of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg"  class="fiximg" />
+            <p> Outside view of China Mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3B.jpg" class="fiximg" />
-            <p> The view outside of the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg"  class="fiximg" />
+            <p> Clothes shop in the mall </p>
             </div>
 
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3C.jpg" class="fiximg" />
-            <p> The view outside the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg"  class="fiximg" />
+            <p> Path within the mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3D.jpg" class="fiximg" />
-            <p> Outside tables of Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5D.jpg"  class="fiximg" />
+            <p> Shops in China Mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3E.jpg" class="fiximg" />
-            <p> Restaurant's overview </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5E.jpg"  class="fiximg" />
+            <p> Shops in China Mall </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3F.jpg" class="fiximg" />
-            <p> Selection of Food in Bab Al Bahr </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg"  class="fiximg" />
+            <p> A shop that sells cosmetics and nail polish </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Bab Al Bahr\ajmdin3G.jpg" class="fiximg" />
-            <p> Plate of food from the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5G.jpg"  class="fiximg" />
+            <p> Shop that sells stuff to hang on the walls </p>
             </div>
 
         </div>
@@ -597,38 +601,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( ' CLOSED ' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( ' CLOSED ' ); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( ' 1:00 PM - 12:00 AM ' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html( ' CLOSED ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html(' CLOSED '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30 PM - 10:00 PM'); //so put the timings here
+            $('#t-time').html(' 02:00 PM - 12:00 AM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 07:00 AM - 10:00 AM 12:30 PM - 3:00 PM 6:30s PM - 10:00 PM');  //so put the timings here
-   
+            $('#t-time').html(' CLOSED ');  //so put the timings here
         }
 
         //reply function

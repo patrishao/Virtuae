@@ -12,8 +12,19 @@
 
 </head>
 <body>
-    <div id="navbar"> 
-        <?php include 'includes/headers-edit.php';?>
+<div id="navbar"> 
+            <?php 
+
+            include 'includes/database.php';
+            include 'includes/fetchdata.php' ;
+            include 'includes/headers-edit.php';
+
+            //$pageName = "name of the page"; 
+
+            //like;
+            $pageName = "ajm-din5"; 
+
+            ?>
     </div>
     
     <!-- TITLE -->
@@ -21,9 +32,9 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5H.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5D.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5A.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
@@ -58,38 +69,37 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5A.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5C.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Dine\Dragon.docx"> 
+                    <a href="download\Ajman\Dine\Danial Restaurant.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Welcome to Dragon's Palace, where we specialize in Szechuan and Cantonese style Chinese food. 
-                You can find all your favorite Chinese food selections, General Tsao's Chicken, Sweet & Sour and much more. Find us a 8576 
-                E Broadway Blvd, near S Camino Seco. Next to Walmart Neighborhood Market and four minutes away from Broadway Plaza. Order 
-                online now for carryout and delivery.
+                <p class="info-description"> Bringing the best taste to your parties and gatherings.our catering service is available 
+                for your parties and gathering anywhere in the UAE.
                     <br>
                     <br>
 
-                    A restaurant that serves Asian Cuisine and Luxury Dining, Dragon's Place is a smart casual and contemporary restaurant, 
-                    featuring a sushi bar, private Teppanyaki dining table, and two private washitsu rooms with low floor seating. It is the 
-                    place where you can enjoy the finest Asian fusion delicacies with highlights of the Japanese and Thai cuisines.
-
+                    With an exquisite menu of phenomenal tastes and textures, we set you a table of Iranian, Chinese, Indian, Arabic, 
+                    and international cuisine. What makes this quality experience even more pleasant is the variety and quantity of 
+                    the buffet style service and the availability of café service.
+                    
                     <br>
                     <br>
                     
-                    If you’re a fan of Asian food and culture, this is the place to be! Dragon’s Place is a smart casual and contemporary restaurant, 
-                    featuring a sushi bar, private Teppanyaki dining table, and two private washitsu rooms with low floor seating.
-              
+                    Taking pleasure in hosting your parties and events; either at your place or here at Danial’s. you can have your 
+                    food ready, delivered at your doorstep or have your guests thrilled by having your party at Danial; there is a 
+                    pretty appealing space for your special occasions in every location.
+                    
                     </p>
             </div>
             
@@ -417,136 +427,154 @@
 
     <!-- -->
     
-    <!-- COMMENTS -->
-    <h2 class="review-title">REVIEWS</h2>
-  
-    <div class="review-container" id="review-container">
-        
-        <div class="user-review">
-       
-            <div class="main-review review"> 
-                <div class="r-box main-box">
-                <div class="user">Avery Angel <div class="dot"></div>
-                <span class="date">Apr 01 2012</span></div>
-                <div class="review-content">
-                    I am placeholder review, I am reviewing the placeholder
-                    and the place is very holding.
+        <!-- COMMENTS -->
 
-                </div>
-                <a class="reply-btn" onClick="reply()"><img src="images/reply.png"/>Reply</a>
-                
-                </div>
+        <h2 class="review-title">REVIEWS</h2>
+
+<script src="javascript/alerts.js"> </script>
+
+
+<div class="review-container" id="review-container">
+
+    <div class="user-review">
+
+    <?php 
+    
+            // fetching all the data from this certain page
+            $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+            $query .= "ORDER BY comment_id DESC";
+            $select_customers = mysqli_query($connection, $query);
+    
+                while($row = mysqli_fetch_assoc($select_customers)){
+                    $comment_id = $row['comment_id'];
+                    $comment_page = $row['comment_page'];
+                    $comment_date = $row['comment_date'];
+                    $comment_author = $row['comment_author'];
+                    $comment_email = $row['comment_email'];
+                    $comment_contents = $row['comment_contents'];
+    ?>
+
+
+        <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
+        <div class="main-review review"> 
+            <div class="r-box main-box">
+                <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                <span class="date">  <?php  echo $comment_date?> </span></div>
+                <div class="review-content"> <?php  echo $comment_contents?> </div>
             </div>
-
-            <div class="review-replies review">
-                <div class="line-r"></div>
-                <div class="r-box reply-box">
-                <div class="user">Avery Angel <div class="dot"></div>
-                <span class="date">Apr 01 2012</span></div>
-                <div class="review-content">
-                    I am placeholder review, I am reviewing the placeholder
-                    and the place is very holding.
-
-                </div>
-                <a class="reply-btn" onClick="reply()"><img src="images/reply.png"/>Reply</a>
-
-   
-
-                </div>
-            </div>
-            
         </div>
+
+
+        <?php } ?>
+        <!-- closing the while loop -->
+
+        
     </div>
     
-        <!-- replying function -->
+</div>
 
-    <div class="reply-function" id="reply-function">
-        <h3 class="rep-to">reply:</h3>
-            <input class="form-control" placeholder="add a reply"></input>
-        <button class="rep btn">reply</button>
-        <button class="cancel btn" onClick="closeReply()">cancel</button>
-        </div>
+<!-- including the other php file that handles the form -->
+<?php  include 'includes/comments.php' ?>
 
-    <div class="wr-container" id="wr-container">
+<form class="wr-container" id="wr-container" method="post" action="">
+    
     <div class="write-review">
-        <input class="form-control" placeholder="add a review"></input>
-    </div>
-    <button class="post btn">post</button>
-        <button class="cancel btn">cancel</button>
-    </div>
-    </div>
+
+        <!-- getting the name of whoever posted the comment -->
+        <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
+
+        <!-- hidden values to get the user's who's logged -->
+        <input type="hidden" name="email" value=" <?php echo $email ?>  " >
+
+        <!-- getting the page name to know where is the user commenting -->
+        <input type="hidden" name="page" value="<?php echo $pageName?>" >
 
 
-    <!-- -->
+
+    <!-- adding a review -->
+    <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
+
+
+    </div>
+
+    <!-- buttons to send  -->
+    <input type="submit" class="post btn" value="Post" name="post">
+    <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+
+</div>
+</form>
+
+
+<!-- -->
 
     <section id="media-wrappper">
         <h2 class="media-title">MEDIA</h2> 
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
-            <p> Tables in Dragon's Palace </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5A.jpg"  class="fiximg" />
+            <p> Interior within Danial Restaurant with tables </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
-            <p> Interior of the restaurant </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5B.jpg"  class="fiximg" />
+            <p> Interior within Danial Restaurant by the glass window </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
-            <p> Tables in Dragon's Palace </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5C.jpg"  class="fiximg" />
+            <p> Path towards the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5D.jpg"  class="fiximg" />
+            <p> Food served in Danial Restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <div class="img-media"><img src="images\ajm-pictures\Dine\Danial Restaurant\ajmdin5E.jpg"  class="fiximg" />
+            <p> Reception of the restaurant </p>
             </div>
 
         </div>
 
         <div class="row row2">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
-            <p> Exterior of the restaurant </p>
+            <p> Food served in Danial Restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <p> Food served in Danial Restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4H.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <p> Food served in Danial Restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4A.jpg"  class="fiximg" />
-            <p> Tables in Dragon's Palace </p>
+            <p> Interior within Danial Restaurant with tables </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4B.jpg"  class="fiximg" />
-            <p> Interior of the restaurant </p>
+            <p> Interior within Danial Restaurant by the glass window </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4C.jpg"  class="fiximg" />
-            <p> Tables in Dragon's Palace </p>
+            <p> Path towards the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4D.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <p> Food served in Danial Restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4E.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <p> Reception of the restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4F.jpg"  class="fiximg" />
-            <p> Exterior of the restaurant </p>
+            <p> Food served in Danial Restaurant </p>
             </div>
 
             <div class="img-media"><img src="images\ajm-pictures\Dine\Dragon’s Place\ajmdin4G.jpg"  class="fiximg" />
-            <p> Food served in Dragon's Palace </p>
+            <p> Food served in Danial Restaurant </p>
             </div>
 
         </div>
