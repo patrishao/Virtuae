@@ -583,10 +583,8 @@ $pageName = "auh-ent1";
         <!-- getting the page name to know where is the user commenting -->
         <input type="hidden" name="page" value="<?php echo $pageName?>" >
 
-
-
-       <!-- adding a review -->
-       <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
+        <!-- adding a review -->
+        <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
 
     </div>
 
@@ -606,96 +604,96 @@ $pageName = "auh-ent1";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> Front entrance of Warner Bros World </p>
             </div>
             
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> A golden statue of Bugs Bunny wearing a suit by the entrance </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The streets of Cartoon Junction </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Flintstones: Bedrock River Adventure </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Cartoon Junction Carousel </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Joker Funhouse </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Riddler Revolution </p>
             </div>
             
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> Scooby-Doo and the Museum of Mysteries </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> Front entrance of Warner Bros World </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> A golden statue of Bugs Bunny wearing a suit by the entrance </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The streets of Cartoon Junction </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Flintstones: Bedrock River Adventure </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Cartoon Junction Carousel </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Joker Funhouse </p>
             </div>
             
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+                <p> The Riddler Revolution </p>
             </div>
 
         </div>
