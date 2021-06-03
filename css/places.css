@@ -861,7 +861,6 @@ body{
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: center;
 
     border-top: 1px solid #DCD5CB;
     border-bottom: 1px solid #DCD5CB;
@@ -1022,6 +1021,11 @@ body{
 .form-control{
     width: 80%;
     height: 80px;
+    outline: none;
+    resize: none;
+    padding: 10px;
+    border: 2px solid;
+    font-size: 15px;
 
     border-radius: 10px;
 }
