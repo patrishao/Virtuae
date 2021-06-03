@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>China Mall</title>
+    <title>Al Murabba Watchtower</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-ent5"; 
+            $pageName = "ajm-dis2"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4A.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4B.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> China Mall </h1> <!-- title -->
+                <h1 class="title1">Al Murabba Watchtower</h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -70,30 +70,30 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4E.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Entertainment\China Mall.docx"> 
+                    <a href="download\Ajman\Discover\Al Murabba Watchtower.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, 
-                it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip that lies 
-                between Sheikh Ammar Bin Humaid Street and Sheikh Mohammed Bin Rashid Al Maktoum Road. 
+                <p class="info-description"> The Arabian Peninsula is dotted with mud-brick forts and watchtowers, built to protect 
+                coastal towns, and the sandy-coloured Al-Murabaa Watchtower has served as the guardian of Ajman for over 80 years.
+                    
                     <br>
                     <br>
 
-                    The project was launched in 2007 and was ready by the end of 2010. Mainly popular for large retail spaces, the complex 
-                    has a small number of accommodations. It also includes several dining outlets, a mosque and a bank. It is known for a 
-                    variety of products and businesses from mainland China. 
+                    Commissioned by the late Sheikh Rashid Bin Humaid Al Nuaimi and restored in 2000, the watchtower is a key landmark 
+                    along the attractive Corniche. Join the locals strolling along the attractive waterfront esplanade, which overlooks 
+                    a 16 kilometre-long beach and is dotted with restaurants, cafés and shops.
                     
                     <br>
                     <br>
@@ -101,9 +101,12 @@
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
-                   China Mall, Ajman is a Dh300 million project dedicated retail and wholesale market for Chinese products, 
-                   opened on Monday October 25, 2010 in the Ajman Free Zone. </p>   
-                    
+                   
+                   Al Murabaa Tower stands on the corniche of the city of Ajman, in the emirate of Ajman in the United Arab Emirates. 
+                   Al Murabaa Tower was built in the 1930's by the late Sheikh Rashid bin Humaid Al Nuaimi. It guarded the fishing 
+                   village of Ajman from pirates and oversaw the pearl divers. In 2000 it was restored. 
+                   
+                    </p>   
                     </p>
             </div>
             
@@ -114,7 +117,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4A.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -122,37 +125,41 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Ajman China Mall will soon be home to a cinema. This 3,000 sq. m. large movie theatre 
-                will serve as a leisure spot for those whose favourite pastime is watching movies. Aside from that, there are plenty of 
-                shops to go to and eateries to dine in. </p>
+                <p class="contents-desc1">Al Murabaa Tower was built in the 1930's by the late Sheikh Rashid bin 
+                Humaid Al Nuaimi. It guarded the fishing village of Ajman from pirates and oversaw the pearl divers. 
+                In 2000 it was restored. Al Murabaa Tower can freely be visited externally. A big contrast; the old 
+                tower in the shadow of the new giants. </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" />
+                    <img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4G.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Shop </h2>
-                <p class="contents-desc">There are plenty of shops customers can choose to go through and buy from! There is almost 
-                anything and everything for anyone’s needs. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Architecture </h2>
+                <p class="contents-desc">Admire its architecture from the UAE’s rich culture, also take pictures 
+                and enjoy the sceneries as you please! </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" />
+                    <img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4F.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Eat </h2>
-                <p class="contents-desc">The complex has a variety of dining places inside and around it. Some of the restaurants 
-                in Ajman China Mall include Coshary Roah, Tasty Cafeteria and Ada Wu Chinese.</p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Learn </h2>
+                <p class="contents-desc">  It originally functioned as a watchtower and headquarters for the guards 
+                of the late Sheikh Zayed bin Sultan Al Nahyan. Later it was a police headquarters.  It also was 
+                used as a prison. </p> <!-- put the actual activities here -->
                  </div>
+                 
             </div> 
-
+            
             </div>
         </div>
         <!-- -->
+
 
         <!-- TIMINGS -->
 
@@ -467,9 +474,16 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-    
+
+        <!-- virtual tour -->
+    <iframe width="100%" height="900px" src="https://poly.google.com/view/1noITeCkpNl/embed?chrome=min"
+        frameborder="0" style="border:none;" allowvr="yes" 
+        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
+    </iframe>	
+
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14413.351298923344!2d55.5252439!3d25.4269669!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6c72deeede90c5f!2sAjman%20China%20Mall!5e0!3m2!1sen!2sae!4v1622686004118!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14416.062567867402!2d55.4294351!3d25.404287!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x101fea34de3e6d3b!2sAlMurabbaa%20Watchtower!5e0!3m2!1sen!2sae!4v1622716896127!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -559,69 +573,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg"  class="fiximg" />
-            <p> Outside view of China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4A.jpg"  class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg"  class="fiximg" />
-            <p> Clothes shop in the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4B.jpg" class="fiximg" />
+            <p> Al Murabba Watchtower by the road </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg"  class="fiximg" />
-            <p> Path within the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4C.jpg"  class="fiximg" />
+            <p> Men singing by the tower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5D.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4D.jpg"  class="fiximg" />
+            <p> Al Murabba Watchtower by the road </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5E.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4E.jpg"  class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg"  class="fiximg" />
-            <p> A shop that sells cosmetics and nail polish </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4F.jpg" class="fiximg" />
+            <p> Sidewalks just by Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5G.jpg"  class="fiximg" />
-            <p> Shop that sells stuff to hang on the walls </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4G.jpg" class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5H.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4H.jpg"  class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg"  class="fiximg" />
-            <p> Outside view of China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4A.jpg"  class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg"  class="fiximg" />
-            <p> Clothes shop in the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4B.jpg"  class="fiximg" />
+            <p> Al Murabba Watchtower by the road </p>
             </div>
 
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg"  class="fiximg" />
-            <p> Path within the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4C.jpg"  class="fiximg" />
+            <p> Men singing by the tower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5D.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4D.jpg"  class="fiximg" />
+            <p> Al Murabba Watchtower by the road </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5E.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4E.jpg"  class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg"  class="fiximg" />
-            <p> A shop that sells cosmetics and nail polish </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4F.jpg"  class="fiximg" />
+            <p> Sidewalks just by Al Murabba Watchtower </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5G.jpg"  class="fiximg" />
-            <p> Shop that sells stuff to hang on the walls </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Al Murabba Watchtower\ajmdis4G.jpg"  class="fiximg" />
+            <p> View of Al Murabba Watchtower </p>
             </div>
 
         </div>
@@ -644,37 +658,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' CLOSED ' ); //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' CLOSED ' ); //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' );//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 1:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' CLOSED ' ); //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' CLOSED '); //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' ); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 02:00 PM - 12:00 AM '); //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' ); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' CLOSED ');  //so put the timings here
+            $('#t-time').html( ' Open 24/7 ' );  //so put the timings here
         }
 
         //reply function

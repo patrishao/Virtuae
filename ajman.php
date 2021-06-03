@@ -73,7 +73,7 @@
                     </div>
                     <p>City Centre Ajman, conveniently located on Al Ittihad Street, is the largest shopping and entertainment destination in the emirate with 34,000sqm of retail space. The mall is home to more than 79 international...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -91,7 +91,7 @@
                     </div>
                     <p>At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. It is one of the most popular places to visit...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                     </div>
                     <p>Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort served as the ruler’s residence until 1970, before it was converted into a museum a decade later.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                     </div>
                     <p>Lined with cafés and restaurants, the Corniche is a four-kilometre-long esplanade overlooking the Arabian Gulf. Much of the emirate’s social activities and events are centred on this area. Situated along the...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                     </div>
                     <p>One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-ent5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -348,7 +348,7 @@
                     </div>
                     <p>Ajman Museum is the emirate’s foremost museum illustrating life as it once was. The 18th-century fort served as the ruler’s residence until 1970, before it was converted into a museum a decade later.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -366,7 +366,7 @@
                     </div>
                     <p>At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. It is one of the most popular places to visit...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -391,7 +391,7 @@
                     </div>
                     <p>Historically, wooden dhows played a vital role in fishing, pearling and trading across the region. Ajman’s Dhow Yard remains one of the world's largest dhow-building centres. You’ll find the...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -409,7 +409,7 @@
                     </div>
                     <p>One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-ent5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -427,7 +427,7 @@
                     </div>
                     <p>Al Zorah Nature Reserve is a vibrant ecosystem made up of mangroves, turquoise lagoons and sandy beaches, which is home to nearly 58 species of bird including pink flamingo, egret and heron.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -445,7 +445,7 @@
                     </div>
                     <p>The Arabian Peninsula is dotted with mud-brick forts and watchtowers, built to protect coastal towns, and the sandy-coloured Al-Muraba Watchtower has served as the guardian of Ajman for over 80 years.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-dis2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>

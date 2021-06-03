@@ -422,7 +422,7 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.478057795814!2d55.4390456!3d25.4175438!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe6ec22786790d70a!2sDragon&#39;s%20Place!5e0!3m2!1sen!2sae!4v1622628456395!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14417.880943638424!2d55.462002!3d25.3890656!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xaa4ad8af267a6935!2sDanial%20Restaurant!5e0!3m2!1sen!2sae!4v1622685924875!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>China Mall</title>
+    <title>Ajman Dhow Building Yard</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-ent5"; 
+            $pageName = "ajm-dis1"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1C.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1E.jpg" class="picture" /></div>
+                        <div><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1B.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> China Mall </h1> <!-- title -->
+                <h1 class="title1">Ajman Dhow Building Yard</h1> <!-- title -->
                 <p class="location-title"> Ajman </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -70,30 +70,32 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1A.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1F.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Entertainment\China Mall.docx"> 
+                    <a href="download\Ajman\Discover\Ajman Dhow Building Yard.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> One of the most well-known places in Ajman is China Mall. Formally known as China Mall Ajman, 
-                it is a major retail complex situated in the southern region of Al Jurf Industrial Area. It is a commercial strip that lies 
-                between Sheikh Ammar Bin Humaid Street and Sheikh Mohammed Bin Rashid Al Maktoum Road. 
+                <p class="info-description"> Historically, wooden dhows played a vital role in fishing, pearling and trading across the region.
+                Ajman’s Dhow Yard remains one of the world's largest dhow-building centres. For centuries, wooden dhows have played a 
+                significant role in trade and commerce across the Arab world. Before the seas were full of the modern merchant ships we 
+                encounter today, dhows were the primary modes of transport and trading in the region.
+                    
                     <br>
                     <br>
 
-                    The project was launched in 2007 and was ready by the end of 2010. Mainly popular for large retail spaces, the complex 
-                    has a small number of accommodations. It also includes several dining outlets, a mosque and a bank. It is known for a 
-                    variety of products and businesses from mainland China. 
+                    You’ll find the Dhow Yard on the north side of Ajman Creek, near Al Boom Marine. Here, you can watch master 
+                    craftsmen at work, using tools and techniques that have been handed down from generation to generation. 
+                    The yard also makes fiberglass dhows, powered by diesel engines, for racing events across the country.
                     
                     <br>
                     <br>
@@ -101,9 +103,18 @@
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
-                   China Mall, Ajman is a Dh300 million project dedicated retail and wholesale market for Chinese products, 
-                   opened on Monday October 25, 2010 in the Ajman Free Zone. </p>   
+                   
+                   Since ancient times, the dhow has been a significant part of the UAE culture. The tradition of using a dhow 
+                   dates back to the pearl diving era in the Arabian Gulf. Many families in the UAE can trace their roots to pearl diving. 
+                   Trading and fishing were the primary drivers of the UAE economy and the wooden dhow was the only mode of logistics and transport. 
                     
+                    <br>
+                    <br>
+                   
+                    Until the 1960s, sails were more mainstream than engines in the Gulf. These dhows travelled considerable distances carrying 
+                    cargoes of mangrove timber, dates, pearls, fish and other goods. 
+                   
+                    </p>   
                     </p>
             </div>
             
@@ -114,7 +125,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1E.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -122,37 +133,37 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Ajman China Mall will soon be home to a cinema. This 3,000 sq. m. large movie theatre 
-                will serve as a leisure spot for those whose favourite pastime is watching movies. Aside from that, there are plenty of 
-                shops to go to and eateries to dine in. </p>
+                <p class="contents-desc1">Ship building is a fascinating subject. And when you happen to drop into Ajman, the Ajman Dhow Yard is 
+                certainly a must visit. And by then, you’ll even be able to see and admire the beauty of this type of craft. </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg" />
+                    <img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1A.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Shop </h2>
-                <p class="contents-desc">There are plenty of shops customers can choose to go through and buy from! There is almost 
-                anything and everything for anyone’s needs. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Craftmanship </h2>
+                <p class="contents-desc">The mall has 79 retail outlets. Anchor stores include a Carrefour hypermarket, a Centrepoint 
+                department store and a branch of H&M, Areej, Early Learning Centre and Sun & Sand Sports.  </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg" />
+                    <img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1C.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Eat </h2>
-                <p class="contents-desc">The complex has a variety of dining places inside and around it. Some of the restaurants 
-                in Ajman China Mall include Coshary Roah, Tasty Cafeteria and Ada Wu Chinese.</p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Learn </h2>
+                <p class="contents-desc"> See how these wooden vessels are being used to primarily carry merchandise, 
+                like fruit, and other heavy items, across the coasts of Arabia, Asia, and Africa. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
-
+            
             </div>
         </div>
         <!-- -->
+
 
         <!-- TIMINGS -->
 
@@ -467,9 +478,16 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-    
+
+        <!-- virtual tour -->
+    <iframe width="100%" height="900px" src="https://www.google.com/maps/embed?pb=!4v1619708907250!6m8!1m7!1s6rlIqSPn-V5kqVsZcxIL4w!2m2!1d25.39996570098555!2d55.46039719432796!3f201.61476757614244!4f-4.111711860459778!5f0.7820865974627469"
+        frameborder="0" style="border:none;" allowvr="yes" 
+        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
+    </iframe>	
+
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14413.351298923344!2d55.5252439!3d25.4269669!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6c72deeede90c5f!2sAjman%20China%20Mall!5e0!3m2!1sen!2sae!4v1622686004118!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.1664091491734!2d55.458147515396554!3d25.399239729705773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f583afa79871b%3A0x54dbaf873ed257f2!2sAjman%20Dhow%20Yard!5e0!3m2!1sen!2sae!4v1622713703571!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -559,69 +577,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg"  class="fiximg" />
-            <p> Outside view of China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1A.jpg"  class="fiximg" />
+            <p> Dhow being built on site </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg"  class="fiximg" />
-            <p> Clothes shop in the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1B.jpg" class="fiximg" />
+            <p> A dhow in the process of getting built in the Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg"  class="fiximg" />
-            <p> Path within the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1C.jpg"  class="fiximg" />
+            <p> A boat in Ajman Dhow Building Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5D.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1D.jpg"  class="fiximg" />
+            <p> A dhow in the process of getting built in the Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5E.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1E.jpg"  class="fiximg" />
+            <p> A boat cruising by the Building Yard </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg"  class="fiximg" />
-            <p> A shop that sells cosmetics and nail polish </p>
+        <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1F.jpg"  class="fiximg" />
+            <p> A boat cruising by the Building Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5G.jpg"  class="fiximg" />
-            <p> Shop that sells stuff to hang on the walls </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1G.jpg"  class="fiximg" />
+            <p> Boat in the sands of the building site </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5H.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1H.jpg"  class="fiximg" />
+            <p> A boat in Ajman Dhow Building Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5A.jpg"  class="fiximg" />
-            <p> Outside view of China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1A.jpg"  class="fiximg" />
+            <p> Dhow being built on site </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5B.jpg"  class="fiximg" />
-            <p> Clothes shop in the mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1B.jpg"  class="fiximg" />
+            <p> A dhow in the process of getting built in the Yard </p>
             </div>
 
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5C.jpg"  class="fiximg" />
-            <p> Path within the mall </p>
+        <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1C.jpg"  class="fiximg" />
+        <p> A boat in Ajman Dhow Building Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5D.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1D.jpg"  class="fiximg" />
+            <p> A dhow in the process of getting built in the Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5E.jpg"  class="fiximg" />
-            <p> Shops in China Mall </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1E.jpg"  class="fiximg" />
+            <p> A boat cruising by the Building Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5F.jpg"  class="fiximg" />
-            <p> A shop that sells cosmetics and nail polish </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1F.jpg"  class="fiximg" />
+            <p> A boat cruising by the Building Yard </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Discover\China Mall\ajment5G.jpg"  class="fiximg" />
-            <p> Shop that sells stuff to hang on the walls </p>
+            <div class="img-media"><img src="images\ajm-pictures\Discover\Ajman Dhow Building Yard\ajmdis1G.jpg"  class="fiximg" />
+            <p> Boat in the sands of the building site </p>
             </div>
 
         </div>
@@ -644,37 +662,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' CLOSED ' ); //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' CLOSED ' ); //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' ); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 1:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' CLOSED ' ); //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' CLOSED '); //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' ); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 02:00 PM - 12:00 AM '); //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' ); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' CLOSED ');  //so put the timings here
+            $('#t-time').html( ' 6:00 AM - 6:00 PM ' );  //so put the timings here
         }
 
         //reply function
