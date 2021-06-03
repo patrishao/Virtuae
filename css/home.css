@@ -214,6 +214,7 @@ and not put their positions each class**/
 .destinations img{
     width: 100%;
     height: 80%;
+    object-fit: cover;
   
 }
 
@@ -262,6 +263,7 @@ and not put their positions each class**/
     right: 0;
     margin-right: 70px;
     position: relative;
+    
 }
 
 /* layout for each paddle */
@@ -273,6 +275,8 @@ and not put their positions each class**/
 
 	width: 3em;
     background-color: transparent;
+
+
 
 }
 
@@ -365,6 +369,7 @@ button{
     float: right;
        height: 76.9%;
        width: 50%;
+       object-fit: cover;
 
 
 }
@@ -698,6 +703,7 @@ button{
     height: 100%;
     background: none;
     margin-bottom: -5px;
+    object-fit: cover;
 
 }
 
@@ -816,6 +822,31 @@ button{
 
 /* -- MEDIA QUERIES / RESPONSIVENESS --  */
 
+/* desktops, large screen */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+
+    .events{
+        height: 100vh;
+    }
+
+
+    .events-list > *{
+        margin-top: 30%;
+    }
+
+    .events-container img{
+        height: 60%;
+    }
+
+    .events-wrapper{
+        margin-top: 155px;
+    }
+
+
+    .creators{
+        height: 108vh;
+    }
+}
 
 
 
@@ -872,7 +903,11 @@ button{
     }
 
     .events-list p{
-        width: 40%;
+        width: 35%;
+    }
+
+    .events-list > *{
+        margin-top: 30%;
     }
 
 
@@ -892,7 +927,8 @@ button{
      }
 
      .creator-container{
-        margin-left:  0%;
+        margin-left:  8%;
+        margin-top: 15%;
     }
 
 
@@ -1211,11 +1247,11 @@ button{
     }
 
     .components{
-        margin-top: 180px;
+        margin-top: 150px;
     }
 
     .components p{
-        font-size: 14px;
+        font-size: 10px;
         margin-top: 25px;
         width: 38%;
 
@@ -1227,18 +1263,34 @@ button{
     }
 
     .adventures{
-        height: 70%;
+        height: 59%;
     }
 
 
     .adventure-paddles{
         display: none;
     }
+
     
+    
+    .adv-container{
+        height: 100%;
+        vertical-align: top;
+
+    }
+
+    
+  
 
     .adventure-places img{
-        height: 52%;
+        
+        height: 70%;
+        width: 53%;
+        margin-top: -30px;
+        object-fit: cover;
+        
     }
+    
 
 
     /* events */
@@ -1264,8 +1316,7 @@ button{
     }
 
     .events-list > *{
-
-        margin-top: 40%;
+        margin-top: 38%;
 
     }
 
@@ -1280,11 +1331,11 @@ button{
     }
 
     .events-list h2{
-        font-size: 15px;
+        font-size: 9px;
     }
 
     .events-list p{
-        font-size: 14px;
+        font-size: 10px;
         width: 40%;
         margin-top: 20px;
     }

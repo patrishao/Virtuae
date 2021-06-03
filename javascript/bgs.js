@@ -16,7 +16,7 @@ $(function() {
     }
 
   
-    $('#place1, #place2, #place3, #place4, #place5, #place6, #place7, #place1' )
+    $('#place1, #place2, #place3, #place4, #place5, #place6, #place7, #place1')
       .stop()
       .hide()
       .filter(function() {
@@ -24,7 +24,7 @@ $(function() {
       })
       .show('fast');
 
-    counter == 7 ? counter = 0 : counter++;
+    counter == 9 ? counter = 0 : counter++;
 
     
 
@@ -42,21 +42,20 @@ var i = 0;
   
   //images
   
-  images[0] = "url(images/homebg-images/greenplanet.jpg)";
+  images[0] = "url(images/dubai/dxbdis5D.jpg)";
   
-  images[2] = "url(images/homebg-images/greenplanet.jpg)";
+  images[2] = "url(images/homebg-images/greenplanet2.jpg)";
   images[3] = "url(images/homebg-images/rak.jpg)";
   images[4] = "url(images/homebg-images/louvre.jpg)";
   images[5] = "url(images/homebg-images/noor1.jpg)";
   images[6] = "url(images/homebg-images/hayl.JPG)";
   images[7] = "url(images/homebg-images/ajman.jpg)";
   images[8] = "url(images/homebg-images/noor1.jpg)";
-  images[9] = "url(images/homebg-images/greenplanet.jpg)";
-  images[10] = "url(images/homebg-images/greenplanet.jpg)";
+
   function changeImage() {
       var el = document.getElementById('nav');
       el.style.backgroundImage = images[i];
-      if (i == 11 ){
+      if (i == 9 ){
           i = 0;
       } else {
           i++;
