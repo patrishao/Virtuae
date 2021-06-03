@@ -101,9 +101,10 @@ $(event5).on('click', function (){
 $('.events-container').slick({
     dots: false,
     infinite: true,
-    speed: 500,
+    speed: 300,
     slidesToShow: 1.9,
     slidesToScroll: 1.7,
+    autoplay: true,
     nextArrow: $(),
     prevArrow: $(),
     responsive: [
