@@ -87,7 +87,7 @@
                         </div>
                         <p>City Centre Ajman, conveniently located on Al Ittihad Street, is the largest shopping and entertainment destination in the emirate with 34,000sqm of retail space. The mall is home to more than 79 international...</p>
                         <div class="cardButton">
-                                <a href="#"><button class="moreContent">READ MORE</button></a>
+                                <a href="ajm-ent1.php"><button class="moreContent">READ MORE</button></a>
                         </div>
                     </div>
                 </div>

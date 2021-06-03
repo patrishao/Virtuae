@@ -152,10 +152,9 @@ h1{
     font-weight: 600;
     font-size: 40px;
     line-height: 133.69%;
-    
-    text-align: center;
+    text-align: left;
 
-    width: 90%
+    width: 80%
 }
 
 .showcase{
@@ -197,9 +196,11 @@ h1{
 .contents h3{
     font-size: 2rem;
     padding-bottom: 0.5rem;
+    text-align: left;
 }
 .contents h4{
     font-size: 1.5rem;
+    text-align: left;
 }
 .contents p{
     font-size: 1.2rem;
