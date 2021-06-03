@@ -66,7 +66,7 @@
 
     <div class="container-2">
         <div class="wrapping2">
-        <div class="rec-title">Recommended for you</div>
+        <div class="rec-title">RECOMMENDED FOR YOU</div>
  
         </div>
 
