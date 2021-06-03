@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent5"; 
+$pageName = "auh-ent1"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent5";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Yas Mall</title>
+    <title>Warner Bros World</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent5";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> YAS MALL </h1> <!-- title -->
+                <h1 class="title1"> WARNER BROS WORLD </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -62,14 +62,14 @@ $pageName = "auh-ent5";
     <div class="wrapper2">
         <div class="info-hist-box" id="history">
         
-        <div class="layer1">
+         <div class="layer1">
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent5";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Yas Mall.docx"> 
+                    <a href="download\Abu Dhabi\Entertainment\Warner Bros World.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,14 +88,16 @@ $pageName = "auh-ent5";
 
                 <p class="info-description"> 
                     
-                    Yas Mall is a mall in Yas Island in Abu Dhabi, United Arab Emirates. It serves as a place for shopping, dining 
-                    and entertainment for residents of Abu Dhabi and Yas Island. It covers an area of approximately 235,000 square 
-                    metres.
-
+                    Warner Bros. World Abu Dhabi is an indoor amusement park in Abu Dhabi, United Arab Emirates, 
+                    owned and developed by Miral Asset Management at an expected cost of $1 billion. The park 
+                    features characters from Warner Bros.'s franchises, such as Looney Tunes, DC Comics, Hanna-Barbera, 
+                    and others.
+                    
                     <br><br>
 
-                    Located at the heart of the iconic Yas Island, Yas Mall is 15 minutes from Abu Dhabi International Airport, 30 
-                    minutes from the Capital’s city centre and 45 minutes from Dubai.
+                    The park is located on Yas Island near Ferrari World and Yas Waterpark, and is the third Warner 
+                    Bros.'s theme park. An adjoining hotel is also being built at the center of Yas Island. The park 
+                    contains 29 rides, restaurants, attractions, shops and shows.
 
                    <br><br>
 
@@ -105,16 +107,26 @@ $pageName = "auh-ent5";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    The construction started in 2011 and by February 2013, 50 percent of the project was completed. It was initially 
-                    due for completion in March 2014, but its opening was postponed to coincide with the Formula One Grand Prix season 
-                    finale that took place at the Yas Marina Circuit and the mall was officially inaugurated in November 2014. It was 
-                    occupying a total area of 25 km2 (2,500 ha).
+                    Plans for the park began in 2007, but were halted by the global financial crisis. Warner Bros. 
+                    had signed a development contract with Aldar Properties in that year. Afterwards, the park was to 
+                    be joint owned by Abu Dhabi Media Company, Aldar and Warner Bros. and plans included 19 rides, a l. 
+                    The partnership would include a Persian Gulf-focused entertainment company for digital content 
+                    distribution, retail, video game publishing, film financing and film production facilities. Aldar, 
+                    because of the crisis, sold many of its assets to the Abu Dhabi government. Miral Asset Management 
+                    was funded and given other Aldar assets purchased by the government.
+
+                    <br><br>
+
+                    On July 24, 2018, the park was inaugurated by Vice President and Prime Minister of the UAE Sheikh 
+                    Mohammed bin Rashid Al Maktoum, and Crown Prince of Abu Dhabi Sheikh Mohammed bin Zayed Al Nahyan.
+
 
                 </p>                    
               
             </div>
-            </div>
-            </div>
+            
+         </div>
+        </div>
         </div>
 
 
@@ -122,7 +134,7 @@ $pageName = "auh-ent5";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -132,8 +144,11 @@ $pageName = "auh-ent5";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                       Yas Mall offers an incredible shopping, dining and entertainment experience for residents and tourists alike, 
-                       all under one roof. 
+                        The excitement begins at the Warner Bros. Plaza, your portal to our 
+                        uniquely themed lands including Bedrock, Dynamite Gulch, Cartoon Junction, 
+                        Gotham City and Metropolis. Experience 29 state-of-the-art exhilarating rides, 
+                        interactive family-friendly attractions and unique live entertainment for 
+                        memories that will last a lifetime.
 
                     </p>
                 </div>
@@ -142,14 +157,15 @@ $pageName = "auh-ent5";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Vox </h2>
+                    <h2 class="contents-title"> Batman </h2>
                     <p class="contents-desc"> 
 
-                        Yas Mall includes 20 of the largest IMAX screens in Abu Dhabi, including4 Gold Cinemas which 
-                        use 4DX technology.
+                        To the Batmobile; prepare to be thrilled! This high-speed, high-octane ride will 
+                        have you climbing, spinning and rolling through the dark skies of Gotham, patrolling 
+                        the city at Batman’s side. 
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -158,18 +174,36 @@ $pageName = "auh-ent5";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1H.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> KidZania </h2>
+                    <h2 class="contents-title"> Racing </h2>
                     <p class="contents-desc">
 
-                        KidZania is an award-winning children's 'edutainment' concept, located on the ground floor. It 
-                        comprises of one of the largest interactive mini-city!
+                        Buckle up and get ready to giggle; join the Tasmanian Devil on the track. This 
+                        children’s car ride will whip you around at speeds Taz himself would be proud of.
 
                     </p> <!-- put the actual activities here -->
                  </div>
             </div> 
+            
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" />
+                </div>
+                <div class="contents-container">
+                    <h2 class="contents-title"> Shop </h2>
+                    <p class="contents-desc">
+
+                        Pick up a souvenir, gift or memento of your day at one of our exciting retail outlets 
+                        throughout the park. From Daffy to Taz, Batman to Catwoman, you'll find treats, goodies 
+                        and more featuring all your favorite characters.
+
+                    </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+        
         
         </div>
         </div>
@@ -491,11 +525,10 @@ $pageName = "auh-ent5";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/aVd7fTZBs7K/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/b7qQfYz4kt5/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.9028001681336!2d54.606501114280555!3d24.488824466084175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457d7e9a030f%3A0xe989e0e2486d0718!2sYas%20Mall!5e0!3m2!1sen!2sae!4v1622728855989!5m2!1sen!2sae"
-    width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.8420998826864!2d54.59704721499557!3d24.490927284229603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4569238902a7%3A0x5a3f2432f3fb33b9!2sWarner%20Bros%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622677591881!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -577,96 +610,96 @@ $pageName = "auh-ent5";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> Front entrance of Warner Bros World </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall at night </p>
+                <p> A golden statue of Bugs Bunny wearing a suit by the entrance </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> The streets of Cartoon Junction </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> The Flintstones: Bedrock River Adventure </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> The Cartoon Junction Carousel </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> The Joker Funhouse </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> The Riddler Revolution </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A different entrance of Yas Mall </p>
+                <p> Scooby-Doo and the Museum of Mysteries </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> Front entrance of Warner Bros World </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> A golden statue of Bugs Bunny wearing a suit by the entrance </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> The streets of Cartoon Junction </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A fountain near a restaurant in Yas Mall </p>
+                <p> The Flintstones: Bedrock River Adventure </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> The Cartoon Junction Carousel </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> The Joker Funhouse </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> The Riddler Revolution </p>
             </div>
 
         </div>
@@ -689,37 +722,37 @@ $pageName = "auh-ent5";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 10:00 PM'); //so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 PM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
    
         }
 

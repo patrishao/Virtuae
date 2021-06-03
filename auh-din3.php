@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent5"; 
+$pageName = "auh-din3"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent5";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Yas Mall</title>
+    <title>Cascade Dining</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent5";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Dine\Cascade Dining\auhdin3A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Dine\Cascade Dining\auhdin3B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Dine\Cascade Dining\auhdin3G.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> YAS MALL </h1> <!-- title -->
+                <h1 class="title1"> CASCADE DINING </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -67,9 +67,9 @@ $pageName = "auh-ent5";
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Dine\Cascade Dining\auhdin3E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Dine\Cascade Dining\auhdin3H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Dine\Cascade Dining\auhdin3D.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent5";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Yas Mall.docx"> 
+                    <a href="download\Abu Dhabi\Dine\Cascade Dining.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,92 +88,20 @@ $pageName = "auh-ent5";
 
                 <p class="info-description"> 
                     
-                    Yas Mall is a mall in Yas Island in Abu Dhabi, United Arab Emirates. It serves as a place for shopping, dining 
-                    and entertainment for residents of Abu Dhabi and Yas Island. It covers an area of approximately 235,000 square 
-                    metres.
-
-                    <br><br>
-
-                    Located at the heart of the iconic Yas Island, Yas Mall is 15 minutes from Abu Dhabi International Airport, 30 
-                    minutes from the Capital’s city centre and 45 minutes from Dubai.
+                    Cascade Dining is a collection of 21 outlets serving cuisine from around the world including 
+                    authentic Middle Eastern, Mediterranean, Italian, Asian, American, seafood, burgers, dessert 
+                    kiosks and coffee houses. Ideally located between Yas Mall and Ferrari World, it has a selection 
+                    of dining options from quick bites to leisurely dining inside or outside on the terrace, with 
+                    spectacular views of the fountains.
 
                    <br><br>
 
-                </p>
-                   
-                <h2 class="info-title"> History </h2>
-                <h2 class="info-title1"> History </h2> <!-- history -->
-                <p class="info-description1"> 
-
-                    The construction started in 2011 and by February 2013, 50 percent of the project was completed. It was initially 
-                    due for completion in March 2014, but its opening was postponed to coincide with the Formula One Grand Prix season 
-                    finale that took place at the Yas Marina Circuit and the mall was officially inaugurated in November 2014. It was 
-                    occupying a total area of 25 km2 (2,500 ha).
-
-                </p>                    
+                </p> 
               
             </div>
             </div>
             </div>
         </div>
-
-
-
-        <!-- WHAT TO DO -->
-        <div class="wtd-container" id="wtd-container">
-        <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
-        </div>
-        <div class="scroller-area">
-
-            
-            <div class="contents-box">
-                <div class="contents-container1">
-                    <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                    <p class="contents-desc1">
-
-                       Yas Mall offers an incredible shopping, dining and entertainment experience for residents and tourists alike, 
-                       all under one roof. 
-
-                    </p>
-                </div>
-            </div> 
-         
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" />
-                </div>
-                <div class="contents-container">
-                    <h2 class="contents-title"> Vox </h2>
-                    <p class="contents-desc"> 
-
-                        Yas Mall includes 20 of the largest IMAX screens in Abu Dhabi, including4 Gold Cinemas which 
-                        use 4DX technology.
-
-                    </p> <!-- put the actual activities here -->
-                </div>
-            </div> 
-            
-
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" />
-                </div>
-                <div class="contents-container">
-                    <h2 class="contents-title"> KidZania </h2>
-                    <p class="contents-desc">
-
-                        KidZania is an award-winning children's 'edutainment' concept, located on the ground floor. It 
-                        comprises of one of the largest interactive mini-city!
-
-                    </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-        
-        </div>
-        </div>
-        <!-- -->
 
         <!-- TIMINGS -->
 
@@ -491,10 +419,10 @@ $pageName = "auh-ent5";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/aVd7fTZBs7K/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-    
+
+
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.9028001681336!2d54.606501114280555!3d24.488824466084175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457d7e9a030f%3A0xe989e0e2486d0718!2sYas%20Mall!5e0!3m2!1sen!2sae!4v1622728855989!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.98703165619!2d54.606245014995515!3d24.48590618423199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457e13d24e81%3A0xe7ac0f37fbfec588!2sCascade%20Dining!5e0!3m2!1sen!2sae!4v1622740938994!5m2!1sen!2sae" 
     width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -577,98 +505,99 @@ $pageName = "auh-ent5";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> View of the pool by Cascade Dining </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall at night </p>
+                <p> Assortment of desserts and bread </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Different view of the pool </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Entrance by Cascade Dining </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> Shawarma at Cascade Dining </p>
             </div>
         </div>
+        
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Pasta and Bread </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Entrance of Cascade Dining </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A different entrance of Yas Mall </p>
+                <p> An Emirati family dining at Cascade Dining </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> View of the pool by Cascade Dining </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Assortment of desserts and bread </p>
             </div>
 
         </div>
+
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Different view of the pool </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A fountain near a restaurant in Yas Mall </p>
+                <p> Entrance by Cascade Dining </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Shawarma at Cascade Dining </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> Pasta and Bread </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Dine\Cascade Dining\auhdin3G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Entrance of Cascade Dining </p>
             </div>
-
         </div>
 
         </div>
@@ -689,37 +618,37 @@ $pageName = "auh-ent5";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 10:00 PM'); //so put the timings here
+            $('#t-time').html('8:30 AM to 10:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('8:30 AM to 10:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('8:30 AM to 10:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('8:30 AM to 10:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 PM to 10:00 PM');//so put the timings here
+            $('#t-time').html('8:30 AM to 10:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('8:30 AM to 12:00 AM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('8:30 AM to 12:00 AM');//so put the timings here
    
         }
 

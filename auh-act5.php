@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent5"; 
+$pageName = "auh-ent3"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent5";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Yas Mall</title>
+    <title>Yas Waterworld</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent5";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> YAS MALL </h1> <!-- title -->
+                <h1 class="title1"> YAS WATERWORLD </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -67,9 +67,9 @@ $pageName = "auh-ent5";
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent5";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Yas Mall.docx"> 
+                    <a href="download\Abu Dhabi\Entertainment\Yas Waterworld Abu Dhabi.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,14 +88,10 @@ $pageName = "auh-ent5";
 
                 <p class="info-description"> 
                     
-                    Yas Mall is a mall in Yas Island in Abu Dhabi, United Arab Emirates. It serves as a place for shopping, dining 
-                    and entertainment for residents of Abu Dhabi and Yas Island. It covers an area of approximately 235,000 square 
-                    metres.
-
-                    <br><br>
-
-                    Located at the heart of the iconic Yas Island, Yas Mall is 15 minutes from Abu Dhabi International Airport, 30 
-                    minutes from the Capital’s city centre and 45 minutes from Dubai.
+                    Yas Waterworld Abu Dhabi is an Emirati-themed waterpark located on Yas Island in Abu Dhabi, United Arab 
+                    Emirates, the park is home to more than 40 rides, slides and attractions, including Bubble’s Barrel, Rush 
+                    Rider, and Bandit Bomber which is the longest suspended roller coaster in the Middle East over 550 metres 
+                    long.
 
                    <br><br>
 
@@ -105,10 +101,13 @@ $pageName = "auh-ent5";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    The construction started in 2011 and by February 2013, 50 percent of the project was completed. It was initially 
-                    due for completion in March 2014, but its opening was postponed to coincide with the Formula One Grand Prix season 
-                    finale that took place at the Yas Marina Circuit and the mall was officially inaugurated in November 2014. It was 
-                    occupying a total area of 25 km2 (2,500 ha).
+                    Its theme is based on an original story about a brave girl named Dana, who went on a journey to retrieve 
+                    a lost pearl (because of a strong storm) that used to bring prosperity to her village. During her travels, 
+                    the young hero is supported and guided by animals, such as a dolphin, falcon and camel, while she is also 
+                    followed by bandits and a snake who wants to retrieve the pearl for themselves. The story ends with her 
+                    teardrops of innocence falling into an oasis which brings rise to the majestic pearl towering the village, 
+                    bringing its residents' goodness once again. The theme is obvious in the parks' architecture with its pearl 
+                    seen from outside the waterpark. All the characters, shops and restaurants are also based on the story.
 
                 </p>                    
               
@@ -122,7 +121,7 @@ $pageName = "auh-ent5";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -132,8 +131,8 @@ $pageName = "auh-ent5";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                       Yas Mall offers an incredible shopping, dining and entertainment experience for residents and tourists alike, 
-                       all under one roof. 
+                        With over 40 rides, slides and attractions, everyone from tiny tots to water-park veterans 
+                        will find something they love.
 
                     </p>
                 </div>
@@ -142,14 +141,14 @@ $pageName = "auh-ent5";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3B.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Vox </h2>
+                    <h2 class="contents-title"> NeonNights </h2>
                     <p class="contents-desc"> 
 
-                        Yas Mall includes 20 of the largest IMAX screens in Abu Dhabi, including4 Gold Cinemas which 
-                        use 4DX technology.
+                        Yas Waterworld’s Neon Nights, with extended play hours, every Friday evening. As the sun 
+                        goes down, ride and slide on over 40 world-class attractions in the dark!
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -158,18 +157,36 @@ $pageName = "auh-ent5";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> KidZania </h2>
+                    <h2 class="contents-title"> LadiesDay </h2>
                     <p class="contents-desc">
 
-                        KidZania is an award-winning children's 'edutainment' concept, located on the ground floor. It 
-                        comprises of one of the largest interactive mini-city!
+                        Get ready for Ladies Day with aqua Zumba classes in the Amwaj Wave Pool and over 40 rides, 
+                        slides, & attractions all day with full privacy.
 
                     </p> <!-- put the actual activities here -->
                  </div>
             </div> 
+            
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3G.jpg" />
+                </div>
+                <div class="contents-container">
+                    <h2 class="contents-title"> KabayanNight </h2>
+                    <p class="contents-desc">
+
+                        Enjoy five hours of after-dark access to over 40 world-class rides, slides and experiences! 
+                        Including Filipino music and decoration and experience the taste of the Philippines with a 
+                        special menu!
+
+                    </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+        
         
         </div>
         </div>
@@ -491,10 +508,10 @@ $pageName = "auh-ent5";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/aVd7fTZBs7K/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/2HiKD-W6tTS/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.9028001681336!2d54.606501114280555!3d24.488824466084175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457d7e9a030f%3A0xe989e0e2486d0718!2sYas%20Mall!5e0!3m2!1sen!2sae!4v1622728855989!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14523.750611468444!2d54.599647!3d24.487617!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12d3db84713d00d9!2sYas%20Waterworld%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622718830747!5m2!1sen!2sae" 
     width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -577,96 +594,96 @@ $pageName = "auh-ent5";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> An overview of Yas Waterworld </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall at night </p>
+                <p> Cinesplash </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> The entrance of Yas Waterworld </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Slithers Slides </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> A few of the outdoor slides and rides </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Marah Fortress </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Tot's Playground </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A different entrance of Yas Mall </p>
+                <p> Amwaj Beach </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> An overview of Yas Waterworld </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> The entrance of Yas Waterworld </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Amwaj Beach </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A fountain near a restaurant in Yas Mall </p>
+                <p> Slithers Slides </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> A few of the outdoor slides and rides </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> Marah Fortress </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Tot's Playground </p>
             </div>
 
         </div>
@@ -689,37 +706,37 @@ $pageName = "auh-ent5";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 10:00 PM'); //so put the timings here
+            $('#t-time').html('CLOSED'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 6:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 6:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 6:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 PM to 10:00 PM');//so put the timings here
+            $('#t-time').html('2:00 PM to 10:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('10:00 AM to 7:00 PM');//so put the timings here
    
         }
 

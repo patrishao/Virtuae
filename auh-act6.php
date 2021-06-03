@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent5"; 
+$pageName = "auh-ent4"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent5";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Yas Mall</title>
+    <title>Yas Marina Circuit</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent5";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> YAS MALL </h1> <!-- title -->
+                <h1 class="title1"> YAS MARINA CIRCUIT </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -67,9 +67,9 @@ $pageName = "auh-ent5";
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4F.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent5";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Yas Mall.docx"> 
+                    <a href="download\Abu Dhabi\Entertainment\Yas Marina Circuit.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,14 +88,14 @@ $pageName = "auh-ent5";
 
                 <p class="info-description"> 
                     
-                    Yas Mall is a mall in Yas Island in Abu Dhabi, United Arab Emirates. It serves as a place for shopping, dining 
-                    and entertainment for residents of Abu Dhabi and Yas Island. It covers an area of approximately 235,000 square 
-                    metres.
+                    Yas Marina Circuit is one of the most technologically-advanced tracks in the world, home to the annual 
+                    Formula 1® Etihad Airways Abu Dhabi Grand Prix and a living, breathing part of life in Abu Dhabi. 
 
                     <br><br>
 
-                    Located at the heart of the iconic Yas Island, Yas Mall is 15 minutes from Abu Dhabi International Airport, 30 
-                    minutes from the Capital’s city centre and 45 minutes from Dubai.
+                    With professional and grassroots motorsports providing sensational action on track, inspiring and memorable 
+                    events at luxury venues trackside, and a host of community sporting activities, Yas Marina Circuit is a hub 
+                    of motor sporting excellence and a symbol for the growth of sporting culture and healthy living in the UAE.
 
                    <br><br>
 
@@ -105,10 +105,12 @@ $pageName = "auh-ent5";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    The construction started in 2011 and by February 2013, 50 percent of the project was completed. It was initially 
-                    due for completion in March 2014, but its opening was postponed to coincide with the Formula One Grand Prix season 
-                    finale that took place at the Yas Marina Circuit and the mall was officially inaugurated in November 2014. It was 
-                    occupying a total area of 25 km2 (2,500 ha).
+                    The circuit was designed by Hermann Tilke, and is situated on Yas Island, about 30 minutes from the capital 
+                    of the UAE, Abu Dhabi. Yas Marina is the second Formula One track in the Middle East, with the first being 
+                    in Bahrain. A two-day GP2 Asia Series test was held to officially open the circuit, which was held a week 
+                    before the 2009 Abu Dhabi Grand Prix. It also hosted the opening event for the Australian V8 Supercars series, 
+                    the Yas V8 400, in February 2010. Outside motorsport the circuit was used for the final stage of the inaugural 
+                    Abu Dhabi Tour cycle race in 2015. The circuit has FIA Grade 1 license.
 
                 </p>                    
               
@@ -122,7 +124,7 @@ $pageName = "auh-ent5";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -132,8 +134,8 @@ $pageName = "auh-ent5";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                       Yas Mall offers an incredible shopping, dining and entertainment experience for residents and tourists alike, 
-                       all under one roof. 
+                        As well as being the home of Formula 1®, Yas Marina circuit has an extensive year-round 
+                        programme of professional and grassroots motorsports and community events.
 
                     </p>
                 </div>
@@ -142,14 +144,14 @@ $pageName = "auh-ent5";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4G.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Vox </h2>
+                    <h2 class="contents-title"> Drive </h2>
                     <p class="contents-desc"> 
 
-                        Yas Mall includes 20 of the largest IMAX screens in Abu Dhabi, including4 Gold Cinemas which 
-                        use 4DX technology.
+                        Take control of the wheel with a thrilling driving experience or showcase what your car or 
+                        bike can do.
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -158,18 +160,35 @@ $pageName = "auh-ent5";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4D.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> KidZania </h2>
+                    <h2 class="contents-title"> Drift </h2>
                     <p class="contents-desc">
 
-                        KidZania is an award-winning children's 'edutainment' concept, located on the ground floor. It 
-                        comprises of one of the largest interactive mini-city!
+                        Ride and slide-sideways in a Chevrolet Drift Taxi or put your own vehicle through its paces 
+                        on Drift Night.
 
                     </p> <!-- put the actual activities here -->
                  </div>
             </div> 
+            
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4C.jpg" />
+                </div>
+                <div class="contents-container">
+                    <h2 class="contents-title"> Drag </h2>
+                    <p class="contents-desc">
+
+                        Hit breakneck speeds in our powerful cars, ride passenger-side or put your own vehicle to 
+                        the test on Drag Night.
+
+                    </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+        
         
         </div>
         </div>
@@ -491,10 +510,10 @@ $pageName = "auh-ent5";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/aVd7fTZBs7K/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/2_LjV0t0I0i/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>    
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.9028001681336!2d54.606501114280555!3d24.488824466084175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457d7e9a030f%3A0xe989e0e2486d0718!2sYas%20Mall!5e0!3m2!1sen!2sae!4v1622728855989!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.448401985844!2d54.60329741428022!3d24.469915766826734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4f3c3fe740cb%3A0xea9f5763add65dfd!2sYas%20Marina%20Circuit!5e0!3m2!1sen!2sae!4v1622726144242!5m2!1sen!2sae"
     width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -577,96 +596,96 @@ $pageName = "auh-ent5";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> View of the Yas Marina Circuit along with Yas Viceroy </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall at night </p>
+                <p> Cars racing </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Formal race </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Cars racing as the sun sets </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> A different view of the Yas Marina Circuit </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Celebrating 40 years of the UAE </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Cars racing </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A different entrance of Yas Mall </p>
+                <p> View of the Yas Marina Circuit along with Yas Viceroy </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> Another overview of Yas Marina Circuit with Yas Viceroy </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Cars racing </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Formal Race </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A fountain near a restaurant in Yas Mall </p>
+                <p> Cars racing as the sun sets </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> A different view of the Yas Marina Circuit </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> Celebrating 40 years of the UAE </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Yas Marina Circuit\auhent4G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Cars racing </p>
             </div>
 
         </div>
@@ -689,37 +708,37 @@ $pageName = "auh-ent5";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 10:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 PM to 10:00 PM');//so put the timings here
+            $('#t-time').html('9:00 PM to 11:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
    
         }
 

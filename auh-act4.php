@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent5"; 
+$pageName = "auh-ent2"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent5";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Yas Mall</title>
+    <title>Ferrari World</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent5";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> YAS MALL </h1> <!-- title -->
+                <h1 class="title1"> FERRARI WORLD </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -67,9 +67,9 @@ $pageName = "auh-ent5";
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent5";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Yas Mall.docx"> 
+                    <a href="download\Abu Dhabi\Entertainment\Ferrari World Abu Dhabi.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,14 +88,9 @@ $pageName = "auh-ent5";
 
                 <p class="info-description"> 
                     
-                    Yas Mall is a mall in Yas Island in Abu Dhabi, United Arab Emirates. It serves as a place for shopping, dining 
-                    and entertainment for residents of Abu Dhabi and Yas Island. It covers an area of approximately 235,000 square 
-                    metres.
-
-                    <br><br>
-
-                    Located at the heart of the iconic Yas Island, Yas Mall is 15 minutes from Abu Dhabi International Airport, 30 
-                    minutes from the Capital’s city centre and 45 minutes from Dubai.
+                    Ferrari World Abu Dhabi is a mostly indoors amusement park on Yas Island in Abu Dhabi, United Arab 
+                    Emirates. It is the first Ferrari-branded theme park and has the record for the largest space frame 
+                    structure ever built. Formula Rossa, the world's fastest roller coaster, is also located here.
 
                    <br><br>
 
@@ -105,10 +100,9 @@ $pageName = "auh-ent5";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    The construction started in 2011 and by February 2013, 50 percent of the project was completed. It was initially 
-                    due for completion in March 2014, but its opening was postponed to coincide with the Formula One Grand Prix season 
-                    finale that took place at the Yas Marina Circuit and the mall was officially inaugurated in November 2014. It was 
-                    occupying a total area of 25 km2 (2,500 ha).
+                    The foundation stone for the park was laid on 3 November 2007. It took three years to develop the park 
+                    and it officially opened to the public on 4 November 2010. Ferrari World Abu Dhabi covers an area of 86,000 
+                    square metres.
 
                 </p>                    
               
@@ -122,7 +116,7 @@ $pageName = "auh-ent5";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -132,8 +126,10 @@ $pageName = "auh-ent5";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                       Yas Mall offers an incredible shopping, dining and entertainment experience for residents and tourists alike, 
-                       all under one roof. 
+                        Live the dream and experience the thrill around Yas Island behind the wheel of a Ferrari, 
+                        Be transported on amazing adventures through captivating virtual worlds in state-of-the-art 
+                        simulation experiences and sharpen your racing skills on an incredible 290-metre-long track 
+                        inspired by the iconic Yas Marina Circuit.
 
                     </p>
                 </div>
@@ -142,14 +138,15 @@ $pageName = "auh-ent5";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2H.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Vox </h2>
+                    <h2 class="contents-title"> Driving </h2>
                     <p class="contents-desc"> 
 
-                        Yas Mall includes 20 of the largest IMAX screens in Abu Dhabi, including4 Gold Cinemas which 
-                        use 4DX technology.
+                        Live the dream and experience the thrill around Yas Island behind the wheel of a Ferrari! 
+                        Top down, buckle up and drive on with a trained instructor.
+
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -158,18 +155,35 @@ $pageName = "auh-ent5";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> KidZania </h2>
+                    <h2 class="contents-title"> Karting </h2>
                     <p class="contents-desc">
 
-                        KidZania is an award-winning children's 'edutainment' concept, located on the ground floor. It 
-                        comprises of one of the largest interactive mini-city!
+                        Sharpen your racing skills on a 290-metre-long track. Timed attraction, so arrive at the 
+                        Park early to sign up!
 
                     </p> <!-- put the actual activities here -->
                  </div>
             </div> 
+            
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" />
+                </div>
+                <div class="contents-container">
+                    <h2 class="contents-title"> Rossa </h2>
+                    <p class="contents-desc">
+
+                        Strap in, put your goggles on and prepare to be blasted 240km/h in 4.9 seconds on the world’s 
+                        fastest rollercoaster! 
+
+                    </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+        
         
         </div>
         </div>
@@ -491,11 +505,10 @@ $pageName = "auh-ent5";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/aVd7fTZBs7K/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/7aJ5pdjcjtU/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.9028001681336!2d54.606501114280555!3d24.488824466084175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457d7e9a030f%3A0xe989e0e2486d0718!2sYas%20Mall!5e0!3m2!1sen!2sae!4v1622728855989!5m2!1sen!2sae"
-    width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7262.109899905952!2d54.60290242223307!3d24.48355285106239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457e2d394a05%3A0x6076df4876c470a9!2sFerrari%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622714705163!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -577,96 +590,96 @@ $pageName = "auh-ent5";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> The entirety of Ferrari World taken from a drone </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall at night </p>
+                <p> A few of the indoor rides </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Turbo Tower </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Formula Rossa Junior </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> Entrance of Ferrari World </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Flying Wings </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Sabatani Souvenir </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A different entrance of Yas Mall </p>
+                <p> Another indoor ride </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Yas Mall </p>
+                <p> The entirety of Ferrari World taken from a drone </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> A few of the indoor rides </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Yas Mall fountain </p>
+                <p> Turbo Tower </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A fountain near a restaurant in Yas Mall </p>
+                <p> Formula Rossa Junior </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Guylian Cafe </p>
+                <p> Entrance of Ferrari World </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Inside the Mall </p>
+                <p> Flying Wings </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Mall\auhent5G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World connected to Yas Mall </p>
+                <p> Sabatani Souvenir </p>
             </div>
 
         </div>
@@ -689,37 +702,37 @@ $pageName = "auh-ent5";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 10:00 PM'); //so put the timings here
+            $('#t-time').html('CLOSED'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('CLOSED');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 PM to 10:00 PM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 12:00 AM');//so put the timings here
+            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
    
         }
 
