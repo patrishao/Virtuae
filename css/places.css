@@ -83,6 +83,7 @@ body{
 .picture{
     width: 100%;
     height: 380px;
+    object-fit: cover;
 }
 .picture img{
     width: 100%;
@@ -362,7 +363,7 @@ body{
 
 /* ==== */
 
-/* added height and width to image */
+/* added height and width to image container */
 .contents-img{
     width: 250px;
     height: 519px;
