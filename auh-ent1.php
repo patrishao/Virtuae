@@ -107,8 +107,19 @@ $pageName = "auh-ent1";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    On July 24, 2018, the park was inaugurated by Vice President and Prime Minister of the UAE Sheikh Mohammed 
-                    bin Rashid Al Maktoum, and Crown Prince of Abu Dhabi Sheikh Mohammed bin Zayed Al Nahyan.
+                    Plans for the park began in 2007, but were halted by the global financial crisis. Warner Bros. 
+                    had signed a development contract with Aldar Properties in that year. Afterwards, the park was to 
+                    be joint owned by Abu Dhabi Media Company, Aldar and Warner Bros. and plans included 19 rides, a l. 
+                    The partnership would include a Persian Gulf-focused entertainment company for digital content 
+                    distribution, retail, video game publishing, film financing and film production facilities. Aldar, 
+                    because of the crisis, sold many of its assets to the Abu Dhabi government. Miral Asset Management 
+                    was funded and given other Aldar assets purchased by the government.
+
+                    <br><br>
+
+                    On July 24, 2018, the park was inaugurated by Vice President and Prime Minister of the UAE Sheikh 
+                    Mohammed bin Rashid Al Maktoum, and Crown Prince of Abu Dhabi Sheikh Mohammed bin Zayed Al Nahyan.
+
 
                 </p>                    
               
@@ -177,7 +188,7 @@ $pageName = "auh-ent1";
             </div> 
             
 
-              <div class="contents-box">
+            <div class="contents-box">
                 <div class="contents-img">
                     <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" />
                 </div>
@@ -514,21 +525,20 @@ $pageName = "auh-ent1";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="800px" src="https://poly.google.com/view/b7qQfYz4kt5/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/b7qQfYz4kt5/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
     
-        <!-- google maps -->   
+    <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.8420998826864!2d54.59704721499557!3d24.490927284229603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4569238902a7%3A0x5a3f2432f3fb33b9!2sWarner%20Bros%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622677591881!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
     <!-- COMMENTS -->
-
- <h2 class="review-title">REVIEWS</h2>
-
-<script src="javascript/alerts.js"> </script>
-
-
-<div class="review-container" id="review-container">
+    
+    <h2 class="review-title">REVIEWS</h2>
+    
+    <script src="javascript/alerts.js"> </script>
+    
+    <div class="review-container" id="review-container">
  
     <div class="user-review">
    
@@ -548,7 +558,6 @@ $pageName = "auh-ent1";
                     $comment_contents = $row['comment_contents'];
        ?>
 
-
         <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
         <div class="main-review review"> 
             <div class="r-box main-box">
@@ -558,19 +567,17 @@ $pageName = "auh-ent1";
             </div>
         </div>
 
-
         <?php } ?>
           <!-- closing the while loop -->
-  
         
     </div>
+
+    </div>
     
-</div>
-
-<!-- including the other php file that handles the form -->
-<?php  include 'includes/comments.php' ?>
-
-<form class="wr-container" id="wr-container" method="post" action="">
+    <!-- including the other php file that handles the form -->
+    <?php  include 'includes/comments.php' ?>
+    
+    <form class="wr-container" id="wr-container" method="post" action="">
     
     <div class="write-review">
 
@@ -591,10 +598,9 @@ $pageName = "auh-ent1";
     <!-- buttons to send  -->
     <input type="submit" class="post btn" value="Post" name="post">
     <input type="submit" class="cancel btn" value="Cancel" name="cancel">
-
-</div>
-</form>
-
+    
+    </div>
+    </form>
 
     <!-- -->
 

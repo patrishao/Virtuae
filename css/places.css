@@ -263,7 +263,6 @@ body{
     font-weight: bold;
     font-size: 48px;
     line-height: 64px;
-
     color: #000000;
 }
 
@@ -274,9 +273,8 @@ body{
     font-size: 20px;
     line-height: 28px;
     letter-spacing: 0.01em;
-    
     color: #3E3E3E;
-
+    text-align: justify;
     width: 100%;
 }
 .info-description1{

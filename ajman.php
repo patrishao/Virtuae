@@ -469,7 +469,7 @@
                     </div>
                     <p>Among all the religious institutions of Ajman, Sheikh Zayed Ajman Mosque stands high on the itinerary of the emirate with its remarkable and intrinsic architecture. Built in the memory of Late Sheikh Rashid bin Humaid Al Nuaimi...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-mos1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
