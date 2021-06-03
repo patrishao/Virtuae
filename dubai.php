@@ -367,7 +367,7 @@
                     </div>
                     <p>Soaring 828m into the sky, the Burj Khalifa is the tallest building in the world and one of the greatest engineering feats of all time. Completed in 2010, the mighty tower represents the beating heart of Dubai and its brave ambitions.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-sts1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -385,7 +385,7 @@
                     </div>
                     <p>Dubai Frame opened to the public in January 2018 and has quickly become one of the most popular attractions in Dubai and in the UAE. If you’re looking for a great way to spend your day in Dubai, visiting the Dubai Frame...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-sts2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -403,7 +403,7 @@
                     </div>
                     <p>Each season, as the weather begins to cool at the onset of winter, the gates reopen at Dubai Miracle Garden. With more than 150 million flowers in full bloom, this 72,000-sq-m paradise has flowered into one of the region’s most...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-sts3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -421,7 +421,7 @@
                     </div>
                     <p>The traditional style of life that was prevalent in Dubai from the mid 19th century till the 1970s is reflected at Al-Fahidi Historical Neighbourhood, where buildings with high air towers (Barajeel), built...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-sts4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -439,7 +439,7 @@
                     </div>
                     <p>Rising to the third floor of The Dubai Mall, the aquarium is home to 140 species of sea life and offers many incredible ways to experience the underwater world. Stroll through a 48-metre tunnel, with the aquarium...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-sts5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -463,7 +463,7 @@
                     </div>
                     <p>Not too far from Dubai, one of the fastest developing cities in the world, is a buried village outside of Al Madam. Out in the desert, the town is a relic of an unknown past. No one is exactly sure why the... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -481,7 +481,7 @@
                     </div>
                     <p>Set along the historic waters of Dubai Creek, Al Shindagha Museum tells the proud story of the nation’s past and reverent traditions. The museum’s 'Dubai Creek: Birth of a City' is a state-of-the-art multimedia...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-dis2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -499,7 +499,7 @@
                     </div>
                     <p>Once an industrial area in the very centre of Dubai, Alserkal Avenue now comprises around 40 warehouses, converted into galleries, dance studios, artisanal cafés and more. The neighbourhood has nurtured...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -517,7 +517,7 @@
                     </div>
                     <p>A dynamic 21st century museum, Etihad Museum is focused on inspiring its visitors with the story of the founding of the UAE.The 25,000 m2 landmark is befittingly located at the very place where the UAE was founded in 1971.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-dis4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -535,7 +535,7 @@
                     </div>
                     <p>Discover the wonders of a tropical forest at The Green Planet, a bio-dome that invites visitors to explore our planet’s fascinating flora and fauna through an immersive expedition into the tropics. Designed as an enclosed... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-dis5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -559,7 +559,7 @@
                     </div>
                     <p>One of the most iconic landmarks in Dubai is the Jumeirah Mosque. Adopting an ‘Open Doors, Open Minds’ policy, the mosque welcomes visitors of all faiths to admire the surroundings and learn about Islam and the local culture.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-mos1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -577,7 +577,7 @@
                     </div>
                     <p>The Iranian Mosque Hosainia is a Shia mosque Hosainia located near the old Textile Souk in the Bur Dubai district of Dubai, United Arab Emirates. The mosque is inspired by Persian architecture and is notable...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-mos2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -595,7 +595,7 @@
                     </div>
                     <p>The Al Farooq Omar Bin Al Khattab Mosque and Centre is one of the first mosques to open their doors to non-Muslims. Whether you want to discover the faith of Islam, admire stunning architecture, or stop by to pray...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-mos3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -613,7 +613,7 @@
                     </div>
                     <p>Al Salam Mosque is one of the most magnificent mosques located in Al Barsha behind Mall of the Emirates. Its capacity is of 1,500 worshippers with a separate prayer hall for females and a separate hall for Iftar.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-mos4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -631,7 +631,7 @@
                     </div>
                     <p>Covering an area more Khalifa Al Tajer Mosquethan 105,000 square feet, the Khalifa Al Tajer Mosque is the Middle East’s first eco-friendly mosque. Positioned in Deira, the mosque is to offer prayer and can house up to 3,500 worshippers.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-mos5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
