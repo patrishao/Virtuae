@@ -516,6 +516,13 @@
     
     <!-- COMMENTS -->
 
+    <?php 
+    include 'includes/database.php';
+    include 'includes/fetchdata.php';
+    $pageName = "auh-ent1"; 
+
+?>
+
     <h2 class="review-title">REVIEWS</h2>
 
     <script src="javascript/alerts.js"> </script>
