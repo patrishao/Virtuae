@@ -42,9 +42,8 @@ var i = 0;
   
   //images
   
-  images[0] = "url(images/dubai/dxbdis5D.jpg)";
-  
-  images[2] = "url(images/homebg-images/greenplanet2.jpg)";
+  images[0] = "url(images/homebg-images/greenplanet.jpg)";
+  images[2] = "url(images/homebg-images/greenplanet.jpg)";
   images[3] = "url(images/homebg-images/rak.jpg)";
   images[4] = "url(images/homebg-images/louvre.jpg)";
   images[5] = "url(images/homebg-images/noor1.jpg)";
