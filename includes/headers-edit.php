@@ -22,7 +22,6 @@
     <div class="holder"> 
      <a href="index.php" id = "home-nav">Home</a>
      <a href="emirates.php" id = "emirates-nav" >Emirates</a>
-     <a href="#" id = "home-boomarks">Bookmarks</a>
      <a href="profile.php" id="profile"> 
      <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
      <path d="M15 13.75C13.6739 13.75 12.4021 13.2232 11.4645 12.2855C10.5268 11.3479 10 10.0761 10 8.75C10 7.42392 10.5268 6.15215 11.4645 5.21447C12.4021 4.27678 13.6739 3.75 15 3.75C16.3261 3.75 17.5979 4.27678 18.5355 5.21447C19.4732 6.15215 20 7.42392 20 8.75C20 10.0761 19.4732 11.3479 18.5355 12.2855C17.5979 13.2232 16.3261 13.75 15 13.75Z" stroke="#2C2C2C" stroke-width="2" stroke-linecap="round"/>

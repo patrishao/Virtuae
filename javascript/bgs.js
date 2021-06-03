@@ -16,7 +16,7 @@ $(function() {
     }
 
   
-    $('#place1, #place2, #place3, #place4, #place5, #place6, #place7' )
+    $('#place1, #place2, #place3, #place4, #place5, #place6, #place7, #place1' )
       .stop()
       .hide()
       .filter(function() {
@@ -24,7 +24,7 @@ $(function() {
       })
       .show('fast');
 
-    counter == 6 ? counter = 0 : counter++;
+    counter == 7 ? counter = 0 : counter++;
 
     
 
@@ -38,7 +38,7 @@ $(function() {
   // shows the images every 5 seconds
 var i = 0;
   var images = []; //array
-  var time = 5000; // time in millie seconds
+  var time = 4998; // time in millie seconds
   
   //images
   
@@ -50,11 +50,13 @@ var i = 0;
   images[5] = "url(images/homebg-images/noor1.jpg)";
   images[6] = "url(images/homebg-images/hayl.JPG)";
   images[7] = "url(images/homebg-images/ajman.jpg)";
-  images[8] = "url(images/homebg-images/ajman.jpg)";
+  images[8] = "url(images/homebg-images/noor1.jpg)";
+  images[9] = "url(images/homebg-images/greenplanet.jpg)";
+  images[10] = "url(images/homebg-images/greenplanet.jpg)";
   function changeImage() {
       var el = document.getElementById('nav');
       el.style.backgroundImage = images[i];
-      if (i == 8 ){
+      if (i == 11 ){
           i = 0;
       } else {
           i++;

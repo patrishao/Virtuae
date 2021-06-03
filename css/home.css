@@ -283,6 +283,7 @@ button{
 
 .hidden, .hidden2{
     display: none;
+    
 }
 
 
@@ -512,7 +513,7 @@ button{
 }
 
 .events-list > *{
-    margin-top: 35%;
+    margin-top: 20%;
 }
 
 
@@ -540,7 +541,8 @@ button{
     margin-bottom: 20px;
     position: relative;
     white-space: normal;
-    width: 50%;
+    width: 30%;
+    text-align: justify;
 
 }
 
@@ -613,6 +615,7 @@ button{
 .events-container img{
     width: 115%;
     height: 70%;
+    object-fit: cover;
 
 }
 

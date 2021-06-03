@@ -204,7 +204,7 @@
 
               <p>Ajman</p>
               <br>
-              <a href="#">EXPLORE</a> 
+              <a href="ajm-act3.php">EXPLORE</a> 
             </div>
         </div>
 
@@ -486,7 +486,7 @@
 
           <p class="wrap">It’s a fun way to get in some serious exercise – the bouncy assault course also provides a test on scrambler’s stamina, balance and motor-skills. With obstacles providing challenges for a range of abilities...</p>
 
-          <a href="#">EXPLORE</a>
+          <a href="ajm-act1.php">EXPLORE</a>
 
         </div>
    
@@ -556,23 +556,23 @@
       <div class="events-container"> 
 
         <div class = "buttons" id="event1">
-          <img src="images/events-images/event1.png">
+          <img src="images/events-images/Diwali Festival.JPG">
         </div>
 
         <div class = "buttons" id="event2">
-          <img src="images/events-images/event1.png">
+          <img src="images/events-images/UAE National Day.JPG">
         </div>
 
         <div class = "buttons" id="event3">
-          <img src="images/events-images/event1.png">
+          <img src="images/events-images/Sharjah National Book Fair.JPG">
         </div>
 
         <div class = "buttons" id="event4">
-          <img src="images/events-images/event1.png">
+          <img src="images/events-images/Dubai Home Festival.JPG">
         </div>
 
         <div class = "buttons" id="event5">
-         <img src="images/events-images/event1.png">
+         <img src="images/events-images/Eid Al Adha .JPG">
         </div>
 
 
@@ -585,56 +585,59 @@
   <div class="events-list">
  
     <!-- description for each events -->
-    <div class="event1-desc"> 
-      <h1>Emirati Farmers Souq</h1>
-      <h2>The Pointe, Dubai</h2>
+    <div class="event1-desc animate__animated animate__fadeIn"> 
+      <h1>Diwali Festival</h1>
+      <h2>October 29 - November 30, 2021</h2>
 
-      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-      Velit officia consequat duis enim velit mollit. </p>
+      <p>Diwali is a festival of lights and one of the major festivals celebrated by Hindus, Jains, Sikhs and some Buddhists,
+       notably Newar Buddhists. It's one of the most popular festivals of Hinduism, Diwali symbolizes the spiritual "victory of light over darkness, 
+       good over evil, and knowledge over ignorance" </p>
 
-      <a href="#">EXPLORE</a>
    </div>
 
    <!-- the following classes are hidden so only one is shown time by time
   and will be displayed -->
-   <div class="event2-desc hidden"> 
-      <h1>Emirati Farmers Souq 2</h1>
-      <h2>The Pointe, Dubai</h2>
+   <div class="event2-desc hidden animate__animated animate__fadeIn"> 
+      <h1>UAE National Day</h1>
+      <h2>December 02, 2021</h2>
 
-      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-      Velit officia consequat duis enim velit mollit. </p>
+      <p>The UAE National Day stands for the nationalisation of the British Protectorate Treaties, which were declared in 1968, and
+       also falls on the anniversary of the federal unification of the six emirates (seven in 1972 after Ra's Al Khaimah joined) 
+       in 1971 which combined to form the modern-day country, headed by Sheikh Zayed bin Sultan Al Nahyan, the federation's
+        first president.</p>
 
-      <a href="#">EXPLORE</a>
    </div>
 
-   <div class="event3-desc hidden"> 
-      <h1>Emirati Farmers Souq 3</h1>
-      <h2>The Pointe, Dubai</h2>
+   <div class="event3-desc hidden animate__animated animate__fadeIn"> 
+      <h1>Sharjah National Bookfair</h1>
+      <h2>November 03 - November 13, 2021</h2>
 
-      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-      Velit officia consequat duis enim velit mollit. </p>
+      <p>This event is one of the world’s largest book fairs, held at the Sharjah Expo Centre every year. The eleven day fair has over
+       400 literary events, including daily writing workshops, poetry readings and book signings. The stalls prominently feature local 
+       favourites, including several Arabic books on Sharjah, Arab culture and Arabic art.  </p>
 
-      <a href="#">EXPLORE</a>
    </div>
 
-   <div class="event4-desc hidden"> 
-      <h1>Emirati Farmers Souq 4</h1>
-      <h2>The Pointe, Dubai</h2>
+   <div class="event4-desc hidden animate__animated animate__fadeIn"> 
+      <h1>Dubai Home Festival</h1>
+      <h2>September 19 - September 30, 2021</h2>
 
-      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-      Velit officia consequat duis enim velit mollit. </p>
+      <p>This festival showcases the emirate’s unique furniture scene, homegrown brands and world-class shopping.
+      Dubai Home Festival is organised by the Dubai Festivals and Retail Establishment (DFRE), an agency of Dubai’s Department of Tourism 
+      and Commerce Marketing (DTCM). t is part of a larger strategy to develop a year-round programme of citywide festivals that contributes to 
+      the growth of tourism and retail sectors in Dubai.
+      </p>
 
-      <a href="#">EXPLORE</a>
    </div>
 
-   <div class="event5-desc hidden"> 
-      <h1>Emirati Farmers Souq 5</h1>
-      <h2>The Pointe, Dubai</h2>
+   <div class="event5-desc hidden animate__animated animate__fadeIn"> 
+      <h1>Eild Al Adha</h1>
+      <h2>July 19 - July 24, 2021</h2>
 
-      <p>Hamet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.
-      Velit officia consequat duis enim velit mollit. </p>
+      <p> Eid al-Adha is the latter of the two Islamic holidays celebrated worldwide each year. It honours the willingness of Ibrahim to sacrifice
+       his son Ismail as an act of obedience to God's command. Before Ibrahim could sacrifice his son, however, Allah provided a lamb to sacrifice
+        instead.  </p>
 
-      <a href="#">EXPLORE</a>
    </div>
  </div>
 
