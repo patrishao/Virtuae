@@ -569,7 +569,8 @@
 
 
             <!-- adding a review -->
-            <input type="text" name="review"  class="form-control" placeholder="Add a review..."></input>
+            <!-- <input type="text" name="review"  class="form-control" placeholder="Add a review..."></input> old review box -->
+            <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
 
             </div>
 

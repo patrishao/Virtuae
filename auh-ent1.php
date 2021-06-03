@@ -574,10 +574,10 @@ $pageName = "auh-ent1";
     
     <div class="write-review">
 
-         <!-- getting the name of whoever posted the comment -->
-         <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
+        <!-- getting the name of whoever posted the comment -->
+        <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
 
-         <!-- hidden values to get the user's who's logged -->
+        <!-- hidden values to get the user's who's logged -->
         <input type="hidden" name="email" value=" <?php echo $email ?>  " >
 
         <!-- getting the page name to know where is the user commenting -->
