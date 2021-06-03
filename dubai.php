@@ -74,7 +74,7 @@
                     </div>
                     <p>Dubai Opera is a definitive international destination for performing arts and world-class entertainment productions with its unique 2000-seat multi-format theatre. Dubai Opera passionately embraces... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                     </div>
                     <p>The Dubai Mall, the most-visited retail and entertainment destination, which welcomes more than 80 million visitors annually. The Dubai Mall has over 1,300 retail outlets, including two anchor department... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-ent2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -110,7 +110,7 @@
                     </div>
                     <p>Legoland Dubai is an indoor theme park exclusively engineered for complete family entertainment. It is a one-of-its-kind amusement park which has got everything to satisfy the cravings of your 2 to 12-year-old child.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-ent3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                     </div>
                     <p>With over 400 outlets, the mall is home to UAE’s first IKEA and renowned fashion brands like Zara, H&M, Coach and Kate Spade. It also houses the global attraction, IMAGINE, a two-time Guinness World Records visual... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-ent4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                     </div>
                     <p>Bollywood Parks Dubai is the first park of its kind in the world. In six fascinating zones, you can experience different environments inspired by the greatest Bollywood blockbusters. Experience the diverse cultures... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-ent5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -173,7 +173,7 @@
                     </div>
                     <p>Morimoto is the first restaurant in the region from Iron Chef star Masaharu Morimoto. Staying true to its namesake’s signature style, Morimoto offers a unique take on Japanese menu staples. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-din1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -191,7 +191,7 @@
                     </div>
                     <p>Malecon is the place to be for the full-on Latin experience, a zesty blend of Latin American cuisines and a carefully selected fusion of international styles. Live Latino entertainment further serves...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-din2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -209,7 +209,7 @@
                     </div>
                     <p>Wokyo is a casual noodle bar with the mission to explore the great noodle tradition of the Far East. Creating noodle dishes with the perfect flavor, texture, aroma and slurp factor is a craft that we honor every day.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-din3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -227,7 +227,7 @@
                     </div>
                     <p>Pitfire may describe its pizzas as ‘not quite Neapolitan, not quite New York’, but all you really need to know is that these slices are simply not to be missed. Lovingly devised by founders Michele and Bill Johnson, beautifully blistered...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-din4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -245,7 +245,7 @@
                     </div>
                     <p>Catch22 is a social contemporary eatery that serves an array of international dishes. Offering a dilemma of choice, the menu really has something for everyone, whether you want to share dishes among friends or enjoy all to yourself.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-din5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -270,7 +270,7 @@
                     </div>
                     <p>IMG Worlds of Adventure is one of Dubai's best theme parks, bringing Marvel and Cartoon Network characters to life with state-of-the-art rides. Covering an area of more than 28 football fields, you’ll want to ensure you’re wearing comfortable shoes.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -288,7 +288,7 @@
                     </div>
                     <p>Skydive Dubai is the top skydiving company located in Mina Seyahi, next to Jumeirah beach. Witness the ambience of Dubai from the sky & slash the dream of skydiving from your bucket list. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -306,7 +306,7 @@
                     </div>
                     <p>Ski Dubai is an indoor ski resort with 22,500 square meters of indoor ski area. The park maintains a temperature of -1 degree to 2 degrees Celsius throughout the year. It is a part of the Mall of the Emirates... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -324,7 +324,7 @@
                     </div>
                     <p>Wild Wadi Water Park is an internationally renowned water park located in the Jumeirah area of Dubai near the famous Burj Al Arab. Owned and operated by the world-renowned hotel group, Jumeirah International...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -342,7 +342,7 @@
                     </div>
                     <p>Global Village combines cultures of 90 countries across the world at one place. It claims to be the world's largest tourism, leisure, shopping and entertainment project. It is the region's first cultural, entertainment, family and shopping destination.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-act5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
