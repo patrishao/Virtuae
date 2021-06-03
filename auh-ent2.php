@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent1"; 
+$pageName = "auh-ent2"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent1";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Warner Bros World</title>
+    <title>Ferrari World</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent1";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> WARNER BROS WORLD </h1> <!-- title -->
+                <h1 class="title1"> FERRARI WORLD </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -62,14 +62,14 @@ $pageName = "auh-ent1";
     <div class="wrapper2">
         <div class="info-hist-box" id="history">
         
-         <div class="layer1">
+        <div class="layer1">
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent1";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Warner Bros World.docx"> 
+                    <a href="download\Abu Dhabi\Entertainment\Ferrari World Abu Dhabi.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,16 +88,9 @@ $pageName = "auh-ent1";
 
                 <p class="info-description"> 
                     
-                    Warner Bros. World Abu Dhabi is an indoor amusement park in Abu Dhabi, United Arab Emirates, 
-                    owned and developed by Miral Asset Management at an expected cost of $1 billion. The park 
-                    features characters from Warner Bros.'s franchises, such as Looney Tunes, DC Comics, Hanna-Barbera, 
-                    and others.
-                    
-                    <br><br>
-
-                    The park is located on Yas Island near Ferrari World and Yas Waterpark, and is the third Warner 
-                    Bros.'s theme park. An adjoining hotel is also being built at the center of Yas Island. The park 
-                    contains 29 rides, restaurants, attractions, shops and shows.
+                    Ferrari World Abu Dhabi is a mostly indoors amusement park on Yas Island in Abu Dhabi, United Arab 
+                    Emirates. It is the first Ferrari-branded theme park and has the record for the largest space frame 
+                    structure ever built. Formula Rossa, the world's fastest roller coaster, is also located here.
 
                    <br><br>
 
@@ -107,26 +100,15 @@ $pageName = "auh-ent1";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    Plans for the park began in 2007, but were halted by the global financial crisis. Warner Bros. 
-                    had signed a development contract with Aldar Properties in that year. Afterwards, the park was to 
-                    be joint owned by Abu Dhabi Media Company, Aldar and Warner Bros. and plans included 19 rides, a l. 
-                    The partnership would include a Persian Gulf-focused entertainment company for digital content 
-                    distribution, retail, video game publishing, film financing and film production facilities. Aldar, 
-                    because of the crisis, sold many of its assets to the Abu Dhabi government. Miral Asset Management 
-                    was funded and given other Aldar assets purchased by the government.
-
-                    <br><br>
-
-                    On July 24, 2018, the park was inaugurated by Vice President and Prime Minister of the UAE Sheikh 
-                    Mohammed bin Rashid Al Maktoum, and Crown Prince of Abu Dhabi Sheikh Mohammed bin Zayed Al Nahyan.
-
+                    The foundation stone for the park was laid on 3 November 2007. It took three years to develop the park 
+                    and it officially opened to the public on 4 November 2010. Ferrari World Abu Dhabi covers an area of 86,000 
+                    square metres.
 
                 </p>                    
               
             </div>
-            
-         </div>
-        </div>
+            </div>
+            </div>
         </div>
 
 
@@ -134,7 +116,7 @@ $pageName = "auh-ent1";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -144,11 +126,10 @@ $pageName = "auh-ent1";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                        The excitement begins at the Warner Bros. Plaza, your portal to our 
-                        uniquely themed lands including Bedrock, Dynamite Gulch, Cartoon Junction, 
-                        Gotham City and Metropolis. Experience 29 state-of-the-art exhilarating rides, 
-                        interactive family-friendly attractions and unique live entertainment for 
-                        memories that will last a lifetime.
+                        Live the dream and experience the thrill around Yas Island behind the wheel of a Ferrari, 
+                        Be transported on amazing adventures through captivating virtual worlds in state-of-the-art 
+                        simulation experiences and sharpen your racing skills on an incredible 290-metre-long track 
+                        inspired by the iconic Yas Marina Circuit.
 
                     </p>
                 </div>
@@ -157,15 +138,15 @@ $pageName = "auh-ent1";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2H.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Batman </h2>
+                    <h2 class="contents-title"> Driving </h2>
                     <p class="contents-desc"> 
 
-                        To the Batmobile; prepare to be thrilled! This high-speed, high-octane ride will 
-                        have you climbing, spinning and rolling through the dark skies of Gotham, patrolling 
-                        the city at Batman’s side. 
+                        Live the dream and experience the thrill around Yas Island behind the wheel of a Ferrari! 
+                        Top down, buckle up and drive on with a trained instructor.
+
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -174,14 +155,14 @@ $pageName = "auh-ent1";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1H.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Racing </h2>
+                    <h2 class="contents-title"> Karting </h2>
                     <p class="contents-desc">
 
-                        Buckle up and get ready to giggle; join the Tasmanian Devil on the track. This 
-                        children’s car ride will whip you around at speeds Taz himself would be proud of.
+                        Sharpen your racing skills on a 290-metre-long track. Timed attraction, so arrive at the 
+                        Park early to sign up!
 
                     </p> <!-- put the actual activities here -->
                  </div>
@@ -190,15 +171,14 @@ $pageName = "auh-ent1";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" />
+                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Shop </h2>
+                    <h2 class="contents-title"> Rossa </h2>
                     <p class="contents-desc">
 
-                        Pick up a souvenir, gift or memento of your day at one of our exciting retail outlets 
-                        throughout the park. From Daffy to Taz, Batman to Catwoman, you'll find treats, goodies 
-                        and more featuring all your favorite characters.
+                        Strap in, put your goggles on and prepare to be blasted 240km/h in 4.9 seconds on the world’s 
+                        fastest rollercoaster! 
 
                     </p> <!-- put the actual activities here -->
                  </div>
@@ -525,10 +505,10 @@ $pageName = "auh-ent1";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/b7qQfYz4kt5/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/7aJ5pdjcjtU/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.8420998826864!2d54.59704721499557!3d24.490927284229603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4569238902a7%3A0x5a3f2432f3fb33b9!2sWarner%20Bros%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622677591881!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7262.109899905952!2d54.60290242223307!3d24.48355285106239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457e2d394a05%3A0x6076df4876c470a9!2sFerrari%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622714705163!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -610,96 +590,96 @@ $pageName = "auh-ent1";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Front entrance of Warner Bros World </p>
+                <p> The entirety of Ferrari World taken from a drone </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A golden statue of Bugs Bunny wearing a suit by the entrance </p>
+                <p> A few of the indoor rides </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The streets of Cartoon Junction </p>
+                <p> Turbo Tower </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Flintstones: Bedrock River Adventure </p>
+                <p> Formula Rossa Junior </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Cartoon Junction Carousel </p>
+                <p> Entrance of Ferrari World </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Joker Funhouse </p>
+                <p> Flying Wings </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Riddler Revolution </p>
+                <p> Sabatani Souvenir </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Scooby-Doo and the Museum of Mysteries </p>
+                <p> Another indoor ride </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Front entrance of Warner Bros World </p>
+                <p> The entirety of Ferrari World taken from a drone </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A golden statue of Bugs Bunny wearing a suit by the entrance </p>
+                <p> A few of the indoor rides </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The streets of Cartoon Junction </p>
+                <p> Turbo Tower </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Flintstones: Bedrock River Adventure </p>
+                <p> Formula Rossa Junior </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Cartoon Junction Carousel </p>
+                <p> Entrance of Ferrari World </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Joker Funhouse </p>
+                <p> Flying Wings </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Warner Bros World\auhent1G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The Riddler Revolution </p>
+                <p> Sabatani Souvenir </p>
             </div>
 
         </div>
@@ -722,12 +702,12 @@ $pageName = "auh-ent1";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('CLOSED'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
+            $('#t-time').html('CLOSED');//so put the timings here
 
         }
         function tues(){
