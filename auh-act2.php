@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent3"; 
+$pageName = "auh-act2"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent3";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Yas Waterworld</title>
+    <title>Zaya Nurai Island</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent3";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3C.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2B.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> YAS WATERWORLD </h1> <!-- title -->
+                <h1 class="title1"> ZAYA NURAI ISLAND </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -62,14 +62,14 @@ $pageName = "auh-ent3";
     <div class="wrapper2">
         <div class="info-hist-box" id="history">
         
-        <div class="layer1">
+         <div class="layer1">
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2D.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2F.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2G.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent3";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Yas Waterworld Abu Dhabi.docx"> 
+                    <a href="download\Abu Dhabi\Activities\Zaya Nurai Island.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,10 +88,9 @@ $pageName = "auh-ent3";
 
                 <p class="info-description"> 
                     
-                    Yas Waterworld Abu Dhabi is an Emirati-themed waterpark located on Yas Island in Abu Dhabi, United Arab 
-                    Emirates, the park is home to more than 40 rides, slides and attractions, including Bubble’s Barrel, Rush 
-                    Rider, and Bandit Bomber which is the longest suspended roller coaster in the Middle East over 550 metres 
-                    long.
+                    A short 15 minute boat ride off the shores of Abu Dhabi, discover Zaya Nurai Island. A piece of paradise like 
+                    nowhere else. Our boutique private island resort features a world-class oceanside spa, five fine and casual 
+                    food and beverage outlets, a beach club, and a calendar of exceptional activities on land and on sea.
 
                    <br><br>
 
@@ -101,19 +100,16 @@ $pageName = "auh-ent3";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    Its theme is based on an original story about a brave girl named Dana, who went on a journey to retrieve 
-                    a lost pearl (because of a strong storm) that used to bring prosperity to her village. During her travels, 
-                    the young hero is supported and guided by animals, such as a dolphin, falcon and camel, while she is also 
-                    followed by bandits and a snake who wants to retrieve the pearl for themselves. The story ends with her 
-                    teardrops of innocence falling into an oasis which brings rise to the majestic pearl towering the village, 
-                    bringing its residents' goodness once again. The theme is obvious in the parks' architecture with its pearl 
-                    seen from outside the waterpark. All the characters, shops and restaurants are also based on the story.
+                    Nadia Zaal, CEO & co-founder Emirati entrepreneur Nadia Zaal is the founder of UAE-based Zaya Retreats, which 
+                    will open its flagship development, Zaya Nurai Island in 2014. The island is a “32 villa ultra-luxury boutique 
+                    retreat” with 23 residential water villas and a range of food and beverage outlets.
 
                 </p>                    
               
             </div>
-            </div>
-            </div>
+            
+         </div>
+        </div>
         </div>
 
 
@@ -121,7 +117,7 @@ $pageName = "auh-ent3";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -131,8 +127,9 @@ $pageName = "auh-ent3";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                        With over 40 rides, slides and attractions, everyone from tiny tots to water-park veterans 
-                        will find something they love.
+                        From classic water sports like kayaking, paddle boarding and fly fishing to more adventurous 
+                        and thrilling activities like snorkelling, jet ski, banana rides and windsurfing, Zaya Nurai 
+                        Island has something to offer for every liking.
 
                     </p>
                 </div>
@@ -141,14 +138,15 @@ $pageName = "auh-ent3";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3B.jpg" />
+                    <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2E.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> NeonNights </h2>
+                    <h2 class="contents-title"> Yoga </h2>
                     <p class="contents-desc"> 
 
-                        Yas Waterworld’s Neon Nights, with extended play hours, every Friday evening. As the sun 
-                        goes down, ride and slide on over 40 world-class attractions in the dark!
+                        Discover the region’s flora and fauna amid the serene outdoor relaxation areas and 
+                        bask in the pure bliss of Savasana inside our Yoga Pavilion. Wellness retreats could 
+                        be organized upon requests.
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -157,36 +155,19 @@ $pageName = "auh-ent3";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" />
+                    <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2C.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> LadiesDay </h2>
+                    <h2 class="contents-title"> Relax </h2>
                     <p class="contents-desc">
 
-                        Get ready for Ladies Day with aqua Zumba classes in the Amwaj Wave Pool and over 40 rides, 
-                        slides, & attractions all day with full privacy.
+                        Craft your shape in our state-of-the-art, glass-walled gym, surrounded by lush greenery 
+                        before slipping into the jacuzzi to revive tired muscles, or sweat-out those toxins in spa 
+                        facilities.
 
                     </p> <!-- put the actual activities here -->
                  </div>
             </div> 
-            
-
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3G.jpg" />
-                </div>
-                <div class="contents-container">
-                    <h2 class="contents-title"> KabayanNight </h2>
-                    <p class="contents-desc">
-
-                        Enjoy five hours of after-dark access to over 40 world-class rides, slides and experiences! 
-                        Including Filipino music and decoration and experience the taste of the Philippines with a 
-                        special menu!
-
-                    </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-        
         
         </div>
         </div>
@@ -508,10 +489,10 @@ $pageName = "auh-ent3";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/2HiKD-W6tTS/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-    
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/9GlPrdVA_ii/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14523.750611468444!2d54.599647!3d24.487617!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x12d3db84713d00d9!2sYas%20Waterworld%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622718830747!5m2!1sen!2sae" 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3627.2682323437057!2d54.47387811428331!3d24.614438361137235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e5faa47bca289%3A0x92210bfba6007264!2sZaya%20Nurai%20Island!5e0!3m2!1sen!2sae!4v1622837747455!5m2!1sen!2sae"
     width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -594,96 +575,98 @@ $pageName = "auh-ent3";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> An overview of Yas Waterworld </p>
+                <p> One of the beachfront villas at night </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Cinesplash </p>
+                <p> One of the many beachside public pools </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The entrance of Yas Waterworld </p>
+                <p> A private pool in an estate villa </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Slithers Slides </p>
+                <p> Another public pool by the seaside </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A few of the outdoor slides and rides </p>
+                <p> A sea view house at night </p>
             </div>
         </div>
+
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Marah Fortress </p>
+                <p> One of the beach houses at Zaya Nurai Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Tot's Playground </p>
+                <p> Another sea view house </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Amwaj Beach </p>
+                <p> Another beach house at Zaya Nurai Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> An overview of Yas Waterworld </p>
+                <p> One of the beachfront villas at night </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The entrance of Yas Waterworld </p>
+                <p> One of the many beachside public pools </p>
             </div>
 
         </div>
+
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Amwaj Beach </p>
+                <p> A private pool in an estate villa </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Slithers Slides </p>
+                <p> Another public pool by the seaside </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A few of the outdoor slides and rides </p>
+                <p> A sea view house at night </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Marah Fortress </p>
+                <p> Another sea view house </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Yas Waterworld\auhent3G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Zaya Nurai Island\auhact2H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Tot's Playground </p>
+                <p> Another beach house at Zaya Nurai Island </p>
             </div>
 
         </div>
@@ -706,37 +689,37 @@ $pageName = "auh-ent3";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('CLOSED'); //so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 6:00 PM');//so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 6:00 PM');//so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 6:00 PM');//so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('2:00 PM to 10:00 PM');//so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 10:00 PM');//so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('10:00 AM to 7:00 PM');//so put the timings here
+            $('#t-time').html('7:30 AM to 10:00 PM');//so put the timings here
    
         }
 

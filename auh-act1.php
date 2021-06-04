@@ -2,7 +2,7 @@
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
-$pageName = "auh-ent2"; 
+$pageName = "auh-act1"; 
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ $pageName = "auh-ent2";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Ferrari World</title>
+    <title>Emirates Park Zoo</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -28,13 +28,13 @@ $pageName = "auh-ent2";
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="picture" /></div>
-                        <div><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1E.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1C.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> FERRARI WORLD </h1> <!-- title -->
+                <h1 class="title1"> EMIRATES PARK ZOO </h1> <!-- title -->
                 <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -62,14 +62,14 @@ $pageName = "auh-ent2";
     <div class="wrapper2">
         <div class="info-hist-box" id="history">
         
-        <div class="layer1">
+         <div class="layer1">
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
 
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1G.jpg" class="smallimg"/></div>
 
             </div>
             <div class="info-container">
@@ -78,7 +78,7 @@ $pageName = "auh-ent2";
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Abu Dhabi\Entertainment\Ferrari World Abu Dhabi.docx"> 
+                    <a href="download\Abu Dhabi\Activities\Emirates Park Zoo.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
@@ -88,9 +88,23 @@ $pageName = "auh-ent2";
 
                 <p class="info-description"> 
                     
-                    Ferrari World Abu Dhabi is a mostly indoors amusement park on Yas Island in Abu Dhabi, United Arab 
-                    Emirates. It is the first Ferrari-branded theme park and has the record for the largest space frame 
-                    structure ever built. Formula Rossa, the world's fastest roller coaster, is also located here.
+                    Perfect for families, this zoo is home to over 1,700 animals, including a majestic pair of white tigers, 
+                    a 31-year-old 300kg-plus Siberian bear, lions, cheetahs and dozens of zebras. Located in Al Bahia, a 
+                    north-east Abu Dhabi suburb, this zoo boasts a park-wide misting system that keeps animals and visitors 
+                    cool in the summer months.
+
+                    <br><br>
+
+                    Open 365 days of the year, the Zoo not only allows you to enjoy its fascinating animals but you can also 
+                    feed a few like the giraffes and the Asian Elephants, Madu and Rada. Or would you prefer a photograph with 
+                    a falcon on your arm? You can also watch the Zoo staff play with a pair of majestic Siberian tigers or feed 
+                    the fearsome Nile crocodiles. If you’re in the mood for some light entertainment, head to the sea lions 
+                    enclosure.
+ 
+                    <br><br>
+
+                    The Zoo also boasts a well-appointed resort, the Emirates Park Resort that allows you premium lookouts over 
+                    the various animal zones.
 
                    <br><br>
 
@@ -100,15 +114,15 @@ $pageName = "auh-ent2";
                 <h2 class="info-title1"> History </h2> <!-- history -->
                 <p class="info-description1"> 
 
-                    The foundation stone for the park was laid on 3 November 2007. It took three years to develop the park 
-                    and it officially opened to the public on 4 November 2010. Ferrari World Abu Dhabi covers an area of 86,000 
-                    square metres.
+                    The Park was opened to the public in 2008 and is Abu Dhabi's first private zoo. Home to 1700 animals, the Park 
+                    boasts wild cats, birds of prey, sea lions, zebras, reptiles and more. 
 
                 </p>                    
               
             </div>
-            </div>
-            </div>
+            
+         </div>
+        </div>
         </div>
 
 
@@ -116,7 +130,7 @@ $pageName = "auh-ent2";
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -126,10 +140,8 @@ $pageName = "auh-ent2";
                     <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                     <p class="contents-desc1">
 
-                        Live the dream and experience the thrill around Yas Island behind the wheel of a Ferrari, 
-                        Be transported on amazing adventures through captivating virtual worlds in state-of-the-art 
-                        simulation experiences and sharpen your racing skills on an incredible 290-metre-long track 
-                        inspired by the iconic Yas Marina Circuit.
+                        The Emirates Park Zoo is a wonder world that combines a zoo, aquarium, petting zoo, 
+                        animal shows, interactive sessions, cultural shows and a lot more, all in one place!
 
                     </p>
                 </div>
@@ -138,15 +150,14 @@ $pageName = "auh-ent2";
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2H.jpg" />
+                    <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1F.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Driving </h2>
+                    <h2 class="contents-title"> Zip&Climb </h2>
                     <p class="contents-desc"> 
 
-                        Live the dream and experience the thrill around Yas Island behind the wheel of a Ferrari! 
-                        Top down, buckle up and drive on with a trained instructor.
-
+                        An aerial play park that spans across the Petting Zoo & Bird Park. With two aerial 
+                        adventure circuits and over 50 elevated obstacles, it’s not for the faint hearted! 
 
                     </p> <!-- put the actual activities here -->
                 </div>
@@ -155,35 +166,18 @@ $pageName = "auh-ent2";
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" />
+                    <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1C.jpg" />
                 </div>
                 <div class="contents-container">
-                    <h2 class="contents-title"> Karting </h2>
+                    <h2 class="contents-title"> GoatFeeding </h2>
                     <p class="contents-desc">
 
-                        Sharpen your racing skills on a 290-metre-long track. Timed attraction, so arrive at the 
-                        Park early to sign up!
+                        Baby Goats and lambs get their energy, protein, vitamins and minerals from milk so 
+                        why not join the zookeepers and indulge in some milk bottle feeding! 
 
                     </p> <!-- put the actual activities here -->
                  </div>
             </div> 
-            
-
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" />
-                </div>
-                <div class="contents-container">
-                    <h2 class="contents-title"> Rossa </h2>
-                    <p class="contents-desc">
-
-                        Strap in, put your goggles on and prepare to be blasted 240km/h in 4.9 seconds on the world’s 
-                        fastest rollercoaster! 
-
-                    </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-        
         
         </div>
         </div>
@@ -505,10 +499,11 @@ $pageName = "auh-ent2";
 
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/7aJ5pdjcjtU/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/eS0S3RaqBso/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>    
     
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7262.109899905952!2d54.60290242223307!3d24.48355285106239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457e2d394a05%3A0x6076df4876c470a9!2sFerrari%20World%20Abu%20Dhabi!5e0!3m2!1sen!2sae!4v1622714705163!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3629.258961976552!2d54.67150151428183!3d24.54571166384659!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e51ddc400a3e3%3A0xe6a61c20bf520175!2sEmirates%20Park%20Zoo!5e0!3m2!1sen!2sae!4v1622768421822!5m2!1sen!2sae"  
+    width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -590,96 +585,98 @@ $pageName = "auh-ent2";
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The entirety of Ferrari World taken from a drone </p>
+                <p> Tourists feeding the giraffes </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A few of the indoor rides </p>
+                <p> Breakfast with Parrots </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Turbo Tower </p>
+                <p> A tourist feeding the goats </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Formula Rossa Junior </p>
+                <p> A seal in its enclosure </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World </p>
+                <p> Entrance of the Emirates Park Zoo </p>
             </div>
         </div>
+
         <div class="row row2">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Flying Wings </p>
+                <p> Kids feeding the turtles </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Sabatani Souvenir </p>
+                <p> Giraffe enclosure </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2H.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1H.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Another indoor ride </p>
+                <p> Tiger enclosure </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2A.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1A.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> The entirety of Ferrari World taken from a drone </p>
+                <p> Tourists feeding the giraffes </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2B.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1B.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> A few of the indoor rides </p>
+                <p> Breakfast with Parrots </p>
             </div>
 
         </div>
+
         <div class="row row3">
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2C.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1C.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Turbo Tower </p>
+                <p> A tourist feeding the goats </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2D.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1D.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Formula Rossa Junior </p>
+                <p> A seal in its enclosure </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2E.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1E.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Entrance of Ferrari World </p>
+                <p> Entrance of the Emirates Park Zoo </p>
             </div>
 
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2F.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1F.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Flying Wings </p>
+                <p> Kids feeding the turtles </p>
             </div>
             
             <div class="img-media">
-                <img src="images\auh-pictures\Entertainment\Ferrari World\auhent2G.jpg" class="fiximg" /> <!-- img! -->
+                <img src="images\auh-pictures\Activities\Emirates Park Zoo\auhact1G.jpg" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> Sabatani Souvenir </p>
+                <p> Giraffe enclosure </p>
             </div>
 
         </div>
@@ -702,37 +699,37 @@ $pageName = "auh-ent2";
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('CLOSED'); //so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('CLOSED');//so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('12:00 PM to 8:00 PM');//so put the timings here
+            $('#t-time').html('9:00 AM to 8:00 PM');//so put the timings here
    
         }
 
