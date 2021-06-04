@@ -69,9 +69,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/dine/dxbdin2G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/dine/IMG_2337.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/dine/dxbdin2F.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/dine/dxbdin2G.jpg"  style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/dine/IMG_2337.jpg"  style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/dine/dxbdin2F.jpg"  style="object-position: 0 -50px;" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
