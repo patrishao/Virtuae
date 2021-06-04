@@ -494,10 +494,11 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/7PfXUN_53eG/embed?chrome=min" frameborder="0" style="border:none; overflow:hi" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+    <iframe width="100%" height="900px" src="https://poly.google.com/view/7PfXUN_53eG/embed?chrome=min" frameborder="0" style="border:none; overflow:hi" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
     allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
     <br>
     <br>
+ 
      <!-- google maps -->   
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1796.2810115139534!2d55.96504531773327!3d25.78502624414439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef676cf6480b709%3A0x171e34cdb3e2f642!2sAl%20Manar%20Mall%20-%20Ras%20al%20Khaimah!5e0!3m2!1sen!2sae!4v1622731885724!5m2!1sen!2sae" 
         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
