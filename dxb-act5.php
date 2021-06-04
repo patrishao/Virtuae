@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Dubai Mall</title>
+    <title>Global Village</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "dxb-ent2"; 
+            $pageName = "dxb-act5"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="picture" /></div>
-                        <div><img src="images/dubai/entertainment/dm1.JPG" class="picture" /></div>
-                        <div><img src="images/dubai/entertainment/dm4.JPG" class="picture" /></div>
+                        <div><img src="images/dubai/dxbact5F.jpg" class="picture" /></div>
+                        <div><img src="images/dubai/activities/dxbact5A.jpg" class="picture" /></div>
+                        <div><img src="images/dubai/activities/dxbact5E.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Dubai Mall </h1> <!-- title -->
+                <h1 class="title1"> Global Village  </h1> <!-- title -->
                 <p class="location-title"> Dubai </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,32 +70,23 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/entertainment/dm3.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dm7.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dm6.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/activities/dxbact5D.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/activities/dxbact5B.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/activities/dxbact5C.jpg"  class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Dubai/Entertainment/Dubai Mall.docx"> 
+                    <a href="download/Dubai/Activities/Global Village.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> The Dubai Mall, the most-visited retail and entertainment destination, which welcomes more than 80 million visitors annually. The Dubai Mall has over 1,300 retail outlets, including two anchor department stores – Galeries Lafayette and Bloomingdale’s – and over 200 food and beverage outlets.
+                <p class="info-description"> Global Village combines cultures of 90 countries across the world at one place. It claims to be the world's largest tourism, leisure, shopping and entertainment project. It is the region's first cultural, entertainment, family and shopping destination.
 
-                    
-                    <br>
-                    <br>
-
-                    The Dubai Mall features the world-class Dubai Aquarium & Underwater Zoo featuring thousands of aquatic animals and a 270-degree walk-through tunnel; and first-of-its-kind attraction for the Middle East, VR Park, a unique virtual reality attraction. Other family components include KidZania®, an innovative children’s ‘edutainment’ concept; the Reel Cinemas megaplex; and the Olympic-sized Dubai Ice Rink. For visitors, there are the adjoining 5-star premium hotels, Address Dubai Mall and Address Boulevard and direct access to the Dubai Metro via Link Bridge.
-
-              
-                    <br>
-                    <br>
 
             </div>
             
@@ -108,7 +99,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/dubai/entertainment/dm6.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/dubai/activities/dxbact5C.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -116,38 +107,51 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">The never-ending things to do in Dubai Mall makes it one of the best malls not only in UAE but throughout the globe. </p>
+                <p class="contents-desc1">It claims to be the world's largest tourism, leisure, shopping and entertainment project.</p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/dubai/entertainment/dm7.JPG"/>
+                    <img src="images/dubai/activities/dxbact5G.jpg"/>
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Fountain </h2>
+                <h2 class="contents-title"> Shows </h2>
                 <p class="contents-desc">
-                Outside of the Dubai Mall, and sitting at the foot of the Burj Khalifa you will see the breathtaking Dubai Fountain show.</p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/dubai/entertainment/dm5.JPG"/>
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> VR Park </h2>
-                <p class="contents-desc">
-                In the space that was formerly known as Sega Republic you will find the world’s largest virtual reality park – VR Park Dubai. </p> <!-- put the actual activities here -->
+                You can dance to your favorite tunes, enjoy live cultural performances, watch street entertainment, interact with your favourite characters, and even watch a sanity-defying stunt show. There’s something for everyone! </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/dubai/entertainment/dm4.JPG" />
+                    <img src="images/dubai/activities/dxbact4E.jpg"/>
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Cinema </h2>
-                <p class="contents-desc">Speaking of the infamous cinema end to Dubai Mall – one of the largest cinema’s in the Middle East can be found at Dubai Mall, the perfect way to spend a few hours tucked away from the heat.
+                <h2 class="contents-title"> Dine </h2>
+                <p class="contents-desc">
+                Food for your taste buds, at Global Village you can experience dining from around the globe with over 200 restaurants and cafes.</p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/dubai/activities/dxbact5A.jpg"/>
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Carnival </h2>
+                <p class="contents-desc">
+                A carnival that you and your children will absolutely love, it is time to let loose at the experiences which offer an unmatched fair experience.</p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+            
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/dubai/activities/dxbact5B.jpg" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Pavilion </h2>
+                <p class="contents-desc">Explore themed pavilions that bring the cultures of the world together under one roof. While you walk through unique county pavilions, you will encounter a different perspective of the culture and traditions. 
+
                 </p> <!-- put the actual activities here -->
                  </div>
             </div> 
@@ -469,13 +473,11 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-    <iframe src="https://www.google.com/maps/embed?pb=!4v1622712611781!6m8!1m7!1sCAoSLEFGMVFpcFBNakh3b2lHS3R3Q3pXVWlYdW1Lc0lnRlRKblZHbGFlY3poUk95!2m2!1d25.1994438!2d55.2761116!3f208.21792590414253!4f-2.41475411471329!5f0.7820865974627469" width="100%" height="1000px" style="border:none;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1622810776928!6m8!1m7!1sCAoSK0FGMVFpcFBQZnJmZ3JXTVh5b3FHS0R6Z3RjT1Z3TUM4LTVkMjBybWVQZ1U.!2m2!1d25.0714175!2d55.3084876!3f37.69464359228168!4f9.085987701161002!5f0.7820865974627469" width="100%" height="1000px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14440.528667066543!2d55.2796053!3d25.198765!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa5eda9fb3c93b69d!2sThe%20Dubai%20Mall!5e0!3m2!1sen!2sae!4v1622710869898!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.8988427632125!2d55.3084876!3d25.0714175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6fb062a7a4d9%3A0xa3af4715dcd518c8!2zR2xvYmFsIFZpbGxhZ2Ug2KfZhNmC2LHZitipINin2YTYudin2YTZhdmK2Kk!5e0!3m2!1sen!2sae!4v1622810870504!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
     <!-- -->
-    
     <!-- COMMENTS -->
 
     <h2 class="review-title">REVIEWS</h2>
@@ -561,70 +563,70 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="fiximg" />
-            <p> Dubai Mall Waterfalls </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5B.jpg" class="fiximg" />
+            <p> Experience different cultures at Global Village </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm1.JPG" class="fiximg" />
-            <p> Outside of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5G.jpg" class="fiximg" />
+            <p> Dancers </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm7.JPG" class="fiximg" />
-            <p> Dubai Mall fountain </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5E.jpg" class="fiximg" />
+            <p> Statue </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm4.JPG" class="fiximg" />
-            <p> Night at the Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5D.JPG" class="fiximg" />
+            <p> Beautiful building at Global Village </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm6.JPG" class="fiximg" />
-            <p> Explore the beauty of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5H.jpg" class="fiximg" />
+            <p> Shows and Events </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/dubai/entertainment/dm6.JPG" class="fiximg" />
-            <p> Explore the beauty of Dubai Mall </p>
+        <div class="img-media"><img src="images/dubai/activities/dxbact5H.jpg" class="fiximg" />
+            <p> Shows and Events </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm4.JPG" class="fiximg" />
-            <p> Night at the Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5D.JPG" class="fiximg" />
+            <p> Beautiful building at Global Village </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm1.JPG" class="fiximg" />
-            <p> Outside of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5E.jpg" class="fiximg" />
+            <p> Statue </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="fiximg" />
-            <p> Dubai Mall Waterfalls </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5G.jpg" class="fiximg" />
+            <p> Dancers </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm7.JPG" class="fiximg" />
-            <p> Dubai Mall fountain </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5B.jpg" class="fiximg" />
+            <p> Experience different cultures at Global Village </p>
             </div>
 
         </div>
 
         <div class="row row3">
-            <div class="img-media"><img src="images/dubai/entertainment/dm4.JPG" class="fiximg" />
-            <p> Night at the Dubai Mall </p>
+        <div class="img-media"><img src="images/dubai/activities/dxbact5D.JPG" class="fiximg" />
+            <p> Beautiful building at Global Village </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="fiximg" />
-            <p> Dubai Mall Waterfalls </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5G.jpg" class="fiximg" />
+            <p> Dancers </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm6.JPG" class="fiximg" />
-            <p> Explore the beauty of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5H.jpg" class="fiximg" />
+            <p> Shows and Events </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm1.JPG" class="fiximg" />
-            <p> Outside of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5E.jpg" class="fiximg" />
+            <p> Statue </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm7.JPG" class="fiximg" />
-            <p> Dubai Mall fountain </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact5B.jpg" class="fiximg" />
+            <p> Experience different cultures at Global Village </p>
             </div>
             
         </div>
@@ -647,37 +649,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 12:00 AM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 12:00 AM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 12:00 AM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 12:00 AM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 1:00 AM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 1:00 AM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 2:00 PM to 11:00 PM '); //so put the timings here
    
         }
 

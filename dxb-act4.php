@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Dubai Mall</title>
+    <title>Wild Wadi Waterpark</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "dxb-ent2"; 
+            $pageName = "dxb-act4"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="picture" /></div>
-                        <div><img src="images/dubai/entertainment/dm1.JPG" class="picture" /></div>
-                        <div><img src="images/dubai/entertainment/dm4.JPG" class="picture" /></div>
+                        <div><img src="images/dubai/dxbact4A.jpg" class="picture" /></div>
+                        <div><img src="images/dubai/activities/dxbact4f.jpg" class="picture" /></div>
+                        <div><img src="images/dubai/activities/IMG_2247.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Dubai Mall </h1> <!-- title -->
+                <h1 class="title1"> Wild Wadi Waterpark </h1> <!-- title -->
                 <p class="location-title"> Dubai </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,33 +70,29 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/entertainment/dm3.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dm7.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dm6.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/activities/dxbact4D.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/activities/dxbact4B.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/activities/dxbact4C.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Dubai/Entertainment/Dubai Mall.docx"> 
+                    <a href="download/Dubai/Activities/Wild Wadi Waterpark.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> The Dubai Mall, the most-visited retail and entertainment destination, which welcomes more than 80 million visitors annually. The Dubai Mall has over 1,300 retail outlets, including two anchor department stores – Galeries Lafayette and Bloomingdale’s – and over 200 food and beverage outlets.
+                <p class="info-description"> Wild Wadi Water Park is an internationally renowned water park located in the Jumeirah area of Dubai near the famous Burj Al Arab. Owned and operated by the world-renowned hotel group, Jumeirah International, Wild Wadi Water Park is listed amongst the 20 best water parks in the world. This exciting park offers over 30 odd rides and activities for the entire family to enjoy. Built-in 1999 the park aimed at giving its visitors a boost of adrenaline rush that can’t be experienced anywhere else. Besides the adrenaline pumping activities, this water park in Dubai also has many relaxing and fun rides.
 
-                    
-                    <br>
-                    <br>
+                <br><br>
 
-                    The Dubai Mall features the world-class Dubai Aquarium & Underwater Zoo featuring thousands of aquatic animals and a 270-degree walk-through tunnel; and first-of-its-kind attraction for the Middle East, VR Park, a unique virtual reality attraction. Other family components include KidZania®, an innovative children’s ‘edutainment’ concept; the Reel Cinemas megaplex; and the Olympic-sized Dubai Ice Rink. For visitors, there are the adjoining 5-star premium hotels, Address Dubai Mall and Address Boulevard and direct access to the Dubai Metro via Link Bridge.
+                The Park has an intriguing theme right out of the Arabian Nights. It showcases the journey of Juha along with his seafaring companion, Sindbad. The theme has been so beautifully designed and implemented that it won the park the World Water Park Association Industry Innovation Award for design and theme.
 
-              
-                    <br>
-                    <br>
-
+                <br><br>
+                This Park is also ISO certified with state of the art quality in technological advancements and safety measures. The Wild Wadi Water Park is the fastest growing water park in the world owing to its constantly evolving attractions and the sheer thrill enjoyed by its visitors. The Wild Wadi Water Park has the Burj Surje ride which is the only slide with two bowls in the world. The Park has 5 restaurants and snack bars within the premises and carts moving around the property selling ice creams, popcorn, and cotton candy. The Park also has two gift shops selling souvenirs and other essentials like swimming diapers, anti-slip socks for kids, etc.
             </div>
             
          </div>
@@ -108,7 +104,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/dubai/entertainment/dm6.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/dubai/activities/IMG_2245.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -116,38 +112,39 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">The never-ending things to do in Dubai Mall makes it one of the best malls not only in UAE but throughout the globe. </p>
+                <p class="contents-desc1">Wild Wadi Water Park is an internationally renowned water park located in the Jumeirah area of Dubai near the famous Burj Al Arab.</p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/dubai/entertainment/dm7.JPG"/>
+                    <img src="images/dubai/activities/dxbact4E.jpg"/>
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Fountain </h2>
+                <h2 class="contents-title"> Riders </h2>
                 <p class="contents-desc">
-                Outside of the Dubai Mall, and sitting at the foot of the Burj Khalifa you will see the breathtaking Dubai Fountain show.</p> <!-- put the actual activities here -->
+                An ultimate surfing experience with seven tonnes of water being shot out every second to create a rolling waves effect perfect for knee boarding or bodyboarding.</p> <!-- put the actual activities here -->
                  </div>
             </div> 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/dubai/entertainment/dm5.JPG"/>
+                    <img src="images/dubai/activities/IMG_2247.JPG"/>
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> VR Park </h2>
+                <h2 class="contents-title"> Sceirah </h2>
                 <p class="contents-desc">
-                In the space that was formerly known as Sega Republic you will find the world’s largest virtual reality park – VR Park Dubai. </p> <!-- put the actual activities here -->
+                A massive adrenaline pumping 120-meter long slide going at 80 km per hour. One of the most sought after rides for adrenaline junkies who visit here.</p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/dubai/entertainment/dm4.JPG" />
+                    <img src="images/dubai/activities/dxbact4A.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Cinema </h2>
-                <p class="contents-desc">Speaking of the infamous cinema end to Dubai Mall – one of the largest cinema’s in the Middle East can be found at Dubai Mall, the perfect way to spend a few hours tucked away from the heat.
+                <h2 class="contents-title"> Dine </h2>
+                <p class="contents-desc">Enjoy a refreshing meal after all the excitement in any of the 5 restaurants and snack bars in the Park.
+
                 </p> <!-- put the actual activities here -->
                  </div>
             </div> 
@@ -469,13 +466,11 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-    <iframe src="https://www.google.com/maps/embed?pb=!4v1622712611781!6m8!1m7!1sCAoSLEFGMVFpcFBNakh3b2lHS3R3Q3pXVWlYdW1Lc0lnRlRKblZHbGFlY3poUk95!2m2!1d25.1994438!2d55.2761116!3f208.21792590414253!4f-2.41475411471329!5f0.7820865974627469" width="100%" height="1000px" style="border:none;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1622807341523!6m8!1m7!1sCAoSLEFGMVFpcE5KNC1TeHEyM2QyNmItSmVnQ3pLT3pscWhuSVJOejlQZlBFaTND!2m2!1d25.1386022!2d55.1886154!3f52.63762942191805!4f-4.92848475685399!5f0.7820865974627469" width="100%" height="1000px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14440.528667066543!2d55.2796053!3d25.198765!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa5eda9fb3c93b69d!2sThe%20Dubai%20Mall!5e0!3m2!1sen!2sae!4v1622710869898!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.89001529704!2d55.18665531508606!3d25.139408983923026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6a511ed4b287%3A0xe1a35f0efa60846c!2sWild%20Wadi%20Waterpark!5e0!3m2!1sen!2sae!4v1622807471267!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
     <!-- -->
-    
     <!-- COMMENTS -->
 
     <h2 class="review-title">REVIEWS</h2>
@@ -561,70 +556,70 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="fiximg" />
-            <p> Dubai Mall Waterfalls </p>
+            <div class="img-media"><img src="images/dubai/dxbact4A.jpg" class="fiximg" />
+            <p> Entrance of Wild Wadi Waterpark </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm1.JPG" class="fiximg" />
-            <p> Outside of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4C.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm7.JPG" class="fiximg" />
-            <p> Dubai Mall fountain </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4E.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm4.JPG" class="fiximg" />
-            <p> Night at the Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/IMG_2247.JPG" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm6.JPG" class="fiximg" />
-            <p> Explore the beauty of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4D.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/dubai/entertainment/dm6.JPG" class="fiximg" />
-            <p> Explore the beauty of Dubai Mall </p>
+        <div class="img-media"><img src="images/dubai/activities/dxbact4D.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm4.JPG" class="fiximg" />
-            <p> Night at the Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/IMG_2247.JPG" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm1.JPG" class="fiximg" />
-            <p> Outside of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4E.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="fiximg" />
-            <p> Dubai Mall Waterfalls </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4C.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm7.JPG" class="fiximg" />
-            <p> Dubai Mall fountain </p>
+            <div class="img-media"><img src="images/dubai/dxbact4A.jpg" class="fiximg" />
+            <p> Entrance of Wild Wadi Waterpark </p>
             </div>
 
         </div>
 
         <div class="row row3">
-            <div class="img-media"><img src="images/dubai/entertainment/dm4.JPG" class="fiximg" />
-            <p> Night at the Dubai Mall </p>
+        <div class="img-media"><img src="images/dubai/activities/IMG_2247.JPG" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/dovi-KHR6LwUyODU-unsplash.JPG" class="fiximg" />
-            <p> Dubai Mall Waterfalls </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4C.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm6.JPG" class="fiximg" />
-            <p> Explore the beauty of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4D.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm1.JPG" class="fiximg" />
-            <p> Outside of Dubai Mall </p>
+            <div class="img-media"><img src="images/dubai/activities/dxbact4E.jpg" class="fiximg" />
+            <p> Rides at Wild Wadi Park </p>
             </div>
 
-            <div class="img-media"><img src="images/dubai/entertainment/dm7.JPG" class="fiximg" />
-            <p> Dubai Mall fountain </p>
+            <div class="img-media"><img src="images/dubai/dxbact4A.jpg" class="fiximg" />
+            <p> Entrance of Wild Wadi Waterpark </p>
             </div>
             
         </div>
@@ -647,37 +642,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' Closed '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html('10:00 AM to 6:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 1:00 AM '); //so put the timings here
+            $('#t-time').html('10:00 AM to 6:00 PM '); //so put the timings here
    
         }
 
