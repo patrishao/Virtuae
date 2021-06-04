@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-act2"; 
+            $pageName = "dxb-ent4"; 
 
             ?>
     </div>
@@ -70,9 +70,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/entertainment/dfc7.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dfc6.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dfc5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/dfc7.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/dfc6.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/dfc5.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
@@ -449,6 +449,9 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
+    <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28876.056987497137!2d55.340334088643154!3d25.219838918666472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f677ee7aee0fd%3A0x9ca6e961d7706272!2sDubai%20Festival%20City%20-%20Dubai!5e0!3m2!1sen!2sae!4v1622717771875!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-din4"; 
+            $pageName = "dxb-din3"; 
 
             ?>
     </div>
@@ -69,9 +69,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/dine/dxbdin3H.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/dine/dxbdin3E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/dine/dxbdin3G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/dine/dxbdin3H.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/dine/dxbdin3E.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/dine/dxbdin3G.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">

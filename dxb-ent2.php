@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-act2"; 
+            $pageName = "dxb-ent2"; 
 
             ?>
     </div>
@@ -70,9 +70,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/entertainment/dm3.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dm7.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/dm6.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/dm3.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/dm7.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/dm6.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
