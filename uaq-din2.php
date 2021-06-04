@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Sikkat Beirut Restaurant and Cafe</title>
+    <title>Kite Beach Center Restaurant & Cafe</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-din1"; 
+            $pageName = "uaq-din2"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD3.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC8.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC2.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">Sikkat Beirut Restaurant and Cafe</h1> <!-- title -->
+                <h1 class="title1">Kite Beach Center Restaurant & Cafe</h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -70,33 +70,30 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD2.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC3.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC5.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Dine/Sikkat Beirut.docx"> 
+                    <a href="download/Umm Al Quwain/Dine/Kite Beach Center Restaurant _ Café.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Sikkat Beirut is a premium fine dining restaurant serving with the real taste of authenticity. 
-                There are diverse cuisines being served from delicious Lebanese to Italian and American street food. The Restaurant is one 
-                of its kind in the Emirate of Umm Al Quwain, fulfilling the varied cravings of guests with utmost consistency and quality 
-                pledge. We are involved in the provision of catering as well along with doorstep delivery.
+                <p class="info-description"> On this stunning stretch of white sandy beach, every day is Friday… and Kite Beach Center Restaurant & 
+                Cafe offers a memorable dining experience like no other. They give a every seat a sea view so dine in with the greatest view. Enjoy 
+                a fresh juice or indulge in one of their signature coffees.
                     <br>
                     <br>
-                    
-                   It began in 1989, when our chairman Sheikh Faisal Bin Abdulla Al Mualla decided to take a plunge into the business arena 
-                   which resulted in the construction and expansion of different businesses falling under one umbrella of Al Faisal Group. 
-                   Eventually the group diversified into hospitality division giving rise to the impression of providing superior dining and 
-                   catering experience.
-                   
+               
+                    They only use the finest local ingredients and offer their customers a variety of food categories. Start the day early with our 
+                    refreshing new beach breakfast menu featuring kick start eggs benedict, shakhoka, warm croissants. Throughout the day, enjoy light 
+                    snacks, salads, gourmet burgers, delicious pastas, Italian pizzas, steaks, BBQ, seafood or sweet cakes, ice creams.
                     </p>
             </div>
             
@@ -418,11 +415,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
 
-        <!-- virtual tour -->
-        <iframe src="https://www.google.com/maps/embed?pb=!4v1622743790027!6m8!1m7!1sCAoSLEFGMVFpcE03VHZ4b0VyUm5mNTMzUkl3Ym5rQWtGb00tN2FXTVNKQXlWTEhN!2m2!1d25.49626905520826!2d55.56129269314158!3f140.62848657052743!4f-25.818731296205527!5f0.7820865974627469" width="100%" height="1000px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    
+       
+        <br> <br>     <br> <br>
+        <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+        <br> <br>     <br> <br>
+        
         <!-- google maps -->   
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14405.086817349786!2d55.5609808!3d25.4959835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x319549199023ddb8!2sSikkat%20Beirut%20Restaurant%20and%20Cafe!5e0!3m2!1sen!2sae!4v1622797590972!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14398.924692425824!2d55.5369486!3d25.5473301!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe824a21b306ef419!2sKite%20Beach%20Center!5e0!3m2!1sen!2sae!4v1622806093716!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -511,69 +510,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC1.JPG"  class="fiximg" />
+            <p> Their beach huts at night </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC2.JPG"  class="fiximg" />
+            <p> Drone shot of Kite Beach Center Restaurant & Café </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD3.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC3.JPG"  class="fiximg" />
+            <p> Beach huts </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC4.JPG"  class="fiximg" />
+            <p> Beach side view </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC5.JPG"  class="fiximg" />
+            <p> Dining area </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD2.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC6.JPG"  class="fiximg" />
+            <p> View of the beach while the sun is setting </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC7.JPG"  class="fiximg" />
+            <p> A closer look of their beach hut </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC8.JPG"  class="fiximg" />
+            <p> Outdoor seating of the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD8.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC1.JPG"  class="fiximg" />
+            <p> Their beach huts at night </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD7.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC2.JPG"  class="fiximg" />
+            <p> Drone shot of Kite Beach Center Restaurant & Café </p>
             </div>
 
         </div>
         <div class="row row3">
-           <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
-           <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC3.JPG"  class="fiximg" />
+            <p> Beach huts </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC4.JPG"  class="fiximg" />
+            <p> Beach side view </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC5.JPG"  class="fiximg" />
+            <p> Dining area </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD7.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC6.JPG"  class="fiximg" />
+            <p> View of the beach while the sun is setting </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD8.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC7.JPG"  class="fiximg" />
+            <p> A closer look of their beach hut </p>
             </div>
 
         </div>
@@ -596,37 +595,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 7:00 AM - 10:00 PM ' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 7:00 AM - 10:00 PM ' ); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 7:00 AM - 10:00 PM ' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 7:00 AM - 10:00 PM ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 3:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 7:00 AM - 10:00 PM ' ); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 7:00 AM - 3:00 AM '); //so put the timings here
+            $('#t-time').html(' 7:00 AM - 10:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 7:00 AM - 2:00 AM '); //so put the timings here
+            $('#t-time').html(' 7:00 AM - 10:00 PM '); //so put the timings here
         }
 
         //reply function
