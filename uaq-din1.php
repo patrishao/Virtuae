@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Sikkat Beirut Restaurant and Cafe</title>
+    <title>Backwaters</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-din1"; 
+            $pageName = "uaq-din4"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD3.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Backwaters/uaqdinA2.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Backwaters/uaqdinA3.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">Sikkat Beirut Restaurant and Cafe</h1> <!-- title -->
+                <h1 class="title1">Backwaters</h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -70,33 +70,47 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD2.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA6.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA7.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Dine/Sikkat Beirut.docx"> 
+                    <a href="download/Umm Al Quwain/Dine/Backwaters.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Sikkat Beirut is a premium fine dining restaurant serving with the real taste of authenticity. 
-                There are diverse cuisines being served from delicious Lebanese to Italian and American street food. The Restaurant is one 
-                of its kind in the Emirate of Umm Al Quwain, fulfilling the varied cravings of guests with utmost consistency and quality 
-                pledge. We are involved in the provision of catering as well along with doorstep delivery.
+                <p class="info-description"> Backwaters as a concept brings to you the taste of traditional Kerala cuisine treating your taste buds 
+                with mouthwatering flavors from God’s own country Kerala. This traditional restaurant and bar is the perfect place to unwind with 
+                varieties of cocktails, mocktails and traditional dining options.
+
                     <br>
                     <br>
+               
+                    Some traditional heartwarming favorites includes the Thalasseri Fish Curry, Alleppey Prawn Curry, Travancore Fried Chicken and 
+                    the Malabar Lamb Curry to name just a few from these regions rich in food culture.
                     
-                   It began in 1989, when our chairman Sheikh Faisal Bin Abdulla Al Mualla decided to take a plunge into the business arena 
-                   which resulted in the construction and expansion of different businesses falling under one umbrella of Al Faisal Group. 
-                   Eventually the group diversified into hospitality division giving rise to the impression of providing superior dining and 
-                   catering experience.
-                   
+                    <br>
+                    <br>
+
+                    The cuisine of Backwaters Restaurant is evident in terms of aromas, colors and flavors. Varieties of delectable dishes are 
+                    prepared at Backwaters from traditional styles to modern methods of cooking, a unique south Indian gastronomic experience. At 
+                    Backwaters, you will be taken into the wonders of an authentic Kerala culinary experience.
+                    
+                    <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                    <p class="info-description1"> 
+                    
+                    This restaurant is inspired by the culinary of Kerala, India.  Kerala, the land of diverse culture is blessed with a wide number 
+                    of waterways, lagoons, lake and canals, which are popularly known as the backwaters of Kerala and internationally known as the 
+                    “Venice of the East”. This beautiful state was once a buzzing trading port for some of the world’s most unique and precious 
+                    species owing to which the cuisine is now widely renowned for enigmatic recipes and aromatic delicacies.
+
                     </p>
             </div>
             
@@ -418,12 +432,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
 
-        <!-- virtual tour -->
-        <iframe src="https://www.google.com/maps/embed?pb=!4v1622743790027!6m8!1m7!1sCAoSLEFGMVFpcE03VHZ4b0VyUm5mNTMzUkl3Ym5rQWtGb00tN2FXTVNKQXlWTEhN!2m2!1d25.49626905520826!2d55.56129269314158!3f140.62848657052743!4f-25.818731296205527!5f0.7820865974627469" width="100%" height="1000px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    
+       
+        <br> <br>     <br> <br>
+        <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+        <br> <br>     <br> <br>
+        
         <!-- google maps -->   
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14405.086817349786!2d55.5609808!3d25.4959835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x319549199023ddb8!2sSikkat%20Beirut%20Restaurant%20and%20Cafe!5e0!3m2!1sen!2sae!4v1622797590972!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3599.790704400139!2d55.55652821495503!3d25.5453476837354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5ffab0ab7c573%3A0x3af1e5021a204cd0!2sBackwaters-%20Authentic%20Kerala%20Cuisine!5e0!3m2!1sen!2sae!4v1622815518792!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- -->
     
         <!-- COMMENTS -->
@@ -511,69 +526,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG"  class="fiximg" />
+            <p> Interior design of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA2.JPG"  class="fiximg" />
+            <p> Food served in Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD3.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA3.JPG"  class="fiximg" />
+            <p> Logo of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA4.JPG"  class="fiximg" />
+            <p> Exterior of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA5.JPG"  class="fiximg" />
+            <p> Food served in Backwaters </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD2.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA6.JPG"  class="fiximg" />
+            <p> Interior design of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA7.JPG"  class="fiximg" />
+            <p> Food served in Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG"  class="fiximg" />
+            <p> Interior design of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD8.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA2.JPG"  class="fiximg" />
+            <p> Food served in Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD7.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA3.JPG"  class="fiximg" />
+            <p> Logo of Backwaters </p>
             </div>
 
         </div>
         <div class="row row3">
-           <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
-           <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA4.JPG"  class="fiximg" />
+            <p> Exterior of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA5.JPG"  class="fiximg" />
+            <p> Food served in Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG"  class="fiximg" />
-            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA6.JPG"  class="fiximg" />
+            <p> Interior design of Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD7.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA7.JPG"  class="fiximg" />
+            <p> Food served in Backwaters </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD8.JPG"  class="fiximg" />
-            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG"  class="fiximg" />
+            <p> Interior design of Backwaters </p>
             </div>
 
         </div>
@@ -596,37 +611,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 7:00 AM - 3:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 7:00 AM - 3:00 AM '); //so put the timings here
+            $('#t-time').html(' 12:00 PM - 12:00 AM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 7:00 AM - 2:00 AM '); //so put the timings here
+            $('#t-time').html(' 12:00 PM - 12:00 AM '); //so put the timings here
         }
 
         //reply function
