@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>PLACE HOLDER FOR PLACES</title>
+    <title>Friday Market</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "fuj-ent1"; 
+            $pageName = "fuj-dis4"; 
 
             ?>
     </div>
@@ -32,12 +32,12 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\120463112_20180717033558.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\families-at-kalba-corniche.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.22.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Discover\Friday Market\fridaymarket.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> KALBA CORNICHE </h1> <!-- title -->
+                <h1 class="title1"> FRIDAY MARKET </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -69,28 +69,34 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\the-park-at-kalba-corniche.JPG" class="smallimg" style="width:1000px;"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Kelba_Waypoint24_002.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Khorfakkan-Beach.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.22.JPG" class="smallimg" style="object-position: 0 -200px;"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.36.JPG" class="smallimg" style="object-position: 0 -100px;"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2018.02.06.JPG" class="smallimg" style="object-position: 0 -300px;"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Entertainment\Kalba Corniche Park.docx"> 
+                    <a href="download\Fujairah\Discovery\Friday Market.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                The park is recognised as an ideal picnic and barbeque spot among tourists and a number of families. The park also has an open playground for children and access to a beach, but this is not ideal for swimming. The neat and well-maintained park also provides public restrooms and easily available parking spaces. Nearby, one can find accessible grocery shops, cafeterias and restaurants. 
+                Experience the feeling of a traditional Arabian souq (market) at Fujairah's Friday market. Set among mountains and valleys, with an open market setting, the iconic Friday Market attracts visitors from all over the region. It also helps to draw tourists to the city of Masafi. It has been able to retain the atmosphere and aura of an ancient souq.
+
                     <br> 
                     <br>
                  </p>
                                 
-                             
+                 <h2 class="info-title"> History </h2>
+                    <h2 class="info-title1"> History </h2> <!-- history -->
+                   <p class="info-description1"> 
+                   Located between the Hajar Mountains, the market is famous for its variety of goods sold, from vegetables, fruits and plants, to toys, carpets and pots. The Friday Market or Souq al Juma'a is especially known for its fresh and locally grown produce, due to Masafi's unique climate with unusually high rainfall. It is also recognized as an important symbol of the region's culture and heritage. Although the market is called the Friday market, it is open daily, not just on Fridays and public holidays.
+                     </p>                    
+                                           
                     
             </div>
             
@@ -103,7 +109,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Khorfakkan-Beach.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\fuj-pictures\Discover\Friday Market\fridaymarket.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -111,27 +117,28 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Popular among locals and tourists alike, the park is a perfect spot for parties and picnics. Read on to find out more about the park, how you can plan picnics and barbecues and more.   </p>
+                <p class="contents-desc1">The Friday Market has become a popular destination for visitors to fulfil their shopping needs, or to even enjoy some refreshments during a long drive. </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\the-park-at-kalba-corniche.JPG" />
+                    <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.47.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Picnics </h2>
-                <p class="contents-desc">The park has plenty of shaded spots perfect for a family picnic. Play board games, read a book or just relax while the little ones have a ton of fun at the kids’ play areas in the park. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Shop </h2>
+                <p class="contents-desc">The famous market has a number of permanent and temporary stalls that sell a number of food and household items
+</p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Khorfakkan-Beach.JPG" />
+                    <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2018.02.35.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Beach </h2>
-                <p class="contents-desc">The nearby Kalba Beach is another major attraction at Kalba Corniche Park. The sandy beach has countless shells with varying shapes and sizes. The sand is clean and perfect for creating sandcastles. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Eat Fresh</h2>
+                <p class="contents-desc">The Friday Market sells alot of delicious and refreshing food. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
@@ -455,13 +462,13 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/8Yg6BB1xwYd/embed?chrome=min"  
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/6h9933IHttQ/embed?chrome=min"  
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
      <!-- google maps -->   
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1445.108376813592!2d56.35198958451137!3d25.08322458277407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f9955f56df61%3A0x6d8b1d69096ad2c7!2sKalba%20corniche%20park!5e0!3m2!1sen!2sae!4v1622818314698!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.585529601486!2d55.3382477157736!3d25.284524434355173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5c9719b48c75%3A0x12c318e9eb9c1aca!2sFriday%20Market!5e0!3m2!1sen!2sae!4v1622843804187!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -551,96 +558,96 @@
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\120463112_20180717033558.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\fridaymarket.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> gates to kalba corniche </p>
+                <p> a picture of the market </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\families-at-kalba-corniche.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.22.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> people having a picnic </p>
+                <p> the friday market stalls </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\kalba-corniche-park-fujairah-united-260nw-1937797498.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.36.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> a walk path </p>
+                <p> fruits and vegetables </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\kalba.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.47.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p>the playground</p>
+                <p>more fresh fruits and vegetables</p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Kelba_Waypoint24_002.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2018.02.35.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> a view of the corniche</p>
+                <p> locally made items </p>
             </div>
         </div>
         <div class="row row2">
-            <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Khorfakkan-Beach.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach </p>
-            </div>
 
-            <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\the-park-at-kalba-corniche.JPG" class="fiximg" /> <!-- img! -->
+        <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2018.02.35.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the park and people having a picnic </p>
+                <p> locally made items </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\120463112_20180717033558.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\fridaymarket.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> gates to kalba corniche </p>
+                <p> a picture of the market </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\families-at-kalba-corniche.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.22.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> people having a picnic </p>
+                <p> the friday market stalls </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\kalba-corniche-park-fujairah-united-260nw-1937797498.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.36.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> a walk path </p>
+                <p> fruits and vegetables </p>
             </div>
 
+            <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.47.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p>more fresh fruits and vegetables</p>
+            </div>
         </div>
         <div class="row row3">
         <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\the-park-at-kalba-corniche.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2018.02.35.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the park and people having a picnic </p>
+                <p> locally made items </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\120463112_20180717033558.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\fridaymarket.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> gates to kalba corniche </p>
+                <p> a picture of the market </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\families-at-kalba-corniche.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.22.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> people having a picnic </p>
+                <p> the friday market stalls </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\kalba-corniche-park-fujairah-united-260nw-1937797498.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.36.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> a walk path </p>
+                <p> fruits and vegetables </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Entertainment\Kalba Corniche Park\Khorfakkan-Beach.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Friday Market\Screen_20Shot_202021-06-02_20at_2017.50.47.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach </p>
+                <p>more fresh fruits and vegetables</p>
             </div>
 
         </div>
@@ -663,37 +670,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7'); //so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('10:00 AM - 11:00 PM');//so put the timings here
    
         }
 

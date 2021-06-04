@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>PLACE HOLDER FOR PLACES</title>
+    <title>Snoopy Island</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">

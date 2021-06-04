@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>PLACE HOLDER FOR PLACES</title>
+    <title>Al Meshwar Restaurant</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> THE ORANGERY </h1> <!-- title -->
+                <h1 class="title1"> AL MESHWAR RESTAURANT </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>

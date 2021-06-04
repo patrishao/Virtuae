@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Al Aqah Beach</title>
+    <title>Fujairah Fort</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "fuj-act1"; 
+            $pageName = "fuj-dis1"; 
 
             ?>
     </div>
@@ -32,13 +32,12 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="picture" /></div>
-    
+                        <div><img src="images\fuj-pictures\Discover\Fujairah Fort\fort.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.21.49.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> AL AQAH BEACH </h1> <!-- title -->
+                <h1 class="title1"> FUJAIRAH FORT </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,32 +69,42 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1E.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1F.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.07.JPG" class="smallimg" style="object-position: 0 -200px;"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.24.JPG" class="smallimg" style="object-position: 0 -100px;"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.45.JPG" class="smallimg" style="object-position: 0 -300px;"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Activities\Al Aqah Beach.docx"> 
+                    <a href="download\Fujairah\Discovery\Fujairah Fort.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                Nestled between the extraordinary backdrop of the Hajar Mountains and the glistening Indian Ocean, Le Meridien Al Aqah is a family friendly resort in Fujairah providing a scenic setting for a fun filled holiday.
+                Fujairah Fort is a fort in the city of Fujairah, United Arab Emirates (UAE). Dating back to the 16th century, it is among the oldest as well as the largest castles in the country. It is noted for playing significant roles in fighting back the wave of colonialism.Today, it is among the main tourist attractions in the city. It is probably the oldest fort in the UAE and was occupied by the Wahhabists.
+
                     <br> 
                     <br>
                  </p>
-                   
-                    <h2 class="info-title"> History </h2>
+                                
+                 <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
-                   The people of Al Aqah were famous for their many skills, the most important of which were sea-riding, fishing and honey collection from the mountains in addition to agriculture and livestock. The Al Aqah area is one of the most important tourist attractions, the most important of which are Al Aqah Marine Reserve and the Meridian Al Aqah Beach Resort and Hotel. Al Aqah is called "the pearl of the east coast" because of its many stunning scenery and beautiful nature. </p>                    
-                             
+                   The fort is part of a complex with several old houses and a mosque. It is guarded by three round watchtowers and a square watchtower. 
+                   The watchtowers and main building are connected by the walls, and there is a central hall surrounded by these towers and wall. 
+                   The irregular shape of the castle is due to the uneven surface of the rock it sits on. 
+                   The building is built of local materials, mostly rocks, gravels, mud, hay and plasters. 
+                   Radiocarbon dating has identified the date of the construction as around 1500–1550. It was then renovated 
+                   during 1650–1700.The British Navy destroyed three of the towers in 1925 during an action enforcing British 
+                   anti-slavery policy. The bombardment was by HMIS Lawrence, resulting in the recovery of a fine of 1,500 rupees
+                    from the sheikh. The fort was restored by the Fujairah Administration of Antiquity and Heritage during 1997/2000 
+                    using the same materials with which it was built.
+                     </p>                    
+                                           
                     
             </div>
             
@@ -108,7 +117,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.00.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -116,27 +125,27 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">The gorgeous, cerulean waters of the Al Aqah beach offer the perfect retreat from the bustling city life. There are also some thrilling watersports and activities that you can enjoy if you fancy something adventurous. If you’d rather just soak up the sun, the beach has plenty of loungers where you can relax and enjoy a book.  </p>
+                <p class="contents-desc1">Today, it is among the main tourist attractions in the city. It is probably the oldest fort in the UAE and was occupied by the Wahhabists.   </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" />
+                    <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.21.49.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Resorts </h2>
-                <p class="contents-desc">Nestled between the extraordinary backdrop Hajar Mountains and the glistening Indian Ocean, Le Meridien Al Aqah is a family friendly resort in Fujairah providing a scenic setting for a fun filled holiday. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Architecture </h2>
+                <p class="contents-desc">The irregular shape of the castle is due to the uneven surface of the rock it sits on. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" />
+                    <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.58.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Camping </h2>
-                <p class="contents-desc">Al Aqah Beach is an ideal spot to get your camping gear and pitch your tent for a weekend getaway. You will certainly love spending the night stargazing while listening to the soothing sounds of the softly receding waves. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Memories </h2>
+                <p class="contents-desc">Take pictures with your friends and family here and have this piece of history in your photo album! </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
@@ -460,10 +469,13 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/abHhtjGlM4j/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-     <!-- google maps -->  
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28809.363208793762!2d56.34711570624401!3d25.49936294566409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef43790b02ba115%3A0xc60d467b2576eb04!2sAl%20Aqah%20Beach!5e0!3m2!1sen!2sae!4v1622749199629!5m2!1sen!2sae"
-         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/1-tIW6ZJ9ae/embed?chrome=min"  
+        frameborder="0" style="border:none;" allowvr="yes" 
+        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
+    </iframe>	
+     <!-- google maps -->   
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3611.911576162359!2d56.33491471577216!3d25.138680140239465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f8444c57e4d9%3A0xab6c9e5e43f4820d!2sFujairah%20Fort!5e0!3m2!1sen!2sae!4v1622838969305!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -553,96 +565,95 @@
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.21.49.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> beautiful beach side </p>
+                <p> a shot of the fort </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\fort.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the coastline </p>
+                <p> a scenic view of the tower </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.24.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach with beach chairs </p>
+                <p> from within the fort</p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.45.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach but with tents! </p>
+                <p>moutain view</p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1E.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.58.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and a building behind it </p>
+                <p> the fort at night </p>
             </div>
         </div>
         <div class="row row2">
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1F.JPG" class="fiximg" /> <!-- img! -->
+        <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.24.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and the scenery </p>
+                <p> from within the fort</p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.45.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> beautiful beach side</p>
+                <p>moutain view</p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.58.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> the fort at night </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.21.49.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> a shot of the fort </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\fort.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the coastline </p>
+                <p> a scenic view of the tower </p>
             </div>
-
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach with beach chairs </p>
-            </div>
-
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach but with tents! </p>
-            </div>
-
         </div>
         <div class="row row3">
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1E.JPG" class="fiximg" /> <!-- img! -->
+        <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.58.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and a building behind it </p>
+                <p> the fort at night </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1F.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.21.49.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and the scenery </p>
+                <p> a shot of the fort </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\fort.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> beautiful beach side </p>
+                <p> a scenic view of the tower </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.24.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the coastline </p>
+                <p> from within the fort</p>
             </div>
-            
+
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Fujairah Fort\Screen_20Shot_202021-06-02_20at_2017.22.45.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach with beach chairs </p>
+                <p>moutain view</p>
             </div>
 
         </div>

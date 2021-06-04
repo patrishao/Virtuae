@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Al Aqah Beach</title>
+    <title>Al Hayl Castle</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "fuj-act1"; 
+            $pageName = "fuj-mos2"; 
 
             ?>
     </div>
@@ -32,13 +32,12 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="picture" /></div>
-    
+                        <div><img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.14.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.25.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> AL AQAH BEACH </h1> <!-- title -->
+                <h1 class="title1"> AL HAYL CASTLE </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,32 +69,34 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1E.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1F.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.02.JPG" class="smallimg" style="object-position: 0 -200px;"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.47.JPG" class="smallimg" style="object-position: 0 -100px;"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.41.20.JPG" class="smallimg" style="object-position: 0 -300px;"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Activities\Al Aqah Beach.docx"> 
+                    <a href="download\Fujairah\Discovery\Al Hayl Castle.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                Nestled between the extraordinary backdrop of the Hajar Mountains and the glistening Indian Ocean, Le Meridien Al Aqah is a family friendly resort in Fujairah providing a scenic setting for a fun filled holiday.
+                Al Hayl Castle or Al Hayl Palace was built around 1830 and belonged to the ruling family of Fujairah. Today, however, this historical site is managed by the Department of Antiquities and Heritage. Made of mud-brick and plaster, Al Hayl Castle is an excellent example of the traditional Arabian architecture of the time. The site is comprised of a fortified, residential compound, along with a defensive fort located on a hill, known as Al Hayl Fort.
+
                     <br> 
                     <br>
                  </p>
-                   
-                    <h2 class="info-title"> History </h2>
+                                
+                 <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
-                   The people of Al Aqah were famous for their many skills, the most important of which were sea-riding, fishing and honey collection from the mountains in addition to agriculture and livestock. The Al Aqah area is one of the most important tourist attractions, the most important of which are Al Aqah Marine Reserve and the Meridian Al Aqah Beach Resort and Hotel. Al Aqah is called "the pearl of the east coast" because of its many stunning scenery and beautiful nature. </p>                    
-                             
+                   Built around 1830 and belonged to the ruling family of Fujairah. Today, however, this historical site is managed by the Department of Antiquities and Heritage. Made of mud-brick and plaster, Al Hayl Castle is an excellent example of the traditional Arabian architecture of the time. The site is comprised of a fortified, residential compound, along with a defensive fort located on a hill, known as Al Hayl Fort.
+                     </p>                    
+                                           
                     
             </div>
             
@@ -108,7 +109,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.36.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -116,27 +117,27 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">The gorgeous, cerulean waters of the Al Aqah beach offer the perfect retreat from the bustling city life. There are also some thrilling watersports and activities that you can enjoy if you fancy something adventurous. If you’d rather just soak up the sun, the beach has plenty of loungers where you can relax and enjoy a book.  </p>
+                <p class="contents-desc1">When visiting Al Hayl Castle in Fujairah, you’ll get a glimpse of the daily life of the inhabitants of the past. The residential palace compound has meeting rooms known as majlis, storage areas, bedrooms and a kitchen, which visitors can explore.   </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" />
+                    <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.25.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Resorts </h2>
-                <p class="contents-desc">Nestled between the extraordinary backdrop Hajar Mountains and the glistening Indian Ocean, Le Meridien Al Aqah is a family friendly resort in Fujairah providing a scenic setting for a fun filled holiday. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Hiking </h2>
+                <p class="contents-desc">The stunning views of the lush valley dotted with palm trees against the backdrop of rugged mountains, make it well worth the climb! </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" />
+                    <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.14.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Camping </h2>
-                <p class="contents-desc">Al Aqah Beach is an ideal spot to get your camping gear and pitch your tent for a weekend getaway. You will certainly love spending the night stargazing while listening to the soothing sounds of the softly receding waves. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> History </h2>
+                <p class="contents-desc">When visiting Al Hayl Castle in Fujairah, you’ll get a glimpse of the daily life of the inhabitants of the past.  </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
@@ -460,10 +461,13 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/abHhtjGlM4j/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-     <!-- google maps -->  
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28809.363208793762!2d56.34711570624401!3d25.49936294566409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef43790b02ba115%3A0xc60d467b2576eb04!2sAl%20Aqah%20Beach!5e0!3m2!1sen!2sae!4v1622749199629!5m2!1sen!2sae"
-         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/6gUKflih-JG/embed?chrome=min"  
+        frameborder="0" style="border:none;" allowvr="yes" 
+        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
+    </iframe>	
+     <!-- google maps -->   
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.508607084288!2d56.22453711577154!3d25.084639042411847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4ffb864824ab5%3A0xad8e6ba95d117019!2zQWwgSGF5bCBGb3J0IC0g2K3YtdmGINin2YTYrdmK2YQ!5e0!3m2!1sen!2sae!4v1622841874977!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -553,96 +557,95 @@
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\alhayl.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> beautiful beach side </p>
+                <p> the scenery </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.02.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the coastline </p>
+                <p> the castle by it's lonesome </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.39.57.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach with beach chairs </p>
+                <p> view from an elevated place </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.25.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach but with tents! </p>
+                <p>a pond</p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1E.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.47.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and a building behind it </p>
+                <p> dark entry road </p>
             </div>
         </div>
         <div class="row row2">
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1F.JPG" class="fiximg" /> <!-- img! -->
+        <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.25.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and the scenery </p>
+                <p>a pond</p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.47.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> beautiful beach side</p>
+                <p> dark entry road </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.02.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the coastline </p>
+                <p> the castle by it's lonesome </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.39.57.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach with beach chairs </p>
+                <p> view from an elevated place </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1D.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\alhayl.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach but with tents! </p>
+                <p> the scenery </p>
             </div>
-
         </div>
         <div class="row row3">
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1E.JPG" class="fiximg" /> <!-- img! -->
+        <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\alhayl.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and a building behind it </p>
-            </div>
-
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1F.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach and the scenery </p>
-            </div>
-
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1A.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> beautiful beach side </p>
-            </div>
-
-            <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1B.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> the coastline </p>
+                <p> the scenery </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Activities\Al Aqah Beach\fujact1C.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.02.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the beach with beach chairs </p>
+                <p> the castle by it's lonesome </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.39.57.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> view from an elevated place </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.25.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p>a pond</p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\fuj-pictures\Discover\Al-Hayl Castle\Screen_20Shot_202021-06-02_20at_2017.40.47.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> dark entry road </p>
             </div>
 
         </div>
@@ -665,37 +668,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7'); //so put the timings here
+            $('#t-time').html('8:00 AM – 6:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('8:00 AM – 6:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('8:00 AM – 6:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('8:00 AM – 6:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('8:00 AM – 6:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('2:00 PM – 6:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Open 24/7');//so put the timings here
+            $('#t-time').html('8:00 AM – 6:00 PM');//so put the timings here
    
         }
 

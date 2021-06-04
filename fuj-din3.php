@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>PLACE HOLDER FOR PLACES</title>
+    <title>The Bookstore</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -79,7 +79,7 @@
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Dine\The Bookstore.docx"> 
+                    <a href="download\Fujairah\Discovery\Al Hayl Castle.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
