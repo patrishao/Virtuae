@@ -4,7 +4,7 @@
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
 
 body{
-    font-family: Karla;
+    font-family: 'Karla';
     background-color: #FFFFFF;
 
     margin:0;
@@ -99,7 +99,7 @@ body{
     width: 40%;
 }
 .title1{
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 900;
     font-size: 60px;
@@ -109,7 +109,7 @@ body{
 }
 
 .line1{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
@@ -246,7 +246,7 @@ body{
 }
 
 .info-title{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -258,7 +258,7 @@ body{
 
 .info-title1{
     display: none;
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
@@ -267,7 +267,7 @@ body{
 }
 
 .info-description{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -278,13 +278,13 @@ body{
     width: 100%;
 }
 .info-description1{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
     line-height: 28px;
     letter-spacing: 0.01em;
-    
+    text-align: justify;
     color: #3E3E3E;
 
     width: 100%;
@@ -402,7 +402,7 @@ body{
 .contents-title{
     color: #D07B3B;
 
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 35px;
@@ -420,7 +420,7 @@ body{
 
     color: #000000;
 
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -436,7 +436,7 @@ body{
 .contents-desc{
     color: #000000;
 
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 23px;
@@ -470,7 +470,7 @@ body{
 .timing-title{
     color: #000000;
 
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
     font-size: 60px;
@@ -546,7 +546,7 @@ body{
 
 
 .time{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -558,7 +558,7 @@ body{
 }
 
 .t-info{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -581,7 +581,7 @@ body{
 .calendar-title{
     color: #000000;
 
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
     font-size: 60px;
@@ -810,7 +810,7 @@ body{
 }
 
 .e-number{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 40px;
@@ -824,7 +824,7 @@ body{
 .vt-title {
     color: #000000;
 
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
     font-size: 60px;
@@ -847,7 +847,7 @@ body{
 .review-title {
     color: #000000;
 
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
     font-size: 60px;
@@ -899,7 +899,7 @@ body{
 }
 
 .user{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -909,7 +909,7 @@ body{
 }
 
 .date{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -919,7 +919,7 @@ body{
 }
 
 .review-content{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -1015,7 +1015,7 @@ body{
 }
 
 .rep-to{
-    font-family: Karla;
+    font-family: 'Karla';
     font-style: normal;
     font-weight: bold;
     font-size: 32px;
@@ -1114,7 +1114,7 @@ body{
 .media-title{
     color: #000000;
 
-    font-family: Montserrat;
+    font-family: 'Montserrat';
     font-style: normal;
     font-weight: 800;
     font-size: 60px;
