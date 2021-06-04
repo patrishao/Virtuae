@@ -168,7 +168,7 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Marimoto Restaurant</h3>
+                        <h3>Morimoto Restaurant</h3>
                         <h4>Dubai</h4>
                     </div>
                     <p>Morimoto is the first restaurant in the region from Iron Chef star Masaharu Morimoto. Staying true to its namesake’s signature style, Morimoto offers a unique take on Japanese menu staples. </p>
@@ -222,7 +222,7 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>Pitifire Pizza</h3>
+                        <h3>Pitfire Pizza</h3>
                         <h4>Dubai</h4>
                     </div>
                     <p>Pitfire may describe its pizzas as ‘not quite Neapolitan, not quite New York’, but all you really need to know is that these slices are simply not to be missed. Lovingly devised by founders Michele and Bill Johnson, beautifully blistered...</p>

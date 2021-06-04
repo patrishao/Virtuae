@@ -639,6 +639,9 @@
             <p> The food court </p>
             </div>
 
+            <div class="img-media"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1G.jpg" class="fiximg" />
+            <p> A part of the dam </p>
+            </div>
 
         </div>
 

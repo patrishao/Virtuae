@@ -70,9 +70,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/dubai/entertainment/opera6.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/opera1.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/dubai/entertainment/opera5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/opera6.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/opera1.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images/dubai/entertainment/opera5.JPG" style="object-position: 0 -50px;" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">

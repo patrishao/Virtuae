@@ -632,15 +632,15 @@
             <p> A sleepy tiger </p>
             </div>
             
-      
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4E.jpg" class="fiximg" />
+            <p> Ducks on the lake</p>
+            </div>
         
         </div>
 
         <div class="row row2">
 
-            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4E.jpg" class="fiximg" />
-            <p> Ducks on the lake</p>
-            </div>
+         
 
             <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4F.jpg" class="fiximg" />
             <p> A display boat on the lake</p>
@@ -655,30 +655,40 @@
             <p> The Equestrian Club </p>
             </div>
         
+            <div class="img-media">
+            <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4A.jpg" class="fiximg" />
+            <p> The zoo's entrance </p>
+            </div>
+            
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4B.jpg" class="fiximg" />
+            <p> The Lake & Flamingos</p>
+            </div>
 
         </div>
 
         <div class="row row3">
 
+          
+        <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4C.jpg" class="fiximg" />
+            <p>Tigers resting</p>
+            </div>
+
             <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4D.jpg" class="fiximg" />
             <p> A sleepy tiger </p>
+            </div>
+            
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4E.jpg" class="fiximg" />
+            <p> Ducks on the lake</p>
+            </div>
+            
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4F.jpg" class="fiximg" />
+            <p> A display boat on the lake</p>
             </div>
 
             <div class="img-media">
             <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4G.jpg" class="fiximg" />
             <p> Bird Feeding Activity </p>
             </div>
-
-            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4B.jpg" class="fiximg" />
-            <p> The Lake & Flamingos</p>
-            </div>
-            
-           <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4H.jpg" class="fiximg" />
-            <p> The Equestrian Club </p>
-            </div>
-        
- 
-
         </div>
 
         </div>

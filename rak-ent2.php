@@ -593,23 +593,32 @@
             <p> The Famous Flamingo Statues</p>
             </div>
 
-            <div class="img-media">
-            <img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="fiximg" />
-            <p> Flamingo Beach captured from the top </p>
-            </div>
-
-            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3H.jpg" class="fiximg" />
-            <p> The walkways across the beach </p>
-            </div>
-        
 
             <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3G.jpg" class="fiximg" />
             <p> The Famous Flamingo Statues </p>
             </div>
 
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3H.jpg" class="fiximg" />
+            <p> The walkways across the beach </p>
+            </div>
+        
+            <div class="img-media">
+            <img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="fiximg" />
+            <p> Flamingo Beach captured from the top </p>
+            </div>
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3B.jpg" class="fiximg" />
+            <p> Along the seashore </p>
+            </div>
+
+
         </div>
 
         <div class="row row3">
+ 
+
+              
         <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3B.jpg" class="fiximg" />
             <p> Along the seashore </p>
             </div>
@@ -626,7 +635,9 @@
             <p> Along the seashore</p>
             </div>
 
- 
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3F.jpg" class="fiximg" />
+            <p> The Famous Flamingo Statues</p>
+            </div>
 
         </div>
 
