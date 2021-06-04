@@ -71,9 +71,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1A.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1C.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1A.jpg" class="smallimg" style="object-position: 0 -80px;"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1C.jpg" class="smallimg" style="object-position: 0 -80px;"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Al Hamra Mall/rakent1G.jpg" class="smallimg" style="object-position: 0 -80px;"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">

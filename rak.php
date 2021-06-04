@@ -73,7 +73,7 @@
                     </div>
                     <p>Al Hamra Mall is uniquely themed and exudes a calm aura and is one of the most beautiful malls in the UAE. Designed in a distinctive traditional Arabic style, capturing warm colours and exquisite details... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -91,7 +91,7 @@
                     </div>
                     <p>Manar Mall is owned by Al Hamra Group, a leading real estate developer of the region. Since its opening in the year 2000, it has become a favourite spot for shopping and leisure. For retail, grocery shopping... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                     </div>
                     <p>At a distance of 21 km from Ras Al Khaimah International Airport, Flamingo Beach is a public beach located in Ras Al Khaimah. It is one of the popular public beaches of Ras Al Khaimah and among the... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-ent2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
                     </div>
                     <p>Jasim's Wildlife Park in Ras al Khaimah - United Arab Emirates is a wildlife park. This is a family-friendly place and the kids will have a great time over here due to the presence of a great variety of animals. The place... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-ent3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -145,7 +145,7 @@
                     </div>
                     <p>The UAE’s largest waterpark and is located in Ras Al Khaimah – only an hours’ drive from Dubai. Iceland has more than 30 exciting slides, a huge wave pool, high end- private cabanas, an Olympic sized lap pool... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                     </div>
                     <p>Waldorf Astoria Ras Al Khaimah is home to a variety of bespoke restaurants and bars, offering an exclusive range of dining and entertainment experiences to suit every mood and taste. Dine on...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-din1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -190,7 +190,7 @@
                     </div>
                     <p>With sweeping views of the Al Marjan waterfront, Zaitouna House serves up authentic Lebanese dishes and a sparkling al fresco setting. Try the restaurant’s moreish mezze, perfect grills and delicious desserts, as well... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-din2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -208,7 +208,7 @@
                     </div>
                     <p>Sanchaya will offer Asian flavors with fresh ingredients and an infusion of spices to tackle your taste buds. The restaurant offers great indoor ambiance and a large terrace with undisturbed views of the Arabian Gulf. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-din3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -226,7 +226,7 @@
                     </div>
                     <p>An authentic Turkish restaurant that will take you on a trip inspired by the beautiful colors​ and tastes of the orient's spice markets. Enjoy great food in a stunning setting. Relax with shisha on the spacious... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-din5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -244,7 +244,7 @@
                     </div>
                     <p>Indulge in the finest à la carte Italian classics and pair with fine wines from an extensive collection at the elegant Piaceri da Gustare restaurant. Perfect for couples, the restaurant's wide selections of classic... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-din4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -269,7 +269,7 @@
                     </div>
                     <p>The UAE's highest peak, Jebel Jais, is part of the spectacular Hajar mountains that were formed over 70 million years ago in the eastern part of Ras Al Khaimah, United Arab Emirates and Oman. The summit has an elevation of... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
                     </div>
                     <p>The UAE’s largest waterpark and is located in Ras Al Khaimah – only an hours’ drive from Dubai. Iceland has more than 30 exciting slides, a huge wave pool, high end- private cabanas, an Olympic sized lap pool...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -305,7 +305,7 @@
                     </div>
                     <p>Manar Mall is owned by Al Hamra Group, a leading real estate developer of the region. Since its opening in the year 2000, it has become a favourite spot for shopping and leisure. For retail, grocery shopping... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -323,7 +323,7 @@
                     </div>
                     <p>Wadi Shawka (literally 'powerful wadi') is a seasonal watercourse in the Hajar Mountains of Ras Al Khaimah, in the United Arab Emirates. Famous locally for the Shawka Dam, a renowned beauty spot and destination...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -341,7 +341,7 @@
                     </div>
                     <p>Bassata is an Arabic word for simplicity. Venture around the desert and you will find the entire camp reflecting simplicity. Bassata Village is a stretch of sand where you can enjoy adrenaline-fuelled dune bashing... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -366,7 +366,7 @@
                     </div>
                     <p>The UAE's highest peak, Jebel Jais, is part of the spectacular Hajar mountains that were formed over 70 million years ago in the eastern part of Ras Al Khaimah, United Arab Emirates and Oman. The summit has...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -384,7 +384,7 @@
                     </div>
                     <p>Al-Hajar Mountains (Arabic: جِبَال ٱلْحَجَر‎, romanized: Jibāl al-Ḥajar, The Rocky Mountains or The Stone Mountains) in northeastern Oman and also the eastern United Arab Emirates are the highest...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-sts2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -402,7 +402,7 @@
                     </div>
                     <p>Dhayah Fort is an 18th-century fortification in Ras Al Khaimah, United Arab Emirates (UAE).  It is the highest hilltop fort in the UAE and was the site of a battle during the Persian Gulf campaign of 1819...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-sts3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -420,7 +420,7 @@
                     </div>
                     <p>Al Jazirah Al Hamra is a town to the south of the city of Ras Al Khaimah in the United Arab Emirates. The town was ruled by the Zaab tribe, which was rehoused in Abu Dhabi following a dispute with the Ruler of Ras Al Khaimah.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-sts4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -438,7 +438,7 @@
                     </div>
                     <p>Shimal is the name of a settlement in Ras Al Khaimah, United Arab Emirates. It is associated with the Shihuh tribe of the Northern UAE and Oman and with the foundation of the Islamic era port of Julfar, and was once... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-sts1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -461,7 +461,7 @@
                     </div>
                     <p>Shimal is the name of a settlement in Ras Al Khaimah, United Arab Emirates. It is associated with the Shihuh tribe of the Northern UAE and Oman and with the foundation of the Islamic era port of Julfar, and was once... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-sts1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -479,7 +479,7 @@
                     </div>
                     <p>Jasim's Wildlife Park in Ras al Khaimah - United Arab Emirates is a wildlife park. This is a family-friendly place and the kids will have a great time over here due to the presence of a great variety of animals. The place... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-ent3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -497,7 +497,7 @@
                     </div>
                     <p>Saqr Park is the largest public park in Ras Al Khaimah, known for its vast areas of greenery. It is the perfect spot for adults and kids to unwind and relax. Under the guidance of El Sheikh Saqr bin Mohammed Al Qasimi the... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -521,7 +521,7 @@
                     <p>Sheikh Zayed Mosque is one of the most recognizable buildings in Ras al-Khaimah. It is a common point of reference.
                     There are a number of mosques in Ras al Khaimah. The best known...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="rak-mos1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
