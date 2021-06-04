@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Wadi Shawka</title>
+    <title>Flamingo Beach</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -23,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "rak-act5"; 
+            $pageName = "rak-ent2"; 
 
             ?>
     </div>
@@ -33,13 +33,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3F.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3G.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3E.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Wadi Shawka </h1> <!-- title -->
+                <h1 class="title1"> Flamingo Beach</h1> <!-- title -->
                 <p class="location-title"> Ras Al Khaimah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -71,36 +71,35 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3C2.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Ras Al Khaimah/Activities/Wadi Shawka.docx"> 
+                    <a href="download/Ras Al Khaimah/Entertainment/Flamingo Beach.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Wadi Shawka (literally 'powerful wadi') is a seasonal watercour
-                    in the Hajar Mountains of Ras Al Khaimah, in the United Arab Emirates. Famous locally for the Shawka Dam, a renowned beauty spot and
-                    destination for outdoor sports, the wadi has long been an agricultural area and alongside existing farms, and many abandoned settlements 
-                    exist on the sides of the wadi. The wadi enjoys unusually high rainfall of some 120mm per annum.
+                <p class="info-description"> At a distance of 21 km from Ras Al Khaimah International Airport, Flamingo Beach is a public beach located in Ras Al Khaimah. 
+                    It is one of the popular public beaches of Ras Al Khaimah and among the must-visit places for beach lovers while holidaying in UAE as part of Dubai Tour Packages.
+
+                    <br>
+                    <br>
+
+                    Characterized by its two huge Flamingo statues, this is one of the most visited public beaches of Ras Al Khaimah. It is a clean beach with clear blue
+                    waters of the Persian Gulf. The beach is well known for its charming scenic views, green areas, and tourist resorts. There are Interlock walkways built across
+                    the beach so that the public can easily walk to the sitting areas instead of wading in the sand.
 
 
                     <br>
                     <br>
 
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                    <p class="info-description1"> 
-                    The Shawka Dam was originally constructed in 2001, on the orders of Sheikh Zayed Al Nahyan, and overlooks a developed recreational
-                     area with a children's play area, washrooms, a family barbecue area and a number of pools. The dam has a 275,000 cubic metre capacity and,
-                      with a height of 13 metres and a length of 107 metres, is considered one of the largest dams in the Emirates.
 
                     </p>
         
@@ -115,7 +114,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -123,32 +122,30 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1"> A visit to Shawka trail is a welcome and affordable change that is just a couple of hours away! It offers
-                    activities made for adventurers and nature lovers.
+                <p class="contents-desc1"> 
+             The Flamingo Beach might not have the longest beachfront, however, Flamingo beach is great for family activities because of its location.
                 </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" />
+                    <img src="images/RAK/Entertainment/Flamingo Beach/rakent3E.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Hike </h2>
+                <h2 class="contents-title"> Dine </h2>
                 <p class="contents-desc">
-                Wadi Shawka is a popular destination for off-road enthusiasts, hikers and mountain bikers as well as families attracted to the Shawka Dam,
-                a developed rest area and picnic spot. </p> <!-- put the actual activities here -->
+                Flamingo beach is surrounded by trendy cafes and restaurants and it is serviced with a large parking lot for the ease of access. </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" />
+                    <img src="images/RAK/Entertainment/Flamingo Beach/rakent3B.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Explore </h2>
-                <p class="contents-desc"> Wadi Shawka is not limited to hiking trails only. It is a perfect area to practice your mountain biking skills,
-                     go camping, and off-road driving in the wadi.
+                <h2 class="contents-title"> Swim </h2>
+                <p class="contents-desc"> Sun, sand, water, and fun! It doesn't get any better than that. Flamingo Beach in Ras Al Khaimah is a great option for a family day out.
                 </p> <!-- put the actual activities here -->
                  </div>
             </div> 
@@ -472,13 +469,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
      <!-- google maps -->   
-     <iframe width="100%" height="1000px" src="https://poly.google.com/view/3ccNkKNZ0kb/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" 
-        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+     <iframe width="100%" height="1000px" src="https://poly.google.com/view/7tabfhINw8y/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+         <br>
+         <br>
      
-        <br>
-        <br>
-        
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57812.20901815209!2d56.00598245442023!3d25.092954939724283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5a860924ce5f1%3A0xde4bf3141b96ff8b!2sWadi%20Shawka!5e0!3m2!1sen!2sae!4v1622752790874!5m2!1sen!2sae" 
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6783.156796395005!2d55.910983970113044!3d25.762240446911626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef6746b347279bd%3A0x38b2d2fbf2efb951!2sFlamingo%20Beach!5e0!3m2!1sen!2sae!4v1622758181591!5m2!1sen!2sae" 
             width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -569,73 +566,67 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
+            <img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="fiximg" />
+            <p> Flamingo Beach captured from the top </p>
             </div>
             
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="fiximg" />
-            <p> A photo of a hiker who reached the top of the mountains</p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3B.jpg" class="fiximg" />
+            <p> Along the seashore </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4C.jpg" class="fiximg" />
-            <p> Camping by the small river</p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3C2.jpg" class="fiximg" />
+            <p>The beach and its' wide parking lot</p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="fiximg" />
-            <p> A capture of the dam seen in the place </p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3D.jpg" class="fiximg" />
+            <p> Sand Area </p>
             </div>
             
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="fiximg" />
-            <p> One of the hiking's trails</p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3E.jpg" class="fiximg" />
+            <p> Along the seashore</p>
             </div>
         
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="fiximg" />
-            <p> Sunset in Wadi Shawka </p>
-            </div>
-
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4G.jpg" class="fiximg" />
-            <p> A part of the dam </p>
-            </div>
-
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3F.jpg" class="fiximg" />
+            <p> The Famous Flamingo Statues</p>
             </div>
 
             <div class="img-media">
-            <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
-            </div>
-            
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="fiximg" />
-            <p> A photo of a hiker who reached the top of the mountains</p>
+            <img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="fiximg" />
+            <p> Flamingo Beach captured from the top </p>
             </div>
 
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3H.jpg" class="fiximg" />
+            <p> The walkways across the beach </p>
+            </div>
+        
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3G.jpg" class="fiximg" />
+            <p> The Famous Flamingo Statues </p>
+            </div>
 
         </div>
 
         <div class="row row3">
-        <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4C.jpg" class="fiximg" />
-            <p> Camping by the small river</p>
+        <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3B.jpg" class="fiximg" />
+            <p> Along the seashore </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="fiximg" />
-            <p> A capture of the dam seen in the place </p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3C2.jpg" class="fiximg" />
+            <p>The beach and its' wide parking lot</p>
+            </div>
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3D.jpg" class="fiximg" />
+            <p> Sand Area </p>
             </div>
             
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="fiximg" />
-            <p> One of the hiking's trails</p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3E.jpg" class="fiximg" />
+            <p> Along the seashore</p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="fiximg" />
-            <p> Sunset in Wadi Shawka </p>
-            </div>
-
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4G.jpg" class="fiximg" />
-            <p> A part of the dam </p>
-            </div>
+ 
 
         </div>
 
@@ -657,37 +648,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 06:00 AM to 08:00 PM '); //so put the timings here
    
         }
 

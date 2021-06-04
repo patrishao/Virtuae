@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Wadi Shawka</title>
+    <title>Waldorf Astoria</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -12,7 +12,6 @@
 
 </head>
 <body>
-
 <div id="navbar"> 
             <?php 
 
@@ -23,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "rak-act5"; 
+            $pageName = "rak-din1"; 
 
             ?>
     </div>
@@ -33,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Dine/Waldorf Astoria/rakdin1C.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Dine/Waldorf Astoria/rakdin1G.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Dine/Waldorf Astoria/rakdin1D.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Wadi Shawka </h1> <!-- title -->
+                <h1 class="title1"> Waldorf Astoria </h1> <!-- title -->
                 <p class="location-title"> Ras Al Khaimah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -49,7 +48,6 @@
     <div class="wrapper3"> <!-- not to be touched -->
         <div class="categories">
                 <div class="box" onClick="history()"><a>INFO</a></div>
-                <div class="box" onClick="whttodo()"><a>WHAT TO DO</a></div>
                 <div class="box" onClick="timings()"><a>TIMINGS</a></div>
                 <div class="box" onClick="events()"><a>EVENTS</a></div>
                 <div class="box" onClick="vt()"><a>VIRTUAL TOUR</a></div>
@@ -71,92 +69,46 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1E.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1F.jpg" class="smallimg"/></div>
+             
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Ras Al Khaimah/Activities/Wadi Shawka.docx"> 
+                    <a href="download/Ras Al Khaimah/Dine/Waldorf Astoria.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Wadi Shawka (literally 'powerful wadi') is a seasonal watercour
-                    in the Hajar Mountains of Ras Al Khaimah, in the United Arab Emirates. Famous locally for the Shawka Dam, a renowned beauty spot and
-                    destination for outdoor sports, the wadi has long been an agricultural area and alongside existing farms, and many abandoned settlements 
-                    exist on the sides of the wadi. The wadi enjoys unusually high rainfall of some 120mm per annum.
-
+                <p class="info-description"> Waldorf Astoria Ras Al Khaimah is home to a variety of bespoke restaurants and bars, offering
+                     an exclusive range of dining and entertainment experiences to suit every mood and taste.
 
                     <br>
                     <br>
 
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                    <p class="info-description1"> 
-                    The Shawka Dam was originally constructed in 2001, on the orders of Sheikh Zayed Al Nahyan, and overlooks a developed recreational
-                     area with a children's play area, washrooms, a family barbecue area and a number of pools. The dam has a 275,000 cubic metre capacity and,
-                      with a height of 13 metres and a length of 107 metres, is considered one of the largest dams in the Emirates.
+                    Dine on an extensive range of favorite global and local dishes served at Qasr al Bahar. Enjoy first-class ingredients in
+                    dishes cooked in open kitchens, featuring Arabic classics, Indian tandoori, European-Mediterranean and Asian cuisine. Lexington Grill,
+                    the US steakhouse, showcases grills, steaks and seafood with private dining room and long bar seating. UMI, the Japanese restaurant, serves Teppanyaki 
+                    and sushi. Relish elegantly presented home-style dishes at Marjan, featuring finely spiced, marinated and grilled food from the Middle East.
+
+
+                    <br>
+                    <br>
+                    
+                    Sate your appetite with refreshing cocktails, juices, salads and sandwiches at the poolside in Azure. Relax with specialty coffees 
+                    and cakes at the icons Peacock Alley. Camelia Lounge caters to tea lovers and offers the traditional Waldorf Astoria high tea.
 
                     </p>
-        
             </div>
             
          </div>
         </div>
         </div>
-
-
-
-        <!-- WHAT TO DO -->
-        <div class="wtd-container" id="wtd-container">
-        <div class="blackbg">
-        <img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
-        </div>
-        <div class="scroller-area">
-
-            
-            <div class="contents-box">
-                <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1"> A visit to Shawka trail is a welcome and affordable change that is just a couple of hours away! It offers
-                    activities made for adventurers and nature lovers.
-                </p>
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Hike </h2>
-                <p class="contents-desc">
-                Wadi Shawka is a popular destination for off-road enthusiasts, hikers and mountain bikers as well as families attracted to the Shawka Dam,
-                a developed rest area and picnic spot. </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Explore </h2>
-                <p class="contents-desc"> Wadi Shawka is not limited to hiking trails only. It is a perfect area to practice your mountain biking skills,
-                     go camping, and off-road driving in the wadi.
-                </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-
-            </div>
-        </div>
-        <!-- -->
 
         <!-- TIMINGS -->
 
@@ -444,7 +396,7 @@
                     <div class="e-date">
                         <div class="e-month"> DEC </div> <!-- month -->
                         <div class="e-number"> 15 </div> <!-- date -->
-                    </div>
+                    </div>+-
                     <div class="name-event"> <p class="en-adjusting">Dubai Shopping Festival</p></div> <!-- name of the event -->
                 </div>
 
@@ -471,15 +423,15 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     <!-- google maps -->   
-     <iframe width="100%" height="1000px" src="https://poly.google.com/view/3ccNkKNZ0kb/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" 
-        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-     
-        <br>
-        <br>
-        
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57812.20901815209!2d56.00598245442023!3d25.092954939724283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5a860924ce5f1%3A0xde4bf3141b96ff8b!2sWadi%20Shawka!5e0!3m2!1sen!2sae!4v1622752790874!5m2!1sen!2sae" 
-            width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!4v1622765463641!6m8!1m7!1sCAoSLEFGMVFpcE1JSlE0WGZrTDdpZFI5S0hIT2swYTVIVlc3dk5GOHd5VFRodExC!2m2!1d25.6860569!2d55.7734624!3f271.10091455606636!4f-9.850229805152338!5f0.7820865974627469"
+         width="100%" height="900px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+    <br> <br>
+
+    <!-- google maps -->   
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1217.3328986133288!2d55.77315189304241!3d25.685281556384375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef60a3c3e4065af%3A0xf6db41474b22a346!2sWaldorf%20Astoria%20Ras%20Al%20Khaimah!5e0!3m2!1sen!2sae!4v1622765668521!5m2!1sen!2sae"
+         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -568,74 +520,71 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media">
-            <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
-            </div>
-            
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="fiximg" />
-            <p> A photo of a hiker who reached the top of the mountains</p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1A.jpg" class="fiximg" />
+            <p> The view from outside </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4C.jpg" class="fiximg" />
-            <p> Camping by the small river</p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1B.jpg" class="fiximg" />
+            <p> Outdoor Pool</p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="fiximg" />
-            <p> A capture of the dam seen in the place </p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1C.jpg" class="fiximg" />
+            <p> 2nd Floor Restaurant Interior </p>
             </div>
-            
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="fiximg" />
-            <p> One of the hiking's trails</p>
+
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1D.jpg" class="fiximg" />
+            <p> 2nd Floor Restaurant Interior </p>
             </div>
-        
+
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1E.jpg" class="fiximg" />
+            <p> The Grand Staircase </p>
+            </div>
+
         </div>
-
         <div class="row row2">
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="fiximg" />
-            <p> Sunset in Wadi Shawka </p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1F.jpg" class="fiximg" />
+            <p>  2nd Floor Restaurant Interior </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4G.jpg" class="fiximg" />
-            <p> A part of the dam </p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1G.jpg" class="fiximg" />
+            <p> Restaurant near the pool </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1H.jpg" class="fiximg" />
+            <p> Ground Floor Restaurant </p>
             </div>
 
-            <div class="img-media">
-            <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
-            </div>
-            
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="fiximg" />
-            <p> A photo of a hiker who reached the top of the mountains</p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1A.jpg" class="fiximg" />
+            <p> The view from outside </p>
             </div>
 
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1B.jpg" class="fiximg" />
+            <p> Outdoor Pool</p>
+            </div>
 
         </div>
-
         <div class="row row3">
-        <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4C.jpg" class="fiximg" />
-            <p> Camping by the small river</p>
+          
+        <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1C.jpg" class="fiximg" />
+            <p> 2nd Floor Restaurant Interior </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="fiximg" />
-            <p> A capture of the dam seen in the place </p>
-            </div>
-            
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="fiximg" />
-            <p> One of the hiking's trails</p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1D.jpg" class="fiximg" />
+            <p> 2nd Floor Restaurant Interior </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="fiximg" />
-            <p> Sunset in Wadi Shawka </p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1E.jpg" class="fiximg" />
+            <p> The Grand Staircase </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4G.jpg" class="fiximg" />
-            <p> A part of the dam </p>
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1F.jpg" class="fiximg" />
+            <p>  2nd Floor Restaurant Interior </p>
             </div>
+
+            <div class="img-media"><img src="images/RAK/Dine/Waldorf Astoria/rakdin1G.jpg" class="fiximg" />
+            <p> Restaurant near the pool </p>
+            </div>
+
 
         </div>
 
@@ -657,37 +606,36 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
-  
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 12:00 AM - 11:59 PM '); //so put the timings here
    
         }
 

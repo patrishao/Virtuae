@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Wadi Shawka</title>
+    <title>Jasim's Wild Life Park </title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -23,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "rak-act5"; 
+            $pageName = "rak-ent3"; 
 
             ?>
     </div>
@@ -33,13 +33,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4C.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4F.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4A.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Wadi Shawka </h1> <!-- title -->
+                <h1 class="title1"> Jasim's Wild Life Park </h1> <!-- title -->
                 <p class="location-title"> Ras Al Khaimah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -71,37 +71,40 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4D.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4H.jpg" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Ras Al Khaimah/Activities/Wadi Shawka.docx"> 
+                    <a href="download/Ras Al Khaimah/Entertainment/Jasim's Wild Life Park.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Wadi Shawka (literally 'powerful wadi') is a seasonal watercour
-                    in the Hajar Mountains of Ras Al Khaimah, in the United Arab Emirates. Famous locally for the Shawka Dam, a renowned beauty spot and
-                    destination for outdoor sports, the wadi has long been an agricultural area and alongside existing farms, and many abandoned settlements 
-                    exist on the sides of the wadi. The wadi enjoys unusually high rainfall of some 120mm per annum.
+                <p class="info-description"> Jasim's Wild Life Park in Ras al Khaimah - United Arab Emirates is a wildlife park. This is a family-friendly place 
+                    and the kids will have a great time over here due to the presence of a great variety of animals. The place is well maintained and the animals are well fed.
+                     The animals here are friendly and it will always feel lovely to interact with them and feed them. It is a genuinely nice place to visit and you are bound to 
+                     have a great time with your special ones. There is one thing that every parent should take a note of and that is, never let your kids get out of sight, as this
+                      is a wild life park.
+                    <br>
+                    <br>
 
 
                     <br>
                     <br>
 
+
+                
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 
-                    The Shawka Dam was originally constructed in 2001, on the orders of Sheikh Zayed Al Nahyan, and overlooks a developed recreational
-                     area with a children's play area, washrooms, a family barbecue area and a number of pools. The dam has a 275,000 cubic metre capacity and,
-                      with a height of 13 metres and a length of 107 metres, is considered one of the largest dams in the Emirates.
-
+                    Jasim's Wild Life Park  opened its' doors on September 23, 2014. It is the third-largest zoo in the UAE, after Al Ain Zoo and the Emirates Park Zoo in Abu Dhabi. 
+                    The Zoo is owned by Jasim Ali, General Commander of RAK Police, and was built on an area of 1 million square metres.
                     </p>
         
             </div>
@@ -115,7 +118,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4B.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -123,36 +126,81 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1"> A visit to Shawka trail is a welcome and affordable change that is just a couple of hours away! It offers
-                    activities made for adventurers and nature lovers.
+                <p class="contents-desc1"> 
+             Jasim's Wild Life Park is an extraordinary spot to take your children and appreciate a break from the clamor of every day life. 
                 </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Hike </h2>
-                <p class="contents-desc">
-                Wadi Shawka is a popular destination for off-road enthusiasts, hikers and mountain bikers as well as families attracted to the Shawka Dam,
-                a developed rest area and picnic spot. </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" />
+                    <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4E.jpg" />
                 </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Explore </h2>
-                <p class="contents-desc"> Wadi Shawka is not limited to hiking trails only. It is a perfect area to practice your mountain biking skills,
-                     go camping, and off-road driving in the wadi.
+                <p class="contents-desc">
+                You can walk around to check out the different attractions and there is an option to rent a golf car as well if you are not too keen to explore the zoo on foot. </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+            
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4C.jpg" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Discover </h2>
+                <p class="contents-desc">
+                Jasim's Wild Life Park lets you to discover 40 wild and jeopardized species. Children will especially be amused while watching chimpanzees at RAK Zoo. 
+         </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+            
+
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4H.jpg" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Equestrian Club & Theater </h2>
+                <p class="contents-desc"> <br> <br> <br>
+                This zoo has its own equestrian club, where ladies and children can enjoy horse riding and other exciting activities.
                 </p> <!-- put the actual activities here -->
                  </div>
             </div> 
             
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4G.jpg" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title">Play  </h2>
+                <p class="contents-desc"> This zoo has a dedicated play area where children can get some exercise.
+                    The play area at the park includes slides, hammocks and all sorts of colourful and exciting installations. 
+ 
+                </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4A.jpg" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title">Dine </h2>
+                <p class="contents-desc"> Grab a bite and relax. The restaurant and cafe at the zoo feature a variety of meals as well as light snacks that you can enjoy with 
+                    hot and cold beverages.
+
+ 
+                </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+
+
+
 
             </div>
         </div>
@@ -472,15 +520,14 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
      <!-- google maps -->   
-     <iframe width="100%" height="1000px" src="https://poly.google.com/view/3ccNkKNZ0kb/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" 
-        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-     
-        <br>
-        <br>
-        
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57812.20901815209!2d56.00598245442023!3d25.092954939724283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5a860924ce5f1%3A0xde4bf3141b96ff8b!2sWadi%20Shawka!5e0!3m2!1sen!2sae!4v1622752790874!5m2!1sen!2sae" 
-            width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <iframe width="100%" height="1000px" src="https://poly.google.com/view/d4cSehF04sV/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
+        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
+         <br>
+         <br>
+     
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1798.2317516819592!2d55.96316019815652!3d25.655925652380464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5d911334a79a5%3A0xf69ad92d73289368!2sJasim&#39;s%20Wild%20Life%20Park!5e0!3m2!1sen!2sae!4v1622761711582!5m2!1sen!2sae" 
+            width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- -->
     
     <!-- COMMENTS -->
@@ -569,73 +616,68 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
+            <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4A.jpg" class="fiximg" />
+            <p> The zoo's entrance </p>
             </div>
             
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="fiximg" />
-            <p> A photo of a hiker who reached the top of the mountains</p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4B.jpg" class="fiximg" />
+            <p> The Lake & Flamingos</p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4C.jpg" class="fiximg" />
-            <p> Camping by the small river</p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4C.jpg" class="fiximg" />
+            <p>Tigers resting</p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="fiximg" />
-            <p> A capture of the dam seen in the place </p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4D.jpg" class="fiximg" />
+            <p> A sleepy tiger </p>
             </div>
             
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="fiximg" />
-            <p> One of the hiking's trails</p>
-            </div>
+      
         
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="fiximg" />
-            <p> Sunset in Wadi Shawka </p>
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4E.jpg" class="fiximg" />
+            <p> Ducks on the lake</p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4G.jpg" class="fiximg" />
-            <p> A part of the dam </p>
-            </div>
-
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4H.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4F.jpg" class="fiximg" />
+            <p> A display boat on the lake</p>
             </div>
 
             <div class="img-media">
-            <img src="images/RAK/Activities/Wadi Shawka/rakact4A.jpg" class="fiximg" />
-            <p> People hiking in Wadi Shawka </p>
-            </div>
-            
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4B.jpg" class="fiximg" />
-            <p> A photo of a hiker who reached the top of the mountains</p>
+            <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4G.jpg" class="fiximg" />
+            <p> Bird Feeding Activity </p>
             </div>
 
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4H.jpg" class="fiximg" />
+            <p> The Equestrian Club </p>
+            </div>
+        
 
         </div>
 
         <div class="row row3">
-        <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4C.jpg" class="fiximg" />
-            <p> Camping by the small river</p>
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4D.jpg" class="fiximg" />
+            <p> A sleepy tiger </p>
             </div>
 
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4D.jpg" class="fiximg" />
-            <p> A capture of the dam seen in the place </p>
+            <div class="img-media">
+            <img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4G.jpg" class="fiximg" />
+            <p> Bird Feeding Activity </p>
+            </div>
+
+            <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4B.jpg" class="fiximg" />
+            <p> The Lake & Flamingos</p>
             </div>
             
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4E.jpg" class="fiximg" />
-            <p> One of the hiking's trails</p>
+           <div class="img-media"><img src="images/RAK/Entertainment/Jasims Wild Life Park/rakent4H.jpg" class="fiximg" />
+            <p> The Equestrian Club </p>
             </div>
-
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4F.jpg" class="fiximg" />
-            <p> Sunset in Wadi Shawka </p>
-            </div>
-
-            <div class="img-media"><img src="images/RAK/Activities/Wadi Shawka/rakact4G.jpg" class="fiximg" />
-            <p> A part of the dam </p>
-            </div>
+        
+ 
 
         </div>
 
@@ -657,37 +699,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 AM to 11:59 PM '); //so put the timings here
+            $('#t-time').html(' 09:00 AM to 10:00 PM '); //so put the timings here
    
         }
 
