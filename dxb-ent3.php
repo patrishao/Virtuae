@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "ajm-act2"; 
+            $pageName = "dxb-ent3"; 
 
             ?>
     </div>
