@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Al Labsah</title>
+    <title>Sikkat Beirut Restaurant and Cafe</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -12,7 +12,7 @@
 
 </head>
 <body>
-    <div id="navbar"> 
+<div id="navbar"> 
             <?php 
 
             include 'includes/database.php';
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-act1"; 
+            $pageName = "uaq-din1"; 
 
             ?>
     </div>
@@ -32,15 +32,15 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Activities/Al Labsa/uaqactA1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Activities/Al Labsa/uaqactA8.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Activities/Al Labsa/uaqactA3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Al Labsah </h1> <!-- title -->
+                <h1 class="title1">Sikkat Beirut Restaurant and Cafe</h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
-                <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
+                <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
     </div>
     </div>
@@ -70,98 +70,42 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Activities/Al Labsa/uaqactA4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Activities/Al Labsa/uaqactA7.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Activities/Al Labsa/uaqactA6.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD2.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Activities/Al Labsah.docx"> 
+                    <a href="download/Umm Al Quwain/Dine/Sikkat Beirut.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> 
-
-                    Camels have been at the centre of life in the UAE for decades and the best place to see them is in Al Labsah. 
-                    They’re known for their Camel Racing Track. The road to the Camel race track at Al Labsa affords an exceptionally 
-                    pretty drive. This lovely race track is set in the lee of large dunes to the left of the road leading to Falaj Al Moalla. 
-
-                    <br><br>
-
-                    During the winter months, the camels race early in the morning on Thursdays and Fridays and spectators are welcome. 
-
-                    <br> <br>
-
-                    Camel caravans are a familiar site crossing the desert from one race track to another. The dunes in this area, 
-                    interspersed with wooded dales, provide a challenging terrain for off road desert drivers or as they are commonly 
-                    called "dune bashers". They also offer some of the most picturesque desert camping spots in the emirates promising 
-                    an unforgettable night under the Arabian stars. Group camping trips can be arranged.
-                    <br> <br>
-
-                 </p>
-                   
+                <p class="info-description"> Sikkat Beirut is a premium fine dining restaurant serving with the real taste of authenticity. 
+                There are diverse cuisines being served from delicious Lebanese to Italian and American street food. The Restaurant is one 
+                of its kind in the Emirate of Umm Al Quwain, fulfilling the varied cravings of guests with utmost consistency and quality 
+                pledge. We are involved in the provision of catering as well along with doorstep delivery.
+                    <br>
+                    <br>
+               
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
-                   In 2017, the 4km track played host to the 6th edition of the Mohammed bin Zayed Arabian Camel Racing Festival, an annual 
-                   event held under the patronage of the Crown Prince of Abu Dhabi, Sheikh Mohammed bin Zayed Al Nahyan.  The event rotates 
-                   annually between emirates, launching in 2012 at Ras Al Khaimah before Umm Al Quwain (2013); Shajrah (2014) and Ras Al 
-                   Khaiman (2015 and 2016). The five-day heritage sports event, held from 8 January 2017, comprised a total of 125 races.  </p>                    
-                             
-                    
+                   It began in 1989, when our chairman Sheikh Faisal Bin Abdulla Al Mualla decided to take a plunge into the business arena 
+                   which resulted in the construction and expansion of different businesses falling under one umbrella of Al Faisal Group. 
+                   Eventually the group diversified into hospitality division giving rise to the impression of providing superior dining and 
+                   catering experience.
+                   
+                    </p>
             </div>
             
          </div>
         </div>
         </div>
-
-
-
-        <!-- WHAT TO DO -->
-        <div class="wtd-container" id="wtd-container">
-        <div class="blackbg">
-        <img src="images/umm al quwain/Activities/Al Labsa/uaqactA5.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
-        </div>
-        <div class="scroller-area">
-
-            
-            <div class="contents-box">
-                <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">
-                
-                Camel racing is a must watch traditional sports of UAE which is centuries-old 
-                tradition across the Arabic peninsula
-                 
-                 </p>
-                </div>
-            </div> 
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/umm al quwain/Activities/Al Labsa/uaqactA2.JPG" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Camel Racing </h2>
-                <p class="contents-desc">
-
-                <br><br>
-                
-                Al Labsah offers a camel racing activity and welcomes 
-                visitors to who just wants to watch the race. 
-                
-                </p> <!-- put the actual activities here -->
-                </div>
-            </div> 
-
-            </div>
-        </div>
-        <!-- -->
 
         <!-- TIMINGS -->
 
@@ -449,7 +393,7 @@
                     <div class="e-date">
                         <div class="e-month"> DEC </div> <!-- month -->
                         <div class="e-number"> 15 </div> <!-- date -->
-                    </div>
+                    </div>+-
                     <div class="name-event"> <p class="en-adjusting">Dubai Shopping Festival</p></div> <!-- name of the event -->
                 </div>
 
@@ -476,15 +420,12 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-    <!-- to be replaced -->
 
-    <br> <br>     <br> <br>
-    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
-    <br> <br>     <br> <br>
+        <!-- virtual tour -->
+        <iframe src="https://www.google.com/maps/embed?pb=!4v1622743790027!6m8!1m7!1sCAoSLEFGMVFpcE03VHZ4b0VyUm5mNTMzUkl3Ym5rQWtGb00tN2FXTVNKQXlWTEhN!2m2!1d25.49626905520826!2d55.56129269314158!3f140.62848657052743!4f-25.818731296205527!5f0.7820865974627469" width="100%" height="1000px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     
-     <!-- google maps -->   
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57647.80477988403!2d55.71647880622434!3d25.438671448677578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5eed18cfdab65%3A0xa3d6b01d95bc68ed!2sAl%20Lebsa%20-%20Umm%20Al%20Quawain!5e0!3m2!1sen!2sae!4v1622789404232!5m2!1sen!2sae" 
-        width="100%" height="500px"" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <!-- google maps -->   
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14405.086817349786!2d55.5609808!3d25.4959835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x319549199023ddb8!2sSikkat%20Beirut%20Restaurant%20and%20Cafe!5e0!3m2!1sen!2sae!4v1622797590972!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -492,180 +433,152 @@
 
         <h2 class="review-title">REVIEWS</h2>
 
-        <script src="javascript/alerts.js"> </script>
+<script src="javascript/alerts.js"> </script>
 
 
-        <div class="review-container" id="review-container">
-        
-            <div class="user-review">
-        
-            <?php 
-            
-                    // fetching all the data from this certain page
-                    $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
-                    $query .= "ORDER BY comment_id DESC";
-                    $select_customers = mysqli_query($connection, $query);
-            
-                        while($row = mysqli_fetch_assoc($select_customers)){
-                            $comment_id = $row['comment_id'];
-                            $comment_page = $row['comment_page'];
-                            $comment_date = $row['comment_date'];
-                            $comment_author = $row['comment_author'];
-                            $comment_email = $row['comment_email'];
-                            $comment_contents = $row['comment_contents'];
-            ?>
+<div class="review-container" id="review-container">
+
+    <div class="user-review">
+
+    <?php 
+    
+            // fetching all the data from this certain page
+            $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+            $query .= "ORDER BY comment_id DESC";
+            $select_customers = mysqli_query($connection, $query);
+    
+                while($row = mysqli_fetch_assoc($select_customers)){
+                    $comment_id = $row['comment_id'];
+                    $comment_page = $row['comment_page'];
+                    $comment_date = $row['comment_date'];
+                    $comment_author = $row['comment_author'];
+                    $comment_email = $row['comment_email'];
+                    $comment_contents = $row['comment_contents'];
+    ?>
 
 
-                <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
-                <div class="main-review review"> 
-                    <div class="r-box main-box">
-                        <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
-                        <span class="date">  <?php  echo $comment_date?> </span></div>
-                        <div class="review-content"> <?php  echo $comment_contents?> </div>
-                    </div>
-                </div>
-
-
-                <?php } ?>
-                <!-- closing the while loop -->
-        
-                
+        <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
+        <div class="main-review review"> 
+            <div class="r-box main-box">
+                <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                <span class="date">  <?php  echo $comment_date?> </span></div>
+                <div class="review-content"> <?php  echo $comment_contents?> </div>
             </div>
-            
         </div>
 
-        <!-- including the other php file that handles the form -->
-        <?php  include 'includes/comments.php' ?>
 
-        <form class="wr-container" id="wr-container" method="post" action="">
-            
-            <div class="write-review">
+        <?php } ?>
+        <!-- closing the while loop -->
 
-                <!-- getting the name of whoever posted the comment -->
-                <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
+        
+    </div>
+    
+</div>
 
-                <!-- hidden values to get the user's who's logged -->
-                <input type="hidden" name="email" value=" <?php echo $email ?>  " >
+<!-- including the other php file that handles the form -->
+<?php  include 'includes/comments.php' ?>
 
-                <!-- getting the page name to know where is the user commenting -->
-                <input type="hidden" name="page" value="<?php echo $pageName?>" >
+<form class="wr-container" id="wr-container" method="post" action="">
+    
+    <div class="write-review">
 
+        <!-- getting the name of whoever posted the comment -->
+        <input type="hidden" name="author" value=" <?php echo $firstName . " " . $lastName ?>  " >
 
+        <!-- hidden values to get the user's who's logged -->
+        <input type="hidden" name="email" value=" <?php echo $email ?>  " >
 
-            <!-- adding a review -->
-            <!-- <input type="text" name="review"  class="form-control" placeholder="Add a review..."></input> old review box -->
-            <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
-
-            </div>
-
-            <!-- buttons to send  -->
-            <input type="submit" class="post btn" value="Post" name="post">
-            <input type="submit" class="cancel btn" value="Cancel" name="cancel">
-
-        </div>
-        </form>
+        <!-- getting the page name to know where is the user commenting -->
+        <input type="hidden" name="page" value="<?php echo $pageName?>" >
 
 
-    <!-- -->
+
+    <!-- adding a review -->
+    <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
+
+
+    </div>
+
+    <!-- buttons to send  -->
+    <input type="submit" class="post btn" value="Post" name="post">
+    <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+
+</div>
+</form>
+
+
+<!-- -->
 
     <section id="media-wrappper">
         <h2 class="media-title">MEDIA</h2> 
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA1.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
-            </div>
-            
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA2.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> A different angle of the camels racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA3.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA4.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> Resting camels </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD3.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA5.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
             </div>
+
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
+            </div>
+
         </div>
+
         <div class="row row2">
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA6.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD2.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA7.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
-            </div>
-            
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA8.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> Men riding camels </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA4.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> Resting camels </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD4.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA5.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD8.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD7.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            </div>
 
         </div>
         <div class="row row3">
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA7.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
-            </div>
-            
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA8.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> Men riding camels </p>
+           <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG"  class="fiximg" />
+           <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA3.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD6.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA4.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> Resting camels </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD5.JPG"  class="fiximg" />
+            <p> Interior design of Sikkat Beirut Restaurant and Cafe </p>
             </div>
 
-            <div class="img-media">
-                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA5.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> The camels are racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD7.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
             </div>
+
+            <div class="img-media"><img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD8.JPG"  class="fiximg" />
+            <p> Food served in Sikkat Beirut Restaurant and Cafe </p>
+            </div>
+
         </div>
 
         </div>
@@ -686,34 +599,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Closed');//so put the timings here
+            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Closed');//so put the timings here
+            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Closed');//so put the timings here  
+            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
+  
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Closed');//so put the timings here
+            $('#t-time').html( ' 7:00 AM - 2:00 AM ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Closed');//so put the timings here
+            $('#t-time').html( ' 7:00 AM - 3:00 AM ' ); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Weekends throughout the cooler months. (October to April)');//so put the timings here
+            $('#t-time').html(' 7:00 AM - 3:00 AM '); //so put the timings here
+
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('Weekends throughout the cooler months. (October to April)');//so put the timings here
-   
+            $('#t-time').html(' 7:00 AM - 2:00 AM '); //so put the timings here
         }
 
         //reply function
