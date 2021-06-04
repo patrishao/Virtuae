@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Backwaters</title>
+    <title>Thunder Road Pizza & Grill, Barracuda</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-din4"; 
+            $pageName = "uaq-din5"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Backwaters/uaqdinA2.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Backwaters/uaqdinA3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE6.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">Backwaters</h1> <!-- title -->
+                <h1 class="title1">Thunder Road Pizza & Grill, Barracuda</h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
         </div>
@@ -70,46 +70,57 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA5.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA6.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA7.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE2.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE5.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Dine/Backwaters.docx"> 
+                    <a href="download/Umm Al Quwain/Dine/Thunder Road Pizza _ Grill, Barracuda.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Backwaters as a concept brings to you the taste of traditional Kerala cuisine treating your taste buds 
-                with mouthwatering flavors from God’s own country Kerala. This traditional restaurant and bar is the perfect place to unwind with 
-                varieties of cocktails, mocktails and traditional dining options.
-
+                <p class="info-description"> Located in Barracuda Beach Resort, the restaurant offers homemade Italian cuisine with American twist 
+                coupled with  stunning sea view. From piping hot, freshly baked pizzas made to order with your favorite toppings, to calzones, 
+                salads and burgers, juicy steaks the Thunder Road Barracuda is certain to hit the spot just when you need it. Dine-in or Take-Out.
                     <br>
                     <br>
-               
-                    Some traditional heartwarming favorites includes the Thalasseri Fish Curry, Alleppey Prawn Curry, Travancore Fried Chicken and 
-                    the Malabar Lamb Curry to name just a few from these regions rich in food culture.
                     
-                    <br>
-                    <br>
-
-                    The cuisine of Backwaters Restaurant is evident in terms of aromas, colors and flavors. Varieties of delectable dishes are 
-                    prepared at Backwaters from traditional styles to modern methods of cooking, a unique south Indian gastronomic experience. At 
-                    Backwaters, you will be taken into the wonders of an authentic Kerala culinary experience.
-                    
+                    They offer bars, pool table, indoor and outdoor seating and play ground this restaurant is best for large fun parties!
+                   
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 
                     
-                    This restaurant is inspired by the culinary of Kerala, India.  Kerala, the land of diverse culture is blessed with a wide number 
-                    of waterways, lagoons, lake and canals, which are popularly known as the backwaters of Kerala and internationally known as the 
-                    “Venice of the East”. This beautiful state was once a buzzing trading port for some of the world’s most unique and precious 
-                    species owing to which the cuisine is now widely renowned for enigmatic recipes and aromatic delicacies.
+                    In 1955 the heritage of our company began in the heart of Chianti, Tuscany, located few miles away from Florence. Passionate by 
+                    cooking, Guiseppe Tatulli opened a small family restaurant in their villa. Every family member was involved in the cooking tradition. 
+                    The wheat to make homemade pasta and fresh crusty breads, fruits, vegetables as well as olives and olive oil were harvested from the 
+                    family's own land. Hand crafted cold cuts, wonderful Italian cheese, produced by the Tatulli family who made just a form a day 
+                    from the milk of their small herds, always adorned the table.
+
+                    <br>
+                    <br>
+
+                    The elder son of Guiseppe Tatulli, Lorenzo inherited the passion for restoration and committed to develop his family’s commerce widely. 
+                    He extended the business to Milano, where he was living, in 1975. The concept of bonding the restaurant with gourmet shops was welcomed 
+                    warmly by Milanese consumers. Then Lorenzo decided to open another restaurant & gourmet shop in Pavia, Lombardy. 
+
+                    <br>
+                    <br>
+
+                    In 1983 the son of Lorenzo Tatulli, Alessandro, the rebel biker in soul, took an epic trip to USA and ride the America’s oldest route 66 - 
+                    Mother Road. The journey down the highway has left in him deep feelings about American people, their lifestyle and their food. Upon his 
+                    return to Italy Alessandro decides to give an American twist to his restaurants’ menu with an assortment of steaks. 
+                    
+                    <br>
+                    <br>
+
+                    In 2015 Alessandro together with Francesco Romano, reputable Italian fine dining chef, brought his family business to the United Arab Emirates.
 
                     </p>
             </div>
@@ -432,13 +443,11 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
 
-       
-        <br> <br>     <br> <br>
-        <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
-        <br> <br>     <br> <br>
-        
+        <!-- virtual tour -->
+        <iframe width="100%" height="1000px" src="https://poly.google.com/view/aD767ET0NpB/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
         <!-- google maps -->   
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3599.790704400139!2d55.55652821495503!3d25.5453476837354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5ffab0ab7c573%3A0x3af1e5021a204cd0!2sBackwaters-%20Authentic%20Kerala%20Cuisine!5e0!3m2!1sen!2sae!4v1622815518792!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.5203116741172!2d55.650024914955964!3d25.58762118371611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fd20ac4e4eff%3A0x5636c7b0b744a2f3!2sThunder%20Road%20Barracuda!5e0!3m2!1sen!2sae!4v1622815472298!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- -->
     
         <!-- COMMENTS -->
@@ -526,69 +535,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG"  class="fiximg" />
-            <p> Interior design of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA2.JPG"  class="fiximg" />
-            <p> Food served in Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE2.JPG"  class="fiximg" />
+            <p> Entrance of Thunder Road Pizza & Grill with a car in front of it </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA3.JPG"  class="fiximg" />
-            <p> Logo of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE3.JPG"  class="fiximg" />
+            <p> People eating inside Thunder Road Pizza & Grill, Barracuda </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA4.JPG"  class="fiximg" />
-            <p> Exterior of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE4.JPG"  class="fiximg" />
+            <p> Entrance of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA5.JPG"  class="fiximg" />
-            <p> Food served in Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE5.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA6.JPG"  class="fiximg" />
-            <p> Interior design of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE6.JPG"  class="fiximg" />
+            <p> Outdoor seating of the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA7.JPG"  class="fiximg" />
-            <p> Food served in Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE7.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG"  class="fiximg" />
-            <p> Interior design of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA2.JPG"  class="fiximg" />
-            <p> Food served in Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE2.JPG"  class="fiximg" />
+            <p> Entrance of Thunder Road Pizza & Grill with a car in front of it </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA3.JPG"  class="fiximg" />
-            <p> Logo of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE3.JPG"  class="fiximg" />
+            <p> People eating inside Thunder Road Pizza & Grill, Barracuda </p>
             </div>
 
         </div>
         <div class="row row3">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA4.JPG"  class="fiximg" />
-            <p> Exterior of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE4.JPG"  class="fiximg" />
+            <p> Entrance of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA5.JPG"  class="fiximg" />
-            <p> Food served in Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE5.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA6.JPG"  class="fiximg" />
-            <p> Interior design of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE6.JPG"  class="fiximg" />
+            <p> Outdoor seating of the restaurant </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA7.JPG"  class="fiximg" />
-            <p> Food served in Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE7.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG"  class="fiximg" />
-            <p> Interior design of Backwaters </p>
+            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG"  class="fiximg" />
+            <p> Interior design of Thunder Road Pizza & Grill </p>
             </div>
 
         </div>
@@ -611,37 +620,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 12:00 PM - 12:00 AM ' ); //so put the timings here
+            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 PM - 12:00 AM '); //so put the timings here
+            $('#t-time').html(' 11:00 AM - 11:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 12:00 PM - 12:00 AM '); //so put the timings here
+            $('#t-time').html(' 11:00 AM - 11:00 PM '); //so put the timings here
         }
 
         //reply function
