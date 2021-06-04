@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "fuj-din1"; 
+            $pageName = "fuj-din2"; 
 
             ?>
     </div>
@@ -32,9 +32,9 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1A.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1B.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1C.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
@@ -70,9 +70,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.17.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.44.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1E.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1F.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1G.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
@@ -86,9 +86,8 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                Step into The Orangery where traditional and delicious British food triumphs. We make contemporary dining experience with influence from Europe and beyond with a local influences.
-Located in the heart of Fujairah, feel at home in a stylish and elegant space open all day. Start your day with a hearty breakfast, drop in for lunch or dinner and enjoy refreshments or a quintessential afternoon tea. We create beautifully crafted dishes with a passion to delight and share our love of delicious artisanal food.
-
+                Al Meshwar restaurant is divided in 2 floors and mezzanine with smoking and non smoking areas, VIP lounges, conference and wedding hall, butchery, kids area, prayer room and basement car parking.
+We’re a (lebanese mediterranean) restaurant that serves the finest products from vegetables to meat. An unlimited Variety of Dishes prepared fresh from the highest quality ingredients. We serve Raw meat, Seafood, Poultry, Grills, Steaks, Manakeesh, cold appetizers, Salads, Arabic & French sweets, Ice creams, Cakes, Fresh juices,cocktails …We have a multi-awarded Expert Chef with high culinary skills and over 14 culinary certificates heading our Kitchen.
 
                     <br> 
                     <br>
@@ -420,7 +419,7 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
      <!-- google maps -->   
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.4243252077626!2d56.33172361535752!3d25.12134134093785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f964e0a42b8f%3A0x8df024462995a8e8!2sThe%20Orangery!5e0!3m2!1sen!2sae!4v1622767066946!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.37489169549!2d56.32890731535773!3d25.123013440870547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f88c6edbdd4f%3A0x63fbdeb173599ea2!2sAlMeshwar%20Restaurant!5e0!3m2!1sen!2sae!4v1622769852582!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -510,95 +509,96 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> an angled shot of the restaurant </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> a picture of inside the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> drinks </p>
+                <p> good food! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.25.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> delicious food </p>
+                <p> the front of the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1E.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> a scenic view from inside </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1G.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> entrance to the orangery </p>
+                <p> more delicious food </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> a picture of inside the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> drinks </p>
+                <p> the front of the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> good food! </p>
             </div>
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> an angled shot of the restaurant </p>
             </div>
 
         </div>
         <div class="row row3">
 
         <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> an angled shot of the restaurant </p>
             </div>
+            
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
-            </div>
-
-            <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.25.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> delicious food </p>
+                <p> a picture of inside the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> good food! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> entrance to the orangery </p>
+                <p> the front of the restaurant </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\fuj-pictures\Dine\Al Meshwar Restaurant\fujdin1E.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> a scenic view from inside </p>
             </div>
 
         </div>

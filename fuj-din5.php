@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "fuj-din1"; 
+            $pageName = "fuj-din2"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2E.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2C.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2H.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> THE ORANGERY </h1> <!-- title -->
+                <h1 class="title1"> CREPES AND BURGERS LLC </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,26 +70,23 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.17.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.44.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2B.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2D.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2A.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Dine\The Orangery.docx"> 
+                    <a href="download\Fujairah\Dine\Crepes and Burgers LLC.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                Step into The Orangery where traditional and delicious British food triumphs. We make contemporary dining experience with influence from Europe and beyond with a local influences.
-Located in the heart of Fujairah, feel at home in a stylish and elegant space open all day. Start your day with a hearty breakfast, drop in for lunch or dinner and enjoy refreshments or a quintessential afternoon tea. We create beautifully crafted dishes with a passion to delight and share our love of delicious artisanal food.
-
-
+                At Crepes & Burgers, we maintain high and consistent standards. Our customers are the most important part of our business and we do our best to make sure that their visit will be a pleasant one. Our guests can also order food online or take away, letting you enjoy the flavour sensation at the comfort of your home or wherever you go.
                     <br> 
                     <br>
                  </p>
@@ -420,7 +417,7 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
      <!-- google maps -->   
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.4243252077626!2d56.33172361535752!3d25.12134134093785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f964e0a42b8f%3A0x8df024462995a8e8!2sThe%20Orangery!5e0!3m2!1sen!2sae!4v1622767066946!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.014688980807!2d56.351462615357825!3d25.135194240380564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f9cfdc112a33%3A0x4ca7a8282a9ae43f!2sCrepes%20and%20Burgers%20LLC!5e0!3m2!1sen!2sae!4v1622776654092!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -510,97 +507,98 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> crepe! </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> inside of the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> drinks </p>
+                <p> good food! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.25.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> delicious food </p>
+                <p> burger and fries </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2E.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> more sweets </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2F.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> entrance to the orangery </p>
+                <p> a pasta </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2G.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> inside of the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> drinks </p>
+                <p> burger and fries </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> crepe! </p>
             </div>
+            
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> inside of the restaurant </p>
             </div>
 
         </div>
         <div class="row row3">
 
         <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
-            </div>
-            <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> inside of the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.25.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> delicious food </p>
+                <p> good food! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2F.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> a pasta </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> entrance to the orangery </p>
+                <p> crepe! </p>
             </div>
-
+            
+            <div class="img-media">
+                <img src="images\fuj-pictures\Dine\Crepes and Burgers LLC\fujdin2B.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> inside of the restaurant </p>
+            </div>
         </div>
 
         </div>
@@ -621,37 +619,37 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am'); //so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('10:00 AM - 1:00 AM');//so put the timings here
    
         }
 

@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "fuj-din1"; 
+            $pageName = "fuj-din3"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="picture" /></div>
-                        <div><img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\The Bookstore\fujdin4D.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\The Bookstore\fujdin4B.JPG" class="picture" /></div>
+                        <div><img src="images\fuj-pictures\Dine\The Bookstore\fujdin4C.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> THE ORANGERY </h1> <!-- title -->
+                <h1 class="title1"> THE BOOKSTORE </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,25 +70,26 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.17.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.44.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\The Bookstore\fujdin4A.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\The Bookstore\fujdin4E.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\fuj-pictures\Dine\The Bookstore\fujdin4F.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Dine\The Orangery.docx"> 
+                    <a href="download\Fujairah\Dine\The Bookstore.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                Step into The Orangery where traditional and delicious British food triumphs. We make contemporary dining experience with influence from Europe and beyond with a local influences.
-Located in the heart of Fujairah, feel at home in a stylish and elegant space open all day. Start your day with a hearty breakfast, drop in for lunch or dinner and enjoy refreshments or a quintessential afternoon tea. We create beautifully crafted dishes with a passion to delight and share our love of delicious artisanal food.
-
+                For every prohibition you create, you also literally create an underground in a subtle way. 
+                A small particularly intimate speakeasy bar hidden behind a bookcase, showing how a small particularly 
+                intimate speakeasy bar hidden behind a bookcase in a pretty big way. Transform yourself back to the 20's
+                 and fully kind of absorb yourself within the prohibition era, actually contrary to popular belief. 
 
                     <br> 
                     <br>
@@ -420,7 +421,7 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
      <!-- google maps -->   
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.4243252077626!2d56.33172361535752!3d25.12134134093785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f964e0a42b8f%3A0x8df024462995a8e8!2sThe%20Orangery!5e0!3m2!1sen!2sae!4v1622767066946!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.4218655781947!2d56.32216451535771!3d25.121424540934488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f98a89fd75a3%3A0xbc08345fb8dfa364!2sThe%20Bookstore%20Fujairah!5e0!3m2!1sen!2sae!4v1622772331971!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
@@ -510,95 +511,96 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> the bookstore with the opening sign </p>
             </div>
             
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4B.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> a picture of inside the restaurant </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> drinks </p>
+                <p> great food! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.25.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> delicious food </p>
+                <p> some alcohol </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4E.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> another view from inside </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4F.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> entrance to the orangery </p>
+                <p> some books! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4G.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> a view of the bar </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.33.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> drinks </p>
+                <p> great food! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4A.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
+                <p> the bookstore with the opening sign </p>
             </div>
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> some alcohol </p>
             </div>
 
         </div>
         <div class="row row3">
 
         <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\private_dining_img.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4F.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> the private dining </p>
-            </div>
-            <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.56.28.JPG" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> pancakes </p>
+                <p> some books! </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\Screen_20Shot_202021-06-02_20at_2015.57.25.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4D.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> delicious food </p>
+                <p> some alcohol </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4E.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> some seats and tables</p>
+                <p> another view from inside </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4G.JPG" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> a view of the bar </p>
             </div>
 
             <div class="img-media">
-                <img src="images\fuj-pictures\Dine\The Orangery\entrance-to-the-orangery.JPG" class="fiximg" /> <!-- img! -->
+                <img src="images\fuj-pictures\Dine\The Bookstore\fujdin4C.JPG" class="fiximg" /> <!-- img! -->
                  <!-- description time, add smth like idk "fun time family!" -->
-                <p> entrance to the orangery </p>
+                <p> great food! </p>
             </div>
 
         </div>
@@ -621,37 +623,37 @@ Located in the heart of Fujairah, feel at home in a stylish and elegant space op
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am'); //so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8am – 12am');//so put the timings here
+            $('#t-time').html('4:00 PM - 12:00 AM');//so put the timings here
    
         }
 
