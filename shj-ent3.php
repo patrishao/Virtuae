@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title> Al Noor Island </title>
+    <title> Al Montazah Park </title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "shj-ent1"; 
+            $pageName = "shj-ent3"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3B.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3D.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3G.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">  Al Noor Island  </h1> <!-- title -->
+                <h1 class="title1">  Al Montazah Park  </h1> <!-- title -->
                 <p class="location-title"> Sharjah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,35 +70,36 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3G.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3C.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3E.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Sharjah\Entertainment\Al Noor Island.docx"> 
+                    <a href="download\Sharjah\Entertainment\Al Montazah Park.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                As one of the main family attractions in Sharjah, Al Noor Island is known for its tropical 
-                biosphere filled with floating butterflies. Families can pick up a snack and a beverage 
-                from a cafe serving healthy food, visit the literature pavilion or take in a beautiful 
-                sculpture. The island hosts several art installations, including the world-famous OVO 
-                structure.
+                Al Montazah Amusement and Water Park is Sharjah’s number one family destination, offering thrilling water rides and lavish 
+                leisure amenities. Thanks to its strategic location in Sharjah near the Government Departments Complex, Central Market and 
+                Khalid Lagoon, and it's easy accessibility from other emirates, Al Montazah has become one of the fastest growing tourist 
+                destinations in the UAE.
+
 
                     <br> 
                     <br>
                     
-                    Since its opening in December 2015, Al Noor Island has won a host of prestigious 
-                    international awards. The Island was named Best Leisure Architecture in Africa and 
-                    Arabia 2016 as part of the International Property Awards, and was also the recipient 
-                    of the IF Design Award 2017 and German Design Award 2018.
+                    Al Montazah provides 500 parking lots, including disability bays, with additional facilities also available at Flag Island 
+                    located opposite. Al Montazah Amusement and Waterpark was the recipient of the Sharjah Tourism Excellence Award for 2014 
+                    as the best new tourist destination in the emirate in recognition of its world-class facilities and services that have made 
+                    it a must-visit destination for residents and tourists.
+
                     <br> 
                     <br>
 
@@ -108,12 +109,8 @@
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
                    
-                   Waagner Biro Gulf LLC was awarded the design and build contract for the development 
-                   of Al Noor Island, Sharjah, based on an idea by Austrian artist Andre Heller in cooperation 
-                   with 3Deluxe architects. The island has a bastion of exotic trees, prehistoric rocks, 
-                   a Butterfly Pavilion and other architectural features. It is intertwined by meandering 
-                   wooden walkways that take visitors through the greenery and is connected to Buhairah 
-                   Corniche, Sharjah, by the uniquely-designed pedestrian bridge adjacent to Al Noor mosque.
+                   Al Montazah Parks is in the site of the former Al Jazeera Park which has remained one of the city's prime recreational 
+                   spots since 1979.
                     
                     </p>                    
                              
@@ -129,7 +126,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG"  class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3E.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -138,64 +135,49 @@
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1"> 
-                Whether you are a nature buff or a culture vulture, there are plenty of things 
-                to do in Al Noor Island making it a great place for weekends in Sharjah. 
-                Art installations, structural designs and even the landscape are glowing displays 
-                of light in varying intensities and colors depending on different hours of the day.
+                Explore an ancient and legendary kingdom that has been inspired by the pearl of knowledge.
+                There are over 25 action-packed rides and attractions to engage kids and thrill-seekers, 
+                while adults can choose from more relaxing options. 
                 </p>
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG"  />
+                    <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3B.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Butterflies </h2>
+                <h2 class="contents-title"> Rides </h2>
                 <p class="contents-desc"> 
-                Straight out of a fairytale, this dreamy space is where you can get up, close and personal with over 20 
-                exotic species in their natural habitat. 
+                Experience thrilling rides and fantastic wonders at the Island of Legends, where visitors are 
+                transported into a world of fun.
                 </p> 
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1H.JPG"  />
+                <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3G.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Literature  </h2>
+                <h2 class="contents-title"> Thrilling </h2>
                 <p class="contents-desc">
-                Curl up with your favorite book on the comfy cushions, pen down your thoughts in absolute serenity or 
-                simply find inspiration in poetic verses.  
+                From splashing to sliding to wading, Pearls Kingdom has a fun water activity for 
+                every member of the family! Enjoy exhilarating slides at extreme speed through tunnels.
                 </p> 
                  </div>
             </div> 
-            
 
-              <div class="contents-box">
+            <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG"  />
+                <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3A.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Lighting  </h2>
+                <h2 class="contents-title"> Flag </h2>
                 <p class="contents-desc">
-                What’s an enchanted island without some sparkles and flashes? Lighting is at the heart of the Island’s 
-                design and ambience.
-                 </p> 
-                 </div>
-            </div> 
-
-              <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG"  />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Café </h2>
-                <p class="contents-desc">
-                Savor your bites in the company of fluttering butterflies. Noor Café, which is located inside the Butterfly 
-                House, offers a healthy selection of delightful snacks and refreshing drinks.
-                 </p> 
+                The Flag Island boasts the U.A.E. Flag on a 123 meter- high pole, which was named the world’s 
+                7th tallest during the opening on the 2nd of December 2012. 
+                </p> 
                  </div>
             </div> 
 
@@ -518,14 +500,14 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/fz-OgRNpJxD/embed?chrome=min" 
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min"  
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
     
      <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14424.40498245467!2d55.3848622!3d25.3343834!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2701ae8d9264178!2sAl%20Noor%20Island!5e0!3m2!1sen!2sae!4v1622817783032!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3605.8448610383225!2d55.3802484!3d25.342986399999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5bb615085999%3A0x71f61c03f2e36a7f!2sAl%20Montazah%20Parks!5e0!3m2!1sen!2sae!4v1622822869153!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -616,81 +598,81 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="fiximg" /> <!-- img! -->
-                <p> View outside the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="fiximg" /> <!-- img! -->
-                <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Waterpark's slides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="fiximg" /> <!-- img! -->
-                <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Waterpark's slides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="fiximg" /> <!-- img! -->
-                <p> Overview of Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="fiximg" /> <!-- img! -->
-                <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="fiximg" /> <!-- img! -->
-                <p> Wooden path in the Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG" class="fiximg" /> <!-- img! -->
-                <p> Overview of the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Waterpark's slides </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1H.JPG" class="fiximg" /> <!-- img! -->
-                <p> Al Noor Island's Architecture </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3H.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="fiximg" /> <!-- img! -->
-            <p> View outside the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Waterpark's slides </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Waterpark's slides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Overview of Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Wooden path in the Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Montazah Park </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Overview of the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Montazah Park\shjent3G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Waterpark's slides </p>
             </div>
 
         </div>
@@ -713,37 +695,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM'); //so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 12:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 12:00 PM');//so put the timings here
+            $('#t-time').html('10:00 AM to 10:00 PM'); //so put the timings here
    
         }
 

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title> Al Noor Island </title>
+    <title> Al Qasba </title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "shj-ent1"; 
+            $pageName = "shj-ent4"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Qasba\shjent4A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Qasba\shjent4D.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Qasba\shjent4C.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">  Al Noor Island  </h1> <!-- title -->
+                <h1 class="title1"> Al Qasba </h1> <!-- title -->
                 <p class="location-title"> Sharjah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,35 +70,35 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Qasba\shjent4G.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Qasba\shjent4E.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Qasba\shjent4C.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Sharjah\Entertainment\Al Noor Island.docx"> 
+                    <a href="download\Sharjah\Entertainment\Al Qasba.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                As one of the main family attractions in Sharjah, Al Noor Island is known for its tropical 
-                biosphere filled with floating butterflies. Families can pick up a snack and a beverage 
-                from a cafe serving healthy food, visit the literature pavilion or take in a beautiful 
-                sculpture. The island hosts several art installations, including the world-famous OVO 
-                structure.
+                Among the most popular places to visit in Sharjah at night, Al Qasba is the complete experience for anyone 
+                looking to tour on foot. With pedestrian bridges and a canal-side complex, this destination is sure to 
+                inspire fun for everyone.
+
 
                     <br> 
                     <br>
                     
-                    Since its opening in December 2015, Al Noor Island has won a host of prestigious 
-                    international awards. The Island was named Best Leisure Architecture in Africa and 
-                    Arabia 2016 as part of the International Property Awards, and was also the recipient 
-                    of the IF Design Award 2017 and German Design Award 2018.
+                    Al Qasba Sharjah is a waterfront community that is separated from Al Majaz District by Al Khan Corniche 
+                    Street. Al Qasba in Sharjah is a cultural landmark that features art centres, outdoor attractions and 
+                    a number of other attractions. This picturesque community is at the forefront of the cultural movement 
+                    in Sharjah and aims to fuel creative minds with a number of activities, events and leisure options.
+
                     <br> 
                     <br>
 
@@ -108,12 +108,7 @@
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
                    
-                   Waagner Biro Gulf LLC was awarded the design and build contract for the development 
-                   of Al Noor Island, Sharjah, based on an idea by Austrian artist Andre Heller in cooperation 
-                   with 3Deluxe architects. The island has a bastion of exotic trees, prehistoric rocks, 
-                   a Butterfly Pavilion and other architectural features. It is intertwined by meandering 
-                   wooden walkways that take visitors through the greenery and is connected to Buhairah 
-                   Corniche, Sharjah, by the uniquely-designed pedestrian bridge adjacent to Al Noor mosque.
+                   Al Qasba opened to the public in the Year 2005.
                     
                     </p>                    
                              
@@ -129,7 +124,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG"  class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4A.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -138,65 +133,65 @@
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1"> 
-                Whether you are a nature buff or a culture vulture, there are plenty of things 
-                to do in Al Noor Island making it a great place for weekends in Sharjah. 
-                Art installations, structural designs and even the landscape are glowing displays 
-                of light in varying intensities and colors depending on different hours of the day.
+                The reason that this community is prominent among culture vultures and artists is that it 
+                features several creative venues such as the Al Qasba theatre and art centres. Find out 
+                more about what to expect when visiting the Al Qasba community.
                 </p>
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG"  />
+                <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4H.JPG"/> <!-- the bg for the entirety of the what to do part -->
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Butterflies </h2>
+                <h2 class="contents-title"> Boats </h2>
                 <p class="contents-desc"> 
-                Straight out of a fairytale, this dreamy space is where you can get up, close and personal with over 20 
-                exotic species in their natural habitat. 
+                Unwind with your loved ones on a relaxing traditional “Abra” boat ride under 
+                the stars. 
+
                 </p> 
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1H.JPG"  />
+                <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4I.JPG"/> <!-- the bg for the entirety of the what to do part -->
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Literature  </h2>
+                <h2 class="contents-title"> Wireworld </h2>
                 <p class="contents-desc">
-                Curl up with your favorite book on the comfy cushions, pen down your thoughts in absolute serenity or 
-                simply find inspiration in poetic verses.  
+                Elevate FUN and Welcome to Wire World AL QASBA. Unique sport oriented outdoor 
+                activities; packed with fun, excitement and adventures for the entire family. 
                 </p> 
                  </div>
             </div> 
-            
 
-              <div class="contents-box">
+            <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG"  />
+                <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4E.JPG"/> <!-- the bg for the entirety of the what to do part -->
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Lighting  </h2>
+                <h2 class="contents-title"> Funzone </h2>
                 <p class="contents-desc">
-                What’s an enchanted island without some sparkles and flashes? Lighting is at the heart of the Island’s 
-                design and ambience.
-                 </p> 
+                The Kids Fun Zone is a stimulating world of excitement for children of all 
+                ages where they can socialize, interact and develop with their peers.
+                </p> 
                  </div>
             </div> 
 
-              <div class="contents-box">
+            <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG"  />
+                <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4G.JPG"/> <!-- the bg for the entirety of the what to do part -->
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Café </h2>
+                <h2 class="contents-title"> Waterkarts </h2>
                 <p class="contents-desc">
-                Savor your bites in the company of fluttering butterflies. Noor Café, which is located inside the Butterfly 
-                House, offers a healthy selection of delightful snacks and refreshing drinks.
-                 </p> 
-                 </div>
+                Water Karts marine amusements provides an innovative, eco-friendly electric 
+                water kart that has proven to be a hit around the world. 
+
+                </p> 
+                </div>
             </div> 
 
             </div>
@@ -518,14 +513,14 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/fz-OgRNpJxD/embed?chrome=min" 
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/fhYGOahJGNK/embed?chrome=min" 
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
     
      <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14424.40498245467!2d55.3848622!3d25.3343834!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2701ae8d9264178!2sAl%20Noor%20Island!5e0!3m2!1sen!2sae!4v1622817783032!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.4603065523306!2d55.376432!3d25.322330499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f5b9474ef66a3%3A0x713a89a36c11ed8c!2sAl%20KhanAl%20Qasba%20-%20Sharjah!5e0!3m2!1sen!2sae!4v1622835443105!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -616,81 +611,81 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="fiximg" /> <!-- img! -->
-                <p> View outside the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="fiximg" /> <!-- img! -->
-                <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="fiximg" /> <!-- img! -->
-                <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="fiximg" /> <!-- img! -->
-                <p> Overview of Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Qasba </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="fiximg" /> <!-- img! -->
-                <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bridge of Al Qasba at night </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="fiximg" /> <!-- img! -->
-                <p> Wooden path in the Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Qasba </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG" class="fiximg" /> <!-- img! -->
-                <p> Overview of the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bridge of Al Qasba at the morning </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1H.JPG" class="fiximg" /> <!-- img! -->
-                <p> Al Noor Island's Architecture </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4H.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="fiximg" /> <!-- img! -->
-            <p> View outside the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4I.JPG" class="fiximg" /> <!-- img! -->
+            <p> Ferris wheel in Al Qasba </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Overview of Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Al Qasba's Boat "Abra" rides </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Path to Al Noor Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Qasba </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Wooden path in the Island </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bridge of Al Qasba at night </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Overview of the Butterfly House </p>
+            <img src="images\shj-pictures\Entertainment\Al Qasba\shjent4F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Qasba </p>
             </div>
 
         </div>
@@ -713,37 +708,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 12:00 PM');//so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('9:00 AM to 12:00 PM');//so put the timings here
+            $('#t-time').html('8:00 AM : 11:59 PM'); //so put the timings here
    
         }
 
