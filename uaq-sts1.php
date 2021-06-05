@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Umm Al Quwain Museum</title>
+    <title>Falaj Al Mualla</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -23,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-dis5"; 
+            $pageName = "uaq-sts1"; 
 
             ?>
     </div>
@@ -33,13 +33,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE6.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE2.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA4.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA2.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Umm Al Quwain Museum </h1> <!-- title -->
+                <h1 class="title1"> Falaj Al Mualla </h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -71,59 +71,43 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE5.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE8.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA1.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA8.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Discovery/Umm Al Quwain Museum.docx"> 
+                    <a href="download/Umm Al Quwain/Sights To See/Falaj Al Mualla.docxx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> UAQ Museum is the centre of history and heritage in the city. With a wide range of visitors from GCC ex-pats to school field trips, 
-                this museum depicts the history of UAE in one beautiful fortress. 
+                <p class="info-description"> Falaj Al Mualla is an old town built in the 19th century that is most well known for its four iconic attractions, 
+                the fort and the three watchtowers. 
 
 
                     <br>
                     <br>
                     
-                    The exhibits focus mainly on local archaeological sites, including finds from the Al-Dur archaeological site. The exhibits features statues of headless falcons, 
-                    a stone plate in the shape of a turtle and tiny human-shaped bone plaques. There are also ethnographic exhibits introducing local life and traditional Emirati 
-                    customs, especially the ‘Sheikh’ and ‘Sheikhah’ rooms, artistry, and craftwork including jewellery, textiles, metalwork, and a display of weaponry dating back 
-                    more than 200 years.
+                    The town has a museum now and is still a quiet little farming town where only 60 families reside here with their main occupation being agriculture 
+                    and farming. Unlike the other emirates, here, people still retort to more traditional means of making a living. Falaj Al Mualla is the site of the 
+                    first poultry farm in the UAE. 
 
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
 
-                   Umm Al Quwain Fort, also known as the Al Ali Fort, was the seat of the rulers of Umm Al Quwain and the centre of government in the emirate until 1969. It was used 
-                   as a police station before the fort was restored and opened to the public in 2000 by Sheikh Rashid Bin Ahmed Al Mualla, the Ruler of Umm Al Quwain at the time.
-
+                   Falaj Al Mualla was originally called Falaj Al Ali, after the Al Ali tribe which settled Umm Al Quwain. It was settled approximately at the same time as the Al Ali 
+                   moved from the island of Sinniyah to the mainland after water supplies on the island were exhausted.
                    <br>
                    <br>
 
-                   The history  goes back to 1768 when it was established as the residence for the ruling family. Originally, it was a fort was built in 1768 by Sheikh Rashid Bin 
-                   Majid Al Mualla, founder of the Al Mualla ruling dynasty. 
-
-                   <br>
-                   <br>
-
-                  In 1929, Sheikh Hamad Bin Ibrahim Al Mualla was shot and killed in the fort by a slave called Saeed from the household of Hamad's blind uncle, Abdelrahman bin 
-                  Ahmed Al Mualla.
-
-                   <br>
-                   <br>
-
-                  Hamad was succeeded by Ahmad bin Rashid Al Mualla following a colourful incident whereby the population of the town rose up against Abdelrahman and Saeed, who 
-                  had barricaded themselves in the fort. Abandoning their initial plan of firing on the fort with a cannon, the people of the town instead elected to set a fire 
-                  around the walls of the fort and in this conflagration both Abrelrahman and Saeed were killed.  The British considered the whole affair to be highly suspicious 
-                  and suspected Sultan bin Saqr Al Qasimi of Sharjah of involvement, but confirmed the young Ahmed as a Trucial Ruler nonetheless. 
+                   The construction of the fort has been dated back to 1825. The east and west towers underwent renovation in 2007 and restoration of the fort was started in 2009, a process 
+                   completed in 2015. The bathing house was restored in 2014. The fort today houses Falaj Al Mualla museum.
 
                 </p>              
                     
@@ -138,7 +122,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -148,22 +132,21 @@
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1">
                 
-                Discover the history of Umm Al Quwain by checking out their exhibits. They exhibits the royal family heritage, fishing equipment, 
-                documents, images, weapons  and a whole lot more.            
+                Discover the Arabs’ traditional way of living in this small inland oasis town. 
                 
                 </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE8.JPG" />
+                    <img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA4.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Picture Taking </h2>
+                <h2 class="contents-title"> Explore </h2>
                 <p class="contents-desc">
 
                 <br><br>
 
-                Take pictures, after all who would want to miss this historical place?
+                This town offers a museum that you can visit and find out the history of the town.
 
 
                 </p> <!-- put the actual activities here -->
@@ -489,12 +472,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
    
-      <iframe src="https://www.google.com/maps/embed?pb=!4v1622743736879!6m8!1m7!1sCAoSLEFGMVFpcE1oQkJZa1Q4VEJPSFFZUXdIelRXNGJnektzOHpfSTRmVDg0OTBL!2m2!1d25.58395932069895!2d55.57085502216417!3f115.39530876207857!4f-20.035051686145465!5f0.7820865974627469" width="100%" height="1000px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-             
+    <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
+       
       <!-- google tour -->
     
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.6268361927328!2d55.56852831495581!3d25.58407898371773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fe72f3b437ad%3A0x9a6feb4a7dd2c32a!2sUAQ%20National%20Museum%20-%20Al%20Ali%20Fort!5e0!3m2!1sen!2sae!4v1622873266318!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115342.78326004682!2d55.79419126165829!3d25.38934221739222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5c006af9428ef%3A0x8cae1892a238ac71!2sFalaj%20Al%20Mualla%20-%20Umm%20Al%20Quawain!5e0!3m2!1sen!2sae!4v1622874891689!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>  
     <h2 class="review-title">REVIEWS</h2>
 
 <script src="javascript/alerts.js"> </script>
@@ -578,71 +562,71 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE1.JPG" class="fiximg" />
-            <p> View of the Umm Al Quwain Museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA1.JPG" class="fiximg" />
+            <p> A fort in Falaj Al Mualla </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE2.JPG" class="fiximg" />
-            <p> Entrance of the museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA2.JPG" class="fiximg" />
+            <p> A different view of the fort </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE3.JPG" class="fiximg" />
-            <p> A different view of Umm Al Quwain Museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA3.JPG" class="fiximg" />
+            <p> The fort from afar </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE4.JPG" class="fiximg" />
-            <p> A fishing boat </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA4.JPG" class="fiximg" />
+            <p> The entrance of Falaj Al Mualla Fort </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE5.JPG" class="fiximg" />
-            <p> A walkway in the museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA5.JPG" class="fiximg" />
+            <p> An area in Falaj Al Mualla Fort </p>
             </div>
 
         </div>
 
         <div class="row row2">
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE6.JPG" class="fiximg" />
-            <p> An area of the museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA6.JPG" class="fiximg" />
+            <p> An area in Falaj Al Mualla Fort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE7.JPG" class="fiximg" />
-            <p> A boat in front of the entrance </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA7.JPG" class="fiximg" />
+            <p> The entrance of one of the museums in Falaj Al Mualla </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE8.JPG" class="fiximg" />
-            <p> A different view of the entrance </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA8.JPG" class="fiximg" />
+            <p> The entrance of one of the museums in Falaj Al Mualla </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE1.JPG" class="fiximg" />
-            <p> View of the Umm Al Quwain Museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA1.JPG" class="fiximg" />
+            <p> A fort in Falaj Al Mualla </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE2.JPG" class="fiximg" />
-            <p> Entrance of the museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA2.JPG" class="fiximg" />
+            <p> A different view of the fort </p>
             </div>
             
         </div>
 
         <div class="row row3">
-        <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE3.JPG" class="fiximg" />
-            <p> A different view of Umm Al Quwain Museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA3.JPG" class="fiximg" />
+            <p> The fort from afar </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE4.JPG" class="fiximg" />
-            <p> A fishing boat </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA4.JPG" class="fiximg" />
+            <p> The entrance of Falaj Al Mualla Fort </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE5.JPG" class="fiximg" />
-            <p> A walkway in the museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA5.JPG" class="fiximg" />
+            <p> An area in Falaj Al Mualla Fort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE6.JPG" class="fiximg" />
-            <p> An area of the museum </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA6.JPG" class="fiximg" />
+            <p> An area in Falaj Al Mualla Fort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE7.JPG" class="fiximg" />
-            <p> A boat in front of the entrance </p>
+            <div class="img-media"><img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA7.JPG" class="fiximg" />
+            <p> The entrance of one of the museums in Falaj Al Mualla </p>
             </div>
 
         </div>
@@ -665,37 +649,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 08:00 PM to 02:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 08:00 PM to 02:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 08:00 PM to 02:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 08:00 PM to 02:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 08:00 PM to 02:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 05:00 PM to 08:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 08:00 PM to 02:00 PM '); //so put the timings here
+            $('#t-time').html(' 03:00 PM to 08:00 PM '); //so put the timings here
    
         }
 
