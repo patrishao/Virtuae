@@ -86,6 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Discover the wonders of a tropical forest at The Green Planet, a bio-dome that invites visitors to explore our planet’s fascinating flora and fauna through an immersive expedition into the tropics. Designed as an enclosed ecosystem, The Green Planet recreates the enchanting world of a tropical forest with over 3,000 plants and animals and the world’s largest man-made and life-sustaining indoor tree. The educational and recreational facility is set to raise awareness about nature’s delicate balance and the preciousness of one of our world’s oldest living ecosystems.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Hailed as both an educational and recreational attraction, the enclosed ecosystem will open in this half of 2016. 
+                </p>
             </div>
             
          </div>

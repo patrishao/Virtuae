@@ -86,6 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Not too far from Dubai, one of the fastest developing cities in the world, is a buried village outside of Al Madam. Out in the desert, the town is a relic of an unknown past. No one is exactly sure why the village, which is slowly being consumed by sand, was abandoned so shortly after it was built. In recent years, interest in the ghost town has increased as travelers from all over the world make a stop to visit what's left of the village before it disappears completely. 
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Local legend holds that it was the jinns—supernatural creatures that Arabs and Muslims believe exist in a plane invisible to humans—who drove the people away from their village. The settlement was likely first built in the 1970s or '80s and inhabited by the local Al Kutbi tribe. It was abandoned not long afterward.
+                </p>
             </div>
             
          </div>

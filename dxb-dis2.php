@@ -86,6 +86,16 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Set along the historic waters of Dubai Creek, Al Shindagha Museum tells the proud story of the nation’s past and reverent traditions. The museum’s 'Dubai Creek: Birth of a City' is a state-of-the-art multimedia experience that guides visitors through the area’s dramatic development over centuries.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Al Shindagha, sometimes spelled Al Shindagah or Al Shindaga, is a neighbourhood in the traditional centre of the city of Dubai in the United Arab Emirates. From 1912 to 1958, the then ruler of Dubai, Sheikh Saeed Al Maktoum, lived in the area.
+                </p>
+            </div>
             </div>
             
          </div>

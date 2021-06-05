@@ -86,6 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Set along the historic waters of Dubai Creek, Al Shindagha Museum tells the proud story of the nation’s past and reverent traditions. The museum’s 'Dubai Creek: Birth of a City' is a state-of-the-art multimedia experience that guides visitors through the area’s dramatic development over centuries.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Founded in 2007 by Emirati businessman and patron Abdelmonem Bin Eisa Alserkal, Alserkal is renowned for our ground-breaking artistic productions, experimental approach, and for the creation of culturally meaningful spaces that inspire and shape communities.
+                </p>
             </div>
             
          </div>

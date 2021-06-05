@@ -90,6 +90,15 @@
                 <br><br>
 
                 The programmes also aim to educate visitors about the nation's constitution, in particular - the rights, privileges and responsibilities that it bestows upon the people of the UAE. External and internal parking spaces have been provided to facilitate visits to the Museum.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                A dynamic 21st century museum, Etihad Museum is focused on inspiring its visitors with the story of the founding of the UAE. The 25,000 m2 landmark is befittingly located at the very place where the UAE was founded in 1971.
+                </p>
             </div>
             
          </div>
