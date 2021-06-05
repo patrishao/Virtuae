@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Dreamland Aqua Park</title>
+    <title>Emirates Motorplex</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -23,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-ent2"; 
+            $pageName = "uaq-ent3"; 
 
             ?>
     </div>
@@ -33,13 +33,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC2.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Dreamland Aqua Park </h1> <!-- title -->
+                <h1 class="title1"> Emirates Motorplex </h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -71,47 +71,51 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB6.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC3.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC5.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Entertainment/Dreamland Aqua Park.docx"> 
+                    <a href="download/Umm Al Quwain/Entertainment/Emirates Motorplex.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Sitting on Umm Al Quwain’s scenic coastline, Dreamland Aqua Park is one of the oldest waterparks in the 
-                UAE. Spread over an area of 250,000 square metres, the water park was established in 1997. Since then it remains one of the most 
-                popular things to do in Umm Al Quwain (UAQ).
+                <p class="info-description"> Fans of the Ferrari World in Abu Dhabi would certainly enjoy Emirates Motorplex. Trying out the 
+                high-octane motorsports in the Emirates Motorplex is one of the most exciting things to do in Umm Al Quwain. 
                     <br>
                     <br>
                     
-                    The lesser-known emirate may not have many attractions. But for those of you who like to take a break from city life every now and 
-                    then – Dreamland UAQ is where the fun begins. This waterpark has everything you’d want in an affordable summer fun destination.
-
+                    Emirates Motorplex is one of the earliest clubs that took interest in car sports in the Gulf in general and in the UAE 
+                    in particular. It helped direct the youth from random street races to organized and systematized style. 
                     <br>
                     <br>
 
+                    Emirates Motorplex provides various services and a multitude of facilities. The all-year-round races are of great excitement 
+                    to the public and also give great advantages to the members which are very well being enjoyed. All of these are achieved by 
+                    setting a good plan that aims to support the races and their fans. 
+                    <br>
+                    <br>
 
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
 
-                   Dreamland Aqua Park was the vision of His Excellency Sheikh Abdullah Bin Rashid Al Mualla, Deputy ruler of His Highness Sheikh Rashid 
-                   Bin Ahmed Al Mualla, member of the UAE Supreme Council and ruler of Umm Al Quwain Emirate to create the First and Largest water park 
-                   in the region with a main concern - Fun is a right for everyone!
-                    
-                   <br>
-                   <br>
+                   Emirates Motorplex was established in 1999 in Umm Alquwain, UAE. This club has been achieving success after becoming famous 
+                   and popular in the local and regional level.
+                
+                    <br>
+                    <br>
 
-                   Dreamland Aqua park was inaugurated on June 12th, 1997 and remains one of the largest family entertainment park in the Middle East region.
-
+                    Previously known as “Emirates Car and Motorcycle Racing Club”, Emirates Motorplex has been rapidly developing and expanding. 
+                    Its great activities, worldwide relations and high reputation lead the administration committee to signing agreements with 
+                    the most well-known establishments in the world.
+   
                     </p>              
                     
             </div>
@@ -125,7 +129,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -135,25 +139,24 @@
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1">
                 
-               Dreamland Aqua Park offers more than 30 thrilling slides, rides, and attractions made for you and your family.
-                
+                Emirates Motorplex organizes drag races, car shows and other car-related activities.                
                 </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC6.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Attractions </h2>
+                <h2 class="contents-title"> Racing </h2>
                 <p class="contents-desc">
 
                 <br><br>
 
-                Having a splashing time in Dreamland Aqua Park by trying out the all the 30 attractions. The best rides you can’t 
-                miss are Twister, Kamikaze, Twisting Dragons, Black Hole, and Mighty Go Roud.   
-                
+                Emirates Motorplex offers all sorts of racing activities including motorcross, 
+                classic cars, open days, drag racing, and sand drag.   
+
                 </p> <!-- put the actual activities here -->
                </div>
 
@@ -161,33 +164,21 @@
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB8.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Camping </h2>
+                <h2 class="contents-title"> Watch Racings </h2>
                 <p class="contents-desc"> 
+
+                <br><br>
                 
-                After an entire day of fun, spend your night there in Dreamland. It provides overnight camping facilities to its visitors. 
+                If in any way you don’t feel like joining the activities, Emirates Motorplex is open to 
+                anyone who’d want to watch the competitions.
 
                 </p> <!-- put the actual activities here -->
                 </div>
             </div> 
             
-
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Sports </h2>
-                <p class="contents-desc">
-                
-                Dreamland offers activities including basketball, tennis, and volleyball for you to enjoy.      
-                
-                </p> <!-- put the actual activities here -->
-                </div>
-            </div> 
-
         </div>
         </div>
         <!-- -->
@@ -506,11 +497,11 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
    
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/e0HtGqa3Ysz/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-     <!-- google maps -->   
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/eda4b767rrO/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>   <!-- google maps -->   
      
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.523108637303!2d55.65724671495582!3d25.5875281837162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fcd7b547266b%3A0x8afe5187d3b0c3b1!2sDreamland%20Aqua%20Park!5e0!3m2!1sen!2sae!4v1622865232200!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    <!-- -->
+      <!-- google tour -->
+    
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.9251741560315!2d55.65907231495561!3d25.57415608372231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fcc6a3aaf1b1%3A0x54d68d93b50c64c6!2sEmirates%20Motorplex!5e0!3m2!1sen!2sae!4v1622866965380!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>    <!-- -->
     
     <!-- COMMENTS -->
 
@@ -597,70 +588,70 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" class="fiximg" />
-            <p> Slides in Dreamland Aqua Park </p>
-            </div>
-            
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" class="fiximg" />
-            <p> Drone shot of Dreamland Aqua Park </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC6.JPG" class="fiximg" />
+            <p> UTV car </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB3.JPG" class="fiximg" />
-            <p> An attraction in Dreamland Aqua Park </p>
-            </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB4.JPG" class="fiximg" />
-            <p> One of Dreamland Aqua Park's attractions </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" class="fiximg" />
+            <p> Sports car </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" class="fiximg" />
-            <p> Kiddie pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" class="fiximg" />
+            <p> Sports car </p>
+            </div>
+
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC4.JPG" class="fiximg" />
+            <p> A four wheel drive car </p>
+            </div>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC5.JPG" class="fiximg" />
+            <p> Motorcycle racing </p>
             </div>
         
         </div>
 
         <div class="row row2">
-           <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB6.JPG" class="fiximg" />
-            <p> One of Dreamland Aqua Park's attractions </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC1.JPG" class="fiximg" />
+            <p> UTV car </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB7.JPG" class="fiximg" />
-            <p> Pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC2.JPG" class="fiximg" />
+            <p> Car racing </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB8.JPG" class="fiximg" />
-            <p> Drone shot of Dreamland Aqua Park </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC3.JPG" class="fiximg" />
+            <p> A four wheel drive car </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" class="fiximg" />
-            <p> Slides in Dreamland Aqua Park </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC4.JPG" class="fiximg" />
+            <p> A four wheel drive car </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" class="fiximg" />
-            <p> Drone shot of Dreamland Aqua Park </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC5.JPG" class="fiximg" />
+            <p> Motorcycle racing </p>
             </div>
 
         </div>
 
         <div class="row row3">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB3.JPG" class="fiximg" />
-            <p> An attraction in Dreamland Aqua Park </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC6.JPG" class="fiximg" />
+            <p> UTV car </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB4.JPG" class="fiximg" />
-            <p> One of Dreamland Aqua Park's attractions </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" class="fiximg" />
+            <p> Sports car </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" class="fiximg" />
-            <p> Kiddie pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" class="fiximg" />
+            <p> Sports car </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB6.JPG" class="fiximg" />
-            <p> One of Dreamland Aqua Park's attractions </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC1.JPG" class="fiximg" />
+            <p> UTV car </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB7.JPG" class="fiximg" />
-            <p> Pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC2.JPG" class="fiximg" />
+            <p> Car racing </p>
             </div>
 
         </div>
@@ -683,37 +674,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' 9:00 AM to 3:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' 9:00 AM to 3:00 P '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' 9:00 AM to 3:00 P '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' 9:00 AM to 3:00 P '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' 9:00 AM to 3:00 P '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Closed '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Closed '); //so put the timings here
    
         }
 
