@@ -54,7 +54,7 @@
 
               <p>Dubai</p>
               <br>
-              <a href="#">EXPLORE</a> 
+              <a href="dxb-dis5.php">EXPLORE</a> 
             </div>
         </div>
 
@@ -362,7 +362,7 @@
     
 
        <div class="destinations">
-       <a href="#"> 
+       <a href="dxb-sts1.php"> 
         <img src="images/dubai/burjkhalifa.JPG">
         <h1>Burj Khalifa</h1>
         <h2>Dubai</h2>
@@ -465,7 +465,7 @@
 
           <p class="wrap"> Ski Dubai is an indoor ski resort with 22,500 square meters of indoor ski area. The park maintains a temperature of -1 degree to 2 degrees Celsius throughout the year. It is a part of the Mall of the Emirates...</p>
 
-          <a href="#">EXPLORE</a>
+          <a href="dxb-act3.php">EXPLORE</a>
 
         </div>
    
@@ -497,7 +497,7 @@
 
          <p class="wrap"> Skydive Dubai is the top skydiving company located in Mina Seyahi, next to Jumeirah beach. Witness the ambience of Dubai from the sky & slash the dream of skydiving from your bucket list.</p>
 
-          <a href="#">EXPLORE</a>
+          <a href="dxb-act2.php">EXPLORE</a>
 
         </div>
    
@@ -672,7 +672,7 @@
 
 
 
-          <a class="restaurants" href="#">
+          <a class="restaurants" href="dxb-din5.php">
 
               <div class="img-holder"> 
                 <img src="images/dubai/dxbdin5D.jpg">
