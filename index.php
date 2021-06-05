@@ -232,9 +232,9 @@
               </svg>
  
 
-              <p>Umm Al Quwainn</p>
+              <p>Umm Al Quwain</p>
               <br>
-              <a href="#">EXPLORE</a> 
+              <a href="uaq-din3.php">EXPLORE</a> 
             </div>
         </div>
 
@@ -700,7 +700,7 @@
 
           
 
-          <a class="restaurants" href="#">
+          <a class="restaurants" href="uaq-din1.php">
 
               <div class="img-holder"> 
                <img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG">
