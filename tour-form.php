@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -237,10 +234,10 @@
                     </select>
                 </div>
                 <p class="inquire-label">Inquire Details</p>
-                <textarea class="inquire" id="inquire" name="inquire" rows="4" cols="50" placeholder="Write a text.."></textarea>
+                <textarea class="inquire" id="inquire" name="inquire" rows="4" cols="50" placeholder=""></textarea>
             </div>
                 <input class="save-changes" type="submit" value="Submit" name="submit">
-                <input class="delete-acc" type="submit" value="Cancel">
+                <input class="delete-acc" type="button" value="Cancel" onclick="history.back()">
         </div>
 
         </form>

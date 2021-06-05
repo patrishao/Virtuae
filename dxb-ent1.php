@@ -87,15 +87,21 @@
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Dubai Opera is a definitive international destination for performing arts and world-class entertainment productions with its unique 2000-seat multi-format theatre. Dubai Opera passionately embraces its role as the vibrant cultural heart of Dubai and is committed to produce and host the finest, authentic, creative and engaging performing arts experiences from Dubai and the world.
                     
-                    <br>
-                    <br>
+                <br>
+                <br>
 
-                    Dubai Opera is a 2,000-seat, multi-format, performing arts centre, which is located within The Opera District in Downtown Dubai. It was developed by Emaar Properties to host a variety of performances and events including theatre, opera, ballet, concerts, conferences and exhibitions. It opened on 31 August 2016 with a performance by Plácido Domingo. The first season featured Bizet's The Pearl Fishers opera and also the legendary tenor José Carreras. Dubai Opera can be hired for weddings, gala dinners, fashion shows and exhibitions.
+                Dubai Opera is a 2,000-seat, multi-format, performing arts centre, which is located within The Opera District in Downtown Dubai. It was developed by Emaar Properties to host a variety of performances and events including theatre, opera, ballet, concerts, conferences and exhibitions. It opened on 31 August 2016 with a performance by Plácido Domingo. The first season featured Bizet's The Pearl Fishers opera and also the legendary tenor José Carreras. Dubai Opera can be hired for weddings, gala dinners, fashion shows and exhibitions.
 
-              
-                    <br>
-                    <br>
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The iconic dhow-shaped building of Dubai Opera is a masterpiece of contemporary design and a stylish tribute to Dubai’s maritime history. The building’s exquisite design, by Atkins and lead architect Janus Rostock, gives the exceptional ability to transform into three modes; from a theatre into a concert hall, and into a ‘flat floor’ mode becoming a banquet or event hall. This seamless flexibility enables Dubai Opera to host a wide variety of performances and events including theatre, opera, ballet, orchestras, concerts, fashion shows, live entertainment, conferences, galleries and art exhibitions.
+
+                </p>
             </div>
             
          </div>

@@ -422,6 +422,10 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
+    <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
+
     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14413.851549495605!2d55.4421863!3d25.4227837!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcd37f9a2d5ca4e7d!2sCafe%20Naseem!5e0!3m2!1sen!2sae!4v1622603305474!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

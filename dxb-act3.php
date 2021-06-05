@@ -93,7 +93,15 @@
 
                 <br><br>
                 Trained professionals are in charge of organizing ski classes with much care for both beginners and experienced visitors. Enjoy a fun-filled day at Ski Dubai and stay away from the sweltering heat of the middle east by indulging in a day-long activity at the indoor snow Park. Ski Dubai also has in-house restaurants and Cafeterias to dine and drink and a retail outlet to shop for the best of winter clothing and winter sports gear.
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Tim Kelley was the head of the construction of the ski resort in the most unlikely region of the world. The covered area is 6.5 Million Sq. Ft of desert and this all had to be done in record time.
+                </p>
 
 
             </div>

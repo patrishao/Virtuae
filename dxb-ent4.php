@@ -87,6 +87,16 @@
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> With over 400 outlets, the mall is home to UAE’s first IKEA and renowned fashion brands like Zara, H&M, Coach and Kate Spade. It also houses the global attraction, IMAGINE, a two-time Guinness World Records visual and sensory extravaganza that plays live every night on the iconic Festival Bay.
 
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Construction of the development, which was undertaken by Al Futtaim Carillion, began in 2003 and was expected to take 12 years. The project spans 3.8 kilometres (2.4 mi) of water frontage on the eastern bank of Dubai Creek and is 2 kilometers (1.2 mi) from Dubai International Airport.
+
+                </p>
             </div>
             
          </div>

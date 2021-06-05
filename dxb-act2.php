@@ -86,7 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Dubai has created a reputation for world-class skydiving, making it a great place for beginners and experts alike to get their kicks. In fact, in 2010, Dubai hosted its first international parachuting championship through SkyDive Dubai, earning its reputation as an international destination for skydivers of all skill levels. With sunshine year-round, Dubai is the perfect place to go for the aerial views that only skydiving can deliver. For those who seek thrills, take in the scenic skyline of Dubai from birds-eye-view, then plunge below. 
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The first recorded free fall jump is credited to Leslie Irvin in 1919 and the earliest competitive dives date back to the 1930's. Skydiving became much more mainstream once the military began developing parachute technology and used the act of skydiving as a tactical move during World War II.
+                </p>
             </div>
             
          </div>

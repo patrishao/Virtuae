@@ -3,6 +3,7 @@
 <?php session_start() ?> 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -33,7 +34,7 @@
 <div class="display" >
 
 <!-- if there is an active session display the profile-loggedin -->
-     <?php if ($_SESSION){
+     <?php if ($_SESSION['email']){
          include 'profile-loggedin.php'; 
      } 
 

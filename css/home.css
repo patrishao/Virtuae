@@ -218,6 +218,12 @@ and not put their positions each class**/
   
 }
 
+
+.destinations a{
+    text-decoration: none;
+    color: white;
+}
+
 /* set the heading designs */
 
 .destinations h1{
@@ -248,6 +254,7 @@ and not put their positions each class**/
     display:inline-block;
         
 }
+
 
 
 
@@ -370,6 +377,7 @@ button{
        height: 76.9%;
        width: 50%;
        object-fit: cover;
+       bottom: 0;
 
 
 }
@@ -821,6 +829,23 @@ button{
 
 
 /* -- MEDIA QUERIES / RESPONSIVENESS --  */
+
+
+@media screen and (min-width: 1600px) and (max-width: 1999px) {
+
+   .destinations img{
+       height: 75%;
+   }
+
+   .container{
+       height: 550px;
+   }
+
+    .margin{
+        margin-top: -23px;
+    }
+}
+
 
 /* desktops, large screen */
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
@@ -1452,3 +1477,15 @@ button{
 }
 
 }
+
+
+/* 
+@media screen and  (min-width: 300px) and (max-width: 380px) {
+
+    .adventures .title{
+        
+    }
+
+
+
+} */

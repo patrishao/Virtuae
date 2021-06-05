@@ -1,4 +1,7 @@
 <?php // including the connection and getting the data of user
+
+session_start();
+
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
@@ -40,7 +43,7 @@ include 'includes/fetchdata.php';
     }   
  
     else{
-        echo '<script>alert("Form is not complete, please fill it out.")</script>';
+        echo '<script type="text/javascript">','blankError();','</script>';
     }
 }
 

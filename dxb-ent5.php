@@ -86,6 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Bollywood Parks™ Dubai is the first park of its kind in the world. In six fascinating zones, you can experience different environments inspired by the greatest Bollywood blockbusters. Experience the diverse cultures from all corners of India come together in an explosion of colors, music, and dance styles!
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Development history. The Dubai Parks and Resorts project was announced in 2012 and construction started in 2014. In 2014, the company signed agreements with DreamWorks Animation, Columbia Pictures, Merlin Entertainments and various Bollywood studios to bring beloved Hollywood and Bollywood characters to its theme parks.
+                </p>
             </div>
             
          </div>

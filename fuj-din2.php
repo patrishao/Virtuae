@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>PLACE HOLDER FOR PLACES</title>
+    <title>Al Meshwar Restaurant</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> THE ORANGERY </h1> <!-- title -->
+                <h1 class="title1"> AL MESHWAR RESTAURANT </h1> <!-- title -->
                 <p class="location-title"> FUJAIRAH </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -419,6 +419,9 @@ We’re a (lebanese mediterranean) restaurant that serves the finest products fr
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
      <!-- google maps -->   
+     <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.37489169549!2d56.32890731535773!3d25.123013440870547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f88c6edbdd4f%3A0x63fbdeb173599ea2!2sAlMeshwar%20Restaurant!5e0!3m2!1sen!2sae!4v1622769852582!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->

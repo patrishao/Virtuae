@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "places"; 
+            $pageName = "shj-ent1"; 
 
             ?>
     </div>
@@ -32,9 +32,9 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/image21.png" class="picture" /></div>
-                        <div><img src="images/image21.png" class="picture" /></div>
-                        <div><img src="images/image21.png" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
@@ -70,39 +70,52 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/abu dhabi/auhact1G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Fujairah\Dine\Al Meshwar Restaurant.docx"> 
+                    <a href="download\Sharjah\Entertainment\Al Noor Island.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                    lacus laoreet. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in.
+                As one of the main family attractions in Sharjah, Al Noor Island is known for its tropical 
+                biosphere filled with floating butterflies. Families can pick up a snack and a beverage 
+                from a cafe serving healthy food, visit the literature pavilion or take in a beautiful 
+                sculpture. The island hosts several art installations, including the world-famous OVO 
+                structure.
+
                     <br> 
                     <br>
+                    
+                    Since its opening in December 2015, Al Noor Island has won a host of prestigious 
+                    international awards. The Island was named Best Leisure Architecture in Africa and 
+                    Arabia 2016 as part of the International Property Awards, and was also the recipient 
+                    of the IF Design Award 2017 and German Design Award 2018.
+                    <br> 
+                    <br>
+
                  </p>
                    
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
-                   Lorem ipsum dolor sit amet, conconsectetur adipiscing elit, sed do eiusmod tempor 
-                    incididunt ut labore et dolore magna aliqua. Habitasse platea dictumst quisque 
-                    sagittis. Lorem donec massa sapien faucibus et. Iaculis urna id volutpat 
-                    lacus laoreet. Et egestas quis ipsum suspendiss e ultrices gravida dictum fusce ut. 
-                    At risus viverra adipiscing at in. </p>                    
+                   
+                   Waagner Biro Gulf LLC was awarded the design and build contract for the development 
+                   of Al Noor Island, Sharjah, based on an idea by Austrian artist Andre Heller in cooperation 
+                   with 3Deluxe architects. The island has a bastion of exotic trees, prehistoric rocks, 
+                   a Butterfly Pavilion and other architectural features. It is intertwined by meandering 
+                   wooden walkways that take visitors through the greenery and is connected to Buhairah 
+                   Corniche, Sharjah, by the uniquely-designed pedestrian bridge adjacent to Al Noor mosque.
+                    
+                    </p>                    
                              
                     
             </div>
@@ -116,7 +129,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/abu dhabi/auhact1G.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG"  class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -124,53 +137,65 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p>
-                 </div>
+                <p class="contents-desc1"> 
+                Whether you are a nature buff or a culture vulture, there are plenty of things 
+                to do in Al Noor Island making it a great place for weekends in Sharjah. 
+                Art installations, structural designs and even the landscape are glowing displays 
+                of light in varying intensities and colors depending on different hours of the day.
+                </p>
+                </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
-                 </div>
+                <h2 class="contents-title"> Butterflies </h2>
+                <p class="contents-desc"> 
+                Straight out of a fairytale, this dreamy space is where you can get up, close and personal with over 20 
+                exotic species in their natural habitat. 
+                </p> 
+                </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1H.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Literature  </h2>
+                <p class="contents-desc">
+                Curl up with your favorite book on the comfy cushions, pen down your thoughts in absolute serenity or 
+                simply find inspiration in poetic verses.  
+                </p> 
                  </div>
             </div> 
             
 
               <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Lighting  </h2>
+                <p class="contents-desc">
+                What’s an enchanted island without some sparkles and flashes? Lighting is at the heart of the Island’s 
+                design and ambience.
+                 </p> 
                  </div>
             </div> 
 
               <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/PLACEHOLDER.png" />
+                    <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG"  />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Placeholder </h2>
-                <p class="contents-desc">Justo nec ultrices dui sapien eget. Sagittis purus sit amet eu volutpat consequat.
-                 Feugiat in ante metus dictum at tempor commodo. </p> <!-- put the actual activities here -->
+                <h2 class="contents-title"> Café </h2>
+                <p class="contents-desc">
+                Savor your bites in the company of fluttering butterflies. Noor Café, which is located inside the Butterfly 
+                House, offers a healthy selection of delightful snacks and refreshing drinks.
+                 </p> 
                  </div>
             </div> 
 
@@ -493,13 +518,14 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/ewUGbxgQ_bL/embed?chrome=min"  
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/fz-OgRNpJxD/embed?chrome=min" 
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
+    
      <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3609.091466187711!2d55.26329251547081!3d25.233844083879188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f425496f47ed1%3A0xd880ed54682d125a!2sJumeirah%20Mosque!5e0!3m2!1sen!2sae!4v1622472111655!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14424.40498245467!2d55.3848622!3d25.3343834!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2701ae8d9264178!2sAl%20Noor%20Island!5e0!3m2!1sen!2sae!4v1622817783032!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -590,96 +616,81 @@
 
         <div class="row row1">
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="fiximg" /> <!-- img! -->
+                <p> View outside the Butterfly House </p>
             </div>
             
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="fiximg" /> <!-- img! -->
+                <p> Path to Al Noor Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="fiximg" /> <!-- img! -->
+                <p> Path to Al Noor Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="fiximg" /> <!-- img! -->
+                <p> Overview of Al Noor Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="fiximg" /> <!-- img! -->
+                <p> Path to Al Noor Island </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="fiximg" /> <!-- img! -->
+                <p> Wooden path in the Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG" class="fiximg" /> <!-- img! -->
+                <p> Overview of the Butterfly House </p>
             </div>
             
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1H.JPG" class="fiximg" /> <!-- img! -->
+                <p> Al Noor Island's Architecture </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1A.JPG" class="fiximg" /> <!-- img! -->
+            <p> View outside the Butterfly House </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Path to Al Noor Island </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Path to Al Noor Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Al Noor Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Path to Al Noor Island </p>
             </div>
 
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Wooden path in the Island </p>
             </div>
             
             <div class="img-media">
-                <img src="images/dubai/dxbact1B.jpg" class="fiximg" /> <!-- img! -->
-                 <!-- description time, add smth like idk "fun time family!" -->
-                <p> wowie a description! </p>
+            <img src="images\shj-pictures\Entertainment\Al Noor Island\shjent1G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of the Butterfly House </p>
             </div>
 
         </div>
@@ -702,37 +713,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is sun'); //so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is mon');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is tues');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is wed');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is thurs');//so put the timings here
+            $('#t-time').html('9:00 AM to 11:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is fri');//so put the timings here
+            $('#t-time').html('9:00 AM to 12:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('this is sat');//so put the timings here
+            $('#t-time').html('9:00 AM to 12:00 PM');//so put the timings here
    
         }
 

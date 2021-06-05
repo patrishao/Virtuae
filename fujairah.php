@@ -72,7 +72,7 @@
                     </div>
                     <p>Off the coast of the Khorfakkan public beach, this small rocky island is an underwater marvel for everyone who enjoys snorkeling, scuba diving and swimming. Sea anemones and turtles are a treat for snorkelers, while...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                     </div>
                     <p>A small rock island about 120m x 80m, Snoopy Island is named for the three sections of rock rising up to create a profile of feet, belly, and nose similar to the iconic image of Snoopy sleeping on top of his...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -108,7 +108,7 @@
                     </div>
                     <p>The park is recognised as an ideal picnic and barbeque spot among tourists and a number of families. The park also has an open playground for children and access to a beach, but this is not ideal for swimming.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -132,7 +132,7 @@
                     </div>
                     <p>Step into The Orangery where traditional and delicious British food triumphs. We make contemporary dining experience with influence from Europe and beyond with a local influences. Located in the heart...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-din1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -150,7 +150,7 @@
                     </div>
                     <p>Al Meshwar restaurant is divided in 2 floors and mezzanine with smoking and non smoking areas, VIP lounges, conference and wedding hall, butchery, kids area, prayer room and basement car parking. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-din2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -168,7 +168,7 @@
                     </div>
                     <p>For every prohibition you create, you also create an underground. A small intimate speakeasy bar hidden behind a bookcase. Transform yourself back to the 20's and fully absorb yourself within the prohibition era.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-din3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -186,7 +186,7 @@
                     </div>
                     <p>Hooked is a contemporary seafood restaurant that pays homage to the rich Louisiana-inspired flavors & freshest seafood-boil favorites you've come to love! The rustic-industrial set up is the perfect venue...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-din4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -204,7 +204,7 @@
                     </div>
                     <p>At Crepes & Burgers, we maintain high and consistent standards. Our customers are the most important part of our business and we do our best to make sure that their visit will be a pleasant one. Our guests...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-din5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -229,7 +229,7 @@
                     </div>
                     <p>Nestled between the extraordinary backdrop of the Hajar Mountains and the glistening Indian Ocean, Le Meridien Al Aqah is a family friendly resort in Fujairah providing a scenic setting for a fun filled holiday.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -247,7 +247,7 @@
                     </div>
                     <p>A small rock island about 120m x 80m, Snoopy Island is named for the three sections of rock rising up to create a profile of feet, belly, and nose similar to the iconic image of Snoopy sleeping on top of his...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -265,7 +265,7 @@
                     </div>
                     <p>Off the coast of the Khorfakkan public beach, this small rocky island is an underwater marvel for everyone who enjoys snorkeling, scuba diving and swimming. Sea anemones and turtles are a treat for snorkelers, while...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -283,7 +283,7 @@
                     </div>
                     <p>It covers famous places like Ajman Museum and the Ajman Beach, Fujairah Emirate's oldest mosque Al Bidiya, Sharjah Urban attractions and Khor Fakkan beach. Drive through the busy streets and experience local...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -307,7 +307,7 @@
                     </div>
                     <p>Al Hayl Castle or Al Hayl Palace was built around 1830 and belonged to the ruling family of Fujairah. Today, however, this historical site is managed by the Department of Antiquities and Heritage.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -325,7 +325,7 @@
                     </div>
                     <p>A small rock island about 120m x 80m, Snoopy Island is named for the three sections of rock rising up to create a profile of feet, belly, and nose similar to the iconic image of Snoopy sleeping on top of his...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -343,7 +343,7 @@
                     </div>
                     <p>Fujairah Fort is a fort in the city of Fujairah, United Arab Emirates (UAE). Dating back to the 16th century, it is among the oldest as well as the largest castles in the country. It is noted for playing...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -367,7 +367,7 @@
                     </div>
                     <p>Fujairah Fort is a fort in the city of Fujairah, United Arab Emirates (UAE). Dating back to the 16th century, it is among the oldest as well as the largest castles in the country. It is noted for playing...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -385,7 +385,7 @@
                     </div>
                     <p>Nestled between the extraordinary backdrop of the Hajar Mountains and the glistening Indian Ocean, Le Meridien Al Aqah is a family friendly resort in Fujairah providing a scenic setting for a fun filled holiday.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -403,7 +403,7 @@
                     </div>
                     <p>Bithnah Fort is thought to date back to the late 18th century, having been built as a result of the Wahhabi incursions of the early 1800s following the Battle of Bithnah. The fort is constructed from stone, mudbrick...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-dis2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -421,7 +421,7 @@
                     </div>
                     <p>Al Hayl Castle or Al Hayl Palace was built around 1830 and belonged to the ruling family of Fujairah. Today, however, this historical site is managed by the Department of Antiquities and Heritage.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -439,7 +439,7 @@
                     </div>
                     <p>Experience the feeling of a traditional Arabian souq (market) at Fujairah's Friday market. Set among mountains and valleys, with an open market setting, the iconic Friday Market attracts visitors from all over the region.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-dis4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -462,7 +462,7 @@
                     </div>
                     <p>Also known as the Ottoman Mosque, Al-Badiyah Mosque is the oldest mosque in U.A.E, named after the town that once surrounded the holy place. There are several other archaeological sites...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-mos1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -480,7 +480,7 @@
                     </div>
                     <p>As part of the prudent initiatives of the President of UAE, H.H Sheikh Khalifa bin Zayed  Al Nahyan  (may Allah protect him), the Sheikh Zayed Mosque-Al Fujairah was constructed to be the second large mosque...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="fuj-mos2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>

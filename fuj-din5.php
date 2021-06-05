@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>PLACE HOLDER FOR PLACES</title>
+    <title>Crepes and Burgers LLC</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -417,6 +417,9 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
      <!-- google maps -->   
+     <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.014688980807!2d56.351462615357825!3d25.135194240380564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef4f9cfdc112a33%3A0x4ca7a8282a9ae43f!2sCrepes%20and%20Burgers%20LLC!5e0!3m2!1sen!2sae!4v1622776654092!5m2!1sen!2sae" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->

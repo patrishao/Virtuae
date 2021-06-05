@@ -85,7 +85,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Catch22 is a social contemporary eatery that serves an array of international dishes. Offering a dilemma of choice, the menu really has something for everyone, whether you want to share dishes among friends or enjoy all to yourself. Anytime is Catch O’Clock, catering for breakfast, lunch and dinner and all the times in between. The menu offers light bites and starters, sticks, sushi, salads for a healthy option, Monster Burgers for extra hungry options or mains and the desserts are delicious! 
-                    </p>
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Catch22 is more than just a restaurant, it’s an experience with lots of fun elements in store making it the perfect place for a casual lunch, date night, family dinner or friendly get together. Joseph Heller coined the term in his 1961 novel Catch-22, which describes absurd bureaucratic constraints on soldiers in World War II.
+                </p>
             </div>
             
          </div>

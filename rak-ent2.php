@@ -34,7 +34,7 @@
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
                         <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3F.jpg" class="picture" /></div>
-                        <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3G.jpg" class="picture" /></div>
+                        <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3G.jpg" class="picture"  /></div>
                         <div><img src="images/RAK/Entertainment/Flamingo Beach/rakent3E.jpg" class="picture" /></div>
                 </div>
             </div>
@@ -71,9 +71,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3H.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3C2.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3A.jpg" class="smallimg" style="object-position: 0 -80px;" /></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3H.jpg" class="smallimg" style="object-position: 0 -80px;"/></div>
+                <div class="img-set"><img src="images/RAK/Entertainment/Flamingo Beach/rakent3C2.jpg" class="smallimg" style="object-position: 0 -80px;"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">

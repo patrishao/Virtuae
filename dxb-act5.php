@@ -86,7 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Global Village combines cultures of 90 countries across the world at one place. It claims to be the world's largest tourism, leisure, shopping and entertainment project. It is the region's first cultural, entertainment, family and shopping destination.
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Welcome to the world's playground. The region's largest and first-ever multi-cultural festival park conceptualised and created in 1997, Global Village is a sprawling 1.6 million square meter destination for the whole family. Marshall McLuhan, who was a Canadian thinker, coined the term 'global village' in the 1960s. The term global village has been used to express the idea that people throughout the world are interconnected through the use of new media technologies.
+                </p>
 
             </div>
             

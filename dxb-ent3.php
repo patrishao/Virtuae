@@ -87,13 +87,22 @@
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Legoland Dubai is an indoor theme park exclusively engineered for complete family entertainment. It is a one-of-its-kind amusement park which has got everything to satisfy the cravings of your 2 to 12-year-old child. With lots of fun-filled educational activities, Legoland Dubai, a 3-million square feet facility homes to around six amazing zones. Factory, LEGO City, Miniland, Kingdoms, Adventure, and Imagination are those six zones where you can spend some quality family time.
 
-                    <br>
-                    <br>
+                <br>
+                <br>
 
-                    This mighty amusement park has more than 40 immersive rides and attractions to enjoy. Almost all the rides and attractions are highly inspired by toy building bricks of the LEGO city. It is a great place to set out all your routine hustles and bustles apart and be a part of this Legoland Dubai to experience live shows, fantastic attractions, building workshops, and other family rides. There are around 15000 LEGO models carved out from 60 million bricks of LEGO for your child to enjoy.
+                This mighty amusement park has more than 40 immersive rides and attractions to enjoy. Almost all the rides and attractions are highly inspired by toy building bricks of the LEGO city. It is a great place to set out all your routine hustles and bustles apart and be a part of this Legoland Dubai to experience live shows, fantastic attractions, building workshops, and other family rides. There are around 15000 LEGO models carved out from 60 million bricks of LEGO for your child to enjoy.
 
-                    <br>
-                    <br>
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The Legoland Billund Resort opened in Billund, Denmark in 1968, followed by the Legoland Windsor Resort in Windsor, England in 1996. Further parks opened in Germany, Japan, Malaysia, the United Arab Emirates (Dubai), and the United States (California and Florida).
+
+                </p>
+
 
             </div>
             

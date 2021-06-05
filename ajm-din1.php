@@ -423,6 +423,10 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
+    <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
+
     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14414.088816377573!2d55.4413016!3d25.4207994!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92ffc01e6b7ab79e!2sSAFI!5e0!3m2!1sen!2sae!4v1622596772891!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

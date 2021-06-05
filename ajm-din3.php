@@ -422,6 +422,10 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
     
+    <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
+
     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3401.2561993821996!2d55.440811467975614!3d25.421362623563382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb61463385664a42b!2sBab%20Al%20Bahr%20Beach%20Bar%20%26%20Grill!5e0!3m2!1sen!2sae!4v1622623665828!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

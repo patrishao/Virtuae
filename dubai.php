@@ -458,7 +458,7 @@
             <div class="cardContent">
                 <div class="contents">
                     <div class="contentTitle">
-                        <h3>The Buried Village of Al Madama</h3>
+                        <h3>The Buried Village of Al Madam</h3>
                         <h4>Dubai</h4>
                     </div>
                     <p>Not too far from Dubai, one of the fastest developing cities in the world, is a buried village outside of Al Madam. Out in the desert, the town is a relic of an unknown past. No one is exactly sure why the... </p>
