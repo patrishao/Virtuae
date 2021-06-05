@@ -420,6 +420,9 @@ $pageName = "auh-din3";
     <!-- to be replaced -->
     <!-- virtual tour -->
 
+    <br><br><br><br>
+    <h3 style="text-align: center;">Sorry! There's no virtual tour available for this place, but you can visit them on the location below:</h3>
+    <br><br><br><br>
 
     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3630.98703165619!2d54.606245014995515!3d24.48590618423199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457e13d24e81%3A0xe7ac0f37fbfec588!2sCascade%20Dining!5e0!3m2!1sen!2sae!4v1622740938994!5m2!1sen!2sae" 
