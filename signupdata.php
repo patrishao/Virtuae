@@ -20,6 +20,15 @@ if(isset($_POST['submit'])){
   $email =  mysqli_real_escape_string($connection, $email);
   $password =  mysqli_real_escape_string($connection, $password);
 
+// hashes the password and run it 10x, everytime it runs it creates diff result, used hash blowfish
+  $hash = "$2y$10$";
+  // use 22 strings
+  $salt = "thepasswordisprotected";
+
+  $hash_and_salt = $hashFormat . $salt;
+
+// encripting password
+  $password = crypt($password, $hash_and_salt);
 
   
     // query to find the the email
@@ -53,7 +62,8 @@ if(isset($_POST['submit'])){
 
           //display only this
           echo '<script>alert("The email exists, please try another email.")</script>';
-          
+
+          error_reporting(E_ERROR | E_PARSE);
 
 
           }
