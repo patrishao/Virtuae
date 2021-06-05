@@ -1,10 +1,17 @@
+<?php 
+include 'includes/database.php';
+include 'includes/fetchdata.php';
+
+$pageName = "auh-mos1"; 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Al Sinniyah Island</title>
+    <title>Sheikh Zayed Grand Mosque</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -12,19 +19,8 @@
 
 </head>
 <body>
-<div id="navbar"> 
-            <?php 
-
-            include 'includes/database.php';
-            include 'includes/fetchdata.php' ;
-            include 'includes/headers-edit.php';
-
-            //$pageName = "name of the page"; 
-
-            //like;
-            $pageName = "uaq-dis2"; 
-
-            ?>
+    <div id="navbar"> 
+        <?php include 'includes/headers-edit.php';?>
     </div>
     
     <!-- TITLE -->
@@ -32,14 +28,14 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1C.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1H.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1G.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Al Sinniyah Island </h1> <!-- title -->
-                <p class="location-title"> Umm Al Quwain </p> <!-- location-->
+                <h1 class="title1"> SHEIKH ZAYED GRAND MOSQUE </h1> <!-- title -->
+                <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
@@ -70,47 +66,43 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="smallimg"/></div>
+
+                <div class="img-set"><img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1D.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1F.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1E.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+
             </div>
             <div class="info-container">
+
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Al Sinniyah Island.docx"> 
+                    <a href="download\Abu Dhabi\Mosque\Sheikh Zayed Grand Mosque.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
+
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, 
-                    Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. 
-                    It is one of the most popular places to visit in Umm Al Quwain as part of Ajman Tour Packages.
+
+                <p class="info-description"> 
                     
-                    <br>
-                    <br>
+                    The impressive and inspiring Sheikh Zayed Grand Mosque is one of the world’s largest mosques and the only 
+                    one that captures the unique interactions between Islam and other world cultures. Sheikh Zayed bin Sultan 
+                    Al Nahyan, the Founder of the UAE, had a very specific vision for this mosque: to incorporate architectural 
+                    styles from different Muslim civilisations and celebrate cultural diversity by creating a haven that is truly 
+                    welcoming and inspirational in its foundation. The mosque’s architects were British, Italian and Emirati, with 
+                    design ideas borrowed from parts of Turkey, Morocco, Pakistan and Egypt, among other Islamic countries.
 
-                    The series of islands lie east to the mainland of Umm al-Quwain are surrounded by mangrove forests and are an 
-                    important area for migratory birds. Seneyah Island is the largest of the island group. Many birds, including 
-                    flamingos, herons, terns, and plovers can be seen in the shallow mud flats here. It is the most preferred island 
-                    for a great nature escape from the hustle and bustle of the cities of the United Arab Emirates.
+                    <br><br> 
+                    
+                    The end result is a breathtaking, gleaming architectural marvel.
+
+                   <br><br>
+
+                </p>           
               
-                    <br>
-                    <br>
-
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                    <p class="info-description1"> 
-                    The island was of great historical importance, as residents of Umm Al Quwain have settled in it when they moved from 
-                    Mulah Island, led by Sheikh Majid bin Rashid Al Mualla, two hundred years ago. Many years later, people of Umm Al Quwain 
-                    have then, moved from the Siniya Island to Umm Al Quwain. Siniya Island is, topographically, flat and characterized by 
-                    the existence of Mangroves, Ghaf trees and superficial plants. The island is a natural park where deers, seagulls, eagles, 
-                    herons and cormorants live. There are 65 different archaeological sites in the island that contain some graves, structural 
-                    remains, psoriasis hills and towers.
-                    </p>
-
             </div>
             
          </div>
@@ -122,44 +114,58 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1D.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
             
             <div class="contents-box">
                 <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Al Sinniyah Island is also well-known with the name of Jazirat as Siniyah. 
-                    Island is full of natural reserves that’s why Emirati believes that with the spending of 25 Billion AED 
-                    they would be able to enhance the tourism in Al Sinniyah Island and also gain a sufficient amount of profits in near future. </p>
-                 </div>
+                    <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
+                    <p class="contents-desc1">
+
+                        Sheikh Zayed Grand Mosque can welcome up to 55,000 worshippers and visitors every day. Completed 
+                        in just over a decade, the mosque was built to embody Islam’s foremost message of peace and tolerance 
+                        and welcome people of all beliefs.
+
+                    </p>
+                </div>
             </div> 
+         
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg"/>
+                    <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1B.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Birdwatching </h2>
-                <p class="contents-desc">
-                The Al Sinniyah Island is especially meant for birdwatchers and nature enthusiasts since it hosts a wide 
-                variety of flora and fauna like the rare Socotra cormorants, flamingoes and seagulls.  </p> <!-- put the actual activities here -->
-                 </div>
+                    <h2 class="contents-title"> Architecture </h2>
+                    <p class="contents-desc"> 
+
+                        Perhaps the most noticeable element of the mosque is the collection of 82 domes. The domes feature pure 
+                        white marble cladding, onion shaped ‘crowns’, and crescent-shaped finials decorated with gold-glass mosaic. 
+
+                    </p> <!-- put the actual activities here -->
+                </div>
             </div> 
-            
+
+
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" />
+                    <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1A.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Romance </h2>
-                <p class="contents-desc"> If you are travelling with your partner then you must visit this island as it 
-                    is one of the most romantic places in Ajman.  </p> <!-- put the actual activities here -->
-                 </div>
+                    <h2 class="contents-title"> Prayer </h2>
+                    <p class="contents-desc"> 
+
+                        The largest mosque in the country, it is the key place of worship for daily, Friday and Eid prayers. During 
+                        Eid, it may be visited by more than 41,000 people.
+
+                    </p> <!-- put the actual activities here -->
+                </div>
             </div> 
-            
-            </div>
+
+
+        </div>
         </div>
         <!-- -->
 
@@ -476,34 +482,33 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     
-    <br> <br>     <br> <br>
-    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
-    <br> <br>     <br> <br>
+
+    <!-- to be replaced -->
+    <!-- virtual tour -->
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/eaQ_4X2B0kQ/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28784.180799283127!2d55.61026818417203!3d25.604165257329186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fd74565f0793%3A0xcf5feeb793eb348b!2zSmF6xKtyYXQgYXMgU8SrbsSreWFo!5e0!3m2!1sen!2sae!4v1622589108820!5m2!1sen!2sae"
-         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3633.0929478253215!2d54.47278671427898!3d24.412838269065226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e4273e8dafe49%3A0x248fbbcbefe2afc7!2sSheikh%20Zayed%20Grand%20Mosque!5e0!3m2!1sen!2sae!4v1622874061345!5m2!1sen!2sae"
+    width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
     <!-- COMMENTS -->
-
-    <h2 class="review-title">REVIEWS</h2>
-
-<script src="javascript/alerts.js"> </script>
-
-
-<div class="review-container" id="review-container">
-
-    <div class="user-review">
-
-    <?php 
     
+    <h2 class="review-title">REVIEWS</h2>
+    
+    <script src="javascript/alerts.js"> </script>
+    
+    <div class="review-container" id="review-container">
+ 
+    <div class="user-review">
+   
+       <?php 
+       
             // fetching all the data from this certain page
-            $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
-            $query .= "ORDER BY comment_id DESC";
-            $select_customers = mysqli_query($connection, $query);
+              $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+              $query .= "ORDER BY comment_id DESC";
+              $select_customers = mysqli_query($connection, $query);
     
                 while($row = mysqli_fetch_assoc($select_customers)){
                     $comment_id = $row['comment_id'];
@@ -512,31 +517,28 @@
                     $comment_author = $row['comment_author'];
                     $comment_email = $row['comment_email'];
                     $comment_contents = $row['comment_contents'];
-    ?>
-
+       ?>
 
         <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
         <div class="main-review review"> 
             <div class="r-box main-box">
-                <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
-                <span class="date">  <?php  echo $comment_date?> </span></div>
-                <div class="review-content"> <?php  echo $comment_contents?> </div>
+                 <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                 <span class="date">  <?php  echo $comment_date?> </span></div>
+                 <div class="review-content"> <?php  echo $comment_contents?> </div>
             </div>
         </div>
 
-
         <?php } ?>
-        <!-- closing the while loop -->
-
+          <!-- closing the while loop -->
         
     </div>
+
+    </div>
     
-</div>
-
-<!-- including the other php file that handles the form -->
-<?php  include 'includes/comments.php' ?>
-
-<form class="wr-container" id="wr-container" method="post" action="">
+    <!-- including the other php file that handles the form -->
+    <?php  include 'includes/comments.php' ?>
+    
+    <form class="wr-container" id="wr-container" method="post" action="">
     
     <div class="write-review">
 
@@ -549,95 +551,118 @@
         <!-- getting the page name to know where is the user commenting -->
         <input type="hidden" name="page" value="<?php echo $pageName?>" >
 
-
-
-    <!-- adding a review -->
-    <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
-
+        <!-- adding a review -->
+        <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
 
     </div>
 
     <!-- buttons to send  -->
     <input type="submit" class="post btn" value="Post" name="post">
     <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+    
+    </div>
+    </form>
 
-</div>
-</form>
-
-
-<!-- -->
+    <!-- -->
 
     <section id="media-wrappper">
         <h2 class="media-title">MEDIA</h2> 
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> Greenery of the island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> Island's plantation and sea </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-        </div>
-
-        <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> Greenery of the island </p>
-            </div>
-
-        </div>
-
-        <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island  </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1A.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Inside the mosque </p>
             </div>
             
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque at night </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1C.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque at afternoon </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1D.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque on a cloudy day </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1E.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> The pillars of Sheikh Zayed Grand Mosque </p>
+            </div>
+        </div>
+        <div class="row row2">
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1F.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque's interior design </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1G.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque in the moonlight </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1H.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque at sunset </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1A.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Inside the mosque </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque at night </p>
+            </div>
+
+        </div>
+        <div class="row row3">
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1H.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque at sunset </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1D.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque on a cloudy day </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1E.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> The pillars of Sheikh Zayed Grand Mosque </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1F.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque's interior design </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images\auh-pictures\Mosque\Sheikh Zayed Grand Mosque\auhmos1G.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Sheikh Zayed Grand Mosque in the moonlight </p>
+            </div>
+
         </div>
 
         </div>
@@ -658,37 +683,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('9:00 AM to 10:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('9:00 AM to 10:00 PM');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('9:00 AM to 10:00 PM');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('9:00 AM to 10:00 PM');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('9:00 AM to 10:00 PM');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('4:30 PM to 10:00 PM');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('9:00 AM to 10:00 PM');//so put the timings here
    
         }
 

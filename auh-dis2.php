@@ -1,10 +1,17 @@
+<?php 
+include 'includes/database.php';
+include 'includes/fetchdata.php';
+
+$pageName = "auh-dis2"; 
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Al Sinniyah Island</title>
+    <title>Yas Island</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -12,19 +19,8 @@
 
 </head>
 <body>
-<div id="navbar"> 
-            <?php 
-
-            include 'includes/database.php';
-            include 'includes/fetchdata.php' ;
-            include 'includes/headers-edit.php';
-
-            //$pageName = "name of the page"; 
-
-            //like;
-            $pageName = "uaq-dis2"; 
-
-            ?>
+    <div id="navbar"> 
+        <?php include 'includes/headers-edit.php';?>
     </div>
     
     <!-- TITLE -->
@@ -32,14 +28,14 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Discover\Yas Island\auhdis2A.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Discover\Yas Island\auhdis2E.jpg" class="picture" /></div>
+                        <div><img src="images\auh-pictures\Discover\Yas Island\auhdis2F.jpg" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Al Sinniyah Island </h1> <!-- title -->
-                <p class="location-title"> Umm Al Quwain </p> <!-- location-->
+                <h1 class="title1"> YAS ISLAND </h1> <!-- title -->
+                <p class="location-title"> ABU DHABI </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
@@ -70,47 +66,56 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="smallimg"/></div>
+
+                <div class="img-set"><img src="images\auh-pictures\Discover\Yas Island\auhdis2C.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Discover\Yas Island\auhdis2G.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images\auh-pictures\Discover\Yas Island\auhdis2H.jpg" style="object-position: 0 -50px;" class="smallimg"/></div>
+
             </div>
             <div class="info-container">
+
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Al Sinniyah Island.docx"> 
+                    <a href="download\Abu Dhabi\Discover\Yas Island.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
+
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, 
-                    Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. 
-                    It is one of the most popular places to visit in Umm Al Quwain as part of Ajman Tour Packages.
+
+                <p class="info-description"> 
                     
-                    <br>
-                    <br>
+                    Yas Island is an island in Abu Dhabi, United Arab Emirates. It occupies a total land area of 25 km². 
+                    It is a popular leisure island and one of the top tourism projects in Abu Dhabi. Yas Island holds the 
+                    Yas Marina Circuit, which has hosted the Formula One Abu Dhabi Grand Prix since 2009.
 
-                    The series of islands lie east to the mainland of Umm al-Quwain are surrounded by mangrove forests and are an 
-                    important area for migratory birds. Seneyah Island is the largest of the island group. Many birds, including 
-                    flamingos, herons, terns, and plovers can be seen in the shallow mud flats here. It is the most preferred island 
-                    for a great nature escape from the hustle and bustle of the cities of the United Arab Emirates.
+                   <br><br>
+
+                </p>
+                   
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                    Yas Island is a man-made island, but not created by sand shooting sea vessels. It was once part of mainland 
+                    Abu Dhabi and, as part of the idea behind the Formula 1 proposal, a strip of land was dredged – what is now 
+                    the canal.
+
+                    <br><br>
+
+                    The area is intended – and already is – as a multi-purpose entertainment, leisure, and retails project, all 
+                    of which has been built by ALDAR.
+
+                    <br><br>
+
+                    The Grand Prix circuit opened in 2009, with the first Formula 1 race taking place the same year. Since then, 
+                    the attractions and facilities have kept on coming.
+
+                </p>                    
               
-                    <br>
-                    <br>
-
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                    <p class="info-description1"> 
-                    The island was of great historical importance, as residents of Umm Al Quwain have settled in it when they moved from 
-                    Mulah Island, led by Sheikh Majid bin Rashid Al Mualla, two hundred years ago. Many years later, people of Umm Al Quwain 
-                    have then, moved from the Siniya Island to Umm Al Quwain. Siniya Island is, topographically, flat and characterized by 
-                    the existence of Mangroves, Ghaf trees and superficial plants. The island is a natural park where deers, seagulls, eagles, 
-                    herons and cormorants live. There are 65 different archaeological sites in the island that contain some graves, structural 
-                    remains, psoriasis hills and towers.
-                    </p>
-
             </div>
             
          </div>
@@ -122,44 +127,58 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\auh-pictures\Discover\Yas Island\auhdis2C.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
             
             <div class="contents-box">
                 <div class="contents-container1">
-                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Al Sinniyah Island is also well-known with the name of Jazirat as Siniyah. 
-                    Island is full of natural reserves that’s why Emirati believes that with the spending of 25 Billion AED 
-                    they would be able to enhance the tourism in Al Sinniyah Island and also gain a sufficient amount of profits in near future. </p>
-                 </div>
+                    <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
+                    <p class="contents-desc1">
+
+                        To say that there is something for everyone is an understandably tired expression, 
+                        but on Yas Island there really is something for all tastes and of all ages!
+
+                    </p>
+                </div>
             </div> 
+         
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg"/>
+                    <img src="images\auh-pictures\Discover\Yas Island\auhdis2B.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Birdwatching </h2>
-                <p class="contents-desc">
-                The Al Sinniyah Island is especially meant for birdwatchers and nature enthusiasts since it hosts a wide 
-                variety of flora and fauna like the rare Socotra cormorants, flamingoes and seagulls.  </p> <!-- put the actual activities here -->
-                 </div>
+                    <h2 class="contents-title"> ThemeParks </h2>
+                    <p class="contents-desc"> 
+
+                        Find that Ferrari feeling when you go on a rollercoaster at Ferrari World Abu Dhabi, 
+                        splash the day away at Yas Waterworld, and see animation come to life and escape to 
+                        a whimsical world at Warner Bros. World Abu Dhabi.
+
+                    </p> <!-- put the actual activities here -->
+                </div>
             </div> 
-            
+
+
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" />
+                    <img src="images\auh-pictures\Discover\Yas Island\auhdis2D.jpg" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Romance </h2>
-                <p class="contents-desc"> If you are travelling with your partner then you must visit this island as it 
-                    is one of the most romantic places in Ajman.  </p> <!-- put the actual activities here -->
+                    <h2 class="contents-title"> YasVibes </h2>
+                    <p class="contents-desc">
+
+                        From 3-star comfort to 5-star luxury, we have a collection of hotels on Yas Island that 
+                        cater to all your preferences, all located a few minutes from Yas Island's main attractions.
+
+                    </p> <!-- put the actual activities here -->
                  </div>
             </div> 
-            
-            </div>
+
+
+        </div>
         </div>
         <!-- -->
 
@@ -476,34 +495,33 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     
-    <br> <br>     <br> <br>
-    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
-    <br> <br>     <br> <br>
 
+    <!-- to be replaced -->
+    <!-- virtual tour -->
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/bY9nWH1Fd_K/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+    
     <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28784.180799283127!2d55.61026818417203!3d25.604165257329186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fd74565f0793%3A0xcf5feeb793eb348b!2zSmF6xKtyYXQgYXMgU8SrbsSreWFo!5e0!3m2!1sen!2sae!4v1622589108820!5m2!1sen!2sae"
-         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d58095.783066560805!2d54.567958568267294!3d24.48592662635727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e457d9c174315%3A0xbea25f33cf37e48e!2sYas%20Island!5e0!3m2!1sen!2sae!4v1622857453946!5m2!1sen!2sae"
+    width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
     
     <!-- COMMENTS -->
-
-    <h2 class="review-title">REVIEWS</h2>
-
-<script src="javascript/alerts.js"> </script>
-
-
-<div class="review-container" id="review-container">
-
-    <div class="user-review">
-
-    <?php 
     
+    <h2 class="review-title">REVIEWS</h2>
+    
+    <script src="javascript/alerts.js"> </script>
+    
+    <div class="review-container" id="review-container">
+ 
+    <div class="user-review">
+   
+       <?php 
+       
             // fetching all the data from this certain page
-            $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
-            $query .= "ORDER BY comment_id DESC";
-            $select_customers = mysqli_query($connection, $query);
+              $query = "SELECT * from comments WHERE comment_page = '$pageName' "; 
+              $query .= "ORDER BY comment_id DESC";
+              $select_customers = mysqli_query($connection, $query);
     
                 while($row = mysqli_fetch_assoc($select_customers)){
                     $comment_id = $row['comment_id'];
@@ -512,31 +530,28 @@
                     $comment_author = $row['comment_author'];
                     $comment_email = $row['comment_email'];
                     $comment_contents = $row['comment_contents'];
-    ?>
-
+       ?>
 
         <!-- displaying all the comments using the while loop in the php, I didn't close it. -->
         <div class="main-review review"> 
             <div class="r-box main-box">
-                <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
-                <span class="date">  <?php  echo $comment_date?> </span></div>
-                <div class="review-content"> <?php  echo $comment_contents?> </div>
+                 <div class="user"> <?php  echo $comment_author?> <div class="dot"></div>
+                 <span class="date">  <?php  echo $comment_date?> </span></div>
+                 <div class="review-content"> <?php  echo $comment_contents?> </div>
             </div>
         </div>
 
-
         <?php } ?>
-        <!-- closing the while loop -->
-
+          <!-- closing the while loop -->
         
     </div>
+
+    </div>
     
-</div>
-
-<!-- including the other php file that handles the form -->
-<?php  include 'includes/comments.php' ?>
-
-<form class="wr-container" id="wr-container" method="post" action="">
+    <!-- including the other php file that handles the form -->
+    <?php  include 'includes/comments.php' ?>
+    
+    <form class="wr-container" id="wr-container" method="post" action="">
     
     <div class="write-review">
 
@@ -549,95 +564,118 @@
         <!-- getting the page name to know where is the user commenting -->
         <input type="hidden" name="page" value="<?php echo $pageName?>" >
 
-
-
-    <!-- adding a review -->
-    <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
-
+        <!-- adding a review -->
+        <textarea class="form-control" id="inquire" name="review" rows="4" cols="50" placeholder="Add a review..."></textarea>
 
     </div>
 
     <!-- buttons to send  -->
     <input type="submit" class="post btn" value="Post" name="post">
     <input type="submit" class="cancel btn" value="Cancel" name="cancel">
+    
+    </div>
+    </form>
 
-</div>
-</form>
-
-
-<!-- -->
+    <!-- -->
 
     <section id="media-wrappper">
         <h2 class="media-title">MEDIA</h2> 
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> Greenery of the island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> Island's plantation and sea </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-        </div>
-
-        <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> Greenery of the island </p>
-            </div>
-
-        </div>
-
-        <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island  </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2A.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> A combined picture of the Yas Island themeparks </p>
             </div>
             
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Yas Island </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2C.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> CLYMB Abu Dhabi, the tallest indoor climbing wall and the World's <br> biggest indoor skydiving flight chamber </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2D.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Yas Viceroy </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2E.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> View of the lakes in Yas Island </p>
+            </div>
+        </div>
+        <div class="row row2">
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2F.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> A family enjoying their quality time at Yas Mall </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2G.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Formula Rossa, the World's fastest rollercoaster </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2H.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Racing in Yas Marina Circuit </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2A.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> A combined picture of the Yas Island themeparks </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2B.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Yas Island </p>
+            </div>
+
+        </div>
+        <div class="row row3">
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2C.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> CLYMB Abu Dhabi, the tallest indoor climbing wall and the World's <br> biggest indoor skydiving flight chamber </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2D.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Yas Viceroy </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2H.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Racing in Yas Marina Circuit </p>
+            </div>
+
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2F.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> A family enjoying their quality time at Yas Mall </p>
+            </div>
+            
+            <div class="img-media">
+                <img src="images\auh-pictures\Discover\Yas Island\auhdis2G.jpg" class="fiximg" /> <!-- img! -->
+                 <!-- description time, add smth like idk "fun time family!" -->
+                <p> Formula Rossa, the World's fastest rollercoaster </p>
+            </div>
+
         </div>
 
         </div>
@@ -658,37 +696,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.');//so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.');//so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.');//so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.');//so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.');//so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html('Depends on the establishment.');//so put the timings here
    
         }
 

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Al Sinniyah Island</title>
+    <title>Khor Al Beidahe</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -12,6 +12,7 @@
 
 </head>
 <body>
+
 <div id="navbar"> 
             <?php 
 
@@ -22,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-dis2"; 
+            $pageName = "uaq-dis4"; 
 
             ?>
     </div>
@@ -32,13 +33,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="picture" /></div>
-                        <div><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD2.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD3.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Al Sinniyah Island </h1> <!-- title -->
+                <h1 class="title1"> Khor Al Beidah </h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,47 +71,40 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="smallimg"/></div>
-                <div class="img-set"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD2.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Ajman\Activities\Al Sinniyah Island.docx"> 
+                    <a href="download/Umm Al Quwain/Discovery/Khor Al Beidah.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> At a distance of 19 km from Umm Al Quwain and 39 km from Ajman, 
-                    Seneyah Island or Al Sinniyah Island is a serene island situated near the coast of Umm Al-Quwain city. 
-                    It is one of the most popular places to visit in Umm Al Quwain as part of Ajman Tour Packages.
+                <p class="info-description"> Less than an hour from Dubai lie the Khor Al Beidah wetlands, it is an untouched haven for birds and birdwatchers alike. 
+                A patchwork of pristine beaches, emerald blue lagoons, hidden islands and dense mangroves, the wetlands are home to both endemic and migratory birds, 
+                including difficult to spot species like the Great Knot and the Clab Plover. 
+
+
+                    <br>
+                    <br>
                     
+                    Besides its attraction for bird watchers, Khor Al Beidah also provides adventure enthusiasts a great opportunity for kayaking and a chance to explore 
+                    first hand, this unique ecosystem, which offers a rare insight into the Arabian Peninsula apart from the quintessential desert association.
+
+
                     <br>
                     <br>
 
-                    The series of islands lie east to the mainland of Umm al-Quwain are surrounded by mangrove forests and are an 
-                    important area for migratory birds. Seneyah Island is the largest of the island group. Many birds, including 
-                    flamingos, herons, terns, and plovers can be seen in the shallow mud flats here. It is the most preferred island 
-                    for a great nature escape from the hustle and bustle of the cities of the United Arab Emirates.
-              
-                    <br>
-                    <br>
+                    More than 420 different species have been recorded in this region and the region is largely left unprotected.
 
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                    <p class="info-description1"> 
-                    The island was of great historical importance, as residents of Umm Al Quwain have settled in it when they moved from 
-                    Mulah Island, led by Sheikh Majid bin Rashid Al Mualla, two hundred years ago. Many years later, people of Umm Al Quwain 
-                    have then, moved from the Siniya Island to Umm Al Quwain. Siniya Island is, topographically, flat and characterized by 
-                    the existence of Mangroves, Ghaf trees and superficial plants. The island is a natural park where deers, seagulls, eagles, 
-                    herons and cormorants live. There are 65 different archaeological sites in the island that contain some graves, structural 
-                    remains, psoriasis hills and towers.
-                    </p>
-
+                </p>              
+                    
             </div>
             
          </div>
@@ -122,7 +116,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD3.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -130,36 +124,30 @@
             <div class="contents-box">
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
-                <p class="contents-desc1">Al Sinniyah Island is also well-known with the name of Jazirat as Siniyah. 
-                    Island is full of natural reserves that’s why Emirati believes that with the spending of 25 Billion AED 
-                    they would be able to enhance the tourism in Al Sinniyah Island and also gain a sufficient amount of profits in near future. </p>
-                 </div>
+                <p class="contents-desc1">
+                
+                With a unique ecosystem, blue lagoons and hidden islands, this place is nothing short of thrilling.                </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg"/>
+                    <img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD4.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Birdwatching </h2>
+                <h2 class="contents-title"> Bird Watching </h2>
                 <p class="contents-desc">
-                The Al Sinniyah Island is especially meant for birdwatchers and nature enthusiasts since it hosts a wide 
-                variety of flora and fauna like the rare Socotra cormorants, flamingoes and seagulls.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
+
+                <br><br>
+
+                In the island, you’ll see a variety of bird species including marbled duck, red-breasted merganser, 
+                Eurasian bittern, merlin and so much more.  
+
+                </p> <!-- put the actual activities here -->
+               </div>
+
+            </div>           
             
-            <div class="contents-box">
-                <div class="contents-img">
-                    <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" />
-                </div>
-                <div class="contents-container">
-                <h2 class="contents-title"> Romance </h2>
-                <p class="contents-desc"> If you are travelling with your partner then you must visit this island as it 
-                    is one of the most romantic places in Ajman.  </p> <!-- put the actual activities here -->
-                 </div>
-            </div> 
-            
-            </div>
+        </div>
         </div>
         <!-- -->
 
@@ -476,19 +464,15 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
-     
-    <br> <br>     <br> <br>
-    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
-    <br> <br>     <br> <br>
-
-    <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28784.180799283127!2d55.61026818417203!3d25.604165257329186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fd74565f0793%3A0xcf5feeb793eb348b!2zSmF6xKtyYXQgYXMgU8SrbsSreWFo!5e0!3m2!1sen!2sae!4v1622589108820!5m2!1sen!2sae"
-         width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-    <!-- -->
+   
+        <br> <br>     <br> <br>
+        <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+        <br> <br>     <br> <br>
+             
+      <!-- google tour -->
     
-    <!-- COMMENTS -->
-
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14401.75811091939!2d55.62415715310065!3d25.523732289827855!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fb7598c1e5a9%3A0x5ed66991fc96b7a9!2sAldoor%20Heritage%20Temple!5e0!3m2!1sen!2sae!4v1622872171081!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      
     <h2 class="review-title">REVIEWS</h2>
 
 <script src="javascript/alerts.js"> </script>
@@ -572,72 +556,61 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD4.JPG" class="fiximg" />
+            <p> Flamingos </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> Greenery of the island </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" class="fiximg" />
+            <p> Scenery in Khor Al Beidah </p>
+            </div>
+            
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD3.JPG" class="fiximg" />
+            <p> A different view of Khor Al Beidah </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> Island's plantation and sea </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD2.JPG" class="fiximg" />
+            <p> A woman walking in Khor Al Beidah </p>
             </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
+            
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
+
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD2.JPG" class="fiximg" />
+            <p> A woman walking in Khor Al Beidah </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" class="fiximg" />
+            <p> Scenery in Khor Al Beidah </p>
+            </div>
+            
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD3.JPG" class="fiximg" />
+            <p> A different view of Khor Al Beidah </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2H.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD4.JPG" class="fiximg" />
+            <p> Flamingos </p>
             </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2A.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2B.jpg" class="fiximg" />
-            <p> Greenery of the island </p>
-            </div>
-
+            
         </div>
 
         <div class="row row3">
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2C.jpg" class="fiximg" />
-            <p> View from Al Sinniyah Island  </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" class="fiximg" />
+            <p> Scenery in Khor Al Beidah </p>
             </div>
 
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2D.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2F.jpg" class="fiximg" />
-            <p> Al Sinniyah Island view </p>
-            </div>
-
-            <div class="img-media"><img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2G.jpg" class="fiximg" />
-            <p> Animals from Al Sinniyah Island </p>
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD2.JPG" class="fiximg" />
+            <p> A woman walking in Khor Al Beidah </p>
             </div>
             
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD3.JPG" class="fiximg" />
+            <p> A different view of Khor Al Beidah </p>
+            </div>
+
+            <div class="img-media"><img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD4.JPG" class="fiximg" />
+            <p> Flamingos </p>
+            </div>
+
         </div>
 
         </div>
@@ -658,37 +631,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 10:00 AM to 6:00 PM '); //so put the timings here
+            $('#t-time').html(' Open 24/7 '); //so put the timings here
    
         }
 
