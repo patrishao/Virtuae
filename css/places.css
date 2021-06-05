@@ -78,7 +78,7 @@ body{
     height: 100%;
 }
 .location-title{
-    font-size: 13px;
+    font-size: 20px;
 }
 
 
@@ -2074,7 +2074,7 @@ body{
         height: 600px;
        
         position: absolute;
-        top: 370px;
+        top: 430px;
     
         z-index: -2;
     
@@ -2086,12 +2086,12 @@ body{
         line-height: 40px;
     }
     .location-title{
-        font-size: 10px;
+        font-size: 16px;
 
     }
     .line1{
         font-size: 10px;
-        height: 15%;
+        height: 70%;
         width: 15%;
     }
     .wrapper3{
