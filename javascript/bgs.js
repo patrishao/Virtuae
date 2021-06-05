@@ -49,7 +49,7 @@ var i = 0;
   images[5] = "url(images/homebg-images/noor1.jpg)";
   images[6] = "url(images/homebg-images/hayl.JPG)";
   images[7] = "url(images/homebg-images/ajman.jpg)";
-  images[8] = "url(images/homebg-images/noor1.jpg)";
+  images[8] = "url(images/homebg-images/kite-beach.png)";
 
   function changeImage() {
       var el = document.getElementById('nav');

@@ -105,7 +105,13 @@ a {
     border-radius: 20px;
     border: 1px hidden;
     height: 35px;
-    width: 100%
+    width: 100%;
+    padding: 5px 15px;
+}
+
+.btn:hover{
+    background-color: #252525;
+    color: white;
 }
 
 h1{

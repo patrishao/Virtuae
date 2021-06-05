@@ -1,4 +1,11 @@
+<?php 
 
+// including the connection and getting the data of user
+include 'includes/database.php';
+include 'includes/fetchdata.php';
+
+
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -24,14 +31,14 @@
             <div class="profile-details">
             <!-- displaying the name of the user -->
                 <div class="top-line">
-                    <h1> <?php echo $_SESSION['firstName'] . " " . $_SESSION['lastName'] ?> </h1>
+                    <h1> <?php echo $firstName. " " . $lastName ?> </h1>
                 
                     <div class="wrapper">
                     <a href="account-settings.php"> 
                     <button class="btn">
                         EDIT PROFILE
                     </button> </a>
-                    <a href="#">
+                    <a href="includes/logout.php">
                     <button class="btn">
                         LOG OUT
                     </button> </a>
@@ -40,10 +47,23 @@
                 </div>
 
              <!-- displaying the email from the databsase -->
-                <p class="profile-email"> <?php echo $_SESSION['email'] ?>  </p>
+                <p class="profile-email"> <?php echo $email ?>  </p>
                     
                 <p class="profile-location"><img src="images/Vector.png" class="location-img">
-                Placeholder, Location</p>
+             
+                <?php if(!$location) {
+                        echo "No location yet";
+                    }
+
+                    // if a user has a location, display the location
+                    else{
+                        echo $location;
+                    }
+                    
+                    ?>
+
+            </p>
+
                 <div class="wrapper2">
                     <a href="account-settings.php"> 
                     <button class="btn">

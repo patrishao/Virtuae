@@ -21,6 +21,33 @@ function blankError(){
 };
 
 
+function wrongInfo(){
+   Swal.fire({
+     icon: 'error',
+     title: 'Something went wrong..',
+     text: 'It seems like your details wrong.',
+  })
+};
+
+
+function loginSuccess() {  
+   Swal.fire(
+      'Login successful!',
+      'Now directing you to home page',
+      'success'
+    )
+};
+
+
+function signupSuccess() {  
+   Swal.fire(
+      'Your register is complete!',
+      'success'
+    )
+};
+
+
+
 
 function success() {  
    Swal.fire(
@@ -40,4 +67,5 @@ function info() {
       imageHeight: 250,
       imageAlt: 'Custom image',
     })
-}
+};
+
