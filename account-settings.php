@@ -1,7 +1,5 @@
 <?php // including the connection and getting the data of user
 
-session_start();
-
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 

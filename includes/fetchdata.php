@@ -1,7 +1,7 @@
 <!-- this file is a reusable file that gets the data of a user -->
 <?php 
 
-
+session_start();
 
 if (isset($_SESSION['id'])){
     
