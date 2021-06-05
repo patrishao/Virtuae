@@ -420,6 +420,9 @@ $pageName = "auh-din5";
     <!-- to be replaced -->
     <!-- virtual tour -->
 
+    <br><br><br><br>
+    <h3 style="text-align: center;">Sorry! There's no virtual tour available for this place, but you can visit them on the location below:</h3>
+    <br><br><br><br>
 
     <!-- google maps -->   
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3631.6230528031433!2d54.32606351428003!3d24.463860067064413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e65eb08554765%3A0x8c574e4f80b0f272!2sThe%20Terrace%20on%20the%20Corniche!5e0!3m2!1sen!2sae!4v1622753797001!5m2!1sen!2sae"
