@@ -2,7 +2,6 @@
 <?php 
 
 
-
 if (isset($_SESSION['id'])){
     
    // get and store the id of user into $idUser var

@@ -7,13 +7,10 @@
 
 
 //activate a session for loginfailed
-$_SESSION['message'] = 'Login failed, please check your details.';
-
 
 //checks if there are values and get data
 if (isset($_POST['login'])){
 
-    unset( $_SESSION['loginFailed'] ); //unset the login error, meaning there is value
     $email = $_POST['email'];
    $password = $_POST['password'];
 

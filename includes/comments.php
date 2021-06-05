@@ -1,6 +1,8 @@
 <?php 
 
 
+
+
 //  if button is pressed
 if (isset($_POST['post'])){
 
@@ -12,7 +14,7 @@ if (isset($_POST['post'])){
 
 
             // checks if a user is logged in
-            if ($_SESSION){
+            if (isset($_SESSION['id'])){
 
                 // checks if there is a value in the form
                 if ($contents){
