@@ -86,7 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> IMG Worlds of Adventure is one of Dubai's best theme parks, bringing Marvel and Cartoon Network characters to life with state-of-the-art rides. Covering an area of more than 28 football fields, you’ll want to ensure you’re wearing comfortable shoes.
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The Ilyas & Mustafa Galadari Group (IMG Group) is a highly regarded, diversified commercial entity based in Dubai. The Group is carrying on the tradition of the Galadari family which has a long history of entrepreneurship dating from the 1940′s.
+                </p>
             </div>
             
          </div>

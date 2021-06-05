@@ -93,6 +93,15 @@
 
                 <br><br>
                 This Park is also ISO certified with state of the art quality in technological advancements and safety measures. The Wild Wadi Water Park is the fastest growing water park in the world owing to its constantly evolving attractions and the sheer thrill enjoyed by its visitors. The Wild Wadi Water Park has the Burj Surje ride which is the only slide with two bowls in the world. The Park has 5 restaurants and snack bars within the premises and carts moving around the property selling ice creams, popcorn, and cotton candy. The Park also has two gift shops selling souvenirs and other essentials like swimming diapers, anti-slip socks for kids, etc.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                One of the world's most-visited water parks in the world, the Wild Wadi Water Park was opened in August 1999, Wild Wadi Water Park was built to give the visitors a taste of thrill and adrenaline rush never experienced before. Standing true to its name, the water park offers every bit of the rush one can experience.
+                </p>
             </div>
             
          </div>
