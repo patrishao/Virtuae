@@ -15,17 +15,29 @@ function notLogged(){
 function blankError(){
     Swal.fire({
       icon: 'error',
-      title: 'Something went wrong..',
-      text: 'Please fill in all the required values.',
+      text: 'Please fill in all the required fields.',
    })
 };
 
+function takenEmail(){
+   Swal.fire({
+     icon: 'error',
+     title: 'The email is taken.',
+     text: 'Please try another email.',
+  })
+};
 
 function wrongInfo(){
    Swal.fire({
      icon: 'error',
-     title: 'Something went wrong..',
      text: 'It seems like your details wrong.',
+  })
+};
+
+function shortChars(){
+   Swal.fire({
+     icon: 'error',
+     text: 'The password needs to be more than 6 letters long.',
   })
 };
 
@@ -41,7 +53,8 @@ function loginSuccess() {
 
 function signupSuccess() {  
    Swal.fire(
-      'Your register is complete!',
+      'Signup successful!',
+      'Now directing you to home page',
       'success'
     )
 };
@@ -68,4 +81,5 @@ function info() {
       imageAlt: 'Custom image',
     })
 };
+
 

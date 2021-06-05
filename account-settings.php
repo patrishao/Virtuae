@@ -5,6 +5,26 @@ include 'includes/fetchdata.php';
 
 
 
+?>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Settings</title>
+    <link rel="stylesheet" type="text/css" href="css/account-settings.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+
+<?php 
+
  // checking the "save changes" button is pressed
  if(isset($_POST['save'])){
 
@@ -41,7 +61,8 @@ include 'includes/fetchdata.php';
     }   
  
     else{
-        echo '<script type="text/javascript">','blankError();','</script>';
+        echo '<script>alert("Form is not complete, please fill it out.")</script>';
+
     }
 }
 
@@ -65,20 +86,6 @@ else if (isset($_POST['delete'])){
 
 ?>
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Account Settings</title>
-    <link rel="stylesheet" type="text/css" href="css/account-settings.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
-</head>
-
-<body>
 
     <div class="navbg"> 
     <?php include 'includes/headers.php'; ?> 
@@ -124,7 +131,7 @@ else if (isset($_POST['delete'])){
                 <p class="email-label">Email</p>
                 <input class="e-mail" type="text" name="email" value=" <?php echo $email; ?> " /> 
                 <p class="pass-label">Password</p>
-                <input class="password" type="password" name="password" value=" <?php echo $password; ?> "/> 
+                <input class="password" type="password" name="password"/> 
                 
                 <div class="save-delete">
                     <input class="save-changes" type="submit" value="Save Changes" name="save">

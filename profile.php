@@ -2,7 +2,7 @@
 <!-- starting a session to access the other data  -->
 <?php session_start() ?> 
 
-
+error_reporting(0);
 
 <!DOCTYPE html>
 <html lang="en">

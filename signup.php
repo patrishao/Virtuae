@@ -1,5 +1,4 @@
 
-<?php include 'signupdata.php'  ?>
 
 
 <!DOCTYPE html>
@@ -11,11 +10,20 @@
     <title>Sign Up</title>
     <link rel="stylesheet" type="text/css" href="css/signup.css">
 
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="sweetalert2.min.js"></script>
+<link rel="stylesheet" href="sweetalert2.min.css">
 
 </head>
 
 
 <body>
+
+
+<script src="javascript/alerts.js"></script>
+
+<?php include 'signupdata.php'  ?>
+
 
     <!-- holds the image and the logo  to pos them all at left side-->
     <div class="image-container"> 
@@ -34,13 +42,14 @@
     <!-- holds all form contents -->
     <section class="container">
 
+
         <!-- title of page-->
         <h1 class="log-in"> SIGN UP</h1>
 
         <br>
 
         <!-- contains all the fields  user need to fill out, and send the data in same page -->
-        <form class="form" action="signup.php" method="POST">
+        <form class="form" action="" method="POST">
 
             <!-- creating all fields -->
             <input type="text" name="firstName" placeholder="First Name" class="fl-name"> 

@@ -1,59 +1,57 @@
 <?php include 'includes/database.php' ?>
 
-
-
 <?php 
 
 if(isset($_POST['submit'])){
 
 
-    // getting the data based on the name
-    $firstName = $_POST['firstName'];
-    $lastName = $_POST['lastName'];
-    $email = $_POST['email'];
-    $password = $_POST['password'];
+        // getting the data based on the name
+        $firstName = $_POST['firstName'];
+        $lastName = $_POST['lastName'];
+        $email = trim($_POST['email']);
+        $password = $_POST['password'];
 
 
-    // cleans up data to avoid hackers doing harm to the site, no injection
-  $username =  mysqli_real_escape_string($connection, $firstName);
-  $lastName =  mysqli_real_escape_string($connection, $lastName);
-  $email =  mysqli_real_escape_string($connection, $email);
-  $password =  mysqli_real_escape_string($connection, $password);
+         // cleans up data to avoid hackers doing harm to the site, no injection
+        $username =  mysqli_real_escape_string($connection, $firstName);
+        $lastName =  mysqli_real_escape_string($connection, $lastName);
+        $email =  mysqli_real_escape_string($connection, $email);
+        $password =  mysqli_real_escape_string($connection, $password);
 
 
 
   
-    // query to find the the email
-    $query = "SELECT * FROM users";
-    $selectQuery = mysqli_query($connection, $query); //brings the result
+        // query to find the the email
+        $query = "SELECT * FROM users";
+        $selectQuery = mysqli_query($connection, $query); //brings the result
 
-      if (!$selectQuery){ die("Cant connect" . mysqli_error($connection));
-
-    }
+        if (!$selectQuery){ die("Cant connect" . mysqli_error($connection));}
 
 
-    //reading the table, or getting all usernames based on the result
+      //reading the table, or getting all usernames based on the result
 
-    while($rows = mysqli_fetch_array($selectQuery)){
+       while($rows = mysqli_fetch_array($selectQuery)){
  
-       $db_id  = $rows['id'];
-       $db_email = $rows['email'];
-       $db_firstName = $rows['firstName'];
-       $db_lastName = $rows['lastName'];
-       $db_password = $rows['password'];
-       $db_location = $rows['location'];
-       $db_number = $rows['number'];
+          $db_id  = $rows['id'];
+          $db_email = $rows['email'];
+          $db_firstName = $rows['firstName'];
+          $db_lastName = $rows['lastName'];
+          $db_password = $rows['password'];
+          $db_location = $rows['location'];
+          $db_number = $rows['number'];
 
 
-    }
+        }
+
+
 
     //if there are values entered in the form, add the the values to the database
     if ($firstName && $lastName && $email && $password){
       //but first checks if the email already exists in the database
-        if ($email === $db_email){
+        if ($db_email == $email){
 
           //display only this
-          echo '<script>alert("The email exists, please try another email.")</script>';
+          echo '<script type="text/javascript">','takenEmail();','</script>';
           
 
 
@@ -62,18 +60,11 @@ if(isset($_POST['submit'])){
           //if the email doesnst exist
           else{
 
-              // hashes the password and run it 10x, everytime it runs it creates diff result, used hash blowfish
-      
 
-              // $hashFormat = "$2y$10";
-              // $salt = "iusesomecrazystrings22";
+            if (strlen($password) >= 6){
 
-              // $hash_and_salt = $hashFormat . $salt;
-
-              // $password = crypt($password, $hash_and_salt);
-
-
-              // $hashed = password_hash($password, PASSWORD_DEFAULT);
+               //pass word encription with 12 characters
+               $password = password_hash($password, PASSWORD_BCRYPT, array('cost' => 12));
 
               // creating the query
               $query = "INSERT INTO users (firstName, lastName, email, password)";
@@ -90,15 +81,26 @@ if(isset($_POST['submit'])){
                    die('Query failed' . mysqli_error($connection));
                  }
 
-              //lead them to login page
-              header("Location: login.php");
+
+                header("Location: login.php");
+
+              }
+              
+              else{
+                echo '<script type="text/javascript">','shortChars();','</script>';
+             }
+        
+                
+            
+          
           }
 
     }
 
       //if any value isn't complete, display a text
       else{
-        echo '<script>alert("Form is not complete, please fill it out.")</script>';
+        // echo '<script>alert("Form is not complete, please fill it out.")</script>';
+        echo '<script type="text/javascript">','blankError();','</script>';
 
         
       }
