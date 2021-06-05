@@ -226,7 +226,7 @@
                     </div>
                     <p>Backwaters as a concept brings to you the taste of traditional Kerala cuisine treating your taste buds with mouthwatering flavors from God’s own country Kerala. This traditional restaurant and bar is the perfect place...</p>
                     <div class="cardButton">
-                            <a href=uaq-din1.php"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-din1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -277,7 +277,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPGg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -392,7 +392,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -402,7 +402,7 @@
                     </div>
                     <p>The Al Sinniyah Island among other islands lie east to the mainland of Umm al-Quwain. The length of the island is about eight kilometers, and its width extends up to four miles.  The island is full of natural reserves... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -410,7 +410,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA3.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -420,7 +420,7 @@
                     </div>
                     <p>Falaj Al Mualla may not be as popular as other cities in the United Arab Emirates, but don’t let that fool you. Falaj Al Mualla is a smaller but beautiful tourist destination that is worth a visit. You will be surprised by...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-sts1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -435,7 +435,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/rak_bg (2).jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Discover/Umm Al Quwain Museum/uaqdisE6.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -445,7 +445,7 @@
                     </div>
                     <p>UAQ Museum is the centre of history and heritage in the city. With a wide range of visitors from GCC expats to school field trips, this museum depicts the history of UAE in one beautiful fortress. The exhibits focus mainly..</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -453,7 +453,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images\ajm-pictures\Activities\Al Sinniyah Island\ajment2E.jpg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -463,7 +463,7 @@
                     </div>
                     <p>The Al Sinniyah Island among other islands lie east to the mainland of Umm al-Quwain. The length of the island is about eight kilometers, and its width extends up to four miles. The island is full of natural reserves...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-act2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -471,7 +471,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Discover/Abandoned IL-76/uaqdisA6.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -481,7 +481,7 @@
                     </div>
                     <p>Abandoned IL-76 is a Russian cargo plane that was left abandoned and rusting away since probably the 1970s at a non-functional airstrip in Umm al-Quwain. This soviet-era abandoned cargo plane... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -489,7 +489,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Discover/Al-Dur Archeological Site/uaqdisC1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -499,7 +499,7 @@
                     </div>
                     <p>Al-Dur Archaeological site is one of the most important archaeological sites in UAE and among the prime places to visit in Umm Al Quwain. Also known as Ed-Dur or Ed-Dour, Al Dur is the largest pre-Islamic site in the...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -507,7 +507,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -517,7 +517,7 @@
                     </div>
                     <p>Less than an hour from Dubai lie the Khor Al Beidah wetlands, it is an untouched haven for birds and birdwatchers alike. A patchwork of pristine beaches, emerald blue lagoons, hidden islands and dense mangroves, the wetlands are...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
