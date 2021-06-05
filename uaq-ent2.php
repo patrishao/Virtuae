@@ -33,9 +33,9 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA6.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB3.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
@@ -71,9 +71,9 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB6.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
@@ -125,7 +125,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA8.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -143,7 +143,7 @@
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" />
                 </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Attractions </h2>
@@ -161,7 +161,7 @@
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB8.JPG" />
                 </div>
                 <div class="contents-container">
                 <h2 class="contents-title"> Camping </h2>
@@ -176,10 +176,10 @@
 
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Sportss </h2>
+                <h2 class="contents-title"> Sports </h2>
                 <p class="contents-desc">
                 
                 Dreamland offers activities including basketball, tennis, and volleyball for you to enjoy.      
@@ -506,11 +506,10 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
    
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/fOOCvz9enut/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/e0HtGqa3Ysz/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
      <!-- google maps -->   
      
-     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14394.004757304607!2d55.6541983!3d25.588257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc65326d52de0ed30!2sBarracuda%20Beach%20Resort!5e0!3m2!1sen!2sae!4v1622863941116!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.523108637303!2d55.65724671495582!3d25.5875281837162!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fcd7b547266b%3A0x8afe5187d3b0c3b1!2sDreamland%20Aqua%20Park!5e0!3m2!1sen!2sae!4v1622865232200!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- -->
     
     <!-- COMMENTS -->
@@ -598,70 +597,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" class="fiximg" />
-            <p> Villas in Barracuda Beach Resort </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" class="fiximg" />
+            <p> Slides in Dreamland Aqua Park </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" class="fiximg" />
-            <p> Swimming pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB2.JPG" class="fiximg" />
+            <p> Drone shot of Dreamland Aqua Park </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" class="fiximg" />
-            <p> Drone shot of Barracuda Beach Resort </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB3.JPG" class="fiximg" />
+            <p> An attraction in Dreamland Aqua Park </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" class="fiximg" />
-            <p> The swimming pool at night </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB4.JPG" class="fiximg" />
+            <p> One of Dreamland Aqua Park's attractions </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" class="fiximg" />
-            <p> Villa in front of the swimming pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" class="fiximg" />
+            <p> Kiddie pool </p>
             </div>
         
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA6.JPG" class="fiximg" />
-            <p> Villas in Barracuda Beach Resort </p>
+           <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB6.JPG" class="fiximg" />
+            <p> One of Dreamland Aqua Park's attractions </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA7.JPG" class="fiximg" />
-            <p> Room </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB7.JPG" class="fiximg" />
+            <p> Pool </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA8.JPG" class="fiximg" />
-            <p> Beach </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB8.JPG" class="fiximg" />
+            <p> Drone shot of Dreamland Aqua Park </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" class="fiximg" />
-            <p> Villas in Barracuda Beach Resort </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" class="fiximg" />
+            <p> Slides in Dreamland Aqua Park </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" class="fiximg" />
-            <p> Swimming pool </p>
+            <p> Drone shot of Dreamland Aqua Park </p>
             </div>
 
         </div>
 
         <div class="row row3">
-        <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" class="fiximg" />
-            <p> Drone shot of Barracuda Beach Resort </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB3.JPG" class="fiximg" />
+            <p> An attraction in Dreamland Aqua Park </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" class="fiximg" />
-            <p> The swimming pool at night </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB4.JPG" class="fiximg" />
+            <p> One of Dreamland Aqua Park's attractions </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" class="fiximg" />
-            <p> Villa in front of the swimming pool </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB5.JPG" class="fiximg" />
+            <p> Kiddie pool </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA6.JPG" class="fiximg" />
-            <p> Villas in Barracuda Beach Resort </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB6.JPG" class="fiximg" />
+            <p> One of Dreamland Aqua Park's attractions </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA7.JPG" class="fiximg" />
-            <p> Room </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB7.JPG" class="fiximg" />
+            <p> Pool </p>
             </div>
 
         </div>
