@@ -526,7 +526,7 @@
             </div>
 
             <div class="img-media"><img src="images/dubai/dine/dxbdin3F.jpg"  class="fiximg" />
-            <p> Malecon Restaurant </p>
+            <p> Wokyo Restaurant </p>
             </div>
 
         </div>
@@ -541,7 +541,7 @@
             </div>
 
             <div class="img-media"><img src="images/dubai/dine/dxbdin3F.jpg"  class="fiximg" />
-            <p> Malecon Restaurant </p>
+            <p> Wokyo Restaurant </p>
             </div>
 
             <div class="img-media"><img src="images/dubai/dine/dxbdin3H.jpg"  class="fiximg" />
@@ -571,7 +571,7 @@
             </div>
 
             <div class="img-media"><img src="images/dubai/dine/dxbdin3F.jpg"  class="fiximg" />
-            <p> Malecon Restaurant </p>
+            <p> Wokyo Restaurant </p>
             </div>
 
         </div>
