@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home page</title>
+    <title>Home</title>
     <link rel="stylesheet" type="text/css" href="css/home.css">
     <link
     rel="stylesheet"
@@ -113,7 +113,7 @@
 
               <p>Abu Dhabi</p>
               <br>
-              <a href="#">EXPLORE</a> 
+              <a href="auh-dis1.php">EXPLORE</a> 
             </div>
         </div>   
         
@@ -143,7 +143,7 @@
 
               <p>Sharjah</p>
               <br>
-              <a href="#">EXPLORE</a> 
+              <a href="shj-ent1.php">EXPLORE</a> 
             </div>
         </div>
   
@@ -173,7 +173,7 @@
 
               <p>Fujairah</p>
               <br>
-              <a href="#">EXPLORE</a> 
+              <a href="fuj-dis3.php">EXPLORE</a> 
             </div>
         </div>
 
@@ -370,7 +370,7 @@
       </div>
 
       <div class="destinations">
-       <a href="#"> 
+       <a href="auh-dis6.php"> 
         <img src="images/abu dhabi/auhdis6B.jpg">
         <h1>Yas Viceroy</h1>
         <h2>Abu Dhabi</h2>
@@ -378,7 +378,7 @@
       </div>
 
       <div class="destinations">
-      <a href="#"> 
+      <a href="rak-act4.php"> 
         <img src="images/ras al khaimah/raksts1A.jpg">
         <h1>Jebel Jais</h1>
         <h2>Ras Al Khaimah</h2>
@@ -386,7 +386,7 @@
      </div>
 
       <div class="destinations">
-      <a href="#"> 
+      <a href="auh-dis5.php"> 
         <img src="images/abu dhabi/auhdis5E.jpg">
         <h1>Emirates Palace</h1>
         <h2>Abu Dhabi</h2>
@@ -394,7 +394,7 @@
      </div>
 
      <div class="destinations">
-     <a href="#"> 
+     <a href="auh-act2.php"> 
        <img src="images/abu dhabi/auhact2D.jpg">
        <h1>Zaya Nurai</h1>
        <h2>Abu Dhabi</h2>
@@ -686,7 +686,7 @@
 
 
 
-          <a class="restaurants" href="#">
+          <a class="restaurants" href="auh-din1.php">
               <div class="img-holder"> 
                 <img src="images/abu dhabi/auhdin1B.jpg">
               </div>
@@ -726,7 +726,7 @@
              </div>
            </a>
 
-          <a class="restaurants" href="#">
+          <a class="restaurants" href="fuj-din3.php">
 
               <div class="img-holder"> 
                 <img src="images/fujairah/bookstore.JPG">

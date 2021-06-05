@@ -156,7 +156,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>Warner Bros. World Abu Dhabi is an indoor amusement park in Abu Dhabi, United Arab Emirates, owned and developed by Miral Asset Management at an expected cost of $1 billion. The park features characters...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="auh-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                     </div>
                 </div>
@@ -167,7 +167,7 @@ if (isset($_SESSION['id'])){
             <div class="extra-wrapper">
             <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images\umm al quwain\Entertainment\Dreamland Aqua Park\uaqentB5.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -177,7 +177,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>Sitting on Umm Al Quwain’s scenic coastline, Dreamland Aqua Park is one of the oldest waterparks in the UAE. Spread over an area of 250,000 square metres, the water park was established in 1997. Since then...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                     </div>
                 </div>
@@ -198,7 +198,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>Dubai Opera is a definitive international destination for performing arts and world-class entertainment productions with its unique 2000-seat multi-format theatre. Dubai Opera passionately embraces... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-ent1.php"><button class="moreContent">READ MORE</button></a>
                         </div>
                     </div>
                 </div>
@@ -219,7 +219,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>Global Village combines cultures of 90 countries across the world at one place. It claims to be the world's largest tourism, leisure, shopping and entertainment project. It is the region's first cultural, entertainment, family and shopping destination.</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-act5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
                 </div>
@@ -240,7 +240,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>As one of the main family attractions in Sharjah, Al Noor Island is known for its tropical biosphere filled with floating butterflies. Families can pick up a snack and a beverage from a cafe serving healthy...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="shj-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
                 </div>
@@ -261,7 +261,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>Dubai Frame opened to the public in January 2018 and has quickly become one of the most popular attractions in Dubai and in the UAE. If you’re looking for a great way to spend your day in Dubai, visiting the Dubai Frame...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="dxb-sts2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -282,7 +282,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>Historically, wooden dhows played a vital role in fishing, pearling and trading across the region. Ajman’s Dhow Yard remains one of the world's largest dhow-building centres. You’ll find the...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="ajm-dis1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
