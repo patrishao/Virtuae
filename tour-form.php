@@ -234,7 +234,7 @@
                     </select>
                 </div>
                 <p class="inquire-label">Inquire Details</p>
-                <textarea class="inquire" id="inquire" name="inquire" rows="4" cols="50" placeholder=""></textarea>
+                <textarea class="inquire" id="inquire" name="inquire" rows="4" cols="50" placeholder="Write your inquiry"></textarea>
             </div>
                 <input class="save-changes" type="submit" value="Submit" name="submit">
                 <input class="delete-acc" type="button" value="Cancel" onclick="history.back()">
