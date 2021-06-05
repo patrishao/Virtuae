@@ -63,7 +63,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ad_bg.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -73,7 +73,7 @@
                     </div>
                     <p>The Umm Al Quwain Marine Club is one of the United Arab Emirates’ best- kept secrets. It sits on the sea in the quaint Emirate of Umm Al Quwain, from where it takes its name. It is a secret because Umm Al Quwain... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -91,7 +91,7 @@
                     </div>
                     <p>Sheikh Zayed Park is one of the best parks in Umm Al Quwain.  It was established on an area of 54000 m2, 42000 m2 of which is planted with palm, decorative plants and seasonal flowers that impart on the park...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -99,7 +99,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -109,7 +109,7 @@
                     </div>
                     <p>Sitting on Umm Al Quwain’s scenic coastline, Dreamland Aqua Park is one of the oldest waterparks in the UAE. Spread over an area of 250,000 square metres, the water park was established in 1997. Since then...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -117,7 +117,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -127,7 +127,7 @@
                     </div>
                     <p>Fans of the Ferrari World in Abu Dhabi would certainly enjoy Emirates Motorplex. Trying out the high-octane motorsports in the Emirates Motorplex is one of the most exciting things to do in Umm Al Quwain. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -135,7 +135,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -145,7 +145,7 @@
                     </div>
                     <p>Located just 60km from Dubai on the edge of the Umm Al Quwain lagoon, Barracuda Beach Resort is the perfect spot for a weekend away to relax and recharge whilst still having fun. Unfussy rooms feature flat-screen TVs...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/umm al quwain/Dine/Sikkat Beirut Restaurant and Cafe/uaqdinD1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -172,7 +172,7 @@
                     </div>
                     <p>Sikkat Beirut is a premium fine dining restaurant serving with the real taste of authenticity. There are diverse cuisines being served from delicious Lebanese to Italian and American street food. The Restaurant is one...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-din4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -180,7 +180,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Dine/Kite Beach Center Restaurant _ Cafe/uaqdinC4.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -190,7 +190,7 @@
                     </div>
                     <p>On this stunning stretch of white sandy beach, every day is Friday, and Kite Beach Center Restaurant & Cafe offers a memorable dining experience like no other. They give every seat a sea view so dine in...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-din3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -198,7 +198,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Dine/Das Brauhaus/uaqdinB1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -208,7 +208,7 @@
                     </div>
                     <p>Das Brauhas is a modern styled, authentic Bavarian restaurant located at the Pearl Beach hotel in Umm Al Quwain. They offer genuine German homemade cuisine, always fresh and based on family recipes. Experience your...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-din2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -216,7 +216,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Dine/Backwaters/uaqdinA1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -226,7 +226,7 @@
                     </div>
                     <p>Backwaters as a concept brings to you the taste of traditional Kerala cuisine treating your taste buds with mouthwatering flavors from God’s own country Kerala. This traditional restaurant and bar is the perfect place...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href=uaq-din1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -234,7 +234,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -244,7 +244,7 @@
                     </div>
                     <p>Located in Barracuda Beach Resort, the restaurant offers homemade Italian cuisine with American twist coupled with  stunning sea view. From piping hot, freshly baked pizzas made to order with your favorite toppings...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-din5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -259,7 +259,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/ajm_bg.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Dreamland Aqua Park/uaqentB1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -269,7 +269,7 @@
                     </div>
                     <p>Sitting on Umm Al Quwain’s scenic coastline, Dreamland Aqua Park is one of the oldest waterparks in the UAE. Spread over an area of 250,000 square metres, the water park was established in 1997. Since then...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent2.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -277,7 +277,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPGg" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -287,7 +287,7 @@
                     </div>
                     <p>Fans of the Ferrari World in Abu Dhabi would certainly enjoy Emirates Motorplex. Trying out the high-octane motorsports in the Emirates Motorplex is one of the most exciting things to do in Umm Al Quwain. </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -295,7 +295,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Activities/Al Labsa/uaqactA6.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -305,7 +305,7 @@
                     </div>
                     <p>Camels have been at the centre of life in the UAE for decades and the best place to see them is in Al Labsah. They’re known for their Camel Racing Track. The road to the Camel race track at Al Labsa affords...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-act1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -313,7 +313,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -323,7 +323,7 @@
                     </div>
                     <p>Located just 60km from Dubai on the edge of the Umm Al Quwain lagoon, Barracuda Beach Resort is the perfect spot for a weekend away to relax and recharge whilst still having fun. Unfussy rooms feature flat-screen TVs...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -331,7 +331,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -341,7 +341,7 @@
                     </div>
                     <p>The Umm Al Quwain Marine Club is one of the United Arab Emirates’ best- kept secrets. It sits on the sea in the quaint Emirate of Umm Al Quwain, from where it takes its name. It is a secret because Umm Al Quwain... </p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-ent5.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -356,7 +356,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/shj_bg.jpeg" alt="" srcset="">
+                <img src="images/umm al quwain/Discover/Khor Al Beidah/uaqdisD1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -366,7 +366,7 @@
                     </div>
                     <p>Less than an hour from Dubai lie the Khor Al Beidah wetlands, it is an untouched haven for birds and birdwatchers alike. A patchwork of pristine beaches, emerald blue lagoons, hidden islands and dense mangroves, the wetlands are...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis4.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
@@ -374,7 +374,7 @@
         <!--  -->
         <div class="card">
             <div class="imgCard">
-                <img src="images/emirates/fuj_bg.jpg" alt="" srcset="">
+                <img src="images/umm al quwain/Discover/Al-Dur Archeological Site/uaqdisC1.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -384,7 +384,7 @@
                     </div>
                     <p>Al-Dur Archaeological site is one of the most important archaeological sites in UAE and among the prime places to visit in Umm Al Quwain. Also known as Ed-Dur or Ed-Dour, Al Dur is the largest pre-Islamic site in the...</p>
                     <div class="cardButton">
-                            <a href="#"><button class="moreContent">READ MORE</button></a>
+                            <a href="uaq-dis3.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
             </div>
