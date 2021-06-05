@@ -90,6 +90,15 @@
                 <br><br>
 
                 Standing tall at 150 m, Dubai Frame provides a bird’s eye view of the city's famous and spectacular skyline, you can experience the views of Old and New Dubai and see how the city has transformed to a one of a kind metropolitan. Visit the Dubai Frame and enjoy the iconic masterpiece.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The project was conceived by Fernando Donis, and selected as the winner of a design competition by the Government of Dubai. It is alleged that the designer had his intellectual property stolen and was denied credit for the design. It holds the record for the largest frame in the world.
+                </p>
             </div>
             
          </div>

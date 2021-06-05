@@ -86,7 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Rising to the third floor of The Dubai Mall, the aquarium is home to 140 species of sea life and offers many incredible ways to experience the underwater world. Stroll through a 48-metre tunnel, with the aquarium enveloping you from overhead and around. It’s a complete fish-eye view, with sand tiger sharks and stingrays swimming overhead.
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Construction. The Mall was built by a joint venture of Dutco Balfour Beatty, Al Ghandi/CCC and Turner Construction for Emaar Properties and was scheduled to be completed in 2006, claiming to be the size of 50 "international-sized football (soccer) pitches". The mall opened in 2008.
+                </p>
             </div>
             
          </div>

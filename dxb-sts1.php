@@ -86,6 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> Soaring 828m into the sky, the Burj Khalifa is the tallest building in the world and one of the greatest engineering feats of all time. Completed in 2010, the mighty tower represents the beating heart of Dubai and its brave ambitions.
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The building was opened in 2010 as part of a new development called Downtown Dubai. ... The building was originally named Burj Dubai but was renamed in honour of the ruler of Abu Dhabi and president of the United Arab Emirates, Khalifa bin Zayed Al Nahyan; Abu Dhabi and the UAE government lent Dubai money to pay its debts.
+                </p>
             </div>
             
          </div>

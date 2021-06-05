@@ -90,6 +90,15 @@
                 <br><br>
 
                 A visit to Al Fahidi Historical Neighbourhood is a great opportunity to get acquainted with the old way of life, which was prevalent in Dubai, with its rich values that can be seen in the design of the buildings and the way they are distributed. 
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Al Fahidi, formerly known as Bastikiya, is one of the city's oldest heritage sites (and a proposed Unesco World Heritage Site). In the 1800s, it was a trading hub for textile and pearl merchants, in the shadow of Al Fahidi Fort, now home to the Dubai Museum.
+                </p>
             </div>
             
          </div>

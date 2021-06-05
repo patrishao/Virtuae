@@ -86,7 +86,15 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Each season, as the weather begins to cool at the onset of winter, the gates reopen at Dubai Miracle Garden. With more than 150 million flowers in full bloom, this 72,000-sq-m paradise has flowered into one of the region’s most picturesque, sweet-scented destinations since it first opened nearly nine years ago – fittingly, on Valentine’s Day.
+                <br>
+                <br>
 
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The concept of the first miracle garden project was formed under an agreement between Dubailand and the Dubai Properties Group destination. The Dubai Miracle Garden is certainly aptly named considering that -- like pretty much everything in this Middle Eastern destination -- it was built on desert land. Billing itself as the world's largest natural flower garden, the 72,000-square-meter attraction has more than 60 million flowers on display.
+                </p>
 
             </div>
             
