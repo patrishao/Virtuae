@@ -85,14 +85,26 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Morimoto is the first restaurant in the region from Iron Chef star Masaharu Morimoto. Staying true to its namesake’s signature style, Morimoto offers a unique take on Japanese menu staples. Taste the East-meets-West style that Morimoto perfected during his tenure at Nobu with the Asian-fusion skills showcased as the Silver Iron Chef.
-                    <br>
-                    <br>
+                <br>
+                <br>
 
-                    Seating 250 diners across the 23rd and 24th floors of the Renaissance Downtown hotel, the restaurant includes a lounge area, sushi counter, three private dining rooms and four outdoor terraces. A live teppanyaki cooking station is the venue’s bold centerpiece, where guests can watch their udon noodles being tossed over the searing hotplate.
-                    <br>
-                    <br>
+                Seating 250 diners across the 23rd and 24th floors of the Renaissance Downtown hotel, the restaurant includes a lounge area, sushi counter, three private dining rooms and four outdoor terraces. A live teppanyaki cooking station is the venue’s bold centerpiece, where guests can watch their udon noodles being tossed over the searing hotplate.
+                <br>
+                <br>
+
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+                Chef Masaharu Morimoto should require little introduction. Familiar to many at the Iron Chef, Morimoto has opened his latest venture on the 23rd and 24th floors of the Renaissance Downtown Hotel. Having honed his sushi skills in his hometown of Hiroshima before opening his first restaurant in Japan. Morimoto turned to America to expand his culinary repertoire and in the process, developed a fusion concept that combines the best of both cultures.  In 1994 he joined Nobu, before transcending into celebrity status via his role on television show Iron Chef. This newfound recognition and penchant for cutting-edge cuisine led to the opening of the first Morimoto restaurant in Philadelphia in 2001.
+
+                <br>
+                <br>
+                Almost two decades later and the Morimoto brand has expanded across the globe with restaurants situated in the likes of New York, Mexico City, Bangkok, Maui, Doha and now Dubai. Finally opening in March of this year with an unprecedented anticipation.
               
-                    </p>
+                </p>
             </div>
             
          </div>

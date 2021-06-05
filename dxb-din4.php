@@ -85,7 +85,16 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Pitfire may describe its pizzas as ‘not quite Neapolitan, not quite New York’, but all you really need to know is that these slices are simply not to be missed. Lovingly devised by founders Michele and Bill Johnson, beautifully blistered crusts surround thin, crispy pies topped with an eclectic arsenal of produce, from chopped dates and gorgonzola to roast chicken and pineapple. Its artisan dough making process takes 72 hours. You’ll be thinking about that last bite even longer.
-                    </p>
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Pitfire Pizza (now at JLT): Owners Bill and Michelle Johnson developed the Pitfire concept over a four-year period and in late 2013, signed a franchise agreement with the current owners of P Fire Pizza (and erstwhile II Taglio restaurant) to set up the Pitfire Pizza Café in The Greens.
+                
+                </p>
             </div>
             
          </div>

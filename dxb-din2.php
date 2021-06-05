@@ -85,14 +85,20 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Malecon is the place to be for the full-on Latin experience, a zesty blend of Latin American cuisines and a carefully selected fusion of international styles. Live Latino entertainment further serves to highlight the energetic mood and vibrant character of this unique outlet.
-                    <br>
-                    <br>
+                <br>
+                <br>
 
-                    Malecon offers excitement throughout the week, with a number of theme nights designed to take your entertainment experience to a whole new level. Dance the night away at Dubai’s leading Cuban outlet!
-                    <br>
-                    <br>
-              
-                    </p>
+                Malecon offers excitement throughout the week, with a number of theme nights designed to take your entertainment experience to a whole new level. Dance the night away at Dubai’s leading Cuban outlet!
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                It was built in 1901 during temporary US military rule in an attempt to protect the city from the rough sea waters and potential enemy attacks. Over time it became less of a strategic defense and more of a favorite spot for swooning lovers taking nighttime walks along its promenade.
+
+                </p>
             </div>
             
          </div>

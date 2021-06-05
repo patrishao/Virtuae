@@ -85,14 +85,21 @@
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description">Wokyo is a casual noodle bar with the mission to explore the great noodle tradition of the Far East. Creating noodle dishes with the perfect flavor, texture, aroma and slurp factor is a craft that we honor every day.
-                    <br>
-                    <br>
+                <br>
+                <br>
 
-                    You choose your own adventure, point and create dishes to suit your mood. Wok tossed stir fries, noodle soups, ramen, sides, soft serve ice cream and home brewed iced teas.
-                    <br>
-                    <br>
-              
-                    </p>
+                You choose your own adventure, point and create dishes to suit your mood. Wok tossed stir fries, noodle soups, ramen, sides, soft serve ice cream and home brewed iced teas.
+
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                Wokyo Noodle Bar was established in Dubai 2012 and our love for noodles and the cosmopolitan vibrant Asian cities vibes has sparked our passion to establish our restaurant,” he said. He added that the restaurant's atmosphere was inspired by “Japan's casual and friendly Tokyo ramen alley restaurants.
+
+                </p>
             </div>
             
          </div>
