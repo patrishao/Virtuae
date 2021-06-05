@@ -63,15 +63,17 @@ if(isset($_POST['submit'])){
           else{
 
               // hashes the password and run it 10x, everytime it runs it creates diff result, used hash blowfish
-          //  $hash = "$2y$10$";
-          //  // use 22 strings
-          //  $salt = "iusesomecrazystrings22";
+      
 
-          //  $hash_and_salt = $hash . $salt;
+              // $hashFormat = "$2y$10";
+              // $salt = "iusesomecrazystrings22";
 
-          //  // encripting password
-          //  $password = crypt($password, $hash_and_salt);
+              // $hash_and_salt = $hashFormat . $salt;
 
+              // $password = crypt($password, $hash_and_salt);
+
+
+              // $hashed = password_hash($password, PASSWORD_DEFAULT);
 
               // creating the query
               $query = "INSERT INTO users (firstName, lastName, email, password)";
