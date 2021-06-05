@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Thunder Road Pizza & Grill, Barracuda</title>
+    <title>Barracuda Beach Resort</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -12,6 +12,7 @@
 
 </head>
 <body>
+
 <div id="navbar"> 
             <?php 
 
@@ -22,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-din5"; 
+            $pageName = "uaq-ent1"; 
 
             ?>
     </div>
@@ -32,15 +33,15 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE3.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE6.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA6.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">Thunder Road Pizza & Grill, Barracuda</h1> <!-- title -->
+                <h1 class="title1"> Barracuda Beach Resort </h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
-                <a href="tour-form.php"><button class="line1"> TOUR </button></a> <!-- do not replace this da botan -->
+                <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
     </div>
     </div>
@@ -70,64 +71,137 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE2.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" class="smallimg"/></div>
             </div>
-            <divm class="info-container">
+            <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Dine/Thunder Road Pizza _ Grill, Barracuda.docx"> 
+                    <a href="download/Umm Al Quwain/Entertainment/Barracuda Beach Resort.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Located in Barracuda Beach Resort, the restaurant offers homemade Italian cuisine with American twist 
-                coupled with  stunning sea view. From piping hot, freshly baked pizzas made to order with your favorite toppings, to calzones, 
-                salads and burgers, juicy steaks the Thunder Road Barracuda is certain to hit the spot just when you need it. Dine-in or Take-Out.
+                <p class="info-description"> Located just 60km from Dubai on the edge of the Umm Al Quwain lagoon, Barracuda 
+                Beach Resort is the perfect spot for a weekend away to relax and recharge whilst still having fun. 
+
                     <br>
                     <br>
                     
-                    They offer bars, pool table, indoor and outdoor seating and play ground this restaurant is best for large fun parties!
-                   
-                    <h2 class="info-title"> History </h2>
-                    <h2 class="info-title1"> History </h2> <!-- history -->
-                    <p class="info-description1"> 
+                    Unfussy rooms feature flat-screen TVs, minifridges and en suite, shower-only bathrooms, plus balconies
+                    with pool views. Upgraded 1- and 2-bedroom suites add living areas with sofabeds and dining tables; 
+                    waterfront villas offer extra bathrooms, patios and BBQ grills.
+
+                    <br>
+                    <br>
+
+                    Dining options consist of a casual restaurant, and a hip Italian eatery with terrace seating. There’s 
+                    also a beachfront infinity pool, a hot tub and event space, as well as a game room with billiards and 
+                    table tennis.
+
+                    <br>
+                    <br>
+
                     
-                    In 1955 the heritage of our company began in the heart of Chianti, Tuscany, located few miles away from Florence. Passionate by 
-                    cooking, Guiseppe Tatulli opened a small family restaurant in their villa. Every family member was involved in the cooking tradition. 
-                    The wheat to make homemade pasta and fresh crusty breads, fruits, vegetables as well as olives and olive oil were harvested from the 
-                    family's own land. Hand crafted cold cuts, wonderful Italian cheese, produced by the Tatulli family who made just a form a day 
-                    from the milk of their small herds, always adorned the table.
-
-                    <br>
-                    <br>
-
-                    The elder son of Guiseppe Tatulli, Lorenzo inherited the passion for restoration and committed to develop his family’s commerce widely. 
-                    He extended the business to Milano, where he was living, in 1975. The concept of bonding the restaurant with gourmet shops was welcomed 
-                    warmly by Milanese consumers. Then Lorenzo decided to open another restaurant & gourmet shop in Pavia, Lombardy. 
-
-                    <br>
-                    <br>
-
-                    In 1983 the son of Lorenzo Tatulli, Alessandro, the rebel biker in soul, took an epic trip to USA and ride the America’s oldest route 66 - 
-                    Mother Road. The journey down the highway has left in him deep feelings about American people, their lifestyle and their food. Upon his 
-                    return to Italy Alessandro decides to give an American twist to his restaurants’ menu with an assortment of steaks. 
-                    
-                    <br>
-                    <br>
-
-                    In 2015 Alessandro together with Francesco Romano, reputable Italian fine dining chef, brought his family business to the United Arab Emirates.
-
-                    </p>
             </div>
             
          </div>
         </div>
         </div>
+
+
+
+        <!-- WHAT TO DO -->
+        <div class="wtd-container" id="wtd-container">
+        <div class="blackbg">
+        <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA8.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        </div>
+        <div class="scroller-area">
+
+            
+            <div class="contents-box">
+                <div class="contents-container1">
+                <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
+                <p class="contents-desc1">
+                
+                Barracuda Beach Resort provides  everything you need for an unforgettable stay, 
+                including contemporary villas and suites, multicuisine restaurants and facilities every family member will 
+                enjoy, regardless of age.   
+                
+                </p>
+                 </div>
+            </div> 
+            
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Check-in </h2>
+                <p class="contents-desc">
+
+                <br><br>
+
+                Stay in one of their Superior Waterfront Villas which or unwind on the private balcony facing the majestic infinity 
+                pool in one of our King, Two, One or Studio suites. 
+                
+                </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+            
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Dine </h2>
+                <p class="contents-desc"> 
+                
+                Relish the sumptuous Biryanis and succulent kebabs in its Indian restaurant , Biryani Junction or pull up a chair and join 
+                the table at Thunder Road Pizza and Grill Italian Restaurant.
+                
+                </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+            
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Banquets & Events </h2>
+                <p class="contents-desc">
+                
+                The Resort’s location makes the perfect venue for private meetings and events. They have many gathering spaces both indoor 
+                and outdoor that can be adapted to suit any need.
+                
+                </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Sports & Leisure </h2>
+                <p class="contents-desc">
+                
+                Barracuda Beach Resorts offer a wide range of activities  and facilities to suit the whole family. Whether it be relaxing 
+                by our majestic infinity pool, having a BBQ on the beach or playing a game of volleyball.
+                
+                </p> <!-- put the actual activities here -->
+                 </div>
+            </div> 
+
+            </div>
+        </div>
+        <!-- -->
 
         <!-- TIMINGS -->
 
@@ -415,7 +489,7 @@
                     <div class="e-date">
                         <div class="e-month"> DEC </div> <!-- month -->
                         <div class="e-number"> 15 </div> <!-- date -->
-                    </div>+-
+                    </div>
                     <div class="name-event"> <p class="en-adjusting">Dubai Shopping Festival</p></div> <!-- name of the event -->
                 </div>
 
@@ -442,17 +516,17 @@
 
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
+   
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/fOOCvz9enut/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-        <!-- virtual tour -->
-        <iframe width="100%" height="1000px" src="https://poly.google.com/view/aD767ET0NpB/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
-
-        <!-- google maps -->   
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.5203116741172!2d55.650024914955964!3d25.58762118371611!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fd20ac4e4eff%3A0x5636c7b0b744a2f3!2sThunder%20Road%20Barracuda!5e0!3m2!1sen!2sae!4v1622815472298!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+     <!-- google maps -->   
+     
+     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14394.004757304607!2d55.6541983!3d25.588257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc65326d52de0ed30!2sBarracuda%20Beach%20Resort!5e0!3m2!1sen!2sae!4v1622863941116!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <!-- -->
     
-        <!-- COMMENTS -->
+    <!-- COMMENTS -->
 
-        <h2 class="review-title">REVIEWS</h2>
+    <h2 class="review-title">REVIEWS</h2>
 
 <script src="javascript/alerts.js"> </script>
 
@@ -535,69 +609,70 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" class="fiximg" />
+            <p> Villas in Barracuda Beach Resort </p>
+            </div>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" class="fiximg" />
+            <p> Swimming pool </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE2.JPG"  class="fiximg" />
-            <p> Entrance of Thunder Road Pizza & Grill with a car in front of it </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" class="fiximg" />
+            <p> Drone shot of Barracuda Beach Resort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE3.JPG"  class="fiximg" />
-            <p> People eating inside Thunder Road Pizza & Grill, Barracuda </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" class="fiximg" />
+            <p> The swimming pool at night </p>
             </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE4.JPG"  class="fiximg" />
-            <p> Entrance of Thunder Road Pizza & Grill </p>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" class="fiximg" />
+            <p> Villa in front of the swimming pool </p>
             </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE5.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
-            </div>
-
+        
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE6.JPG"  class="fiximg" />
-            <p> Outdoor seating of the restaurant </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA6.JPG" class="fiximg" />
+            <p> Villas in Barracuda Beach Resort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE7.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA7.JPG" class="fiximg" />
+            <p> Room </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA8.JPG" class="fiximg" />
+            <p> Beach </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE2.JPG"  class="fiximg" />
-            <p> Entrance of Thunder Road Pizza & Grill with a car in front of it </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA1.JPG" class="fiximg" />
+            <p> Villas in Barracuda Beach Resort </p>
             </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE3.JPG"  class="fiximg" />
-            <p> People eating inside Thunder Road Pizza & Grill, Barracuda </p>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA2.JPG" class="fiximg" />
+            <p> Swimming pool </p>
             </div>
 
         </div>
+
         <div class="row row3">
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE4.JPG"  class="fiximg" />
-            <p> Entrance of Thunder Road Pizza & Grill </p>
+        <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA3.JPG" class="fiximg" />
+            <p> Drone shot of Barracuda Beach Resort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE5.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA4.JPG" class="fiximg" />
+            <p> The swimming pool at night </p>
+            </div>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA5.JPG" class="fiximg" />
+            <p> Villa in front of the swimming pool </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE6.JPG"  class="fiximg" />
-            <p> Outdoor seating of the restaurant </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA6.JPG" class="fiximg" />
+            <p> Villas in Barracuda Beach Resort </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE7.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
-            </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Dine/Thunder Road Pizza _ Grill, Barracuda/uaqdinE1.JPG"  class="fiximg" />
-            <p> Interior design of Thunder Road Pizza & Grill </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Barracuda Beach Resort/uaqentA7.JPG" class="fiximg" />
+            <p> Room </p>
             </div>
 
         </div>
@@ -620,37 +695,38 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PMM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html( ' 11:00 AM - 11:00 PM ' ); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 11:00 AM - 11:00 PM '); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 11:00 AM - 11:00 PM '); //so put the timings here
+            $('#t-time').html(' 8:00 AM to 11:00 PM '); //so put the timings here
+   
         }
 
         //reply function
