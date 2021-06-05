@@ -88,14 +88,21 @@
                 <p class="info-description"> The Dubai Mall, the most-visited retail and entertainment destination, which welcomes more than 80 million visitors annually. The Dubai Mall has over 1,300 retail outlets, including two anchor department stores – Galeries Lafayette and Bloomingdale’s – and over 200 food and beverage outlets.
 
                     
-                    <br>
-                    <br>
+                <br>
+                <br>
 
-                    The Dubai Mall features the world-class Dubai Aquarium & Underwater Zoo featuring thousands of aquatic animals and a 270-degree walk-through tunnel; and first-of-its-kind attraction for the Middle East, VR Park, a unique virtual reality attraction. Other family components include KidZania®, an innovative children’s ‘edutainment’ concept; the Reel Cinemas megaplex; and the Olympic-sized Dubai Ice Rink. For visitors, there are the adjoining 5-star premium hotels, Address Dubai Mall and Address Boulevard and direct access to the Dubai Metro via Link Bridge.
+                The Dubai Mall features the world-class Dubai Aquarium & Underwater Zoo featuring thousands of aquatic animals and a 270-degree walk-through tunnel; and first-of-its-kind attraction for the Middle East, VR Park, a unique virtual reality attraction. Other family components include KidZania®, an innovative children’s ‘edutainment’ concept; the Reel Cinemas megaplex; and the Olympic-sized Dubai Ice Rink. For visitors, there are the adjoining 5-star premium hotels, Address Dubai Mall and Address Boulevard and direct access to the Dubai Metro via Link Bridge.
 
-              
-                    <br>
-                    <br>
+                <br>
+                <br>
+
+                <h2 class="info-title"> History </h2>
+                <h2 class="info-title1"> History </h2> <!-- history -->
+                <p class="info-description1"> 
+
+                The mall was a joint partnership of Dutco Balfour Beatty, Turner construction and Al Gandhi. Initially, the building was to be completed by 2006, but it took more time. The workers working on the building were mainly from Bangladeshi, Pakistani, India and not forgetting the Sri Lankan Guest workers. By 8th November 2008, the mall was opened with over 1000 retailers. In General, the mall covers over 13 million square feet, featuring an Olympic sized Dubai Ice Rink which is used for recreational skating and for watching Emirates Ice Hockey league games. 
+
+                </p>
 
             </div>
             
