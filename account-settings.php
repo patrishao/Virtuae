@@ -1,7 +1,5 @@
 <?php // including the connection and getting the data of user
 
-session_start();
-
 include 'includes/database.php';
 include 'includes/fetchdata.php';
 
@@ -83,8 +81,8 @@ else if (isset($_POST['delete'])){
 <body>
 
     <div class="navbg"> 
-    <?php include 'includes/headers-edit.php'; ?> 
-
+    <?php include 'includes/headers.php'; ?> 
+    <img src = "images/logo_thickb.png" id="virtuae" style="width: 60px; height: 60px;">
     </div>
 
     <div class="container">

@@ -180,4 +180,7 @@ a{
 		top: 55%;
 		font-size: 30px;
     }
+	.text{
+		width: 180px;
+	}
 }

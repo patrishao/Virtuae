@@ -122,7 +122,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE6.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -132,31 +132,108 @@
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1">
                 
-                Discover the Arabs’ traditional way of living in this small inland oasis town. 
+                UAQ Marine Club offers countless activities for you.  It lets thrill-seekers try speed boating, jet skiing, windsurfing, horse riding and more.                  
                 
-                </div> 
+                </div>
+            </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Sights to see/Falaj Al Mualla/uaqstsA4.JPG" />
+                    <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE2.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Explore </h2>
+                <h2 class="contents-title"> Adventures </h2>
+                <p class="contents-desc">
+
+                You can do wall climbing, Jacobs ladder, leap of faith, zip lining, cargo net, create stacking, maze, low ropes, archery, kayaking, canoeing, 
+                raft building, houseboat, survival skills, team building, swimming, fishing and orienteering
+                </p> <!-- put the actual activities here -->
+               </div>
+
+            </div> 
+            
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE3.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Camping </h2>
+                <p class="contents-desc"> 
+                
+                Our camping area is not far from the beach and if you pitch your tent correctly the view as you peer out of your tent in the morning is truly breathtaking. 
+                Spotted inside the camping area are small cabanas with picnic benches for you to set up your evening meals or for a table where the children can colour 
+                and play out of the rays of the midday sun.
+                </p> <!-- put the actual activities here -->
+                </div>
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE1.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Houseboat Tours </h2>
                 <p class="contents-desc">
 
                 <br><br>
 
-                This town offers a museum that you can visit and find out the history of the town.
-
+                The Marine Club takes pride in offering its guests an exclusive and private party on a houseboat, cruising the waters around the mangrove islands.
 
                 </p> <!-- put the actual activities here -->
                </div>
 
-            </div>           
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE5.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> High Ropes </h2>
+                <p class="contents-desc">
+
+                <br><br>
+
+                Come and try scaling our climbing wall which is one of the highest in the UAE and suitable for most ages; or flying like a bird down our zip line; 
+                or maybe you want to push yourself and launch yourself from our leap of faith tower.
+                </p> <!-- put the actual activities here -->
+               </div>
+
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE7.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Fishing </h2>
+                <p class="contents-desc">
+
+                With UAQ having a coastline of 24km, experience the deep sea fishing, we offer a wide of types of fishing and a large school of fish to choose from. 
+                </p> <!-- put the actual activities here -->
+               </div>
+
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/UAQ Marine Club/uaqentE6.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Water Sports </h2>
+                <p class="contents-desc">
+
+                <br><br>
+
+                Engage yourself with water sports such as water skiing and wake boarding, kayaking and canoeing, knee boarding, stand-up padding, banana boat or 
+                doughnut rides, and windsurfing.
+                </p> <!-- put the actual activities here -->
+               </div>
+
+            </div> 
             
         </div>
         </div>
-        <!-- -->
 
         <!-- TIMINGS -->
 
