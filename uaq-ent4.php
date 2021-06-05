@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title>Emirates Motorplex</title>
+    <title>Sheikh Zayed Park</title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -23,7 +23,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "uaq-ent3"; 
+            $pageName = "uaq-ent4"; 
 
             ?>
     </div>
@@ -33,13 +33,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC1.JPG" class="picture" /></div>
-                        <div><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC2.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD3.JPG" class="picture" /></div>
+                        <div><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD2.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1"> Emirates Motorplex </h1> <!-- title -->
+                <h1 class="title1"> Sheikh Zayed Park </h1> <!-- title -->
                 <p class="location-title"> Umm Al Quwain </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -71,51 +71,46 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC3.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC4.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD4.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD5.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Umm Al Quwain/Entertainment/Emirates Motorplex.docx"> 
+                    <a href="download/Umm Al Quwain/Entertainment/Shiekh Zayed Park.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
-                <p class="info-description"> Fans of the Ferrari World in Abu Dhabi would certainly enjoy Emirates Motorplex. Trying out the 
-                high-octane motorsports in the Emirates Motorplex is one of the most exciting things to do in Umm Al Quwain. 
+                <p class="info-description"> Shiekh Zayed Park is one of the best parks in Umm Al Quwain.  It was established on an area of 54000 m2, 
+                42000 m2 of which is planted with palm, decorative plants and seasonal flowers that impart on the park a beautiful view. The park 
+                offers fun and exciting activities to indulge in. Inside the park, there’s a football, basket, volleyball and handball fields as 
+                well as some areas for barbeques and recreation.        
+                
                     <br>
                     <br>
                     
-                    Emirates Motorplex is one of the earliest clubs that took interest in car sports in the Gulf in general and in the UAE 
-                    in particular. It helped direct the youth from random street races to organized and systematized style. 
+                    The park is welcomes anyone from all ages and has family-friendly location with pockets of greenery offering affordable recreational 
+                    activities. Families can come together and spend quality time in this naturally soothing environment.                    
+                    
                     <br>
                     <br>
 
-                    Emirates Motorplex provides various services and a multitude of facilities. The all-year-round races are of great excitement 
-                    to the public and also give great advantages to the members which are very well being enjoyed. All of these are achieved by 
-                    setting a good plan that aims to support the races and their fans. 
-                    <br>
-                    <br>
 
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                    <p class="info-description1"> 
 
-                   Emirates Motorplex was established in 1999 in Umm Alquwain, UAE. This club has been achieving success after becoming famous 
-                   and popular in the local and regional level.
-                
+                   The park is named after one of the founding fathers of United Arab Emirates, H.H Sheikh Zayed Bin Sultan Al Nahyan. He served as President 
+                   of the United Arab Emirates since the formation of the Federation on 2 December 1971 and as Ruler of the Emirate of Abu Dhabi since 1966. 
+                   His tenure lasted over 30 years and he played a vital role in shaping up the modern marvel that the UAE is today.            
                     <br>
                     <br>
-
-                    Previously known as “Emirates Car and Motorcycle Racing Club”, Emirates Motorplex has been rapidly developing and expanding. 
-                    Its great activities, worldwide relations and high reputation lead the administration committee to signing agreements with 
-                    the most well-known establishments in the world.
-   
+                    
                     </p>              
                     
             </div>
@@ -129,7 +124,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -139,22 +134,21 @@
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1">
                 
-                Emirates Motorplex organizes drag races, car shows and other car-related activities.                
-                </p>
+                Stroll down the park and join the countless activities this park can offer.                </p>
                  </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC6.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD2.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Racing </h2>
+                <h2 class="contents-title"> Rides </h2>
                 <p class="contents-desc">
 
-                Emirates Motorplex offers all sorts of racing activities including motorcross, 
-                classic cars, open days, drag racing, and sand drag.   
 
+                Let the little ones experience the carousel, which is the most popular fairground ride at the park. Aside from the Carousel, there’s also a Roller Coaster, 
+                Ferris Wheel, Bumper car and a lot more that you would not want to miss. 
                 </p> <!-- put the actual activities here -->
                </div>
 
@@ -162,19 +156,51 @@
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" />
+                    <img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Watch Racings </h2>
+                <h2 class="contents-title"> Auditorium </h2>
                 <p class="contents-desc"> 
-
-                <br><br>
                 
-                If in any way you don’t feel like joining the activities, Emirates Motorplex is open to 
-                anyone who’d want to watch the competitions.
+                The park also has a large auditorium where different events and exhibitions take place. Umm Al Quwain Shopping Centre has also been conducted there.
 
                 </p> <!-- put the actual activities here -->
                 </div>
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD4.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Sports Hall </h2>
+                <p class="contents-desc">
+
+                <br><br>
+
+                There is a large sports area at Sheikh Zayed Bin Sultan Al Nahyan Park where your little ones can play lots of games. From basketball to badminton,
+                there are quite a few options. 
+
+                </p> <!-- put the actual activities here -->
+               </div>
+
+            </div> 
+
+            <div class="contents-box">
+                <div class="contents-img">
+                    <img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD5.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Cafeteria </h2>
+                <p class="contents-desc">
+
+
+                Once you have enjoyed your favorite rides and attractions, head on over to the cafeteria. Grab a bite while strolling the park or simply enjoying 
+                the fresh air.    
+                
+                </p> <!-- put the actual activities here -->
+               </div>
+
             </div> 
             
         </div>
@@ -495,14 +521,13 @@
     <!-- VIRTUAL TOUR -->
     <h2 class="vt-title">TOUR & LOCATION</h2>
    
-    <iframe width="100%" height="1000px" src="https://poly.google.com/view/eda4b767rrO/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>   <!-- google maps -->   
-     
+        <br> <br>     <br> <br>
+        <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+        <br> <br>     <br> <br>
+             
       <!-- google tour -->
     
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3598.9251741560315!2d55.65907231495561!3d25.57415608372231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5fcc6a3aaf1b1%3A0x54d68d93b50c64c6!2sEmirates%20Motorplex!5e0!3m2!1sen!2sae!4v1622866965380!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>    <!-- -->
-    
-    <!-- COMMENTS -->
-
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14400.44124395716!2d55.5542568!3d25.5347022!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf024c74f5e9e9dd4!2sSheikh%20Zayed%20Bin%20Sultan%20Al%20Nahyan%20Park!5e0!3m2!1sen!2sae!4v1622867471583!5m2!1sen!2sae" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     <h2 class="review-title">REVIEWS</h2>
 
 <script src="javascript/alerts.js"> </script>
@@ -586,70 +611,69 @@
         <div class="showcase">
 
         <div class="row row1">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC6.JPG" class="fiximg" />
-            <p> UTV car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" class="fiximg" />
+            <p> Fountain </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" class="fiximg" />
-            <p> Sports car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD2.JPG" class="fiximg" />
+            <p> Play ground </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" class="fiximg" />
-            <p> Sports car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD3.JPG" class="fiximg" />
+            <p> Entrance </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC4.JPG" class="fiximg" />
-            <p> A four wheel drive car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD4.JPG" class="fiximg" />
+            <p> Seating area </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC5.JPG" class="fiximg" />
-            <p> Motorcycle racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD5.JPG" class="fiximg" />
+            <p> Cafeteria </p>
             </div>
         
         </div>
 
         <div class="row row2">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC1.JPG" class="fiximg" />
-            <p> UTV car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" class="fiximg" />
+            <p> Fountain </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC2.JPG" class="fiximg" />
-            <p> Car racing </p>
-            </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC3.JPG" class="fiximg" />
-            <p> A four wheel drive car </p>
-            </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC4.JPG" class="fiximg" />
-            <p> A four wheel drive car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD2.JPG" class="fiximg" />
+            <p> Play ground </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC5.JPG" class="fiximg" />
-            <p> Motorcycle racing </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD3.JPG" class="fiximg" />
+            <p> Entrance </p>
             </div>
 
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD4.JPG" class="fiximg" />
+            <p> Seating area </p>
+            </div>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD5.JPG" class="fiximg" />
+            <p> Cafeteria </p>
+            </div>
         </div>
 
         <div class="row row3">
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC6.JPG" class="fiximg" />
-            <p> UTV car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD1.JPG" class="fiximg" />
+            <p> Fountain </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC7.JPG" class="fiximg" />
-            <p> Sports car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD2.JPG" class="fiximg" />
+            <p> Play ground </p>
             </div>
             
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC8.JPG" class="fiximg" />
-            <p> Sports car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD3.JPG" class="fiximg" />
+            <p> Entrance </p>
             </div>
 
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC1.JPG" class="fiximg" />
-            <p> UTV car </p>
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD4.JPG" class="fiximg" />
+            <p> Seating area </p>
             </div>
-
-            <div class="img-media"><img src="images/umm al quwain/Entertainment/Emirates Motorplex/uaqentC2.JPG" class="fiximg" />
-            <p> Car racing </p>
+            
+            <div class="img-media"><img src="images/umm al quwain/Entertainment/Sheikh Zayed Park/uaqentD5.JPG" class="fiximg" />
+            <p> Cafeteria </p>
             </div>
 
         </div>
@@ -672,37 +696,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 9:00 AM to 3:00 PM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 9:00 AM to 3:00 PM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 9:00 AM to 3:00 PM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 9:00 AM to 3:00 PM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' 9:00 AM to 3:00 PM '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' Closed '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html(' Closed '); //so put the timings here
+            $('#t-time').html(' 4:00 PM to 11:00 PM '); //so put the timings here
    
         }
 
