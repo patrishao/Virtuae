@@ -79,7 +79,7 @@
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download/Dubai/Mosque/Al Salam Mosque.docx"> 
+                    <a href="download/Dubai/Mosque/alsalam.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
