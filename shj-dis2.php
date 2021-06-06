@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title> Sharjah Art Museum </title>
+    <title> Mleiha Archeological Center </title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "shj-dis1"; 
+            $pageName = "shj-dis2"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2E.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2B.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2I.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">  Sharjah Art Museum  </h1> <!-- title -->
+                <h1 class="title1"> Mleiha Archeological Center </h1> <!-- title -->
                 <p class="location-title"> Sharjah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,25 +70,26 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1H.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2B.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2G.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2C.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Sharjah\Discovery\Sharjah Art Museum.docx"> 
+                    <a href="download\Sharjah\Discovery\Mleiha Archeological Center.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                    Enjoy a world of artistic wonder and creativity‎ spread over large spacious galleries that welcome you throughout the year. 
-                    This unique museum offers art lovers and all visitors, the opportunity to admire the splendor of a variety of collections 
-                    and temporary exhibitions hosted by the museum, and also participate in the museum’s regular program and workshop.
+                Meliha Archaeological Centre is a visitor centre and exhibition based around the history and archaeology of the 
+                areas surrounding the village of Mleiha in Sharjah, the United Arab Emirates. This new visitor attraction in the 
+                Emirate of Sharjah blends history, nature and culture with exceptional quality and warm hospitality to create 
+                a unique leisure experience in a spectacular natural setting.
 
                     <br> 
                     <br>
@@ -99,11 +100,11 @@
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 
                    
-                    A new building of the museum was established on April 7, 1997, under the patronage of Sheikh Sultan bin Muhammad Al-Qasimi, 
-                    the Supreme Council Member and Ruler of Sharjah during the 3rd Sharjah International Arts Biennial. Sharjah Art Museum has 
-                    a collection of modern and contemporary art by artists from United Arab Emirates and other Middle Eastern countries. 
-                    It also organizes and hosts temporary exhibitions and educational events. It has a total floor area of 111,000 m² with 
-                    galleries over two floors and an underground car park beneath it.
+                    Built around a preserved Umm Al Nar era tomb, the centre details the excavations and discoveries made over the 
+                    past 40 years at Mleiha and surrounding areas (including Al Thuqeibah, Jebel Faya, Al Madam and Jebel Buhais), 
+                    particularly the important Faya North East find, which provides evidence that 'anatomically modern humans' 
+                    were in the Mleiha area between 130,000 and 120,000 years ago.
+
                     
                     </p>   
 
@@ -118,7 +119,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2I.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -135,26 +136,26 @@
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" />
+                    <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2B.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Observe </h2>
+                <h2 class="contents-title"> Endeavor </h2>
                 <p class="contents-desc"> 
-                There’s so much for visitors to see and enjoy at the museum! From its permanent 
-                collections to temporary exhibitions, the museum provides a delightful experience for artists and art enthusiasts alike.
+                Venture deep into the deserts of Sharjah and uncover the secrets of the region’s ancient Bedouin culture through intriguing information, 
+                exhilarating recreational activities.
                 </p> 
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" />
+                    <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2E.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Exhibition </h2>
+                <h2 class="contents-title"> Identify </h2>
                 <p class="contents-desc">
-                One of the ongoing Sharjah Art Museum exhibitions is in collaboration with Barjeel Art Foundation, which will run till 
-                2023 and is called ‘A Century in Flux’.
+                Discover something unique every time with our ongoing excavation programme, which ensures there’s always a new treasure waiting 
+                to be unearthed.
                 </p> 
                  </div>
             </div> 
@@ -277,7 +278,6 @@
         <div class="header"><span></span></div><span class="day"></span><span class="month"></span>
         </div>
         </div>
-
         </div>
 
     <!-- events -->
@@ -478,14 +478,14 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://www.google.com/maps/embed?pb=!4v1619536233135!6m8!1m7!1sCAoSLEFGMVFpcE1nckNaT1E4Zmd3d3dGNG1YRDNEeHhHeTVwZk5WWGxUc19RLTNK!2m2!1d25.36143543946966!2d55.38687553783814!3f50.31895!4f16.210130000000007!5f0.7820865974627469"
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/ftkP8onAjSX/embed?chrome=min" 
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
     
      <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14421.186302957827!2d55.3870427!3d25.361375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x259a69d8104cd1f2!2sSharjah%20Art%20Museum!5e0!3m2!1sen!2sae!4v1622925248682!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14449.110081470266!2d55.84911449579076!3d25.126306744124893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5a26d98bf47f1%3A0x59c635c68cbb53d7!2sMleiha%20Archaeological%20Centre!5e0!3m2!1sen!2sae!4v1622926718722!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -576,81 +576,81 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="fiximg" /> <!-- img! -->
-                <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Mleiha Archeological Center at night </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bikers near the center </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1H.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2H.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2I.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Overview of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Mleiha Archeological Center at night </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Mleiha Archeological Center\shjdis2F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Outside view of Mleiha Archeological Center </p>
             </div>
 
         </div>
@@ -673,37 +673,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 7:00 PM'); //so put the timings here
    
         }
 

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title> Sharjah Art Museum </title>
+    <title> Al Noor Mosque </title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "shj-dis1"; 
+            $pageName = "shj-mos1"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3B.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3C.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">  Sharjah Art Museum  </h1> <!-- title -->
+                <h1 class="title1"> Al Noor Mosque </h1> <!-- title -->
                 <p class="location-title"> Sharjah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,40 +70,44 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1H.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3D.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3H.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3F.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Sharjah\Discovery\Sharjah Art Museum.docx"> 
+                    <a href="download\Sharjah\Mosque\Al Noor Mosque.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
-            <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
+                <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                    Enjoy a world of artistic wonder and creativity‎ spread over large spacious galleries that welcome you throughout the year. 
-                    This unique museum offers art lovers and all visitors, the opportunity to admire the splendor of a variety of collections 
-                    and temporary exhibitions hosted by the museum, and also participate in the museum’s regular program and workshop.
+                
+                    Al Noor Mosque is a place of worship open to the public and a popular Islamic tourism destination. It is an iconic landmark along the Sharjah 
+                    corniche, with cascading domes and two towering minarets in the Ottoman style. The interior of the mosque is etched with intricate calligraphy 
+                    of verses from the Holy Quran. As a popular Sharjah tourist place, the mosque offers Emirati traditional dress for visitors in the entrance 
+                    area.
 
                     <br> 
                     <br>
 
+                    You can take photographs in Al Noor Mosque, so don’t forget to bring your camera. The mosque makes a perfect backdrop for a picture, so take 
+                    a family photograph here as one of your things to do with kids.
+
+                    <br> 
+                    <br>
                     </p>
                    
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 
                    
-                    A new building of the museum was established on April 7, 1997, under the patronage of Sheikh Sultan bin Muhammad Al-Qasimi, 
-                    the Supreme Council Member and Ruler of Sharjah during the 3rd Sharjah International Arts Biennial. Sharjah Art Museum has 
-                    a collection of modern and contemporary art by artists from United Arab Emirates and other Middle Eastern countries. 
-                    It also organizes and hosts temporary exhibitions and educational events. It has a total floor area of 111,000 m² with 
-                    galleries over two floors and an underground car park beneath it.
+                    The Al Noor Mosque was built by order of the wife of the ruler of Sharjah, her Highness Sheikha Jawaher bint Mohammed al Qassimi, and completed 
+                    in 2005. It can house 2,200 people in total for prayer which includes 400 in the ladies section and 1,800 in the men's section.
                     
                     </p>   
 
@@ -118,7 +122,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3F.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -127,37 +131,40 @@
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1"> 
-                There’s so much for visitors to see and enjoy at the museum! From its permanent collections to temporary exhibitions, 
-                the museum provides a delightful experience for artists and art enthusiasts alike.
+                Guides talk about Islamic culture, Emirati history and heritage and the mosque’s 
+                spectacular architecture. Monumental mosque inspired by Istanbul's Ottoman-era 
+                Blue Mosque, with weekly tours for non-Muslims.
+
                 </p>
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" />
+                    <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3C.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Observe </h2>
+                <h2 class="contents-title"> Tours </h2>
                 <p class="contents-desc"> 
-                There’s so much for visitors to see and enjoy at the museum! From its permanent 
-                collections to temporary exhibitions, the museum provides a delightful experience for artists and art enthusiasts alike.
+                Whether you’re visiting the mosque by yourself, in a group or with family, the tour is 
+                highly recommended.
                 </p> 
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" />
+                <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3D.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Exhibition </h2>
+                <h2 class="contents-title"> Memories </h2>
                 <p class="contents-desc">
-                One of the ongoing Sharjah Art Museum exhibitions is in collaboration with Barjeel Art Foundation, which will run till 
-                2023 and is called ‘A Century in Flux’.
+                ou can take photographs in Al Noor Mosque, so don’t forget to bring your camera. The mosque makes 
+                a perfect backdrop for a picture, so take a family photograph! 
                 </p> 
-                 </div>
+                </div>
             </div> 
+            
 
             </div>
         </div>
@@ -277,7 +284,6 @@
         <div class="header"><span></span></div><span class="day"></span><span class="month"></span>
         </div>
         </div>
-
         </div>
 
     <!-- events -->
@@ -478,14 +484,13 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://www.google.com/maps/embed?pb=!4v1619536233135!6m8!1m7!1sCAoSLEFGMVFpcE1nckNaT1E4Zmd3d3dGNG1YRDNEeHhHeTVwZk5WWGxUc19RLTNK!2m2!1d25.36143543946966!2d55.38687553783814!3f50.31895!4f16.210130000000007!5f0.7820865974627469"
-        frameborder="0" style="border:none;" allowvr="yes" 
-        allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
-        allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
-    </iframe>	
+    
+    <br> <br>     <br> <br>
+    <h3 style="text-align: center;">Sorry! There's no  virtual Tour available for this place, but you can visit them on the location below:</h3>
+    <br> <br>     <br> <br>
     
      <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14421.186302957827!2d55.3870427!3d25.361375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x259a69d8104cd1f2!2sSharjah%20Art%20Museum!5e0!3m2!1sen!2sae!4v1622925248682!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14424.363492791415!2d55.3871149!3d25.3347315!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x11889999030fe919!2sAlNoor%20Mosque!5e0!3m2!1sen!2sae!4v1622943875876!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -576,85 +581,84 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="fiximg" /> <!-- img! -->
-                <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3B.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3C.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3D.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3E.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3F.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3G.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1H.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3H.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3B.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3C.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3D.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3E.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3F.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Mosques\Al Noor Mosque\shjmos3G.JPG" class="fiximg" /> <!-- img! -->
+            <p> View of the Al Noor Mosque </p>
             </div>
 
         </div>
-
         </div>
 
     </section>
@@ -673,37 +677,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('8:00 AM - 1:00 PM'); //so put the timings here
    
         }
 

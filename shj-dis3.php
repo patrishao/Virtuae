@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimal-scale=1.0">
-    <title> Sharjah Art Museum </title>
+    <title> Al Hefaiyah Mountain Conservation Centre </title>
         
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="css/places.css">
@@ -22,7 +22,7 @@
             //$pageName = "name of the page"; 
 
             //like;
-            $pageName = "shj-dis1"; 
+            $pageName = "shj-dis3"; 
 
             ?>
     </div>
@@ -32,13 +32,13 @@
         <div class="title-container">
             <div class="another-container1">
                 <div class="title-slider"> <!-- images the one sa top left -->
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
-                        <div><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3A.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3D.JPG" class="picture" /></div>
+                        <div><img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3G.JPG" class="picture" /></div>
                 </div>
             </div>
             <div class="another-container">
-                <h1 class="title1">  Sharjah Art Museum  </h1> <!-- title -->
+                <h1 class="title1"> Al Hefaiyah Mountain Conservation Centre </h1> <!-- title -->
                 <p class="location-title"> Sharjah </p> <!-- location-->
                 <a href="tour-form.php"><button class="line1"> TOUR </button></a><!-- do not replace this da botan -->
         </div>
@@ -70,25 +70,34 @@
          
             <div class="left-images"> 
             <h2 class="info-title"> Information </h2> <!-- images on the left -->
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="smallimg"/></div>
-                <div class="img-set"><img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1H.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3C.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3G.JPG" class="smallimg"/></div>
+                <div class="img-set"><img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3A.JPG" class="smallimg"/></div>
             </div>
             <div class="info-container">
                 <div class="dl-bm">
 
                     <!-- change the path to this to download! simply look at the files to ur left (if ur using visual code)
                     right click > copy path and then paste it on the href ! -->
-                    <a href="download\Sharjah\Discovery\Sharjah Art Museum.docx"> 
+                    <a href="download\Sharjah\Discovery\Al Hefaiyah Mountain Conservation Centre.docx"> 
                     <button><img src="images/Desktop Download.png"/></button>
                     </a>
                     
                 </div>
             <h2 class="info-title1"> Information </h2> <!-- description feel free to add per paragraph -->
                 <p class="info-description"> 
-                    Enjoy a world of artistic wonder and creativity‎ spread over large spacious galleries that welcome you throughout the year. 
-                    This unique museum offers art lovers and all visitors, the opportunity to admire the splendor of a variety of collections 
-                    and temporary exhibitions hosted by the museum, and also participate in the museum’s regular program and workshop.
+                Spread over 12 sq km in the Khor Kalba area, Al Hefaiyah Conservation Centre is home to 30 native mountain and desert species. 
+                With successful wildlife conservation measures, this Kalba centre hosts various species native to the desert habitat. It is 
+                also one of the only parks in Sharjah with indoor exhibits, featuring snakes, lizards, hedgehogs and scorpions. Larger 
+                landscaped enclosures are dedicated to the Arabian leopard, wolf, tahr and caracal or desert lynx. For a family experience, 
+                ask for a guided tour. Children are encouraged to ask questions while the tour guides take you through the entire centre. 
+                For an express tour, especially as a larger group. ask to be taken in a golf cart.
+
+                    <br> 
+                    <br>
+
+                    If you’re a nature lover, this is one of the main places to visit in Sharjah. After your tour, make sure to take in the pristine landscape 
+                    and some fresh air while enjoying the welcoming weather in Kalba.
 
                     <br> 
                     <br>
@@ -99,11 +108,9 @@
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 
                    
-                    A new building of the museum was established on April 7, 1997, under the patronage of Sheikh Sultan bin Muhammad Al-Qasimi, 
-                    the Supreme Council Member and Ruler of Sharjah during the 3rd Sharjah International Arts Biennial. Sharjah Art Museum has 
-                    a collection of modern and contemporary art by artists from United Arab Emirates and other Middle Eastern countries. 
-                    It also organizes and hosts temporary exhibitions and educational events. It has a total floor area of 111,000 m² with 
-                    galleries over two floors and an underground car park beneath it.
+                    Al Hefaiyah Mountain Conservation Centre opened at 2016. It has been hailed as a major step forward in the conservation of endangered mountain species in the UAE,
+                    and in the same year, won the Middle East Architect educational project of the year award.[3]
+
                     
                     </p>   
 
@@ -118,7 +125,7 @@
         <!-- WHAT TO DO -->
         <div class="wtd-container" id="wtd-container">
         <div class="blackbg">
-        <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
+        <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3F.JPG" class="wtd-bg"/> <!-- the bg for the entirety of the what to do part -->
         </div>
         <div class="scroller-area">
 
@@ -127,34 +134,48 @@
                 <div class="contents-container1">
                 <h2 class="contents-title1"> What to do </h2> <!-- this is the what to do part -->
                 <p class="contents-desc1"> 
-                There’s so much for visitors to see and enjoy at the museum! From its permanent collections to temporary exhibitions, 
-                the museum provides a delightful experience for artists and art enthusiasts alike.
+                Hosting thirty different mountain species, the centre offers unique viewing opportunities from within the centre out across 
+                large landscaped enclosures, and within indoor nocturnal habitats.
                 </p>
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" />
+                    <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3F.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Observe </h2>
+                <h2 class="contents-title"> Exhibits </h2>
                 <p class="contents-desc"> 
-                There’s so much for visitors to see and enjoy at the museum! From its permanent 
-                collections to temporary exhibitions, the museum provides a delightful experience for artists and art enthusiasts alike.
+                It is also one of the only parks in Sharjah with indoor exhibits, featuring snakes, 
+                lizards, hedgehogs and scorpions.
                 </p> 
                 </div>
             </div> 
             
             <div class="contents-box">
                 <div class="contents-img">
-                    <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" />
+                <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3C.JPG" />
                 </div>
                 <div class="contents-container">
-                <h2 class="contents-title"> Exhibition </h2>
+                <h2 class="contents-title"> Enclosures </h2>
                 <p class="contents-desc">
-                One of the ongoing Sharjah Art Museum exhibitions is in collaboration with Barjeel Art Foundation, which will run till 
-                2023 and is called ‘A Century in Flux’.
+                Larger landscaped enclosures are dedicated to the Arabian leopard, wolf, tahr and 
+                caracal or desert lynx.
+                </p> 
+                 </div>
+            </div> 
+            
+            <div class="contents-box">
+                <div class="contents-img">
+                <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3A.JPG" />
+                </div>
+                <div class="contents-container">
+                <h2 class="contents-title"> Tours </h2>
+                <p class="contents-desc">
+                For a family experience, ask for a guided tour. Children are encouraged to ask questions 
+                while the tour guides take you through the entire centre. For an express tour, especially 
+                as a larger group. ask to be taken in a golf carts.
                 </p> 
                  </div>
             </div> 
@@ -277,7 +298,6 @@
         <div class="header"><span></span></div><span class="day"></span><span class="month"></span>
         </div>
         </div>
-
         </div>
 
     <!-- events -->
@@ -478,14 +498,14 @@
     <h2 class="vt-title">TOUR & LOCATION</h2>
     <!-- to be replaced -->
     <!-- virtual tour -->
-    <iframe width="100%" height="1000px" src="https://www.google.com/maps/embed?pb=!4v1619536233135!6m8!1m7!1sCAoSLEFGMVFpcE1nckNaT1E4Zmd3d3dGNG1YRDNEeHhHeTVwZk5WWGxUc19RLTNK!2m2!1d25.36143543946966!2d55.38687553783814!3f50.31895!4f16.210130000000007!5f0.7820865974627469"
+    <iframe width="100%" height="1000px" src="https://poly.google.com/view/34tRycjG3sg/embed?chrome=min" 
         frameborder="0" style="border:none;" allowvr="yes" 
         allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" 
         allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" >
     </iframe>	
     
      <!-- google maps -->   
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14421.186302957827!2d55.3870427!3d25.361375!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x259a69d8104cd1f2!2sSharjah%20Art%20Museum!5e0!3m2!1sen!2sae!4v1622925248682!5m2!1sen!2sae"
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7232.342654203998!2d56.32548510978699!3d24.994293683318386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x67cd452365a2c975!2sAl%20Hefaiyah%20Mountain%20Conservation%20Centre!5e0!3m2!1sen!2sae!4v1622933270829!5m2!1sen!2sae"
          width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     <!-- -->
@@ -576,81 +596,81 @@
 
         <div class="row row1">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="fiximg" /> <!-- img! -->
-                <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bird in Mleiha Archeological Center </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Sign of the Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal hiding behind the shade against the sun </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal walking through the rocks </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal walking through the rocks </p>
             </div>
         </div>
         <div class="row row2">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Interior of Al Hefaiyah Mountain Conservation Center</p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal walking through the rocks </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1H.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bird in Mleiha Archeological Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1A.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3B.JPG" class="fiximg" /> <!-- img! -->
+            <p> Sign of the Center </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1B.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3C.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal hiding behind the shade against the sun </p>
             </div>
 
         </div>
         <div class="row row3">
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1C.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3D.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal walking through the rocks </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1D.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3E.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal walking through the rocks </p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1E.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3F.JPG" class="fiximg" /> <!-- img! -->
+            <p> Interior of Al Hefaiyah Mountain Conservation Center</p>
             </div>
 
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1F.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3G.JPG" class="fiximg" /> <!-- img! -->
+            <p> Animal walking through the rocks </p>
             </div>
             
             <div class="img-media">
-            <img src="images\shj-pictures\Discover\Sharjah Art Museum\shjdis1G.JPG" class="fiximg" /> <!-- img! -->
-            <p> Exhibitions in Sharjah Art Museum </p>
+            <img src="images\shj-pictures\Discover\Al Hefaiyah Mountain Conservation Centre\shjdis3A.JPG" class="fiximg" /> <!-- img! -->
+            <p> Bird in Mleiha Archeological Center </p>
             </div>
 
         </div>
@@ -673,37 +693,37 @@
         $('#timing-info').hide(); //here is where u edit the time
         function sun(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 6:30 PM'); //so put the timings here
 
         }
         function mon(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('Closed'); //so put the timings here
 
         }
         function tues(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 6:30 PM'); //so put the timings here
   
         }
         function wed(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 6:30 PM'); //so put the timings here
   
         }
         function thurs(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('9:00 AM - 6:30 PM'); //so put the timings here
             
         }
         function fri(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('2:00 PM - 6:30 PM'); //so put the timings here
 
         }
         function sat(){
             $('#timing-info').hide().fadeIn();
-            $('#t-time').html('8:00 AM to 8:00 PM'); //so put the timings here
+            $('#t-time').html('11:00 AM - 6:30 PM'); //so put the timings here
    
         }
 
