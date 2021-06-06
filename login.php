@@ -2,7 +2,6 @@
 <?php include 'signupdata.php' ?>
 <!-- <?php include 'includes/database.php' ?> -->
 
-<?php session_start(); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -12,8 +11,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Log in</title>
     <link rel="stylesheet" type="text/css" href="css/log-in.css">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="sweetalert2.all.min.js"></script>
+
 </head>
 <body>
+    
+<script src="javascript/alerts.js"></script>
+
+    <?php include 'signindata.php' ?>
+
     
     <!-- contains the image, logo and the title -->
     <div class="image-container"> 
@@ -33,7 +40,7 @@
         <br>
 
             <!-- creating the fields needed to signin and send the data to signindata.php -->
-            <form class="form" action="signindata.php"   method="POST">
+            <form class="form" action=""   method="POST">
              <br>
                  <input type="email" name="email" placeholder="Email"> 
                  <br>
@@ -44,14 +51,14 @@
                  <br>
 
                 <div class="button"> 
-                    <input type="submit" name="login" value="Sign in" >
+                    <input type="submit" name="login" value="Sign In" >
                 </div>
 
             </form>
 
 
         <!-- checks if login error -->
-        <?php
+        <!-- <?php
 
              if (isset($_SESSION['message']))
             
@@ -60,7 +67,7 @@
               <h2> <?php echo $_SESSION['message']; ?> </h2>  
               <?php   unset($_SESSION['message']); 
             }
-       ?>
+       ?> -->
 
 
 

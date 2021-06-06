@@ -167,7 +167,7 @@ if (isset($_SESSION['id'])){
             <div class="extra-wrapper">
             <div class="card">
             <div class="imgCard">
-                <img src="marina.jpg" alt="" srcset="">
+                <img src="images\umm al quwain\Entertainment\Dreamland Aqua Park\uaqentB5.JPG" alt="" srcset="">
             </div>
             <div class="cardContent">
                 <div class="contents">
@@ -240,7 +240,7 @@ if (isset($_SESSION['id'])){
                     </div>
                     <p>As one of the main family attractions in Sharjah, Al Noor Island is known for its tropical biosphere filled with floating butterflies. Families can pick up a snack and a beverage from a cafe serving healthy...</p>
                     <div class="cardButton">
-                            <a href="shj-dis1.php"><button class="moreContent">READ MORE</button></a>
+                            <a href="shj-ent1.php"><button class="moreContent">READ MORE</button></a>
                     </div>
                 </div>
                 </div>

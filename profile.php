@@ -1,6 +1,7 @@
 
 <!-- starting a session to access the other data  -->
-<?php session_start() ?> 
+<?php session_start() 
+?> 
 
 
 
