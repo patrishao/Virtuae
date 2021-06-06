@@ -102,6 +102,9 @@
                     prepared at Backwaters from traditional styles to modern methods of cooking, a unique south Indian gastronomic experience. At 
                     Backwaters, you will be taken into the wonders of an authentic Kerala culinary experience.
                     
+                    <br>
+                    <br>
+                    
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 

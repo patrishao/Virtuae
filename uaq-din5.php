@@ -93,6 +93,9 @@
                     
                     They offer bars, pool table, indoor and outdoor seating and play ground this restaurant is best for large fun parties!
                    
+                    <br>
+                    <br>
+                    
                     <h2 class="info-title"> History </h2>
                     <h2 class="info-title1"> History </h2> <!-- history -->
                     <p class="info-description1"> 
