@@ -38,7 +38,6 @@ The homepage of this website suggests the best destinations for each categories.
 
 ![image](https://user-images.githubusercontent.com/71811359/174154400-ac2e8a07-aa34-428c-a319-3bb17887d811.png)
 
-![image](https://user-images.githubusercontent.com/71811359/174154982-aa855703-95f7-49cd-a3de-209d930bbc76.png)
 
 
 Virtuae gives detailed and interesting information about the destinations and even has a 360 virtual tour.  the users are given information about the destination including its history, what to do in that destination, it's timings, virtual tour and
@@ -46,7 +45,7 @@ location, and  more images about the destination.
 
 ## User Review
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/71811359/174154982-aa855703-95f7-49cd-a3de-209d930bbc76.png)
 
 Users can comment on specific places to give their insight about the destination. Users can also reply to a user's comment to talk about the places.
 
